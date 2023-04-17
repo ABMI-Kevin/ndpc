@@ -84,10 +84,7 @@
 <li class="chapter" data-level="2.2.1" data-path="methods.html"><a href="methods.html#atlas-off-road-surveys"><i class="fa fa-check"></i><b>2.2.1</b> Atlas Off-road Surveys</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="3" data-path="analysis.html"><a href="analysis.html"><i class="fa fa-check"></i><b>3</b> Analysis</a><ul>
-<li class="chapter" data-level="3.1" data-path="analysis.html"><a href="analysis.html#wrangling-digital-point-count-data"><i class="fa fa-check"></i><b>3.1</b> Wrangling digital point count data</a></li>
-<li class="chapter" data-level="3.2" data-path="analysis.html"><a href="analysis.html#integrating-with-other-study-designs"><i class="fa fa-check"></i><b>3.2</b> Integrating with other study designs</a></li>
-</ul></li>
+<li class="chapter" data-level="3" data-path="analysis.html"><a href="analysis.html"><i class="fa fa-check"></i><b>3</b> Analysis</a></li>
 <li class="chapter" data-level="4" data-path="discussion.html"><a href="discussion.html"><i class="fa fa-check"></i><b>4</b> Discussion</a></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
@@ -111,6 +108,134 @@
             <section class="normal" id="section-">
 <div id="methods" class="section level1 hasAnchor">
 <h1><span class="header-section-number">Chapter 2</span> Methods<a href="methods.html#methods" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>Table 1 - Protocol for conducting a digital point count</p>
+<p>Protocol for conducting a digital point count
+Select a recorder model
+Prepare equipment and settings
+Conduct the point count survey
+Adjust survey length for anthropogenic or geophonic conditions
+Run the speech-to-text recognizer
+Upload trimmed recordings to WildTrax</p>
+<p>Select a recorder model
+ARUs must be affordable, available and easy to use to be used in a large-scale program such as BBS or an Atlas. This project will use the Zoom H2N and Wildlife Acoustics SM4 models of ARUs due to availability, ease of use, and durability against the environment. Properly calibrating and testing ARUs prior to conducting a mobile ARU survey ensures its success and resulting high quality acoustic data (see Bioacoustic Unit Maintenance and Deployment Protocol for standards and recommendations). Table 1 summarises the major types of ARU models available on the market with some details on specifications. These recommendations come from a synthesis of information from Russell, 2021 and the Bioacoustic Unit.</p>
+<p>Prepare equipment and settings
+Zoom H2N Technical Setup</p>
+<p>The most recent firmware is also strongly recommended for the Zoom H2N is 3.0 and can be found here: <a href="https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/h2n-handy-recorder/h2n-support/" class="uri">https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/h2n-handy-recorder/h2n-support/</a>. Additional equipment required are USB cables, SD cards, batteries, a windsock and a tripod.</p>
+<p>Table 2 - Technical setup of the Zoom H2N recorder.
+Photos
+Description</p>
+<p>Turn on the device using the POWER switch.</p>
+<p>Press the MENU button, toggle the PLAY button up/down and then press down to select SYSTEM.</p>
+<p>Select DATE/TIME.</p>
+<p>Use the PLAY button to select and modify the year, day, month, and time settings as needed.</p>
+<p>When all settings are correct, select OK and press the PLAY button to exit.</p>
+<p>Ensure that FILE NAME (under REC settings) is set to DATE so that individual files will be named by the date/time of the start of recording). Do not use DEFAULT.</p>
+<p>Ensure the recorder has sufficient battery power to record all counts (and pack at least 2 spare AA batteries).</p>
+<p>Ensure that there is a memory-card inserted with sufficient space (the bottom-right corner of the unit’s screen indicates the remaining time on the SD card).</p>
+<p>Ensure the recorder uses the following settings:
+2CH selected on channel selector dial
+MIC GAIN set to 10 (maximum)
+SURROUND is set to S±0 (this is really easy to change by accident, because it is changed by moving the PLAY lever while in RECORD mode)
+REC FORMAT is set at WAV (when you turn on the recorder, the REC format is displayed on the lower left [e.g., 44.1/16]– if it doesn’t match, go to MENU to change it under REC settings)
+Use 44.1kHz/16 bit (there are other wav settings that would also work but use a little or a lot more memory). Do not use MP3
+AUTO REC is OFF
+Under INPUT
+LO CUT is ON (may be useful to reduce impacts of wind or traffic noise)
+COMP/LIMITER is OFF
+AUTO GAIN is off</p>
+<p>Table 3 - Settings for the Zoom H2N
+Menu
+Setting
+Value</p>
+<p>2CH</p>
+<p>MS Side Level
+0 (120 degrees)
+Input Setting
+Lo Cut
+On</p>
+<p>Comp/Limiter
+Off</p>
+<p>Monitor
+Home and Rec</p>
+<p>Auto gain
+Off</p>
+<p>Plug-in Power
+Off
+Rec
+Rec Format
+WAV44.1kHz/16bit</p>
+<p>Auto Rec
+Off</p>
+<p>Pre Rec
+Off</p>
+<p>File Name
+Date and time</p>
+<p>Play Key Function
+Off</p>
+<p>Spatial audio
+Off</p>
+<p>SM4 Technical Setup
+Table 4 - Technical setup of the Wildlife Acoustics SM4 ARU.
+Table 5 - Settings for the Wildlife Acoustics SM4 ARU.</p>
+<p>Conduct the survey protocol
+This next section outlines the mobile survey protocol in the field.</p>
+<p>Equipment setup
+Arrive at the survey location. Follow any safety instructions or measures outlined by your respective point count protocol (e.g. BBS, atlas)
+Ensure at the beginning of each survey to place the ARU at a fixed place, a minimum distance of 5 metres away from the observer, to minimize observer sounds, but a maximum distance of 20 metres away, to minimize error between the detection radius of the ARU and observer.
+A tripod or stable surface is recommended to support the ARU; do not place the recorder on or near a vehicle as it will pick up vibrations that could mask species detections.
+Placing the recorder to the rear of the vehicle can also minimise the sounds made from a vehicle engine (e.g. car, truck, quad, etc.) after it is shut off.</p>
+<p>Recorder activation and voicestamp
+Initiate the survey by hitting the RECORD button (same type of button for the Zoom H2N and Wildlife Acoustics SM4)
+Speak a message into the recorder to serve as the voicestamp. A location name or spatial coordinates or identifier must be provided. Speak as clearly as possible.</p>
+<p>Table 6 - Speech instructions and metadata steps during the voicestamp
+Speech
+User Action
+Purpose
+Optional</p>
+<p>Hit Record
+Initiates the recording</p>
+<p>Observer name
+Speech
+Indicates who recorded the survey
+No
+Location (e.g. name or spatial coordinates)
+Speech
+Provides a spatial coordinate to the media
+No
+Date and time
+Speech
+Provides a temporal stamp for the media
+Yes</p>
+<p>Move 5-20 metres away from recorder
+Reduces noise made by the observer</p>
+<p>START
+Speech
+Provides the end point of the speech-to-text recognizer
+No</p>
+<p>Conduct the survey for the duration indicated by project design. If you need to stop during the survey for traffic, do not turn off the unit until the end of the extended survey (see next section)
+Do not to speak during the survey to limit erroneous speech errors picked up by the speech-to-text recognizer
+At the end of the count, speak STOP.</p>
+<p>Recorder deactivation
+Turn off the recorder and move to the next location. Repeat steps as necessary to conduct more surveys along a route</p>
+<p>Adjust survey length for anthropogenic or geophonic conditions
+Surveys may occur along roadsides or near areas of loud anthropogenic noise. In order to optimize species detections in the detection radius of the ARU, survey time can be extended by 1 minute per traffic event up to maximum survey length time of 10 minutes. It’s recommended to keep a stopwatch or phone timer set to the length of the survey interval, and the maximum survey interval so you don’t have to keep track of the traffic events specifically but rather the time you can survey for. Geophonic events are similar. If it becomes too windy or rainy to continue the survey, i.e. if geophonic events last for &gt;10 minutes during the survey, the media will be considered “Bad Weather”. However, surveys can be extended for 1 minute at a time for intermittent periods of rain or wind.</p>
+<p>Run the speech-to-text recognizer
+During the deployment of the ARU, the field technician records a voice note as the initial recording. The voice note has the following format:
+Location name
+Spatial coordinates* (not applicable for Ecosystem Health locations)
+Date and time
+Observers
+Comments
+“This is A B M I dash Five Six Five dash S W. The date is February 23rd 2022 and the time is 11:06 AM Mountain standard time. Observers are John Doe and Jane Doe.”
+A speech-to-text recognizer is used to transcribe this into text information in order to extract the location name, spatial coordinates or confirm the temporal stamp of the ARU, all for quality control purposes. The Google Cloud Speech-to-Text recognizer is an advanced deep learning neural network using algorithms for automatic speech recognition. The recognizer can also use one of several machine learning models to transcribe the audio files, support for French and other language variants, and alternatives based on likelihood values. Google has trained these speech recognition models for specific audio types and sources. For example, time stamps derived from the observer speech-to-text array as well as the recording time stamp from the audio would be joined into to create a unique location and recording date with the file prefix from the ARU. Some general steps to get started would be to:
+Create a lookup table for the locations or spatial coordinates. This can be generated by downloading a list of location names or coordinates entered from WildTrax either in the organization or the project (see Location Management)
+Run the script and instruct the prompts what settings and files you want to use as inputs
+Folder with audio files
+Matching threshold (0 - 100, where 100 is a perfect match)
+Length of desired trimmed files (in seconds)
+Output file name for csv results</p>
+<p>Upload the trimmed media to WildTrax
+Once the recordings are trimmed to the correct length of time Bioacoustic Unit staff will upload them to WildTrax. Go to My Data -&gt; My Projects and search for the appropriate project for your data. Follow the WildTrax protocols on getting data uploaded to a project.</p>
 <div id="roadside-protocol-and-procedures" class="section level2 hasAnchor">
 <h2><span class="header-section-number">2.1</span> Roadside protocol and procedures<a href="methods.html#roadside-protocol-and-procedures" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <div id="breeding-bird-surveys" class="section level3 hasAnchor">

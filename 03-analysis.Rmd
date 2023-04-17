@@ -1,5 +1,1 @@
 # Analysis
-
-## Wrangling digital point count data
-
-## Integrating with other study designs
