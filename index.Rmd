@@ -1,13 +1,17 @@
+--- 
+title: "Operationalizing a national protocol for digital point counts"
+author: "Alexander G. MacPhail"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  Digital point counts.
+link-citations: yes
+github-repo: ABBbiodiversity/ndpc
 ---
-title: "npdc"
-author: "Alex MacPhail"
-date: "22/01/2023"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 # Overview and Scope
 
@@ -16,3 +20,11 @@ Large-scale monitoring programs are an effective way to detect changes and trend
 Augmentation of avian data collection with autonomous recording units (ARUs) along traditional survey routes has the potential to increase detection rates, reduce false positives by human observers, as well as more easily increase sampling in remote locations (Pankratz et al. 2017). Acoustic technology is becoming increasingly affordable (Shonfield et al. 2017) allowing researchers and the public to actively collect high quality acoustic information about the environment.  The differences between humans and ARUs for avian surveys is well-studied (Darras et al. 2018, Pankratz et al. 2017, Shonfield and Bayne 2017, Van Wilgenburg et al. 2017, Venier et al. 2017, Turgeon et al. 2017, Yip et al. 2019), but how to most effectively use both in a large-scale, long-term monitoring program is less understood. Establishing a standardized method to actively record the environment while simultaneously conducting point counts could significantly augment the data quality and integrity of breeding bird survey data where needed. Where possible, integrating the most accurate point count and acoustic species processing with point count survey data could synthesise an improved protocol towards avian monitoring in Canada making it more accessible to citizen scientists to collect avian data without having to be an expert. Data quality augmentation can occur by aligning metadata such as location accuracy, anthropogenic and geophonic events with observed species detections from point counts. 
 
 This protocol aims to design and establish a standard protocol to conduct a “digital avian point count” using autonomous recording units and handheld recording devices. 
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
