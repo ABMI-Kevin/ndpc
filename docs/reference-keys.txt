@@ -1,1 +1,11 @@
 overview-and-scope
+methods
+roadside-protocol-and-procedures
+breeding-bird-surveys
+bioacoustic-unit-surveys
+off-road-protocol-and-procedures
+atlas-off-road-surveys
+analysis
+wrangling-digital-point-count-data
+integrating-with-other-study-designs
+discussion
