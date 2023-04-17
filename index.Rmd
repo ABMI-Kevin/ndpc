@@ -10,7 +10,7 @@ bibliography: [book.bib, packages.bib]
 description: |
   Digital point counts.
 link-citations: yes
-github-repo: ABBbiodiversity/ndpc
+github-repo: ABbiodiversity/ndpc
 ---
 
 # Overview and Scope
