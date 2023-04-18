@@ -2,11 +2,11 @@
 
 ```{r, warning = F, message = F}
 
-locs <- dir_ls("/users/alexandremacphail/desktop/dpcs/locs", regexp = "*.csv") %>%
+locs <- dir_ls(".", recurse = T, regexp = "Locations") %>%
   map_dfr(~read_csv(.)) %>%
   select(location, latitude, longitude)
 
-pcs <- dir_ls("/users/alexandremacphail/desktop/dpcs", regexp = "*.csv") %>%
+pcs <- dir_ls(".", recurse = T, regexp = "Tasks") %>%
   map_dfr(~read_csv(.)) %>%
   select(location, recordingDate) %>%
   inner_join(., locs, by = c("location" = "location")) %>%
