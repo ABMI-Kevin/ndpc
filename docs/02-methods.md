@@ -1,25 +1,5 @@
 # Methods
 
-
-```r
-library(tidyverse)
-library(lubridate)
-library(fs)
-library(sf)
-
-locs <- dir_ls(".", recurse = T, regexp = "Locations") %>%
-  map_dfr(~read_csv(.)) %>%
-  select(location, latitude, longitude)
-
-pcs <- dir_ls(".", recurse = T, regexp = "Tasks") %>%
-  map_dfr(~read_csv(.)) %>%
-  select(location, recordingDate) %>%
-  inner_join(., locs, by = c("location" = "location")) %>%
-  filter(!is.na(latitude))
-```
-
-
-
 Table 1 - Protocol for conducting a digital point count
 
 Protocol for conducting a digital point count

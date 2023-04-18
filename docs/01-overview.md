@@ -1,8 +1,8 @@
-# Overview and Scope
+# Introduction
 
 Recording point counts can enhance avian monitoring in Canada, providing valuable data on population trends and distribution. Integrating recording with traditional point count surveys can improve data quality and accessibility for citizen scientists, aligning metadata for accurate species detection.
 
-## Introduction
+## Details
 
 ![]()
 

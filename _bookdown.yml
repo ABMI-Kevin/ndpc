@@ -1,7 +1,20 @@
 book_filename: "ndpc"
-new_session: true
-delete_merged_file: true
 language:
   ui:
     chapter_name: "Chapter "
 output_dir: "docs"
+delete_merged_file: true
+new_session: yes
+
+rmd_files:
+  [
+    "index.Rmd",
+
+    "01-introduction.Rmd",
+
+    "02-methods.Rmd",
+
+    "03-analysis.Rmd",
+
+    "04-discussion.Rmd"
+]

@@ -1,6 +1,6 @@
-frequently-asked-questions
-overview-and-scope
+welcome
 introduction
+details
 methods
 roadside-protocol-and-procedures
 breeding-bird-surveys

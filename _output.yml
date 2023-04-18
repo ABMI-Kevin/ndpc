@@ -1,17 +1,19 @@
 bookdown::bs4_book:
   theme:
-    primary: "#4D6F8D"
-  repo: https://github.com/ABbiodiversity/ndpc
+    primary: "#637238"
+  repo:
+    base: https://github.com/ABbiodiversity/ndpc
+    branch: main
 bookdown::gitbook:
   css: style.css
   config:
-    toc:
-      before: |
-        <li><a href="./">Digital point counts</a></li>
-      after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/ABbiodiversity/ndpc/edit/BRANCH/%s
+    edit: https://github.com/ABbiodiversity/ndpc/edit/main/%s
     download: ["pdf", "epub"]
+    sharing:
+      facebook: no
+      twitter: no
+      github: yes
+      all: []
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex

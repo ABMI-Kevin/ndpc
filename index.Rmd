@@ -1,20 +1,12 @@
 --- 
 title: "Operationalizing a national protocol for digital point counts"
 author: "Alexander G. MacPhail"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    df_print: paged
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 site: bookdown::bookdown_site
-documentclass: book
-bibliography:
-- book.bib
-- packages.bib
-url: https://abbiodiversity/github.io/ndpc
+output: bookdown::bs4_book
+url: https:/abbiodiversity.github.io/ndpc
 description: |
-  Digital point counts.
-link-citations: yes
-github-repo: ABbiodiversity/ndpc
+  Digital point counts
 ---
 
 ```{r include=FALSE, eval=T}
@@ -22,16 +14,49 @@ github-repo: ABbiodiversity/ndpc
 knitr::write_bib(c(
   .packages(), 'bookdown', 'knitr', 'rmarkdown'
 ), 'packages.bib')
+knitr::is_html_output()
 
 library(tidyverse)
 library(lubridate)
 library(fs)
 library(sf)
+library(gganimate)
+
 ```
 
-# Preface {-}
+# Welcome
 
 Welcome to the protocol for conducting a **digital avian point count** using an autonomous recording unit or handheld recording device. In collaboration with partners from [Environment and Climate Change Canada](), the [Breeding Bird Survey](), the [Ontario Breeding Bird Atlas](), the [Bioacoustic Unit](), the [Alberta Biodiversity Monitoring Institute]() and the [Boreal Avian Modeling Project](), this user-friendly protocol aims to establish a standard method for collecting data on avian populations in a digital format, making it accessible and easy for citizen scientists to collect and contribute to avian research and population monitoring.
+
+```{r, eval=T, include=F, warning=F, message=F} 
+
+locs <- dir_ls(".", recurse = T, regexp = "Locations") %>%
+  map_dfr(~read_csv(.)) %>%
+  select(location, latitude, longitude)
+
+pcs <- dir_ls(".", recurse = T, regexp = "Tasks") %>%
+  map_dfr(~read_csv(.)) %>%
+  select(location, recordingDate) %>%
+  inner_join(., locs, by = c("location" = "location")) %>%
+  filter(!is.na(latitude)) %>%
+  mutate(year = year(recordingDate)) %>%
+  sample_frac(0.03) %>%
+  st_as_sf(coords = c("longitude","latitude")) %>%
+  st_make_valid() %>%
+  st_set_crs(4269)
+
+ggplot() +
+  coord_sf(crs = 4269) +
+  geom_sf(pcs, mapping = aes(colour = year)) +
+  theme_bw() +
+  theme(legend.position = "none") +
+  scale_colour_viridis_c() +
+  transition_states(recordingDate, state_length = 0,
+                    transition_length = c(rep(1, 10), 9, rep(1, 9))) + 
+  shadow_mark() +
+  ggtitle('Date of Survey: {closest_state}',
+          subtitle = "Count: {frame}")
+```
 
 - Use of autonomous recording units (ARUs) and handheld recording devices to conduct avian point counts, in collaboration with leading avian research organizations.
 - Standardized protocol for data collection to ensure consistency and comparability of results, following established guidelines
@@ -39,7 +64,7 @@ Welcome to the protocol for conducting a **digital avian point count** using an 
 - Citizen scientists can participate in avian research and contribute to scientific knowledge, working in partnership with established organizations
 - No prior experience or expertise required, making it user-friendly for all skill levels, with support and guidance from expert stakeholders
 
-## Frequently Asked Questions
+## Frequently Asked Questions {.unnumbered}
 
 - [What recorder can I use?]()
 - [Where do I submit my recordings?]()
