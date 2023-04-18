@@ -1,7 +1,7 @@
 --- 
 title: "Operationalizing a national protocol for digital point counts"
 author: "Alexander G. MacPhail"
-date: "`r Sys.Date()`"
+date: "2023-04-17"
 output:
   html_document:
     df_print: paged
@@ -17,17 +17,7 @@ link-citations: yes
 github-repo: ABbiodiversity/ndpc
 ---
 
-```{r include=FALSE, eval=T}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
 
-library(tidyverse)
-library(lubridate)
-library(fs)
-library(sf)
-```
 
 # Preface {-}
 

@@ -1,7 +1,7 @@
 # Methods
 
-```{r, eval=T, warning = F, message = F}
 
+```r
 library(tidyverse)
 library(lubridate)
 library(fs)
@@ -16,7 +16,6 @@ pcs <- dir_ls(".", recurse = T, regexp = "Tasks") %>%
   select(location, recordingDate) %>%
   inner_join(., locs, by = c("location" = "location")) %>%
   filter(!is.na(latitude))
-
 ```
 
 
