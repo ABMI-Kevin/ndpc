@@ -13,9 +13,15 @@ description: |
 
 # Welcome
 
+::: {.rmdnote}
+This page is currently under construction to align with the 2023 field season
+:::
+
 Welcome to the protocol for conducting a **digital avian point count** using an autonomous recording unit or handheld recording device. In collaboration with partners from [Environment and Climate Change Canada](), the [Breeding Bird Survey](), the [Ontario Breeding Bird Atlas](), the [Bioacoustic Unit](), the [Alberta Biodiversity Monitoring Institute]() and the [Boreal Avian Modeling Project](), this user-friendly protocol aims to establish a standard method for collecting data on avian populations in a digital format, making it accessible and easy for citizen scientists to collect and contribute to avian research and population monitoring.
 
 
+
+![](./images/map.gif)
 
 - Use of autonomous recording units (ARUs) and handheld recording devices to conduct avian point counts, in collaboration with leading avian research organizations.
 - Standardized protocol for data collection to ensure consistency and comparability of results, following established guidelines
@@ -25,10 +31,7 @@ Welcome to the protocol for conducting a **digital avian point count** using an 
 
 ## Frequently Asked Questions {.unnumbered}
 
-- [What recorder can I use?]()
-- [Where do I submit my recordings?]()
-
-
-
-
-
+- [Why should I record a point count?](#introduction)
+- [What recorder can I use?](#selecting-a-recorder)
+- [Where do I submit my recordings?](#data-submission)
+- [How are we working to improve this protocol?](#discussion)

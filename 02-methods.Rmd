@@ -1,5 +1,55 @@
 # Methods
 
+## Selecting a recorder
+
+- Choose an affordable, available, and easy-to-use Acoustic Recording Unit (ARU) for large-scale programs such as BBS or an Atlas. Recommended models include:
+  + Zoom H2N
+  + [Wildlife Acoustics SM4 due to availability, ease of use, and durability against the environment.
+
+## Equipment and Settings Preparation
+
+Calibration and testing of ARUs prior to conducting a survey is essential for high-quality acoustic data.
+
+### Zoom H2N Technical Setup {.unnumbered}
+
+- Update firmware to the most recent version (3.0).
+- Gather USB cables, SD cards, batteries, windsock, and tripod.
+- Follow technical setup steps for Zoom H2N, including adjusting date/time settings, battery power, memory card space, and recording settings.
+
+#### Conducting the Survey Protocol {.unnumbered}
+
+**Equipment Setup**
+
+- Arrive at survey location and follow safety instructions outlined by the point count protocol.
+- Place ARU at a fixed location, minimum 5 meters away from the observer to minimize observer sounds and maximum 20 meters away to minimize error.
+- Use a tripod or stable surface to support ARU and avoid placing it on or near a vehicle to prevent vibrations.
+
+**Recorder Activation and Voicestamp**
+
+- Initiate the survey by pressing the RECORD button on the ARU.
+- Speak a clear message into the recorder to serve as the voicestamp, including observer name, location (spatial coordinates or identifier), and optional date and time stamp.
+- Move 5-20 meters away from the recorder to reduce observer noise.
+- Say "START" to indicate the end of the speech-to-text recording.
+
+**Survey Length Adjustment**
+
+-Adjust the survey length based on anthropogenic or geophonic conditions to ensure accurate results.
+
+## Equipment Maintenance
+
+Note: Refer to the Bioacoustic Unit Maintenance and Deployment Protocol for additional standards and recommendations.
+
+## Data submission
+
+
+
+
+
+
+
+
+
+
 Table 1 - Protocol for conducting a digital point count
 
 Protocol for conducting a digital point count
@@ -12,6 +62,8 @@ Upload trimmed recordings to WildTrax
 
 
 Select a recorder model
+
+
 	ARUs must be affordable, available and easy to use to be used in a large-scale program such as BBS or an Atlas. This project will use the Zoom H2N and Wildlife Acoustics SM4 models of ARUs due to availability, ease of use, and durability against the environment. Properly calibrating and testing ARUs prior to conducting a mobile ARU survey ensures its success and resulting high quality acoustic data (see Bioacoustic Unit Maintenance and Deployment Protocol for standards and recommendations). Table 1 summarises the major types of ARU models available on the market with some details on specifications. These recommendations come from a synthesis of information from Russell, 2021 and the Bioacoustic Unit. 
 
 Prepare equipment and settings
@@ -210,3 +262,5 @@ Upload the trimmed media to WildTrax
 ## Off-road protocol and procedures
 
 ### Atlas Off-road Surveys
+
+## Data submission

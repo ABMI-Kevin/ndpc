@@ -2,9 +2,9 @@
 
 Recording point counts can enhance avian monitoring in Canada, providing valuable data on population trends and distribution. Integrating recording with traditional point count surveys can improve data quality and accessibility for citizen scientists, aligning metadata for accurate species detection.
 
-## Details
+## Overview and Scope
 
-![]()
+![](./images/arus.png)
 
 Large-scale monitoring programs are an effective way to detect changes and trends in animal populations, to foster collaborative initiatives and to improve monitoring and evaluation (Stern et al. 2005). There are several approaches that can be effective for monitoring wild birds in Canada. One approach is to conduct regular surveys of bird populations at specific locations, such as wetlands, forests, or grasslands. These surveys can be carried out by trained volunteers or professional biologists, and can involve visual observations, bird counts, and the use of recording equipment to capture bird sounds. Another approach is to use citizen science programs, where members of the public can report their observations of wild birds to a central database. This can provide valuable information on the distribution and abundance of different bird species in Canada. Additionally, conservation organizations and government agencies often have programs in place to monitor wild birds and their habitats, and can provide valuable resources for those interested in monitoring wild birds in Canada. The North American Breeding Bird Survey (BBS) is a long-term, road-based survey designed to collect quantitative data on avian population trends across the continent (Hudson et al. 2017). Provincial atlases aim to collect data from volunteers, researchers, consultants, NGOs and the provincial and federal government in partnerships to assess the current status of breeding birds and to map their distribution and relative abundance at the provincial scale (Cadman et al. 1987) and through time as atlases are repeated. Results from both of these sources drive decision-making, conservation policy and planning and provide indicators for environmental and climate change in Canada.
 
