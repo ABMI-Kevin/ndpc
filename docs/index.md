@@ -37,10 +37,10 @@ Welcome to the protocol for conducting a **digital avian point count** using an 
 - Conduct the point count surveys
   + Adjust survey length for anthropogenic or geophonic conditions
 - Upload the recordings to a [central repository](#data-submission)
-- Run the speech-to-text recognizer and standardize the recordings
-- Upload the trimmed recordings to [WildTrax]()
+- Run the speech-to-text recognizer and standardize the recordings (*Currently supported by the ABMI*)
+- Upload the trimmed recordings to [WildTrax]() (*Currently supported by the ABMI*)
 - Process data
-- Publish and merge with [NatureCounts](#canavian)
+- Publish project and send data to [NatureCounts](#canavian) (*Currently supported by the ABMI*)
 
 ## Download Cheatsheets {.unnumbered}
 

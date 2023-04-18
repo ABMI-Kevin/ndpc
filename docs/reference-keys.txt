@@ -11,8 +11,8 @@ sm4-equipment-setup
 conducting-the-survey-protocol
 h2n-survey-deployment
 sm4-survey-deployment
-recorder-activation-and-voicestamp
 survey-length-adjustment
+important-notes
 data-submission
 analysis
 speech-to-text-recognition

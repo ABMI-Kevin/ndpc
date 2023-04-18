@@ -21,30 +21,6 @@ Calibration and testing of ARUs prior to conducting a survey is essential for hi
 - Gather USB cables, SD cards, batteries, windsock, and tripod.
 - Follow technical setup steps for Zoom H2N, including adjusting date/time settings, battery power, memory card space, and recording settings.
 
-### SM4 Equipment Setup
-
-## Conducting the Survey Protocol
-
-- Arrive at survey location and follow safety instructions outlined by the point count protocol.
-- Place ARU at a fixed location, minimum 5 meters away from the observer to minimize observer sounds and maximum 20 meters away to minimize error.
-- Use a tripod or stable surface to support ARU and avoid placing it on or near a vehicle to prevent vibrations.
-
-### H2N Survey Deployment
-
-### SM4 Survey Deployment
-
-### Recorder Activation and Voicestamp
-
-- Initiate the survey by pressing the RECORD button on the ARU.
-- Speak a clear message into the recorder to serve as the voicestamp, including observer name, location (spatial coordinates or identifier), and optional date and time stamp.
-- Move 5-20 meters away from the recorder to reduce observer noise.
-- Say "START" to indicate the end of the speech-to-text recording.
-
-### Survey Length Adjustment
-
-- Adjust the survey length based on anthropogenic or geophonic conditions to ensure accurate results.
-
-## Data submission
 
 - Turn on the device using the POWER switch. 
 - Press the MENU button, toggle the PLAY button up/down and then press down to select SYSTEM. 
@@ -64,73 +40,44 @@ Calibration and testing of ARUs prior to conducting a survey is essential for hi
   + LO CUT is ON (may be useful to reduce impacts of wind or traffic noise)
   + COMP/LIMITER is OFF
   + AUTO GAIN is off
-
+  
 MS Side Level
 0 (120 degrees)
 Input Setting
 Plug-in Power
 Off
 
+### SM4 Equipment Setup
 
-SM4 Technical Setup
-Table 4 - Technical setup of the Wildlife Acoustics SM4 ARU.
-Table 5 - Settings for the Wildlife Acoustics SM4 ARU.
+SM4 STUFF HERE
 
-Conduct the survey protocol
-This next section outlines the mobile survey protocol in the field.
+## Conducting the Survey Protocol
 
-Equipment setup
-Arrive at the survey location. Follow any safety instructions or measures outlined by your respective point count protocol (e.g. BBS, atlas)
-Ensure at the beginning of each survey to place the ARU at a fixed place, a minimum distance of 5 metres away from the observer, to minimize observer sounds, but a maximum distance of 20 metres away, to minimize error between the detection radius of the ARU and observer. 
-A tripod or stable surface is recommended to support the ARU; do not place the recorder on or near a vehicle as it will pick up vibrations that could mask species detections. 
-Placing the recorder to the rear of the vehicle can also minimise the sounds made from a vehicle engine (e.g. car, truck, quad, etc.) after it is shut off.
+- Arrive at survey location and follow safety instructions outlined by the point count protocol.
+- Set up the recorder at a fixed location, keeping it at a minimum distance of 5 meters away from the observer to minimize observer sounds, but no more than 20 meters away to minimize error. A tripod or stable surface is recommended to support the ARU; do not place the recorder on or near a vehicle as it will pick up vibrations that could mask species detections. Placing the recorder to the rear of the vehicle can also minimise the sounds made from a vehicle engine (e.g. car, truck, quad, etc.) after it is shut off.
+- Turn on the unit and speak the designated voice note. Move away from the recorder to begin the count and say "START"
+- At the end of the count, speak STOP.
+- Turn off the recorder and move to the next location. Repeat steps as necessary to conduct more surveys along a route
 
-Recorder activation and voicestamp
-Initiate the survey by hitting the RECORD button (same type of button for the Zoom H2N and Wildlife Acoustics SM4)
-Speak a message into the recorder to serve as the voicestamp. A location name or spatial coordinates or identifier must be provided.  Speak as clearly as possible. 
+### H2N Survey Deployment
 
-Table 6 - Speech instructions and metadata steps during the voicestamp
-Speech
-User Action
-Purpose
-Optional
+- Initiate the survey by pressing the RECORD button on the recorder.
+- Speak a clear message into the recorder to serve as the voicestamp, including observer name, location (spatial coordinates or identifier), and optional date and time stamp.
+- Move 5-20 meters away from the recorder to reduce observer noise.
+- Say "START" to indicate the end of the speech-to-text recording and move away from the recorder
+
+### SM4 Survey Deployment
 
 
-Hit Record
-Initiates the recording
-
-
-Observer name
-Speech
-Indicates who recorded the survey
-No
-Location (e.g. name or spatial coordinates)
-Speech
-Provides a spatial coordinate to the media
-No
-Date and time
-Speech
-Provides a temporal stamp for the media
-Yes
-
-
-Move 5-20 metres away from recorder
-Reduces noise made by the observer
-
-
-START
-Speech
-Provides the end point of the speech-to-text recognizer
-No
-
-
-Conduct the survey for the duration indicated by project design. If you need to stop during the survey for traffic, do not turn off the unit until the end of the extended survey (see next section)
-Do not to speak during the survey to limit erroneous speech errors picked up by the speech-to-text recognizer
-At the end of the count, speak STOP.
-
-Recorder deactivation
-Turn off the recorder and move to the next location. Repeat steps as necessary to conduct more surveys along a route
+### Survey Length Adjustment
 
 Adjust survey length for anthropogenic or geophonic conditions
 Surveys may occur along roadsides or near areas of loud anthropogenic noise. In order to optimize species detections in the detection radius of the ARU, survey time can be extended by 1 minute per traffic event up to maximum survey length time of 10 minutes. It’s recommended to keep a stopwatch or phone timer set to the length of the survey interval,  and the maximum survey interval so you don’t have to keep track of the traffic events specifically but rather the time you can survey for. Geophonic events are similar. If it becomes too windy or rainy to continue the survey, i.e. if geophonic events last for >10 minutes during the survey, the media will be considered “Bad Weather”. However, surveys can be extended for 1 minute at a time for intermittent periods of rain or wind.
+
+### Important Notes
+
+- Do not to speak during the survey to limit erroneous speech errors picked up by the speech-to-text recognizer
+
+## Data submission
+
   
