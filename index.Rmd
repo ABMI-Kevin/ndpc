@@ -52,11 +52,13 @@ pcs <- dir_ls(".", recurse = T, regexp = "Tasks") %>%
 # mymap <- ggplot() +
 #   coord_sf(crs = 4269) +
 #   geom_sf(pcs, mapping = aes(colour = year)) +
-#   theme_bw() +
-#   theme(legend.position = "none") +
+#   theme_void() +
+#   theme(legend.position = "none",
+#         axis.text.x = element_blank(),
+#         axis.text.y = element_blank()) +
 #   scale_colour_viridis_c() +
 #   transition_states(recordingDate, state_length = 0,
-#                     transition_length = c(rep(1, 10), 9, rep(1, 9))) + 
+#                     transition_length = c(rep(1, 10), 9, rep(1, 9))) +
 #   shadow_mark() +
 #   ggtitle('Date of Survey: {closest_state}',
 #           subtitle = "Count: {frame}")
