@@ -1,0 +1,1863 @@
+﻿location,recordingDate,method,taskLength,status,transcriber,rain,wind,industryNoise,otherNoise,audioQuality,taskComments,internal_task_id
+17TPM52-24, 2022-06-14 05:59:22,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Moderate,None,some periods of moderate insect buzzing and squirrel chatter,443466
+17TMN65-M1, 2022-05-30 08:54:12,1SPT,300,Transcribed,David Bell,None,Moderate,Light,Light,None,least bittern calls as their alarm(?) at the end,334620
+18TVQ55-11, 2022-06-10 03:35:48,1SPT,300,Transcribed,David Bell,None,Heavy,Light,Light,None,timestamp likely incorrect?,340471
+17TMN76-M1, 2022-05-29 07:09:49,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,334624
+17TMN93-4, 2022-06-01 09:53:00,1SPT,300,Transcribed,Joshua Vandermeulen,None,Heavy,None,Moderate,None,Difficult to hear with the wind,334608
+17TNK89-12, 2022-06-08 08:24:45,1SPT,300,Transcribed,Joshua Vandermeulen,None,None,None,None,None,,335593
+17TMN41-Q, 2022-05-28 09:11:42,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,334595
+17TMN65-37, 2022-05-30 07:21:54,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,334648
+17TLN61-38, 2022-06-16 07:40:52,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,,443161
+17TLP50-19, 2022-06-11 10:29:04,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443060
+17ULQ92-D, 2022-06-22 09:19:35,1SPT,300,Transcribed,Sean Jenniskens,None,Moderate,None,Light,None,,443120
+17TLN31-G, 2022-06-09 08:38:27,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443067
+17TLP50-23, 2022-06-11 06:15:24,1SPT,300,Transcribed,Ken Burrell,None,None,None,None,None,,443086
+17ULR30-3, 2022-07-05 07:03:17,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Moderate,Light,None,,443090
+17TLN23-N, 2022-06-12 06:44:13,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443097
+17UMR60-A, 2022-06-27 09:32:26,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,443099
+17ULQ38-D, 2022-07-09 07:55:10,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443102
+17ULR30-18, 2022-07-05 10:10:12,1SPT,300,Transcribed,Nathan Hood,Moderate,Light,None,Light,None,,443107
+17ULQ75-7, 2022-06-24 06:09:45,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",443179
+17TLN31-N, 2022-06-09 09:17:56,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443158
+17ULR30-16, 2022-07-05 09:33:58,1SPT,300,Transcribed,Brandon Holden,Moderate,Moderate,None,Light,None,,443182
+17TLP30-9, 2022-06-08 07:40:12,1SPT,300,Transcribed,Nathan Hood,,,,,,,443071
+17ULR32-J, 2022-07-06 07:47:48,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Light,None,,443088
+17TLN23-K, 2022-06-12 07:30:22,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Light,None,,443064
+17TLN31-B, 2022-06-09 08:06:28,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,443074
+17TLP50-E, 2022-06-11 07:52:17,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,443112
+17UMR53-C, 2022-06-25 09:23:45,1SPT,300,Transcribed,David Bell,None,Moderate,None,Moderate,Both Sides Extra Static,,443146
+17ULQ47-19, 2022-06-28 08:29:45,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443127
+17UMR53-14, 2022-06-25 10:05:51,1SPT,300,Transcribed,Matthew Timpf,,,,,,,443081
+17ULQ47-11, 2022-06-28 05:45:40,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443131
+17UMR02-3, 2022-06-23 06:05:35,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443137
+17UMR53-29, 2022-06-25 06:02:56,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443151
+17ULQ92-5, 2022-06-22 07:19:11,1SPT,300,Transcribed,Matthew Timpf,,,,,,,443117
+17TLP50-D, 2022-06-11 07:23:43,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443155
+17ULQ92-E, 2022-06-22 09:48:40,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,443123
+17TLP31-7, 2022-06-14 09:33:54,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,443174
+17TLN23-L, 2022-06-12 09:46:28,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Light,Moderate,None,,443098
+17TLN23-C, 2022-06-12 10:14:49,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443133
+17UMR53-22, 2022-06-25 06:28:38,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,Light,None,,443065
+17UMR34-5, 2022-06-29 09:10:06,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,443085
+17ULQ38-A, 2022-07-09 06:19:22,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",443140
+16UFV38-8, 2022-07-08 08:02:42,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443181
+17UMR60-C, 2022-06-27 09:05:56,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,,443068
+16UEA91-D, 2022-07-10 07:01:40,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,some occasional insect buzzing and squirrel chatter,443095
+17TLN88-15, 2022-06-07 07:40:19,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",443061
+16UEA91-23, 2022-07-10 06:11:09,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,None,None,,443089
+17ULQ75-3, 2022-06-24 08:18:58,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Light,None,,443073
+17ULQ47-25, 2022-06-28 09:19:45,1SPT,300,Transcribed,Matthew Timpf,,,,,,,443080
+17UMR34-F, 2022-06-29 10:17:16,1SPT,300,Transcribed,David Bell,None,Moderate,None,Light,Both Sides Extra Static,,443114
+16UEA91-9, 2022-07-10 10:27:13,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443076
+16UFV38-F, 2022-07-08 07:27:30,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,443106
+17ULR30-17, 2022-07-05 06:22:43,1SPT,300,Transcribed,Matthew Timpf,,,,,,,443154
+17TLN23-10, 2022-06-12 06:07:59,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,None,some insect buzzing,443101
+17TLP30-4, 2022-06-08 09:20:43,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443163
+16UFV38-2, 2022-07-08 09:25:34,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443176
+17UMR02-E, 2022-06-23 07:24:48,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443121
+17ULQ38-H, 2022-07-09 10:10:07,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",443172
+17TLP90-23, 2022-06-13 09:57:26,1SPT,300,Transcribed,Joshua Vandermeulen,Moderate,Light,None,None,None,,443096
+17TLN31-C, 2022-06-09 06:16:33,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Light,None,,443100
+17ULQ47-6, 2022-06-28 09:00:26,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,443135
+17TLN61-6, 2022-06-16 08:21:00,1SPT,300,Transcribed,Nathan Hood,Light,Moderate,None,None,None,,443087
+17TLP31-6, 2022-06-14 10:23:56,1SPT,300,Transcribed,Joshua Vandermeulen,,,,,,,443063
+17TLN31-S, 2022-06-09 07:04:48,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,443091
+17TLN88-B, 2022-06-07 08:28:34,1SPT,300,Transcribed,Sean Jenniskens,None,Moderate,None,None,None,,443072
+17TLP50-4, 2022-06-11 10:17:16,1SPT,300,Transcribed,Sean Jenniskens,None,Light,None,Light,None,,443078
+16UFV38-S, 2022-07-08 06:17:40,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443119
+17TLN61-40, 2022-06-16 08:43:16,1SPT,300,Transcribed,Sean Jenniskens,None,Heavy,None,Light,None,,443082
+17ULQ92-20, 2022-06-22 05:26:56,1SPT,300,Transcribed,Sean Jenniskens,None,Light,None,Light,None,,443104
+17ULQ75-10, 2022-06-24 05:44:30,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443125
+17TLN61-N, 2022-06-16 09:34:54,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Moderate,None,,443144
+17TLP50-35, 2022-06-11 06:59:30,1SPT,300,Transcribed,Brandon Holden,None,None,None,Light,None,,443062
+17ULQ38-G, 2022-07-09 09:17:44,1SPT,300,Transcribed,Sean Jenniskens,Light,Moderate,None,Moderate,None,,443111
+17ULQ38-F, 2022-07-09 08:47:49,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,443157
+17ULQ92-OUR, 2022-06-22 06:36:20,1SPT,300,Transcribed,Sean Jenniskens,None,Light,None,Light,None,,443093
+17UMR60-N, 2022-06-27 09:56:02,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443084
+17UMR53-S, 2022-06-25 10:27:17,1SPT,300,Transcribed,David Bell,None,Moderate,None,Heavy,Both Sides Extra Static,,443075
+17TLN31-OUR, 2022-06-09 10:16:29,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443069
+17ULQ38-2, 2022-07-07 10:00:25,1SPT,300,Transcribed,Matthew Timpf,Light,Light,None,Light,None,some insect buzzing,443149
+17TLP90-13, 2022-06-13 09:13:03,1SPT,300,Transcribed,Amanda Guercio,,,,,,,443077
+17UMR53-J, 2022-06-25 07:07:24,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Light,Light,None,,443092
+17ULR32-10, 2022-07-06 10:31:33,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443122
+17ULQ47-17, 2022-06-28 07:49:21,1SPT,300,Transcribed,Sean Jenniskens,None,Light,None,Light,None,,443110
+17TLN88-14, 2022-06-07 07:10:23,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,None,None,,443103
+17ULQ75-13, 2022-06-24 06:33:38,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443113
+17ULQ75-15, 2022-06-24 07:28:19,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443066
+17TLN61-18, 2022-06-16 07:01:36,1SPT,300,Transcribed,Brandon Holden,None,Heavy,None,None,None,,443070
+16UFV38-V, 2022-07-08 06:44:03,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,n,443132
+17TLP31-8, 2022-06-14 05:52:17,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,None,,443185
+17UMR02-D, 2022-06-23 06:46:31,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,443159
+17TLP30-11, 2022-06-08 08:07:47,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Moderate,None,periods of road traffic,443083
+16UFV38-14, 2022-07-08 07:04:08,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443142
+17ULQ38-E, 2022-07-09 08:22:45,1SPT,300,Transcribed,Matthew Timpf,,,,,,,443168
+17ULQ47-2, 2022-06-28 06:24:43,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,443138
+17UMR02-19, 2022-06-23 10:00:55,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,443118
+17TLP31-18, 2022-06-14 06:22:07,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,443147
+17ULQ47-22, 2022-06-28 08:11:13,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,443178
+17TLP90-24, 2022-06-13 08:14:36,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,443108
+17UMR34-G, 2022-06-29 10:35:06,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Moderate,None,Heavy mosquito presence!,443156
+17TLP90-21, 2022-06-13 07:42:01,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,n,443162
+17TLN88-A, 2022-06-13 05:31:12,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",443128
+17ULR32-F, 2022-07-06 08:39:41,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443129
+16UFV38-3, 2022-07-08 08:46:40,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443115
+17ULR30-6, 2022-07-05 09:02:41,1SPT,300,Transcribed,David Bell,Light,Light,Light,Light,None,,443109
+17ULQ38-8, 2022-07-07 10:19:59,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443184
+17ULQ38-12, 2022-07-07 10:31:47,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443177
+17TLP31-Z, 2022-06-14 07:35:04,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443139
+17TLN88-10, 2022-06-07 09:40:42,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Moderate,None,thunder at times?,443171
+17TLP31-21, 2022-06-14 06:51:25,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443166
+17ULQ75-6, 2022-06-21 10:23:06,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Light,None,,443150
+17ULR30-20, 2022-07-05 05:59:19,1SPT,300,Transcribed,Brandon Holden,Heavy,Light,None,Light,None,,443116
+17TLN23-11, 2022-06-12 08:52:52,1SPT,300,Transcribed,David Bell,None,Moderate,None,Light,None,,443134
+17TLN88-2, 2022-06-07 09:19:54,1SPT,300,Transcribed,David Bell,None,Moderate,None,Light,None,,443164
+17TLP30-13, 2022-06-08 08:39:36,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443124
+17ULQ38-B, 2022-07-09 06:50:44,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443126
+17ULQ38-C, 2022-07-09 07:28:48,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,443160
+17UMR02-17, 2022-06-23 05:37:41,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Moderate,Moderate,None,,443153
+16UEA91-L, 2022-07-10 07:58:18,1SPT,300,Transcribed,Brandon Holden,,,,,,,443175
+17TLN88-17, 2022-06-07 06:46:13,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443136
+16UEA91-3, 2022-07-10 06:25:55,1SPT,300,Transcribed,Ken Burrell,None,Light,None,None,None,,443180
+17TLN61-26, 2022-06-16 06:20:15,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,moderate to heavy wind expecially around middle of recording,443130
+16UFV38-23, 2022-07-08 05:39:54,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None, ,443145
+17ULQ75-29, 2022-06-24 08:42:54,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Moderate,None,lots of insect buzzing and walking noises at beginning of recording ,443165
+17UMR02-4, 2022-06-23 09:25:21,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,443141
+17UMR53-34, 2022-06-25 08:25:51,1SPT,300,Transcribed,David Bell,,,,,,,443152
+17TLN88-8, 2022-06-07 06:24:53,1SPT,300,Transcribed,Matthew Timpf,Moderate,Moderate,None,None,None,"at very end of recording a short period of moderate rain, but i don't think it affected detectability ",443169
+17TNL98-1, 2022-06-20 10:06:15,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,440295
+16TCU67-9, 2022-06-29 09:38:35,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None,some airplane noise and some application of bugspray,440332
+17TPL08-18, 2022-06-19 08:14:57,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,,440309
+16TCU67-27, 2022-06-24 08:03:12,1SPT,300,Transcribed,David Bell,None,None,Moderate,Light,None,,440329
+17TPL08-14, 2022-06-19 07:06:23,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,440313
+16TCU67-OR2, 2022-07-04 09:17:55,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Light,None,"
+",440321
+16TCU67-12, 2022-06-29 09:27:05,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",440336
+16TCU67-13, 2022-06-29 10:13:53,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Moderate,None,airplane noise overhead at times,440318
+16UCV35-30, 2022-07-06 09:29:03,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,440339
+17TPL08-21, 2022-06-19 07:41:26,1SPT,300,Transcribed,David Bell,,,,,,,440311
+16TCU67-25, 2022-06-15 08:17:44,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,None,,440317
+16TCU67-20, 2022-06-20 09:06:06,1SPT,300,Transcribed,Nathan Hood,None,Moderate,Moderate,Light,None,,440322
+16TCU67-17, 2022-06-24 08:36:37,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,"
+",440326
+16TCU67-7, 2022-06-29 09:10:20,1SPT,300,Transcribed,Brandon Holden,,,,,,,440335
+17TNL98-11, 2022-06-20 08:07:50,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,440296
+17TPL08-25, 2022-06-19 07:58:44,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Light,None,,440314
+16TCU67-11, 2022-06-20 09:20:03,1SPT,300,Transcribed,Joshua Vandermeulen,None,Moderate,None,Moderate,None,,440323
+17TNL98-20, 2022-06-21 08:30:04,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,440297
+16TCU67-35, 2022-06-15 08:42:43,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Moderate,None,some road traffic throughout,440327
+16TCU67-26, 2022-07-04 08:12:35,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None,some insect buzzing but minor and some shuffling from walking noises,440319
+17TPL08-4, 2022-06-19 09:36:44,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Moderate,None,"something seemed to be rubbing against the recorder at times, unsure if avian, human, or foliage",440312
+16TCU67-32, 2022-06-24 08:46:37,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,440333
+17TNL98-21, 2022-06-20 09:55:51,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,heavy wind gusts at times,440298
+17TNL98-20, 2022-06-21 08:18:47,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,440302
+16UCV35-26, 2022-07-06 09:10:14,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,440340
+17TPL08-3, 2022-06-19 10:21:16,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Light,None,,440310
+17TNL98-OR1, 2022-06-22 10:05:02,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",440299
+16TCU67-16, 2022-06-15 08:01:13,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Light,None,"
+",440337
+16UCV35-17, 2022-07-06 08:54:25,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,440341
+16TCU67-OR1, 2022-07-04 08:34:24,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,440334
+17TPL08-5, 2022-06-19 07:24:54,1SPT,300,Transcribed,Timothy B. Lucas,None,Light,None,Light,None,,440307
+17TNL98-22, 2022-06-20 07:53:40,1SPT,300,Transcribed,Amanda Guercio,None,Light,None,None,None,,440300
+16TCU67-2, 2022-06-29 08:28:13,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",440325
+17TPL08-10, 2022-06-19 10:30:47,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Moderate,None,,440305
+17TNL98-OR2, 2022-06-22 09:03:37,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",440303
+17TNL98-20, 2022-06-21 08:41:31,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,440301
+16TCU67-5, 2022-06-29 08:48:28,1SPT,300,Transcribed,David Bell,,,,,,,440316
+16TCU67-4, 2022-06-29 08:38:03,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,440328
+17TNL98-13, 2022-06-20 07:09:39,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,440304
+17TPL08-2, 2022-06-19 09:20:49,1SPT,300,Transcribed,David Bell,,,,,,,440315
+16TCU67-10, 2022-06-20 09:30:48,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Moderate,None,"some brief periods of road traffic, and some voices from passing locals/joggers",440331
+17TPL08-8, 2022-06-19 10:05:07,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Light,None,,440306
+16TCU67-14, 2022-06-29 09:52:44,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,440320
+16TCU67-1, 2022-06-29 08:16:02,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,some light plane noise,440330
+16UCV35-22, 2022-07-06 10:01:50,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,None,None,,440338
+17TPL08-6, 2022-06-19 09:45:59,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,440308
+16TCU67-6, 2022-06-29 09:01:23,1SPT,300,Transcribed,David Bell,,,,,,,440324
+17TQM20-20, 2022-05-30 10:07:42,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443328
+17TQM11-31, 2022-05-31 07:57:30,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None,a few second of human shuffling at end of recording,443331
+17TQM01-14, 2022-06-02 06:51:36,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None,some light insect buzzing,443322
+17TQM02-35, 2022-06-01 07:31:21,1SPT,300,Transcribed,Matthew Timpf,Light,None,None,Heavy,None,intermittent loud road noise,443335
+17TQM01-16, 2022-06-02 07:20:47,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443341
+17TQM01-12, 2022-06-02 09:34:19,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Moderate,None,"delayed 'start' of recording, some talking from deployer and a bit of plane noise at times",443330
+17TQM01-24, 2022-06-02 06:12:40,1SPT,300,Transcribed,David Bell,,,,,,,443323
+17TQM11-7, 2022-05-31 06:54:10,1SPT,300,Transcribed,David Bell,,,,,,,443338
+17TQM11-8, 2022-05-31 06:32:43,1SPT,300,Transcribed,Matthew Timpf,None,None,None,None,None,,443327
+17TQM20-16, 2022-05-30 10:30:51,1SPT,300,Transcribed,Timothy B. Lucas,None,Light,None,None,None,,443333
+17TQM02-13, 2022-06-01 09:39:43,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Light,None,,443336
+17TQM12-23, 2022-06-03 10:16:20,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Light,None,,443337
+17TQM12-20, 2022-06-03 07:54:49,1SPT,300,Transcribed,David Bell,Light,None,Light,Light,None,,443334
+17TQM02-12, 2022-06-01 09:14:55,1SPT,300,Transcribed,Brandon Holden,,,,,,,443324
+17TQM12-11, 2022-06-03 09:02:47,1SPT,300,Transcribed,Brandon Holden,Light,Light,Light,Light,None,"
+",443326
+17TQM02-3, 2022-06-01 08:05:55,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Light,None,,443329
+17TQM11-OR1, 2022-05-31 10:04:29,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443332
+17TQM20-18, 2022-05-30 09:13:51,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,443339
+17TQM11-24, 2022-05-31 07:28:48,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443340
+17TMK80-38, 2022-05-26 10:10:07,1SPT,300,Transcribed,Brandon Holden,None,Heavy,None,None,None,,443342
+17TQM02-19, 2022-06-01 08:43:23,1SPT,300,Transcribed,Sean Jenniskens,None,Moderate,None,Light,None,,443325
+17TQM12-12, 2022-06-03 09:33:11,1SPT,300,Transcribed,David Bell,,,,,,,443343
+17TPM54-5, 2022-06-13 06:15:32,1SPT,300,Transcribed,Dominic Cormier,None,None,None,Light,None,,443353
+17TPM91-36, 2022-06-08 07:08:41,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443351
+17TPM72-4, 2022-06-04 06:15:06,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,"
+",443344
+17TPM54-34, 2022-06-13 09:04:39,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Light,Moderate,None,"
+",443360
+17TPM92-15, 2022-06-06 06:24:18,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443362
+17TPM43-40, 2022-06-15 06:56:21,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,443369
+17TPM43-11, 2022-06-16 09:12:26,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Moderate,None,,443380
+17TPM52-29, 2022-06-14 08:29:19,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,443377
+17TPM52-38, 2022-06-14 10:10:06,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443374
+17TPM54-13, 2022-06-13 09:31:57,1SPT,300,Transcribed,David Bell,,,,,,,443356
+17TPM91-6, 2022-06-08 06:29:02,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443363
+17TPM92-13, 2022-06-06 08:04:14,1SPT,300,Transcribed,Brandon Holden,None,None,None,None,None,,443350
+17TPM54-1, 2022-06-13 07:25:08,1SPT,300,Transcribed,Brandon Holden,None,None,None,None,None,,443367
+17TNP62-3, 2022-06-23 06:07:08,1SPT,300,Transcribed,Matthew Timpf,None,None,Moderate,Light,None,some talking at beginning before 'start',440470
+17TNP62-26, 2022-06-23 06:56:00,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Light,None,,440461
+17TPM91-9, 2022-06-08 07:36:06,1SPT,300,Transcribed,Sean Jenniskens,,,,,,,443349
+17TPM92-37, 2022-06-06 08:44:15,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,443355
+17TPM91-35, 2022-06-08 10:13:52,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,443352
+17TPM92-8, 2022-06-06 08:25:21,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,443358
+17TPM82-14, 2022-06-05 07:07:31,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,443366
+17TPM92-38, 2022-06-06 06:48:07,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,443346
+17TPM91-5, 2022-06-08 08:18:35,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443348
+17TPM91-39, 2022-06-08 06:07:28,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443347
+17TPM91-14, 2022-06-08 09:39:18,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,443354
+17TPM82-12, 2022-06-05 07:32:57,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443357
+17TPM92-3, 2022-06-06 07:20:07,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,443365
+17TPM52-11, 2022-06-14 06:28:08,1SPT,300,Transcribed,Brandon Holden,None,None,Light,None,None,,443371
+17TPM72-34, 2022-06-04 06:43:50,1SPT,300,Transcribed,Timothy B. Lucas,None,Moderate,None,None,None,,443368
+17TPM91-13, 2022-06-08 09:04:18,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,443361
+17TPM52-1, 2022-06-14 09:24:58,1SPT,300,Transcribed,Brandon Holden,Light,Light,Light,Light,None,,443375
+17TNP62-5, 2022-06-23 06:32:15,1SPT,300,Transcribed,Amanda Guercio,None,None,Moderate,None,None,,440471
+17TPM43-12, 2022-06-16 08:43:49,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443379
+17TNP62-27, 2022-06-23 07:08:07,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Light,None,,440462
+17TNP84-24, 2022-06-05 07:54:48,1SPT,300,Transcribed,David Bell,,,,,,,440460
+17TPM43-OR2, 2022-06-16 08:05:36,1SPT,300,Transcribed,David Bell,,,,,,,443373
+17TPM43-15, 2022-06-15 06:30:03,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Light,None,,443382
+17TPM43-39, 2022-06-15 07:17:50,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443378
+17TPM52-31, 2022-06-14 07:57:57,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,443370
+17TPM43-4, 2022-06-15 06:01:37,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",443376
+17TNM87-35, 2022-06-20 08:54:42,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,None,None,,443381
+17TNP84-30, 2022-06-05 07:36:17,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",440464
+17TNP84-15, 2022-06-05 07:20:43,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,440476
+17TNP84-14, 2022-06-05 08:15:27,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,440467
+17TPM52-35, 2022-06-14 06:04:27,1SPT,300,Transcribed,David Bell,,,,,,,443372
+17TNP62-2, 2022-06-23 05:52:46,1SPT,300,Transcribed,David Bell,,,,,,,440468
+17TNP84-29, 2022-06-05 06:23:04,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",440469
+17TMM22-19, 2022-07-06 05:57:38,1SPT,300,Transcribed,Sean Jenniskens,None,Moderate,None,Light,None,,443395
+17TPM06-ON1, 2022-06-24 07:26:26,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,"",443425
+17TPM25-12, 2022-06-22 09:01:45,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443400
+17TNP62-10, 2022-06-23 07:33:14,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Moderate,None,,440465
+17TMM21-21, 2022-07-04 05:38:42,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,443392
+17TMM22-8, 2022-07-06 09:34:41,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Light,None,None,,443403
+17TMM64-9, 2022-06-30 07:02:38,1SPT,300,Transcribed,Brandon Holden,None,None,Light,None,None,,443407
+17TMM22-14, 2022-07-06 07:21:42,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,None,None,,443415
+17TNM99-32, 2022-06-23 09:43:33,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,None,None,n,443417
+17TLM91-37, 2022-07-07 06:24:31,1SPT,300,Transcribed,Brandon Holden,None,None,None,None,None,,443420
+17TPM06-26, 2022-06-24 07:53:24,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443387
+17TPM25-28, 2022-06-22 09:55:32,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,some light insect buzzing at times,443409
+17TPM06-31, 2022-06-24 06:27:21,1SPT,300,Transcribed,Brandon Holden,None,Light,Heavy,None,None,,443419
+17TQM02-28, 2022-06-01 10:15:45,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,443447
+17TNP84-10, 2022-06-05 06:59:02,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,440466
+17TQM11-11, 2022-05-31 06:32:43,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443429
+17TQM12-OR1, 2022-06-03 09:58:58,1SPT,300,Transcribed,Brandon Holden,Light,None,None,Light,None,,443433
+17TMM11-30, 2022-07-08 05:56:39,1SPT,300,Transcribed,David Bell,,,,,,,443412
+17TQM11-OR2, 2022-05-31 08:37:49,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Moderate,None,insect buzzing at times,443436
+17TMM66-4, 2022-06-28 06:57:30,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443422
+17TMM22-27, 2022-07-06 06:34:02,1SPT,300,Transcribed,Nathan Hood,None,Light,Light,None,None,,443391
+17TLM91-3, 2022-07-07 09:11:48,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",443389
+17TPM06-34, 2022-06-24 10:05:32,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,None,None,,443397
+17TMM66-13, 2022-06-28 09:18:22,1SPT,300,Transcribed,Matthew Timpf,None,Heavy,None,None,None,heavy wind at times,443405
+17TMM22-16, 2022-07-06 09:06:28,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Moderate,None,None,,443399
+17TMM64-8, 2022-06-30 06:22:26,1SPT,300,Transcribed,Matthew Timpf,None,None,Light,Light,None,brief loud road traffic,443427
+17TQM11-OR1, 2022-05-31 07:54:38,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,occasional insect buzzing,443440
+17TPM25-19, 2022-06-22 06:55:27,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,443408
+17TQM01-OR1, 2022-06-02 06:43:31,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,443437
+17TPM25-7, 2022-06-22 07:57:13,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Light,None,,443414
+17TNM99-10, 2022-06-23 07:10:16,1SPT,300,Transcribed,David Bell,,,,,,,443416
+17TNM99-1, 2022-06-23 05:45:03,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Moderate,None,frequent road traffic,443406
+17TQM12-25, 2022-06-03 06:42:16,1SPT,300,Transcribed,David Bell,,,,,,,443428
+17TLM91-34, 2022-07-07 05:53:39,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443402
+17TMM66-10, 2022-06-28 06:22:45,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,443411
+17TMK80-UNKN1, 2022-05-26 07:31:34,1SPT,300,Transcribed,Amanda Guercio,None,Light,None,None,None,,443445
+17TLM91-32, 2022-07-07 07:08:15,1SPT,300,Transcribed,Brandon Holden,None,None,Light,None,None,,443394
+17TMM66-12, 2022-06-28 08:18:25,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Moderate,None,None,,443421
+17TMM66-14, 2022-06-28 09:43:58,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,443398
+17TQM01-OR2, 2022-06-02 09:27:29,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443434
+17TQM12-24, 2022-06-03 06:13:55,1SPT,300,Transcribed,Brandon Holden,Moderate,Light,Moderate,None,None,,443441
+17TMM66-5, 2022-06-28 07:39:53,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Light,Light,None,"
+",443390
+17TNP84-3, 2022-06-05 06:40:39,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,440472
+17TNM99-4, 2022-06-23 10:15:35,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,443424
+17TQM12-3, 2022-06-03 09:13:10,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Light,None,,443435
+17TQM02-17, 2022-06-01 10:00:48,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,None,None,,443430
+17TQM02-5, 2022-06-01 09:35:50,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,443439
+17TQM12-17, 2022-06-03 08:05:21,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",443443
+17TQM02-8, 2022-06-01 09:11:27,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Light,Light,None,,443446
+17TPM54-26, 2022-06-13 06:52:34,1SPT,300,Transcribed,David Bell,,,,,,,443457
+17TMM64-20, 2022-06-30 06:18:47,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,443449
+17TMM21-OR1, 2022-07-04 09:25:25,1SPT,300,Transcribed,David Bell,,,,,,,443453
+17TPM91-OR1, 2022-07-07 10:30:40,1SPT,300,Transcribed,David Bell,,,,,,,443463
+17TPM43-19, 2022-06-15 06:35:06,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443460
+17TMM66-27, 2022-06-28 07:41:57,1SPT,300,Transcribed,Amanda Guercio,None,Moderate,Light,None,None,,443467
+17TPM82-F, 2022-06-05 06:39:16,1SPT,300,Transcribed,Nathan Hood,Light,Light,None,None,None,,443502
+17TPM54-ON4, 2022-06-13 09:09:09,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,,443474
+16UEA91-P, 2022-07-10 07:30:33,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,443094
+17TPM91-15, 2022-06-08 07:19:16,1SPT,300,Transcribed,Amanda Guercio,None,Moderate,None,None,None,,443458
+17TPM82-E, 2022-06-05 07:17:16,1SPT,300,Transcribed,Ken Burrell,Light,None,Light,None,None,,443468
+17TPM91-A, 2022-06-08 05:54:03,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443500
+17TNM87-OR1, 2022-06-20 09:35:52,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,None,None,,443464
+17TPM82-35, 2022-06-05 08:46:36,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",443471
+17TPM91-5, 2022-07-07 06:53:04,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,443485
+17TMM64-OR1, 2022-06-30 07:07:57,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",443477
+17TPM52-OR1, 2022-06-14 09:52:16,1SPT,300,Transcribed,Dominic Cormier,,,,,,,443488
+17TLM91-15, 2022-07-07 08:18:09,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,443388
+17TPM91-19, 2022-07-07 05:58:31,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443454
+17TPM91-22, 2022-07-07 07:18:35,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,None,None,,443480
+17TLP90-18, 2022-06-13 09:33:37,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Light,None,,443148
+17TPM52-21, 2022-06-14 07:39:54,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Moderate,None,,443508
+17TMM21-25, 2022-07-04 07:33:21,1SPT,300,Transcribed,Brandon Holden,Light,Light,Light,None,None,,443491
+17TNM99-ON1, 2022-06-23 06:47:29,1SPT,300,Transcribed,Brandon Holden,None,Light,Heavy,None,None,,443494
+17TMM22-38, 2022-07-06 06:58:40,1SPT,300,Transcribed,Amanda Guercio,Heavy,Moderate,None,None,None,PC should not have been recorded under these conditions...,443450
+17TMM64-22, 2022-06-30 06:45:00,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443410
+17TMM22-12, 2022-07-06 08:43:21,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,None,light animal noise (cows) from nearby farm,443521
+17TMM11-13, 2022-07-08 06:48:48,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443413
+17TMM11-39, 2022-07-08 05:44:04,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Moderate,None,,443497
+17TPM91-4, 2022-06-08 07:48:19,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,None,Some light plane noise near the end,443518
+17TMM66-3, 2022-06-28 08:55:12,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,443396
+17TMM22-34, 2022-07-06 07:42:50,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443423
+17TMM66-18, 2022-06-28 06:19:27,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,443511
+17TQM01-21, 2022-06-02 06:15:19,1SPT,300,Transcribed,Ken Burrell,None,Light,None,None,None,,443432
+17TMM11-9, 2022-07-08 06:00:05,1SPT,300,Transcribed,David Bell,,,,,,,443482
+17TMM64-5, 2022-06-30 05:54:15,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Light,None,,443393
+17TPM72-24, 2022-06-04 05:36:52,1SPT,300,Transcribed,David Bell,,,,,,,443505
+17TQM01-30, 2022-06-02 07:10:56,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None,light insect buzzing,443431
+17TNM99-OR1, 2022-06-23 09:09:52,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443515
+17TMM66-22, 2022-06-28 06:38:02,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Moderate,Light,None,,443503
+17TPM54-ON3, 2022-06-13 08:18:05,1SPT,300,Transcribed,David Bell,,,,,,,443492
+17TQM02-13, 2022-06-02 07:37:36,1SPT,300,Transcribed,David Bell,,,,,,,443438
+17TMM22-33, 2022-07-06 08:15:52,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Light,None,,443506
+17TNM99-29, 2022-06-23 06:46:37,1SPT,300,Transcribed,David Bell,,,,,,,443426
+17TMM21-32, 2022-07-04 06:09:03,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,443451
+17TPM06-28, 2022-06-24 05:37:06,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,None,None,,443401
+17TPM06-16, 2022-06-24 09:03:38,1SPT,300,Transcribed,Brandon Holden,None,None,Light,None,None,,443404
+17TQM20-11, 2022-05-30 08:32:10,1SPT,300,Transcribed,Brandon Holden,,,,,,,443442
+17TQM11-36, 2022-05-31 09:46:40,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,None,None,,443444
+17TQM20-9, 2022-05-30 08:48:55,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,443448
+17TMM11-37, 2022-07-08 07:29:13,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Moderate,None,None,,443418
+17TPM91-OR1, 2022-06-08 08:25:26,1SPT,300,Transcribed,Matthew Timpf,Light,Moderate,None,Moderate,None, Some sustained periods of insect buzzing. Rapid fire calls of LEFL's also made hearing somewhat challenging,443455
+17TPM52-36, 2022-06-14 08:51:56,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,443470
+17TPM72-22, 2022-06-04 06:12:15,1SPT,300,Transcribed,Matthew Timpf,,,,,,,443461
+17TPM25-OR2, 2022-06-22 09:45:58,1SPT,300,Transcribed,David Bell,,,,,,,443486
+17TPM52-20, 2022-06-14 09:31:39,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,some light traffic,443478
+17TPM54-ON2, 2022-06-13 07:51:13,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Light,None,,443517
+17TPM82-4, 2022-06-05 08:03:52,1SPT,300,Transcribed,Matthew Timpf,Light,Light,None,Light,None,,443472
+17TPM92-OR2, 2022-06-06 08:52:09,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Light,None,,443507
+17TPM91-B, 2022-06-08 06:23:35,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Light,None,,443465
+17TMM11-OR2, 2022-07-08 08:03:43,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443496
+17TPM82-OR1, 2022-06-05 05:58:19,1SPT,300,Transcribed,David Bell,,,,,,,443519
+17TMM95-UNKN1, 2022-06-29 06:29:45,1SPT,300,Transcribed,Joshua Vandermeulen,None,None,Light,None,None,,443509
+17TPM82-19, 2022-06-05 09:20:23,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Light,None,,443476
+17TMM95-40, 2022-06-29 06:49:25,1SPT,300,Transcribed,Amanda Guercio,None,None,Moderate,None,None,,443459
+17TMM22-40, 2022-07-06 07:31:58,1SPT,300,Transcribed,Nathan Hood,None,Moderate,Moderate,None,None,,443483
+17TNM87-3, 2022-06-20 07:39:57,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Light,None,,443456
+17TPM25-ON1, 2022-06-22 06:40:40,1SPT,300,Transcribed,David Bell,None,Moderate,None,Moderate,Both Sides Extra Static,,443490
+17TPM43-ON1, 2022-06-16 06:48:34,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Moderate,None,,443462
+17TMM21-24, 2022-07-04 07:48:51,1SPT,300,Transcribed,Dominic Cormier,Light,Light,Light,Light,None,,443473
+17TPM54-38, 2022-06-13 06:16:53,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443489
+17TMM21-2, 2022-07-04 08:07:24,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443495
+17TNM87-27, 2022-06-20 07:13:05,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Light,None,,443475
+17TPM25-ON2, 2022-06-22 07:20:24,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Light,None,,443452
+17TPM91-32, 2022-06-08 06:57:39,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443501
+17TPM06-32, 2022-06-24 07:57:52,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Light,None,,443484
+17TMM11-5, 2022-07-08 06:47:03,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Light,None,,443479
+17TMM66-40, 2022-06-28 05:48:48,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443481
+17TPM43-ON2, 2022-06-16 08:02:51,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Moderate,None,,443487
+16TCU77-3, 2022-06-18 07:59:52,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,None,Passing vehicle.,445059
+16TCU65-11, 2022-06-23 07:11:22,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,445064
+17TPM91-27, 2022-07-07 09:14:48,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Light,None,,443469
+16TCU65-5, 2022-06-25 07:32:45,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,445077
+16TCU65-7, 2022-06-23 07:01:32,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,445083
+16TCU77-9, 2022-06-18 08:51:01,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,445086
+17TMM95-OR1, 2022-06-29 09:16:35,1SPT,300,Transcribed,Joshua Vandermeulen,None,Light,None,Moderate,None,,443504
+17TMM66-OR1, 2022-06-28 08:10:54,1SPT,300,Transcribed,Joshua Vandermeulen,None,None,None,Moderate,None,lots of noise -can't tell if its rain or something else,443514
+16TCU65-4, 2022-06-27 06:40:43,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,445091
+16TCU78-10, 2022-06-26 07:06:12,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,None,Noise from mosquitoes buzzing microphone.,445024
+16TCU66-6, 2022-06-25 09:00:27,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,445030
+16TCU76-15, 2022-06-19 07:08:38,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,445036
+16TCU78-4, 2022-06-20 06:50:07,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,445099
+16TCU77-13, 2022-06-22 06:49:36,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,Light breeze near end of recording.,445046
+17UMQ17-15, 2022-06-13 09:31:47,1SPT,300,Transcribed,Donald Sutherland,None,Moderate,None,Light,None,Wind moderate (probably too windy to conduct count). Several vehicles passing during count.,445051
+16TCU66-11, 2022-06-23 06:38:36,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,None,Running water. Passing vehicle.,445056
+17UMQ17-4, 2022-06-13 08:28:56,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,None,Two passing vehicles.,445109
+16TCU65-16, 2022-06-23 07:21:49,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,445123
+17TPM54-ON1, 2022-06-13 07:16:24,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,443546
+17TMM21-30, 2022-07-04 08:41:29,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443529
+17TPM92-36, 2022-06-06 06:54:11,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Heavy,None,some loud traffic at times,443543
+17TPM06-ON2, 2022-06-24 06:07:44,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443531
+17TPM92-OR3, 2022-06-06 09:25:45,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443526
+17UMQ17-OR4, 2022-06-14 08:00:06,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,None,Some hammering from nearby residences.,445025
+17TMM64-25, 2022-06-30 06:35:54,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Light,Light,None,,443493
+17UMQ17-16, 2022-06-13 10:09:33,1SPT,300,Transcribed,Donald Sutherland,Light,Light,None,None,None,"Rain and wind light to moderate, particularly toward the end when song ceased altogether.",445031
+17UMQ07-5, 2022-06-14 09:39:39,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,445053
+16TCU67-1, 2022-06-24 07:32:19,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,None,Overflying plane. Coughing observer.,445071
+17UMQ17-OR3, 2022-06-14 07:24:13,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,None,Light to moderate noise from branch rubbing on the microphone. Mosquitoes buzzing around microphone.,445103
+17TPM91-7, 2022-07-07 08:58:47,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Light,Light,None,,443499
+17TPM25-OR1, 2022-06-05 10:32:02,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443538
+16TCU77-5, 2022-06-18 07:44:23,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,None,two passing vehicles,445125
+16TCU67-12, 2022-06-24 06:33:16,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,445045
+17TNM99-ON3, 2022-06-23 08:42:29,1SPT,300,Transcribed,Amanda Guercio,Light,Moderate,None,None,None,,443540
+17UMQ07-6, 2022-06-14 10:21:10,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,445094
+16TCU66-18, 2022-06-19 07:32:03,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,None,Two passing vehicles.,445118
+17TNM99-OR2, 2022-06-23 09:48:20,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,443522
+17TPM06-OR1, 2022-06-24 08:34:04,1SPT,300,Transcribed,Dominic Cormier,,,,,,,443512
+17TMM66-35, 2022-06-28 07:25:52,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Light,None,None,"
+",443535
+17TPM52-22, 2022-06-14 06:55:03,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,443520
+17TPM91-14, 2022-07-07 07:35:39,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,443516
+16TCU66-21, 2022-06-25 10:04:10,1SPT,300,Transcribed,Donald Sutherland,Light,Light,None,None,None,"Noise from light wind, light rain or both suppressed/obliterated bird song.",445092
+17TMK83-21, 2022-06-20 06:24:18,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Light,None,,443551
+17TPM43-OR1, 2022-06-15 07:19:39,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,None,None,,443537
+17TMM21-10, 2022-07-04 06:40:05,1SPT,300,Transcribed,David Bell,,,,,,,443530
+16TCU66-19, 2022-06-25 08:32:39,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Moderate,None,Observer and dog making light to moderate noise.,445065
+17TPM25-OR1, 2022-06-22 09:07:29,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443539
+16TCU67-4, 2022-06-24 07:11:56,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,445079
+17TNM87-28, 2022-06-20 08:01:29,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,443524
+16TCU67-9, 2022-06-24 06:23:13,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,Overfly jet,445087
+17UMQ17-17, 2022-06-14 07:47:38,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,None,"Construction noise, hammering and power saws.",445102
+16TCU65-9, 2022-06-25 07:20:44,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Both Sides Extra Static,Poor recording with persistent hiss in both channels. Sounds like it could have been raining. Light wind. Low bird song.,445097
+17TPM91-13, 2022-07-07 07:52:47,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443523
+17TPM06-21, 2022-06-24 07:27:26,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Moderate,None,moderate traffic noise at times,443527
+16TCU77-10, 2022-06-22 06:25:10,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,445111
+16TCU77-OR1, 2022-06-26 07:54:56,1SPT,300,Transcribed,Donald Sutherland,Light,Light,Light,Moderate,None,Rain drops falling from trees. Light breeze. Observer and dog crunching around and dog panting. Drone of perhaps logging operations in background.,445062
+17TNM99-ON2, 2022-06-23 08:28:27,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443542
+16TCU76-12, 2022-06-19 07:19:23,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,None,Passing vehicle.,445026
+16TCU66-10, 2022-06-23 06:20:58,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,445068
+16TCU77-11, 2022-06-18 08:39:16,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,None,Passing logging truck.,445032
+16TCU77-19, 2022-06-18 06:41:08,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,445038
+17TMM22-OR1, 2022-07-06 09:58:47,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,None,None,,443534
+17TMM21-OR2, 2022-07-04 10:28:04,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,n,443532
+16TCU76-5, 2022-06-19 08:13:11,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,None,Overflying plane.,445084
+17UMQ17-7, 2022-06-13 06:02:36,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,445050
+16TCU67-5, 2022-06-24 07:02:06,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,445112
+17UMQ17-24, 2022-06-14 09:54:54,1SPT,300,Transcribed,Donald Sutherland,,,,,,,445057
+16TCU78-7, 2022-06-26 06:52:57,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,None,Passing vehicle.,445073
+17UMQ17-5, 2022-06-13 06:49:52,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Moderate,None,Light to moderate noise from breaking waves obscuring song.,445044
+16TCU67-13, 2022-06-24 06:03:37,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,445113
+17TPM92-36, 2022-06-06 06:17:58,1SPT,300,Transcribed,David Bell,,,,,,,443528
+17TMM64-20, 2022-06-30 06:49:01,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,443545
+16TCU66-3, 2022-06-25 08:15:52,1SPT,300,Transcribed,Amanda Guercio,None,Light,None,None,None,,445119
+17TPM06-ON1, 2022-06-24 05:54:31,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443536
+16TCU77-26, 2022-06-22 06:01:41,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,445028
+16TCU77-18, 2022-06-17 06:44:31,1SPT,300,Transcribed,Donald Sutherland,None,Moderate,None,Light,None,"Wind light to moderate, particularly during latter half of the recording. Passing vehicle.",445033
+16TCU77-8, 2022-06-22 07:11:54,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,445043
+17UMQ17-20, 2022-06-14 07:02:31,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,None,None,,445124
+16TCU77-14, 2022-06-19 08:48:31,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,445054
+16TCU78-6, 2022-06-18 09:45:20,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,None,"Light to moderate noise from road traffic, overflying plane and barking dog.",445070
+17UMQ17-19, 2022-06-13 08:58:14,1SPT,300,Transcribed,Donald Sutherland,None,Moderate,None,Light,None,Wind moderate to heavy. Too strong for count. Two passing vehicles.,445075
+16TCU66-15, 2022-06-25 09:39:51,1SPT,300,Transcribed,Donald Sutherland,Light,Light,None,None,Both Sides Extra Static,Poor quality recording. Sounds like light rain. Considerable hiss/static on both channels.,445082
+17TMM11-18, 2022-07-08 05:12:06,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Light,None,"
+",443525
+17TPM92-OR1, 2022-06-06 08:20:04,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Light,None,"
+",443533
+17TMM11-OR3, 2022-07-08 08:45:41,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Heavy,None,None,,443541
+16TCU67-14, 2022-06-24 08:08:05,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,445106
+17TNJ44-24, 2022-06-17 06:45:03,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,443555
+16TCU66-8, 2022-06-25 09:13:43,1SPT,300,Transcribed,David Bell,,,,,,,445081
+16TCU67-8, 2022-06-24 06:13:30,1SPT,300,Transcribed,David Bell,,,,,,,445101
+16TCU76-1, 2022-06-19 06:32:11,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,445027
+17TMK83-26, 2022-06-21 07:01:47,1SPT,300,Transcribed,Amanda Guercio,Light,Moderate,None,None,None,,443556
+17UMQ17-14, 2022-06-13 08:46:31,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,None,Some vehicle noise.,445037
+17UMQ17-14, 2022-06-13 07:26:36,1SPT,300,Transcribed,David Bell,,,,,,,445108
+16TCU66-13, 2022-06-19 07:45:58,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,Both channels cut out intermittently,Passing vehicle. Both channels failed for around 1s at 217s.,445076
+17TNJ44-11, 2022-06-16 07:15:16,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Light,Light,None,,443579
+17TPM91-31, 2022-07-07 08:40:07,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None,Background traffic. Location on map does not seem to match the species/animals detected.,443544
+17TNJ44-21, 2022-06-17 05:57:49,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Moderate,Light,None,"
+",443548
+17TMK83-9, 2022-06-19 08:44:10,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,None,None,,443560
+17TMK73-12, 2022-06-22 07:34:47,1SPT,300,Transcribed,Amanda Guercio,Moderate,Moderate,None,None,None,,443547
+17TMK73-1, 2022-06-22 07:13:03,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Light,Light,None,"
+",443566
+17TMK83-25, 2022-06-21 07:14:35,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,,443549
+16TCU65-6, 2022-06-25 06:35:36,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,445029
+16TCU76-4, 2022-06-19 08:03:05,1SPT,300,Transcribed,David Bell,,,,,,,445074
+17TMK83-UNKN1, 2022-06-20 08:09:02,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,None,None,,443557
+17TNJ44-6, 2022-06-24 08:40:13,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Light,None,,443576
+17TNJ44-12, 2022-06-16 08:07:43,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Moderate,None,brief loud traffic near end of recording ,443561
+16TCU65-15, 2022-06-25 06:24:14,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,445035
+17UMQ17-OR2, 2022-06-14 06:25:00,1SPT,300,Transcribed,David Bell,,,,,,,445089
+17UMQ07-17, 2022-06-14 10:07:53,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,445090
+16TCU66-4, 2022-06-25 08:50:31,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Light,None,,445040
+17TNJ44-UNKN1, 2022-06-24 09:03:15,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None,some light traffic,443583
+17TNJ44-20, 2022-06-24 07:47:11,1SPT,300,Transcribed,Ken Burrell,None,None,Moderate,None,None,,443577
+16TCU77-12, 2022-06-19 06:21:33,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,445048
+17UMQ17-1, 2022-06-13 08:01:41,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,445117
+17TNJ44-18, 2022-06-24 08:07:29,1SPT,300,Transcribed,Sean Jenniskens,None,None,Light,Moderate,None,,443570
+16TCU65-8, 2022-06-23 07:56:49,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,445055
+17UMQ17-18, 2022-06-13 09:14:04,1SPT,300,Transcribed,Brandon Holden,None,Heavy,Moderate,Light,None,,445069
+16TCU66-2, 2022-06-25 07:43:05,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,445100
+16TCU66-12, 2022-06-23 06:49:35,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",445063
+17TNJ44-14, 2022-06-24 09:47:09,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Light,None,,443574
+16TCU76-2, 2022-06-19 08:24:45,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,445034
+17TNJ44-1, 2022-06-17 08:24:40,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Moderate,Light,None,,443586
+17TMK83-5, 2022-06-21 07:29:36,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,None,None,,443571
+17TMK73-28, 2022-06-22 06:38:20,1SPT,300,Transcribed,Amanda Guercio,None,Heavy,None,None,None,,443552
+17TMK83-24, 2022-06-20 08:30:55,1SPT,300,Transcribed,Amanda Guercio,None,None,Moderate,None,None,,443568
+16TCU78-3, 2022-06-20 06:41:04,1SPT,300,Transcribed,Nathan Hood,None,Moderate,Moderate,None,None,,445107
+17UMQ17-OR5, 2022-06-14 08:26:03,1SPT,300,Transcribed,Nathan Hood,None,None,Moderate,None,None,,445116
+17TMK83-3, 2022-06-19 09:10:42,1SPT,300,Transcribed,Amanda Guercio,None,Light,None,Light,None,,443567
+16TCU65-2, 2022-06-27 06:51:30,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,445088
+16TCU78-2, 2022-06-18 09:54:24,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,445041
+17TMK73-UNKN1, 2022-06-22 06:01:45,1SPT,300,Transcribed,Matthew Timpf,None,Heavy,None,None,None,,443581
+17TNJ44-9, 2022-06-24 06:26:18,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,None,None,,443572
+16TCU67-21, 2022-06-26 08:34:30,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,445047
+16TCU65-1, 2022-06-25 06:58:31,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,445049
+17TMK83-6, 2022-06-20 09:28:58,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Moderate,None,,443554
+16TCU67-6, 2022-06-24 06:52:16,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,None,,445039
+17TMK83-8, 2022-06-20 07:37:39,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Moderate,None,constant distant traffic,443578
+16TCU77-6, 2022-06-22 06:37:29,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,None,brief period of a dog running by,445126
+17TNJ44-3, 2022-06-24 06:48:02,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,443558
+16TCU78-5, 2022-06-20 07:03:47,1SPT,300,Transcribed,Matthew Timpf,Moderate,Light,None,Moderate,None,"loud passing vehicle mid way, cows mooing at times",445121
+17TNJ44-17, 2022-06-16 06:45:11,1SPT,300,Transcribed,Amanda Guercio,,,,,,,443564
+17TNJ44-22, 2022-06-24 07:04:33,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Moderate,None,Quite a bit of background traffic,443562
+16TCU66-9, 2022-06-23 06:08:52,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,445058
+16TCU67-2, 2022-06-24 07:21:26,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,Light,None,,445066
+17TNJ44-7, 2022-06-17 06:17:13,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Light,None,"
+",443569
+16TCU66-1, 2022-06-25 08:04:42,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,445078
+17TNJ44-13, 2022-06-24 08:21:25,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,443550
+16TCU65-14, 2022-06-25 06:47:45,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,445096
+16TCU76-11, 2022-06-19 06:43:45,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,None,,445110
+16TCU65-5, 2022-06-23 07:46:06,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,445085
+17UMQ17-OR1, 2022-06-14 06:03:45,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,445093
+16TCU77-1, 2022-06-22 06:11:47,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,445098
+16TCU77-20, 2022-06-19 06:12:25,1SPT,300,Transcribed,Adam Timpf,,,,,,,445104
+16TCU77-15, 2022-06-18 09:17:34,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,None,sounded like a dog/collar was rattling at times,445042
+17UMQ17-24, 2022-06-15 06:23:54,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,,445052
+16TCU77-18, 2022-06-18 06:19:46,1SPT,300,Transcribed,Adam Timpf,,,,,,,445080
+16TCU65-13, 2022-06-25 07:09:51,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,,445060
+16TCU78-25, 2022-06-20 07:37:05,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,445061
+17TMK73-9, 2022-06-22 07:47:46,1SPT,300,Transcribed,David Bell,,,,,,,443563
+17TNJ44-9, 2022-06-16 07:38:25,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Moderate,None,constant traffic in background with a few brief loud periods,443573
+17TMK83-17, 2022-06-20 06:00:27,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,443553
+16TCU78-1, 2022-06-20 07:16:23,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,445114
+16TCU77-OR2, 2022-06-26 09:13:11,1SPT,300,Transcribed,Adam Timpf,None,Moderate,None,None,None,Seems windy. ,445072
+16TCU67-7, 2022-06-24 06:43:11,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,Light,None,,445067
+17TMK73-16, 2022-06-22 08:06:13,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,443582
+17TNJ44-19, 2022-06-17 07:51:42,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Light,None,,443580
+17TMK83-7, 2022-06-19 09:34:26,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Light,None,"
+",443559
+17TNJ44-28, 2022-06-17 07:32:27,1SPT,300,Transcribed,Brandon Holden,None,Heavy,None,Light,None,,443584
+17TMK83-6, 2022-06-20 06:45:19,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Light,Light,None,,443565
+17TMK73-25, 2022-06-22 06:59:58,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Moderate,None,,443575
+17TNL98-7, 2022-06-21 08:19:45,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,a few heavy wind gusts,443591
+17TMK73-17, 2022-06-22 06:23:46,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Moderate,Moderate,None,,443585
+16TCU77-1, 2022-06-18 08:27:38,1SPT,300,Transcribed,Adam Timpf,None,None,None,Light,None,a plane flying by?,445105
+16TCU66-7, 2022-06-25 07:54:01,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,445122
+16TCU65-10, 2022-06-23 07:33:56,1SPT,300,Transcribed,Adam Timpf,None,None,None,Light,None,1 vehicle,445115
+16TCU77-22, 2022-06-22 07:00:39,1SPT,298.45,Transcribed,Adam Timpf,None,None,None,Light,None,some footsteps,445120
+16TCU76-3, 2022-06-19 06:55:03,1SPT,300,Transcribed,Adam Timpf,None,None,None,Light,None,vehicle drove by once loudly,445095
+17TNL98-5, 2022-06-21 06:44:11,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Moderate,Light,None,,443592
+17TNL98-12, 2022-06-21 08:04:01,1SPT,300,Transcribed,Amanda Guercio,None,Moderate,Light,None,None,,443587
+17TNL98-2, 2022-06-21 07:06:04,1SPT,300,Transcribed,Brandon Holden,None,Heavy,Moderate,Light,None,"
+",443589
+17TNM29-OR3, 2022-06-08 08:57:35,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,airplane at end of recording,443597
+17TNL98-OR1, 2022-06-22 07:22:55,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",443590
+17TNM29-OR2, 2022-06-08 08:20:48,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Moderate,None,,443593
+17TNM29-OR5, 2022-06-08 10:00:56,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,"A few moderate gusts of wind, but mostly light",443594
+17TNM29-OR1, 2022-06-08 07:38:26,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Moderate,None,,443596
+17TNM29-OR4, 2022-06-08 09:28:50,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Moderate,None,quite a lot of insect buzzing at times,443595
+17TNM99-31, 2022-06-23 06:06:25,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Moderate,Both Sides Extra Static,Some distant traffic/plane noise?,443653
+17TPM43-5, 2022-06-15 06:52:59,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Moderate,None,"
+",443618
+17TQM12-OR1, 2022-06-03 09:13:48,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Moderate,None,,443645
+17TPM72-7, 2022-06-04 06:08:40,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Moderate,Light,None,"
+",443646
+17TMK80-15, 2022-05-25 07:29:37,1SPT,300,Transcribed,Brandon Holden,None,Heavy,None,None,None,,443657
+17TPM54-29, 2022-06-13 07:07:11,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443659
+17TPM91-7, 2022-06-08 08:02:18,1SPT,300,Transcribed,Joshua Vandermeulen,None,Light,None,Moderate,None,mosquito buzzing,443638
+17TPM25-OR2, 2022-06-22 07:55:21,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,None,None,Person recording is making a lot of noise... Also doesn't seem to be able to time 5 minutes?,443662
+17TQM12-OR2, 2022-06-03 10:01:03,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Moderate,None,Person recording is making a lot of noise... ,443661
+17TQM20-10, 2022-05-30 08:35:44,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Moderate,None,,443626
+17TNM99-OR1, 2022-06-23 08:59:16,1SPT,300,Transcribed,Matthew Timpf,Light,Moderate,None,Moderate,None,brief loud traffic at end,443635
+17TPM43-13, 2022-06-15 06:29:36,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,443620
+17TPM82-36, 2022-06-05 08:39:11,1SPT,300,Transcribed,David Bell,,,,,,,443599
+17TPM91-1, 2022-06-08 06:20:09,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Light,None,,443628
+17TPM52-UNKN1, 2022-06-14 06:53:32,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443598
+17TQM01-39, 2022-06-02 06:25:14,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Light,None,,443648
+17TPM43-8, 2022-06-15 07:14:34,1SPT,300,Transcribed,Nathan Hood,None,None,None,Moderate,Left channel cuts out intermittently,,443654
+17TQM20-7, 2022-05-30 09:07:59,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,Light,None,,443608
+17TPM82-OR1, 2022-06-05 10:10:30,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443629
+17TQM12-21, 2022-06-03 09:31:57,1SPT,300,Transcribed,Brandon Holden,Light,Moderate,Light,Light,None,,443604
+17TPM43-1, 2022-06-16 06:30:22,1SPT,300,Transcribed,Amanda Guercio,None,Light,None,None,None,,443631
+17TQM01-23, 2022-06-01 20:55:08,1SPT,300,Transcribed,David Bell,None,None,None,Moderate,Other issues,"feedback at start, mosquitoes",443619
+17TQM20-2, 2022-05-30 08:58:25,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443613
+17TQM11-26, 2022-05-31 07:41:33,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443634
+17TPM43-6, 2022-06-15 06:16:22,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Heavy,Both Sides Extra Static,,443649
+17TQM01-16, 2022-06-02 06:46:47,1SPT,300,Transcribed,Brandon Holden,None,None,None,None,None,,443622
+17TPM25-OR1, 2022-06-22 06:40:20,1SPT,300,Transcribed,Joshua Vandermeulen,None,None,None,Light,None,,443667
+17TQM12-14, 2022-06-03 07:59:04,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,Left Side Extra Static,,443639
+17TPM52-12, 2022-06-14 06:21:40,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None,Traffic near end of recording,443651
+17TPM52-2, 2022-06-14 05:48:39,1SPT,300,Transcribed,Matthew Timpf,None,None,None,None,None,,443641
+17TQM11-13, 2022-05-31 07:54:14,1SPT,300,Transcribed,David Bell,,,,,,,443600
+17TQM01-OR1, 2022-06-02 07:13:38,1SPT,300,Transcribed,David Bell,,,,,,,443610
+17TPM54-OR3, 2022-06-13 08:09:18,1SPT,300,Transcribed,David Bell,,,,,,,443617
+17TPM82-40, 2022-06-05 07:55:46,1SPT,300,Transcribed,David Bell,,,,,,,443625
+17TQM11-5, 2022-05-31 07:27:40,1SPT,300,Transcribed,Brandon Holden,None,None,Light,Light,None,"
+",443644
+17TPM52-8, 2022-06-14 07:56:55,1SPT,300,Transcribed,Brandon Holden,None,None,None,None,None,,443658
+17TNM87-33, 2022-06-20 07:08:26,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Moderate,None,Recorder keeps rustling making analysis difficult ,443609
+17TPM72-14, 2022-06-04 05:32:49,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Heavy,Moderate,None,,443624
+17TPM82-20, 2022-06-05 09:50:50,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443602
+17TPM43-29, 2022-06-15 06:00:41,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Moderate,None,The person recording is making a lot of noise ,443655
+17TNM87-OR1, 2022-06-20 08:50:15,1SPT,300,Transcribed,David Bell,,,,,,,443630
+17TPM43-OR1, 2022-06-16 07:42:30,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443605
+17TNM88-10, 2022-06-20 06:01:30,1SPT,300,Transcribed,Brandon Holden,None,None,None,Light,None,,443663
+17TQM20-12, 2022-05-30 09:21:36,1SPT,300,Transcribed,Amanda Guercio,None,Light,None,None,None,,443643
+17TPM54-6, 2022-06-13 07:40:35,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Moderate,None,A couple heavy traffic occurences,443606
+17TPM82-21, 2022-06-05 06:29:47,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,443623
+17ULR30-10, 2022-07-05 07:23:06,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443079
+17TNM88-40, 2022-06-20 05:40:30,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,Left Side Extra Static,,443650
+17TQM02-1, 2022-06-01 09:25:30,1SPT,300,Transcribed,Ken Burrell,None,Light,Light,Light,None,,443652
+17TPM43-32, 2022-06-15 06:41:02,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None,Some human shuffling at beginning of recording,443660
+17TQM11-12, 2022-05-31 09:40:24,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,443633
+17TQM02-36, 2022-06-01 07:59:27,1SPT,300,Transcribed,David Bell,,,,,,,443603
+17TPM52-5, 2022-06-14 06:03:18,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Moderate,None,Recorder needs to stop moving around... ,443607
+17TPM43-19, 2022-06-16 07:06:09,1SPT,300,Transcribed,David Bell,,,,,,,443615
+17TPM91-38, 2022-06-08 05:48:19,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,443636
+17TQM20-8, 2022-05-30 08:47:17,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Light,None,,443642
+17TQM20-13, 2022-05-30 08:08:50,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Light,Light,None,,443627
+17TPM52-13, 2022-06-14 07:15:11,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443611
+17TQM12-1, 2022-06-03 06:45:01,1SPT,300,Transcribed,Nathan Hood,None,Light,Moderate,None,None,,443632
+17TPM52-39, 2022-06-14 09:20:27,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Moderate,None,Person recording is making a lot of noise... ,443665
+17TQM11-4, 2022-05-31 09:30:22,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443637
+17TQM02-21, 2022-06-01 09:45:20,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443612
+17TQM11-16, 2022-05-31 06:14:40,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",443616
+17TNM99-7, 2022-06-23 05:54:13,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Light,Left Side Extra Static,,443601
+17TPM54-OR2, 2022-06-13 07:55:24,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443647
+17TPM52-OR1, 2022-06-14 09:00:19,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Moderate,None,The person recording is making a lot of noise ,443656
+17TPM54-OR4, 2022-06-13 08:21:30,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443621
+17TPM54-OR1, 2022-06-13 06:54:01,1SPT,300,Transcribed,Brandon Holden,None,None,None,Light,None,,443640
+17TLP30-7, 2022-06-08 06:46:52,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Moderate,Moderate,None,,443143
+17TPM72-10, 2022-06-04 06:23:24,1SPT,300,Transcribed,Amanda Guercio,Heavy,Light,None,None,None,,443614
+17TPM52-3, 2022-06-14 07:40:09,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,None,None,,443664
+17TMM11-14, 2022-07-08 08:32:49,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Moderate,Left Side Extra Static,"Person recording is making a lot of noise... It's possible their cell phone, near the recorder, is causing the static?? Or just their movement / static electricity?? ",443680
+17TNM99-UNKN1, 2022-06-23 10:15:17,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,Light,None,,443666
+17TMM95-4, 2022-06-29 09:14:30,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Moderate,None,person recording is making a lot of noise ,443715
+17TMM11-11, 2022-07-08 06:07:13,1SPT,300,Transcribed,Brandon Holden,None,None,Light,Moderate,Left channel cuts out intermittently,,443720
+17TPM06-OR2, 2022-06-24 08:21:30,1SPT,300,Transcribed,Amanda Guercio,None,Moderate,None,Light,None,,443726
+17TMM11-16, 2022-07-08 05:51:57,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Light,None,,443723
+17TMM22-37, 2022-07-06 08:19:34,1SPT,300,Transcribed,Matthew Timpf,None,Heavy,None,None,None,,443673
+17TLM91-8, 2022-07-07 06:47:24,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None,Distant traffic,443675
+16UDV30-OR8, 2022-07-05 06:03:31,1SPT,300,Transcribed,Brandon Holden,Light,Light,None,Light,None,,443735
+17TMM64-UNKN1, 2022-06-30 07:07:30,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Moderate,Left Side Extra Static,"Some periods of static, some traffic near the end",443669
+17TMM11-35, 2022-07-08 06:47:17,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Light,Left Side Extra Static,,443707
+17TLM91-UNKN2, 2022-07-07 10:02:10,1SPT,300,Transcribed,Amanda Guercio,None,Heavy,Light,Moderate,None,,443698
+17TMM11-10, 2022-07-08 09:41:26,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,443687
+17TMM66-OR1, 2022-06-28 08:25:27,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Moderate,Light,None,,443697
+16UDV30-OR5, 2022-07-04 08:54:00,1SPT,300,Transcribed,Brandon Holden,None,None,None,Light,None,"
+",443738
+17TMM95-15, 2022-06-29 07:22:29,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443678
+17TMM22-2, 2022-07-06 07:13:30,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,None,A few mooing cows? A few heavy gusts of wind.,443708
+17TMM95-5, 2022-06-29 06:38:30,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Moderate,None,"
+",443731
+17TMM64-40, 2022-06-30 05:54:22,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,Left Side Extra Static,Some static at times,443716
+17TMM21-29, 2022-07-04 09:11:20,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Moderate,Left Side Extra Static,Person recording is making a lot of noise... ,443672
+17TPM06-25, 2022-06-24 06:43:30,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None,Distant road traffic,443676
+17TMM11-3, 2022-07-08 05:33:26,1SPT,300,Transcribed,David Bell,,,,,,,443679
+17TMM21-12, 2022-07-04 06:08:26,1SPT,300,Transcribed,Ken Burrell,Light,None,Light,None,None,,443710
+17TLM91-21, 2022-07-07 05:52:11,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Light,None,,443670
+17TMM66-23, 2022-06-28 10:05:23,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Heavy,Moderate,None,,443689
+17TMM22-11, 2022-07-06 06:48:30,1SPT,300,Transcribed,Brandon Holden,None,Heavy,Light,None,None,"
+",443699
+17TMM21-5, 2022-07-04 07:59:30,1SPT,300,Transcribed,Brandon Holden,None,None,Light,None,None,,443706
+17TMM22-35, 2022-07-06 08:02:22,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,Both Sides Extra Static,Static from a cell phone signal? ,443714
+17TPM06-1, 2022-06-24 05:43:20,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Moderate,None,"
+",443719
+17TMM21-OR1, 2022-07-04 10:19:30,1SPT,300,Transcribed,David Bell,,,,,,,443668
+17TMM85-40, 2022-06-27 05:36:14,1SPT,300,Transcribed,Joshua Vandermeulen,None,Moderate,Light,Moderate,None,traffic noise,443674
+17TMM95-7, 2022-06-29 05:47:30,1SPT,300,Transcribed,David Bell,,,,,,,443690
+17TPM06-OR1, 2022-06-24 08:02:30,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,Distant traffic,443730
+17TMM85-36, 2022-06-27 05:48:16,1SPT,300,Transcribed,Amanda Guercio,None,Heavy,None,None,None,,443704
+16UDV30-OR6, 2022-07-04 10:01:29,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,None,wind/wave noise throughout,443736
+17TMM66-20, 2022-06-28 07:46:30,1SPT,300,Transcribed,Brandon Holden,None,Light,Heavy,Light,None,too much traffic ,443688
+17TLM91-UNKN1, 2022-07-07 08:27:29,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,443713
+17TMM21-18, 2022-07-04 06:24:30,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Moderate,None,,443727
+17TMM64-14, 2022-06-30 06:18:21,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Heavy,None,Recordist shuffling around throughout,443691
+17TMM95-27, 2022-06-29 08:57:25,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443671
+16UDV30-OR3, 2022-07-04 07:40:01,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443739
+17TPM06-14, 2022-06-24 05:26:20,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Light,None,"
+",443683
+17TMM11-8, 2022-07-08 06:31:40,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443705
+17TPM06-3, 2022-06-24 07:25:30,1SPT,300,Transcribed,David Bell,None,Light,Moderate,Light,None,,443681
+16UDV30-OR9, 2022-07-05 06:49:46,1SPT,300,Transcribed,Amanda Guercio,None,Light,None,None,None,,443741
+17TLM91-10, 2022-07-07 07:32:58,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Moderate,None,"
+",443717
+17TMM21-13, 2022-07-04 05:44:30,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,443721
+17TMM66-36, 2022-06-28 06:16:23,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443725
+17TMM64-4, 2022-06-30 06:32:21,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Heavy,Both Sides Extra Static,Cell phone static?? From observer - lots of moving around noise too... ,443702
+16UDV30-OR7, 2022-07-04 10:39:13,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Moderate,None,Water lapping on shore throughout,443740
+17TMM11-21, 2022-07-08 07:49:57,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Moderate,None,traffic noise at times,443700
+17TMM22-36, 2022-07-06 08:37:24,1SPT,300,Transcribed,Amanda Guercio,None,Heavy,None,None,None,,443701
+17TMM64-30, 2022-06-30 06:07:24,1SPT,300,Transcribed,Joshua Vandermeulen,None,None,None,Heavy,Left Side Extra Static,,443709
+17TMM21-27, 2022-07-04 07:28:30,1SPT,300,Transcribed,Matthew Timpf,Light,None,None,Light,Both Sides Extra Static,Some light traffic and a little bit of static in the middle,443732
+17TMM66-24, 2022-06-28 07:28:20,1SPT,300,Transcribed,David Bell,,,,,,,443692
+17TMM21-16, 2022-07-04 08:31:30,1SPT,300,Transcribed,Brandon Holden,None,Light,Heavy,None,None,,443682
+17TMM95-37, 2022-06-29 07:05:30,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Moderate,None,Traffic in background,443724
+17TLM91-OR1, 2022-07-07 06:29:29,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Moderate,None,The person recording is making near constant noise... ,443728
+17TMM64-2, 2022-06-30 06:58:20,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,443722
+17TLM91-6, 2022-07-07 09:19:35,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Moderate,None,some squirrel chatter and traffic,443694
+17TLM91-1, 2022-07-07 07:01:48,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Moderate,None,"the person recording is making a lot of noise 
+",443711
+17TMM66-38, 2022-06-28 05:45:19,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Heavy,None,Some light traffic and heavy squirrel chatter at times,443729
+16UDV30-OR2, 2022-07-03 08:12:35,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443733
+17TMM22-31, 2022-07-06 07:26:30,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Light,None,"
+",443684
+16UDV30-OR4, 2022-07-04 08:27:46,1SPT,300,Transcribed,David Bell,,,,,,,443734
+17ULQ47-15, 2022-06-28 09:40:28,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443173
+17TMM66-34, 2022-06-28 09:40:25,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Heavy,Light,None,,443703
+17TMM22-39, 2022-07-06 05:33:30,1SPT,300,Transcribed,David Bell,,,,,,,443685
+17TMM21-8, 2022-07-04 07:44:25,1SPT,300,Transcribed,Timothy B. Lucas,Light,None,None,None,None,,443718
+17TPM11-2, 2022-06-20 08:02:00,1SPT,300,Transcribed,Brandon Holden,None,None,Light,Light,None,"
+",443742
+17TMM85-35, 2022-06-27 06:08:26,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Light,Light,None,"
+",443712
+17TMM21-28, 2022-07-04 08:47:24,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",443695
+17TPM10-17, 2022-06-28 08:31:57,1SPT,300,Transcribed,David Bell,None,Light,Light,Light,Both Sides Extra Static,,443746
+16UDV30-OR1, 2022-07-03 06:47:11,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443737
+17TPM11-23, 2022-06-20 08:57:00,1SPT,300,Transcribed,David Bell,,,,,,,443744
+17TPM10-28, 2022-06-28 08:13:56,1SPT,300,Transcribed,Brandon Holden,Light,Light,Moderate,Light,None,"
+",443747
+17TPM11-6, 2022-06-20 08:16:00,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443743
+16UDV21-OR1, 2022-07-04 07:14:00,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Moderate,None,Person talking/walking away during start of recording,443753
+16UDV21-OR4, 2022-07-04 08:55:00,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,443754
+16UDV21-OR7, 2022-07-04 10:40:00,1SPT,300,Transcribed,Matthew Timpf,,,,,,,443755
+16UDV21-OR2, 2022-07-04 07:47:00,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443758
+16UDV21-OR5, 2022-07-04 09:30:00,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443757
+16UDV21-OR6, 2022-07-04 10:11:00,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443756
+16UDV21-OR3, 2022-07-04 08:18:00,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None," Some talking at the beginning of recording, as well as some heavy wind gusts",443759
+17ULQ92-M, 2022-06-22 06:11:46,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,443170
+16UDV21-OR8, 2022-07-05 08:41:00,1SPT,300,Transcribed,Brandon Holden,Moderate,Moderate,None,Moderate,None,,443762
+16TCU22-OR13, 2022-06-02 10:25:00,1SPT,300,Transcribed,David Bell,,,,,,,443767
+16UDV21-OR9, 2022-07-05 10:38:00,1SPT,300,Transcribed,Ken Burrell,Light,None,None,Light,None,,443766
+17TQM12-12, 2022-06-03 09:58:05,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Light,None,,441234
+17TQM01-5, 2022-06-02 08:14:34,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,441240
+17TMK80-34, 2022-05-26 07:49:54,1SPT,300,Transcribed,Brandon Holden,None,Heavy,Moderate,Light,None,,441252
+16TCU22-OR14, 2022-06-02 10:42:00,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,Talking at beginning of recording,443768
+17TQM11-20, 2022-05-31 08:13:39,1SPT,300,Transcribed,David Bell,,,,,,,441231
+17TMK80-2, 2022-05-30 09:39:14,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,441227
+17TPM91-17, 2022-06-08 06:14:23,1SPT,300,Transcribed,Sean Jenniskens,Light,Light,None,Light,None,LIGHT RAIN STARTS MIDWAY,441237
+17TQM01-7, 2022-06-02 08:54:02,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,some occasional insect buzzing,441219
+17TQM02-23, 2022-06-01 08:21:28,1SPT,300,Transcribed,David Bell,None,Light,Light,Light,Other issues,some feedback at start and near end,441262
+17TMK80-30, 2022-05-26 10:11:50,1SPT,300,Transcribed,Ken Burrell,None,Heavy,None,None,None,,441258
+17TPM82-15, 2022-06-05 06:26:28,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,Both Sides Extra Static,Very brief period of heavy static,441248
+17TQM02-37, 2022-06-01 08:43:03,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Moderate,Left Side Extra Static,a few periods of moderate static,441254
+17TQM02-16, 2022-06-01 09:14:47,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,None,,441243
+17TQM02-24, 2022-06-01 09:55:16,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,Both Sides Extra Static,,441224
+16TCU22-OR15, 2022-06-02 10:58:00,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,443770
+17TMK80-22, 2022-05-30 09:21:30,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Moderate,None,,441244
+17TQM01-11, 2022-06-02 09:39:10,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,"
+",441267
+17TMK80-4, 2022-05-30 09:59:16,1SPT,300,Transcribed,Brandon Holden,None,Heavy,None,Light,None,,441247
+17TPM82-9, 2022-06-05 07:54:25,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,Both Sides Extra Static,,441257
+17TMK80-27, 2022-05-26 06:54:43,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Light,None,,441245
+17TPM91-2, 2022-06-08 10:31:12,1SPT,300,Transcribed,Brandon Holden,None,Heavy,None,None,None,,441250
+16TCU22-OR12, 2022-06-02 10:05:00,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,None,None,,443769
+17TPM92-12, 2022-06-06 08:19:01,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,441225
+17TPM92-OR1, 2022-06-06 06:50:13,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,,441221
+17TQM11-OR1, 2022-05-31 09:41:26,1SPT,300,Transcribed,Matthew Timpf,Light,None,None,Light,None,sounded like some very light rain at times ,441253
+17TPM82-2, 2022-06-05 06:54:56,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,441220
+17TQM11-19, 2022-05-31 07:17:25,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,flies are especially annoying on this one,441223
+17TPM92-14, 2022-06-06 07:26:14,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,441235
+17TPM82-10, 2022-06-05 08:08:09,1SPT,300,Transcribed,David Bell,None,Moderate,None,Light,Other issues,some feedback at start,441239
+17TQM12-10, 2022-06-03 09:28:44,1SPT,300,Transcribed,Brandon Holden,,,,,,,441228
+17TQM01-OR1, 2022-06-02 07:37:26,1SPT,300,Transcribed,David Bell,None,None,None,Moderate,None,mosquitoes,441242
+17TPM72-12, 2022-06-04 07:36:41,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,None,None,,441238
+17TPM82-OR1, 2022-06-05 09:39:39,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",441263
+17TMK80-11, 2022-05-26 07:21:37,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,None,Moderate wind with some heavier gusts. Cows mooing near end.,441233
+17TPM91-OR2, 2022-06-08 08:19:32,1SPT,300,Transcribed,Amanda Guercio,Light,Light,None,None,None,,441260
+17TPM91-11, 2022-06-08 10:12:32,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,Some heavy wind gusts,441249
+17TQM01-3, 2022-06-02 09:55:01,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,Both Sides Extra Static,brief period of heavy static at beginning,441266
+17TMK80-33, 2022-05-26 09:12:46,1SPT,300,Transcribed,David Bell,,,,,,,441265
+17TQM12-OR1, 2022-06-03 07:54:02,1SPT,300,Transcribed,Matthew Timpf,Moderate,None,None,Moderate,Both Sides Extra Static,"trickling water in background, overhead plane noise in second half of recording",441264
+17TMK80-19, 2022-05-26 09:27:32,1SPT,300,Transcribed,Brandon Holden,None,Heavy,Moderate,Light,None,,441229
+17TPM82-11, 2022-06-05 07:06:48,1SPT,300,Transcribed,Ken Burrell,None,None,None,None,None,,441236
+17TMK80-25, 2022-05-26 08:40:42,1SPT,300,Transcribed,Joshua Vandermeulen,None,Heavy,None,Heavy,None,"tons of wind and trucks driving by, impossible to hear most birds",441241
+17TPM72-36, 2022-06-04 07:10:26,1SPT,300,Transcribed,Amanda Guercio,,,,,,,441256
+17TQM01-19, 2022-06-02 06:35:01,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,Both channels cut out intermittently,,441259
+17TQM02-26, 2022-06-01 09:39:05,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Moderate,Left Side Extra Static,light static throughout,441226
+17TPM82-16, 2022-06-05 06:24:34,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Light,None,"
+",443359
+17TQM01-38, 2022-06-02 08:42:08,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,Left Side Extra Static,some light static in first minute,441246
+17TPM92-11, 2022-06-06 08:08:20,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,Both channels cut out intermittently,,441230
+15UXR02-OR6, 2022-06-08 06:20:00,1SPT,300,Transcribed,Brandon Holden,,,,,,,443778
+17TQM11-30, 2022-05-31 07:37:03,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,None,period of moderate insect buzzing in the middle of recording,441232
+17TPM91-OR1, 2022-06-08 07:18:58,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,Both Sides Extra Static,,441222
+15UXR02-OR5, 2022-06-08 06:07:00,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,443779
+17TPM72-35, 2022-06-04 06:38:58,1SPT,300,Transcribed,Brandon Holden,None,Heavy,None,Light,None,,441251
+17TPM91-OR3, 2022-06-08 09:37:03,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,None,None,,441255
+17TQM11-27, 2022-05-31 07:56:16,1SPT,300,Transcribed,David Bell,,,,,,,441261
+15UXR02-OR4, 2022-06-08 05:56:00,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,443781
+15UXR02-OR7, 2022-06-08 06:34:00,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,443780
+17ULQ92-6, 2022-06-22 07:45:25,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,443183
+15UXR02-OR14, 2022-06-08 08:54:00,1SPT,300,Transcribed,Brandon Holden,None,None,None,None,None,,443786
+15UXR02-OR15, 2022-06-08 09:06:00,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,Talking at the beginning of recording,443787
+15UXR02-OR12, 2022-06-08 08:06:00,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,None,None,,443788
+16TCU66-16, 2022-07-03 07:04:14,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Moderate,None,Mosquitoes continually buzzing the microphone. Dog barking occasionally.,447022
+15UXR02-OR9, 2022-06-08 07:08:00,1SPT,300,Transcribed,Brandon Holden,None,None,None,None,None,,443790
+15UXR02-OR13, 2022-06-08 08:27:00,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443793
+16TCU67-18, 2022-07-01 07:27:14,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Moderate,None,Drone of generator throughout. Distracting noise from observer and observer's dog.,447030
+15UXR02-OR8, 2022-06-08 06:51:00,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Moderate,None,Talking for first minute,443792
+16TCU67-15, 2022-07-01 06:51:39,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,447040
+16TCU78-14, 2022-07-04 06:57:45,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,447024
+15UWR75-16, 2022-06-09 06:59:00,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443799
+16TCU76-OR3, 2022-07-07 07:17:53,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,Other issues,"Very poor recording. A fair amount of song, but very faint. Batteries low?",447014
+16TCU65-3, 2022-06-27 07:18:45,1SPT,300,Transcribed,Donald Sutherland,None,Moderate,None,None,None,Wind moderate to high. Really too high for point count.,447025
+16TCU76-7, 2022-07-06 07:24:15,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Moderate,None,Constant whining of insect lodged in microphone distracting.,447019
+16TCU67-3, 2022-07-08 09:19:59,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,None,Drone from Hwy 11 traffic to north.,447021
+16TCU76-8, 2022-07-06 06:43:16,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,447041
+16TCU66-17, 2022-07-03 06:48:57,1SPT,300,Transcribed,Donald Sutherland,Light,Light,None,None,None,Rain and/or wind light. Observer walking around during latter half of recording. Poor quality recording.,447043
+15UWR75-11, 2022-06-09 06:40:00,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443800
+15UWR75-OR6, 2022-06-09 07:17:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,None,,443801
+15UXR02-OR11, 2022-06-08 07:41:00,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,Heavy,None,,443789
+16TCU78-13, 2022-06-29 07:05:59,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,447004
+16TCU65-22, 2022-07-09 07:12:29,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,447044
+16TCU78-8, 2022-07-04 07:26:37,1SPT,300,Transcribed,Donald Sutherland,Light,None,None,Light,Other issues,Sounds like like rain. Some distant traffic noise. Fair bit of hiss on both channels.,447009
+16TCU65-OR1, 2022-06-27 07:46:59,1SPT,300,Transcribed,Donald Sutherland,Light,Moderate,None,None,Other issues,Rain and/or wind light to moderate. Poor quality recording with considerable hiss in both channels.,447033
+16TCU76-OR1, 2022-07-07 06:28:34,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,447023
+16TCU78-16, 2022-06-29 07:35:15,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,None,Passing vehicle.,447028
+15UXR02-OR16, 2022-06-08 10:03:00,1SPT,300,Transcribed,Joshua Vandermeulen,None,None,None,None,None,,443794
+16TCU66-24, 2022-07-03 07:30:03,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,447031
+16TCU65-18, 2022-06-27 07:05:12,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Heavy,None,Moderate to mostly heavy noise of breaking waves obliterated most calls.,447006
+16TCU76-17, 2022-07-06 08:15:12,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,447046
+16TCU65-19, 2022-07-09 08:24:05,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,Voices at the very end of the recording.,447008
+16TCU65-16, 2022-07-09 08:08:12,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,447037
+16TCU76-14, 2022-07-06 07:06:01,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,447012
+16TCU78-19, 2022-07-08 08:41:55,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,None,Light to moderate noise from truck traffic on Hwy 17 to the south.,447013
+16TCU67-10, 2022-07-08 09:32:47,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Moderate,None,"Light to moderate noise from passing vehicle and pedestrians, lawnmower, construction, etc.",447018
+16TCU78-17, 2022-06-29 07:18:21,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,None,Passing vehicle,447016
+16TCU65-OR2, 2022-06-27 07:59:03,1SPT,300,Transcribed,Donald Sutherland,Light,Light,None,None,None,Light to moderate rain and/or wind.,447036
+16TCU67-19, 2022-07-01 07:39:44,1SPT,300,Transcribed,Donald Sutherland,Light,Light,None,None,None,Light rain and/or light wind.,447047
+16TCU76-OR2, 2022-07-07 06:39:13,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,447045
+15UXR02-OR10, 2022-06-08 07:27:00,1SPT,300,Transcribed,Brandon Holden,None,None,None,None,None,,443791
+16TCU78-20, 2022-07-04 06:38:03,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,447015
+15UWR75-OR8, 2022-06-10 07:32:00,1SPT,300,Transcribed,David Bell,,,,,,,443803
+16TCU67-23, 2022-07-01 07:07:44,1SPT,300,Transcribed,Donald Sutherland,Light,None,None,None,None,Sounds like very light rain.,447039
+16TCU77-23, 2022-06-28 07:40:21,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,"",447035
+16TCU65-21, 2022-07-09 08:44:01,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,447042
+16TCU65-17, 2022-07-09 07:41:48,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Light,None,,447032
+15UWR75-OR13, 2022-06-10 09:30:00,1SPT,300,Transcribed,David Bell,None,Light,Light,Light,None,,443812
+16TCU78-23, 2022-07-04 07:58:32,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,None,Dog walking and panting around recorder.,447048
+16TCU78-12, 2022-06-29 06:27:36,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Light,None,,447005
+15UWR75-OR7, 2022-06-09 07:31:00,1SPT,300,Transcribed,Brandon Holden,None,None,Moderate,None,None,,443802
+16TCU76-10, 2022-07-06 07:50:33,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Light,None,,447011
+16TCU78-22, 2022-06-29 06:41:15,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Light,None,,447020
+15UWR75-OR9, 2022-06-10 08:01:00,1SPT,300,Transcribed,Ken Burrell,None,None,Light,None,None,,443811
+16TCU77-OR3, 2022-06-29 08:09:45,1SPT,300,Transcribed,Sean Jenniskens,None,Light,None,Light,None,,447027
+15UWR75-OR14, 2022-06-10 09:47:00,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,None,talking at beginning of recording,443808
+15UXR75-OR4, 2022-06-09 09:50:00,1SPT,300,Transcribed,Amanda Guercio,None,Light,Light,None,None,PC doesn't start until 40s in,443805
+15UWR75-OR12, 2022-06-10 08:53:00,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443804
+15UXR75-OR3, 2022-06-09 09:36:00,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,443813
+15UWR75-OR10, 2022-06-10 08:18:00,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,443807
+15UXR75-OR2, 2022-06-09 09:21:00,1SPT,300,Transcribed,Brandon Holden,None,None,Light,None,None,,443806
+17TMM22-UNKN1, 2022-07-06 07:33:24,1SPT,300,Transcribed,Amanda Guercio,None,None,Moderate,None,None,,441529
+17TMM22-18, 2022-07-06 09:34:57,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,441598
+17TMM11-OR1, 2022-07-08 08:11:00,1SPT,300,Transcribed,Brandon Holden,None,None,None,None,None,,441576
+17TMM21-OR1, 2022-07-04 09:42:14,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,441586
+17TMM66-UNKN1, 2022-06-28 07:46:13,1SPT,300,Transcribed,Amanda Guercio,Moderate,Light,None,None,None,,441574
+17TLM91-OR2, 2022-07-07 10:02:03,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Heavy,Heavy,None,,441528
+17TMM66-37, 2022-06-28 07:05:20,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,,441608
+17TMM11-29, 2022-07-08 06:52:52,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Moderate,None,None,,441556
+17TPM54-27, 2022-06-13 08:14:00,1SPT,300,Transcribed,David Bell,,,,,,,441547
+17TLM91-18, 2022-07-07 09:15:30,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,A few brief periods of loud passing traffic. ,441564
+17TPM37-34, 2022-06-20 09:59:05,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,441539
+17TNM99-30, 2022-06-23 09:40:32,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,441578
+17TMM95-2, 2022-06-29 08:45:45,1SPT,300,Transcribed,Brandon Holden,,,,,,,441557
+17TLM91-9, 2022-07-07 08:54:26,1SPT,300,Transcribed,David Bell,,,,,,,441584
+15UXR75-OR1, 2022-06-09 09:07:00,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Moderate,None,Talking at beginning of recording. Plane/helicopter noise ,443809
+17TMM21-20, 2022-07-04 10:14:33,1SPT,300,Transcribed,Brandon Holden,None,None,None,None,None,,441570
+17TMM66-15, 2022-06-28 08:06:36,1SPT,300,Transcribed,Amanda Guercio,Moderate,Light,None,None,None,,441568
+17TPM52-40, 2022-06-14 10:10:34,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Moderate,None,None,,441548
+17TLM91-39, 2022-07-07 06:18:05,1SPT,300,Transcribed,Brandon Holden,None,None,None,None,None,,441592
+17TMM95-OR1, 2022-06-29 08:02:27,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Moderate,None,None,"
+",441558
+17TPM06-5, 2022-06-24 08:06:40,1SPT,300,Transcribed,Matthew Timpf,,,,,,,441540
+17TPM52-37, 2022-06-14 09:59:22,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Heavy,Moderate,None,,441599
+17TPM06-UNKN1, 2022-06-24 05:56:34,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Light,Light,None,,441589
+17TMM21-33, 2022-07-04 10:02:15,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,441534
+17TPM06-17, 2022-06-24 08:44:12,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,None,None,,441602
+17TPM43-10, 2022-06-16 09:11:44,1SPT,300,Transcribed,Ken Burrell,None,Light,None,None,None,,441596
+17TMM21-22, 2022-07-04 06:43:14,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,441550
+17TNM99-35, 2022-06-23 07:24:28,1SPT,300,Transcribed,Joshua Vandermeulen,None,None,None,None,None,,441605
+17TPM25-33, 2022-06-22 07:09:30,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,Some heavy wind gusts,441610
+17TMN99-UNKN2, 2022-06-23 10:13:36,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,,441562
+17TM11-UNKN2, 2022-07-08 08:43:57,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,some distant train and passing traffic noise,441580
+17TMM66-19, 2022-06-28 10:15:42,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Moderate,None,background traffic/plane noise at times,441543
+17TMM21-6, 2022-07-04 10:27:31,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,Sounded like some human chopping/banging noises in distance,441554
+17TMM66-1, 2022-06-28 06:41:25,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,,441571
+17TLM91-23, 2022-07-07 08:40:14,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,"
+",441537
+16TCU89-OR4, 2022-06-12 10:22:00,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,"Talking at beginning of recording, some periods of insect buzzing",443814
+17TLM91-33, 2022-07-07 05:38:04,1SPT,300,Transcribed,Ken Burrell,None,None,Light,None,None,,441559
+17TMM64-UNKN2, 2022-06-30 07:11:27,1SPT,300,Transcribed,Amanda Guercio,,,,,,,441530
+17TPM52-18, 2022-06-14 10:22:50,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Light,None,,441569
+17TLM91-29, 2022-07-07 08:12:47,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,,441538
+17TMM95-OR2, 2022-06-29 09:39:10,1SPT,300,Transcribed,Amanda Guercio,None,None,Heavy,None,None,,441595
+17TPM37-24, 2022-06-20 07:13:03,1SPT,300,Transcribed,Joshua Vandermeulen,None,None,None,None,None,,441567
+17TPM43-38, 2022-06-15 06:17:50,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,Both Sides Extra Static,,441581
+16UDV21-OR12, 2022-07-03 08:00:00,1SPT,300,Transcribed,David Bell,,,,,,,443815
+17TLM91-OR1, 2022-07-07 07:43:20,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,441609
+17TPM43-OR1, 2022-06-16 07:29:21,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Moderate,None,constantly chirping chipmunks and some sporadic insect buzzing/traffic,441552
+17TMM66-39, 2022-06-28 07:18:43,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,A few brief heavier gusts of wind,441536
+17TMM11-12, 2022-07-08 07:39:08,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,441531
+15UWR75-OR11, 2022-06-10 08:40:00,1SPT,300,Transcribed,David Bell,,,,,,,443810
+17TPM25-UNKN1, 2022-06-22 09:16:53,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Moderate,None,,441555
+17TPM43-7, 2022-06-15 06:38:22,1SPT,300,Transcribed,David Bell,,,,,,,441607
+17TMM66-9, 2022-06-28 09:04:51,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,,441606
+17TPM25-OR1, 2022-06-22 08:39:32,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Moderate,None,,441542
+17TMM22-OR2, 2022-07-06 08:42:54,1SPT,300,Transcribed,Timothy B. Lucas,None,Heavy,None,None,None,,441588
+17TLM91-35, 2022-07-07 06:57:26,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,None,None,,441545
+17TNM99-34, 2022-06-23 08:16:02,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,441563
+17TLM91-36, 2022-07-07 06:02:31,1SPT,300,Transcribed,Matthew Timpf,None,None,None,None,None,,441546
+17TPM52-6, 2022-06-14 09:43:24,1SPT,300,Transcribed,David Bell,,,,,,,441561
+17TPM43-9, 2022-06-16 09:40:38,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,441551
+17TPM54-25, 2022-06-13 06:19:14,1SPT,300,Transcribed,Amanda Guercio,,,,,,,441590
+17TPM54-OR1, 2022-06-13 07:31:08,1SPT,300,Transcribed,David Bell,,,,,,,441600
+17TPM25-OR1, 2022-06-22 09:50:18,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Moderate,None,Continuous insect buzzing near beginning,441582
+16UDV21-OR10, 2022-07-03 06:33:00,1SPT,300,Transcribed,Joshua Vandermeulen,None,None,None,Light,None,,443824
+17TPM52-15, 2022-06-14 08:38:22,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Light,None,,441572
+17TMM95-13, 2022-06-29 09:00:37,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,None,None,,441597
+17TMN99-UNKN1, 2022-06-23 07:55:28,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Light,None,,441533
+17TPM52-9, 2022-06-14 06:08:33,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,441583
+17TMM22-UNKN3, 2022-07-06 10:27:34,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Light,None,,441544
+17TMM11-31, 2022-07-08 06:21:37,1SPT,300,Transcribed,Nathan Hood,,,,,,,441532
+17TPM54-OR3, 2022-06-13 10:09:59,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,441575
+17TMM11-UNKN1, 2022-07-08 05:34:48,1SPT,300,Transcribed,Nathan Hood,None,None,None,Moderate,None,,441565
+17TPM54-34, 2022-06-14 08:04:38,1SPT,300,Transcribed,Ken Burrell,None,Light,Light,Light,None,,441553
+17TMM11-25, 2022-07-08 05:24:47,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,441585
+17TMM64-UNKN1, 2022-06-30 06:40:17,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,441541
+17TMM66-UNKN2, 2022-06-28 08:30:59,1SPT,300,Transcribed,David Bell,,,,,,,441603
+17TMM64-11, 2022-06-30 06:06:13,1SPT,300,Transcribed,David Bell,,,,,,,441573
+17TPM43-OR2, 2022-06-16 08:12:24,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,"
+",441535
+17TMM22-25, 2022-07-06 09:07:27,1SPT,300,Transcribed,Amanda Guercio,None,Moderate,None,None,None,,441560
+16TCU89-OR1, 2022-06-12 09:47:00,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Moderate,Light,None,,443816
+17TPM54-19, 2022-06-13 06:31:49,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",441601
+16UDV21-OR15, 2022-07-03 10:35:00,1SPT,300,Transcribed,Brandon Holden,None,None,None,None,None,,443817
+17TNM99-14, 2022-06-23 05:51:34,1SPT,300,Transcribed,Brandon Holden,,,,,,,441593
+17TMM22-22, 2022-07-06 05:37:54,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,441591
+17TMM21-35, 2022-07-04 05:39:56,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Light,None,,441566
+17TPM06-33, 2022-06-24 06:41:09,1SPT,300,Transcribed,Brandon Holden,None,None,Light,None,None,,441579
+17TPM52-38, 2022-06-14 09:31:59,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Light,Other issues,tripy electric cuts near start and end,441577
+17TLM91-UNKN1, 2022-07-07 06:35:33,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,441549
+17TMM22-20, 2022-07-06 06:43:26,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,light background traffic at times,441587
+17TMM21-17, 2022-07-04 07:13:12,1SPT,300,Transcribed,Matthew Timpf,Light,Light,None,Light,None,"Light rain in second half, background traffic throughout",441594
+17TPM54-OR2, 2022-06-13 09:12:05,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,None,None,,441604
+16TCU89-OR5, 2022-06-12 11:03:00,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Moderate,None,FIRST 40SEC USELESS,443818
+16TCU89-OR3, 2022-06-12 10:08:00,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,None,None,,443819
+16UDV21-OR14, 2022-07-03 09:40:00,1SPT,300,Transcribed,David Bell,,,,,,,443820
+16UDV21-OR11, 2022-07-03 07:15:00,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None,distant train in second half,443823
+16UDV21-OR13, 2022-07-03 08:55:00,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443821
+16TCU89-OR2, 2022-06-12 09:57:00,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Light,None,first 30sec full talk,443822
+17TPM82-13, 2022-06-05 07:57:45,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443345
+17TMM51-B, 2022-06-08 06:26:50,1SPT,300,Transcribed,Brandon Holden,None,None,None,Light,None,,443843
+17TMM61-D, 2022-06-09 07:21:47,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,"Squirrel chatter throughout, some light background plane noise",443855
+17TMM61-Q, 2022-06-11 08:53:55,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,"distant voices/hammering in background at times, some squirrel chatter throughout",443846
+17TMM71-L, 2022-06-10 06:21:30,1SPT,300,Transcribed,Brandon Holden,None,None,None,None,None,,443849
+17TMM51-OR2, 2022-06-08 06:43:30,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443858
+17TMM51-OR1, 2022-06-08 05:56:55,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,443840
+17TMM71-P, 2022-06-10 07:49:50,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,"
+",443833
+17TMM61-N, 2022-06-11 07:38:53,1SPT,300,Transcribed,David Bell,,,,,,,443848
+17TMM61-M, 2022-06-11 07:11:56,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Moderate,None,Some periods of mammal chatter,443834
+17TMM61-C, 2022-06-09 07:06:51,1SPT,300,Transcribed,Matthew Timpf,None,None,None,None,None,,443842
+17TMM71-T, 2022-06-10 08:50:44,1SPT,300,Transcribed,Brandon Holden,None,None,None,Light,None,,443835
+17TMM61-H, 2022-06-09 08:34:55,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,443841
+17TMM61-O, 2022-06-11 08:00:58,1SPT,300,Transcribed,Brandon Holden,None,None,None,Light,None,,443856
+17TMM61-S, 2022-06-11 09:40:50,1SPT,300,Transcribed,Dominic Cormier,,,,,,,443861
+17TMM61-A, 2022-06-09 06:05:53,1SPT,300,Transcribed,Brandon Holden,Light,Moderate,Moderate,Light,None,,443838
+17TMM61-I, 2022-06-09 09:02:49,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,None,None,,443851
+17TMM71-R, 2022-06-10 08:19:44,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,443845
+17TMM71-U, 2022-06-10 09:03:49,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,443860
+17TMM61-B, 2022-06-09 06:35:30,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,443852
+17TMM71-S, 2022-06-10 08:34:42,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443854
+17TMM71-M, 2022-06-10 06:55:46,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443839
+17TMM71-V, 2022-06-10 09:17:47,1SPT,300,Transcribed,David Bell,,,,,,,443859
+17TMM51-D, 2022-06-08 07:01:50,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,443844
+17TMM61-P, 2022-06-11 08:25:54,1SPT,300,Transcribed,David Bell,,,,,,,443862
+17TMM71-N, 2022-06-10 07:11:30,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,None,,443836
+17TMM61-J, 2022-06-09 09:48:55,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443850
+17TMM51-E, 2022-06-08 07:58:30,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,443837
+17TMM61-E, 2022-06-09 08:12:30,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443853
+17TMM71-O, 2022-06-10 07:30:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Light,None,,443857
+16UFD18-OR4, 2022-06-23 06:39:30,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,Moderate,None,,443896
+16UED55-OR4, 2022-06-18 06:43:30,1SPT,300,Transcribed,Dominic Cormier,None,None,None,Moderate,None,"Observers making a racket, and standing too close to mic.",443888
+16UFD18-OR6, 2022-06-23 08:10:30,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Moderate,None,,443897
+17TMM61-L, 2022-06-11 06:28:52,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,443847
+16UFD18-OR2, 2022-06-23 05:55:30,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Light,None,,443885
+16UFD18-OR1, 2022-06-23 05:35:30,1SPT,300,Transcribed,Dominic Cormier,None,None,None,Moderate,None,Observer making noise.,443892
+16UFD18-OR5, 2022-06-23 07:00:30,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Heavy,None,first 90sec useless,443901
+16UFD18-OR3, 2022-06-23 06:18:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Moderate,None,,443894
+16UED55-OR5, 2022-06-18 07:03:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Moderate,None,Observer making noise. Needs to stand further away.,443898
+16TCU77-7, 2022-06-18 06:56:20,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,None,Noise from passing vehicle.,445023
+16UED67-OR3, 2022-06-19 06:22:30,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Moderate,None,Observer making noise,443895
+16UED67-OR2, 2022-06-19 05:58:30,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Moderate,None,Periods of insect buzzing and human shuffling sounds throughout,443886
+16UFD18-OR7, 2022-06-23 08:39:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Heavy,None,Observer making a ruckus. ,443899
+16UED67-OR4, 2022-06-19 06:42:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Moderate,None,Observer making a ruckus. Needs to place ARU further from him.,443887
+16UED67-OR5, 2022-06-20 05:45:30,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Moderate,None,,443891
+16UED55-OR1, 2022-06-18 05:43:36,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Heavy,None,FIRST 70SEC USELESS,443889
+16UED55-OR3, 2022-06-18 06:23:30,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Light,None,,443893
+16UED67-OR1, 2022-06-19 05:40:30,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,Heavy,Other issues,Continual noise throughout,443890
+16UED55-OR2, 2022-06-18 06:03:30,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Light,None,,443900
+17TNL98-10, 2022-06-21 06:56:34,1SPT,300,Transcribed,David Bell,,,,,,,443928
+17TPL08-OR1, 2022-06-22 06:41:11,1SPT,300,Transcribed,David Bell,,,,,,,443927
+17TNL98-4, 2022-06-21 06:25:15,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,Both Channels Fail,Very Weak Signal. Sonograms Not Visible.,443929
+17TNL98-19, 2022-06-21 08:56:29,1SPT,300,Transcribed,Ken Burrell,None,Heavy,None,None,None,,443933
+18TUQ52-19, 2022-06-29 05:58:27,1SPT,300,Transcribed,Joshua Vandermeulen,None,None,None,Moderate,None,one vehicle drove by slowly which obscured about 15s of audio,443940
+18TUQ52-23, 2022-06-11 07:32:29,1SPT,300,Transcribed,David Bell,,,,,,,443934
+18TUQ52-26, 2022-06-11 06:25:21,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443943
+18TUQ52-16, 2022-06-11 05:56:26,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Light,None,,443936
+18TUQ52-D, 2022-06-29 08:35:45,1SPT,300,Transcribed,Joshua Vandermeulen,None,None,None,Light,None,,443941
+18TUQ52-B, 2022-06-29 06:15:43,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,443938
+18TUQ52-C, 2022-06-29 07:40:45,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,443937
+18TUQ52-22, 2022-06-11 06:10:21,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Light,None,,443944
+18TUQ52-25, 2022-06-11 07:12:20,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,443939
+18TUQ52-17, 2022-06-11 08:25:24,1SPT,300,Transcribed,Sean Jenniskens,None,Light,None,Light,None,,443942
+17TLN31-10, 2022-06-09 10:20:35,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444011
+17TLP50-A, 2022-06-11 07:56:49,1SPT,300,Transcribed,David Bell,,,,,,,443997
+17TMN76-3, 2022-06-02 07:40:30,1SPT,300,Transcribed,David Bell,,,,,,,444022
+17TMN76-D, 2022-06-02 06:26:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,444004
+17TLN61-4, 2022-06-16 06:28:34,1SPT,300,Transcribed,Matthew Timpf,None,Heavy,None,None,None,,443987
+17TMN76-F, 2022-05-29 09:28:37,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,Moderate,None,,443990
+17TLN23-13, 2022-06-12 10:37:35,1SPT,300,Transcribed,Matthew Timpf,None,Heavy,None,Moderate,None,"Talking at beginning of recording, some trees creaking throughout, radio chatter near end of recording",444017
+17UMR02-U, 2022-06-23 09:56:15,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,PC doesn't start until 36s into the recording,443991
+17TLN23-N, 2022-06-12 09:21:10,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,444008
+17TMN49-9, 2022-05-31 09:36:43,1SPT,300,Transcribed,David Bell,,,,,,,444003
+17ULQ75-B, 2022-06-24 07:53:21,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444014
+17ULQ92-21, 2022-06-22 06:45:11,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Light,Moderate,None,,443992
+17UMR02-F, 2022-06-23 09:27:03,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,443995
+17TLN23-F, 2022-06-12 09:55:03,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Light,None,,444000
+17TMN76-C, 2022-06-02 06:45:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Light,None,,444006
+17TLN61-25, 2022-06-16 06:41:47,1SPT,300,Transcribed,Joshua Vandermeulen,None,Moderate,None,None,None,,444009
+17TMN65-C, 2022-05-30 09:08:56,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444002
+17TLN31-23, 2022-06-09 10:03:36,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,443989
+17TLP90-4, 2022-06-13 07:09:41,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Light,None,,443996
+17UMR53-A, 2022-06-25 09:31:20,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,Talking at beginning of recording,444020
+17ULQ92-2, 2022-06-22 07:05:23,1SPT,300,Transcribed,Amanda Guercio,None,Moderate,None,None,None,,444016
+17TLN23-S, 2022-06-12 10:17:25,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444057
+17TLP90-E, 2022-06-13 10:33:33,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444092
+17UMR02-1, 2022-06-23 07:34:23,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444007
+17TMN93-9, 2022-06-01 09:22:40,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,444085
+17ULQ47-10, 2022-06-28 08:33:35,1SPT,300,Transcribed,David Bell,,,,,,,444106
+17TLP90-C, 2022-06-13 10:15:37,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,,444015
+17TLN31-32, 2022-06-09 07:20:23,1SPT,300,Transcribed,David Bell,,,,,,,444036
+17TLP50-B, 2022-06-11 09:10:04,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,444072
+17TLP31-W, 2022-06-14 09:38:27,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444079
+17TLN61-22, 2022-06-16 08:18:14,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,444025
+18TUQ52-15, 2022-06-11 06:52:27,1SPT,300,Transcribed,Matthew Timpf,None,None,None,None,None,,443935
+17TMN65-19, 2022-05-30 06:49:30,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,Talking at beginning of recording. Some light static at times and a few short periods of passing traffic.,444048
+17TLP50-22, 2022-06-11 08:43:34,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,443984
+17TMN76-A, 2022-06-02 07:19:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Light,None,,443998
+17UMR53-27, 2022-06-25 06:35:54,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443988
+17TMN65-4, 2022-05-30 10:05:37,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443994
+17UMR34-2, 2022-06-29 08:25:16,1SPT,300,Transcribed,Dominic Cormier,Light,Light,None,Light,None,,444109
+17ULQ75-8, 2022-06-24 05:52:10,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,squirrel chatter intense at beginning of recording,444058
+17ULQ75-G, 2022-06-24 06:46:19,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444019
+17UMR34-1, 2022-06-29 07:56:33,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Moderate,None,Lots of interference from observer on the ground. ,444112
+17UMR53-20, 2022-06-25 08:14:10,1SPT,300,Transcribed,Amanda Guercio,None,Moderate,None,None,None,,444010
+17ULQ92-13, 2022-06-22 10:22:24,1SPT,300,Transcribed,David Bell,None,Moderate,None,Light,None,,444001
+17ULR32-C, 2022-07-06 09:06:24,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Moderate,None,loud insect buzzing at times,443167
+17ULQ75-17, 2022-06-24 06:01:54,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,444037
+17TMN76-E, 2022-05-29 09:52:44,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,444030
+17ULQ47-B, 2022-06-28 09:42:09,1SPT,300,Transcribed,David Bell,,,,,,,444102
+17TLN31-39, 2022-06-09 09:17:05,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444013
+17TLP90-B, 2022-06-13 09:30:07,1SPT,300,Transcribed,David Bell,,,,,,,444084
+17TLP90-4, 2022-06-13 06:49:33,1SPT,300,Transcribed,Dominic Cormier,Light,Light,Light,Light,None,,443986
+17TLP30-12, 2022-06-08 08:21:38,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Light,None,,443993
+17TLP30-17, 2022-06-08 07:18:09,1SPT,300,Transcribed,David Bell,,,,,,,444094
+17ULQ75-D, 2022-06-24 07:34:22,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,444044
+17TMN93-2, 2022-06-01 10:18:41,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Light,Light,None,,444023
+17TLN31-9, 2022-06-09 10:33:50,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Light,Light,None,,444024
+17UMR53-7, 2022-06-25 08:30:25,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Light,Light,None,,444056
+17UMR02-7, 2022-06-23 08:44:20,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Moderate,None,Flies,444035
+17TLP50-5, 2022-06-11 07:23:35,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Light,None,,444064
+17TLP90-25, 2022-06-13 07:29:43,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Moderate,None,,444078
+17TMN65-OR2, 2022-05-30 07:55:30,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Light,Light,None,,444082
+17TLN61-11, 2022-06-16 07:52:05,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,brief passing traffic noise and some brief talking,444069
+17UMR60-W, 2022-06-27 09:04:11,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,444021
+17TLP31-V, 2022-06-14 07:57:29,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444046
+17TMN93-11, 2022-06-01 07:22:38,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,444029
+17TLN88-9, 2022-06-07 08:25:12,1SPT,300,Transcribed,Amanda Guercio,None,Light,None,None,None,,443985
+17ULQ75-19, 2022-06-24 06:14:14,1SPT,300,Transcribed,Dominic Cormier,,,,,,,444091
+17TLN31-18, 2022-06-09 09:45:05,1SPT,300,Transcribed,Timothy B. Lucas,None,Moderate,None,None,None,"",444074
+17TLN23-R, 2022-06-12 08:41:06,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Light,None,,443999
+17TMN93-16, 2022-06-01 08:53:32,1SPT,300,Transcribed,Sean Jenniskens,,,,,,,444059
+17TLP30-6, 2022-06-08 06:34:36,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,444012
+17UMR53-3, 2022-06-25 08:42:24,1SPT,300,Transcribed,David Bell,,,,,,,444018
+17TLP90-Z, 2022-06-13 09:58:49,1SPT,300,Transcribed,David Bell,,,,,,,444028
+17TLN31-42, 2022-06-09 08:45:59,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444067
+17TLP30-14, 2022-06-08 06:55:09,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Light,Light,None,,444047
+17TLP90-14, 2022-06-13 07:59:33,1SPT,300,Transcribed,Dominic Cormier,,,,,,,444060
+17ULQ47-F, 2022-06-28 06:38:54,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Moderate,None,,444104
+17TLN31-41, 2022-06-09 07:49:50,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444005
+17TLP31-X, 2022-06-14 09:59:26,1SPT,300,Transcribed,Amanda Guercio,None,Moderate,None,None,None,,444027
+17TMN93-5, 2022-06-01 08:27:30,1SPT,300,Transcribed,Amanda Guercio,None,Light,None,None,None,,444033
+17UMR02-15, 2022-06-23 07:44:52,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444063
+17UMR02-12, 2022-06-23 08:06:50,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444077
+17TLN88-7, 2022-06-07 09:00:03,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,444071
+17ULQ47-18, 2022-06-28 05:51:27,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444108
+17ULQ47-3, 2022-06-28 08:23:31,1SPT,300,Transcribed,David Bell,,,,,,,444111
+17TLN31-1, 2022-06-09 09:01:37,1SPT,300,Transcribed,Dominic Cormier,None,Heavy,Light,Light,None,,444050
+17TLP30-25, 2022-06-08 08:52:06,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Light,None,,444062
+17ULQ92-16, 2022-06-22 07:39:36,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Light,Light,None,,444080
+17ULQ47-J, 2022-06-28 10:06:22,1SPT,300,Transcribed,Dominic Cormier,Light,Moderate,None,Light,None,,444105
+17TMN65-OR3, 2022-05-30 08:23:30,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,444038
+17UMR60-U, 2022-06-27 10:26:32,1SPT,300,Transcribed,Nathan Hood,None,Heavy,None,Heavy,None,,444073
+17TLN61-34, 2022-06-16 07:20:14,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,444031
+17TMN76-B, 2022-06-02 07:56:00,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Light,None,,444089
+17TMN65-B, 2022-05-30 09:45:30,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Light,Light,None,,444034
+17ULQ75-F, 2022-06-24 07:10:49,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,444061
+17TLP30-28, 2022-06-08 07:34:25,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,444081
+17TLN88-16, 2022-06-07 08:46:08,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Light,Light,None,,444032
+17ULQ47-7, 2022-06-28 10:28:55,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Light,None,,444103
+17TLN31-W, 2022-06-09 08:11:04,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,444045
+17UMR60-17, 2022-06-27 08:12:15,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Moderate,Light,None,,444093
+17ULQ47-A, 2022-06-28 06:14:43,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Heavy,None,Insects.,444107
+17TMN93-3, 2022-06-01 06:49:51,1SPT,300,Transcribed,David Bell,,,,,,,444051
+17TMN65-13, 2022-05-30 07:12:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,444086
+17UMR53-B, 2022-06-25 10:04:10,1SPT,300,Transcribed,Amanda Guercio,Light,Moderate,None,None,None,,444068
+17ULR32-P, 2022-07-06 08:16:21,1SPT,300,Transcribed,Matthew Timpf,Light,None,None,Moderate,None,"airplane noise in latter half of recording, insect buzzing throughout",443105
+17UMR02-8, 2022-06-23 07:54:42,1SPT,300,Transcribed,David Bell,,,,,,,444070
+17UMR02-2, 2022-06-23 08:17:31,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,None,Some prolonged insect buzzing in second half,444026
+17UMR02-11, 2022-06-23 08:26:41,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Heavy,None,Insects,444043
+17ULQ47-24, 2022-06-28 08:14:02,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Light,None,,444110
+17TLP30-16, 2022-06-08 08:00:35,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,444049
+17TMN65-10, 2022-05-30 08:43:30,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Moderate,None,"Talking at beginning of recording, a few periods of loud passing traffic.",444055
+17TMN65-OR1, 2022-05-30 07:29:46,1SPT,300,Transcribed,Sean Jenniskens,None,Moderate,None,Moderate,None,,444083
+17ULQ18-3, 2022-07-07 06:25:53,1SPT,300,Transcribed,David Bell,,,,,,,444113
+17ULR32-H, 2022-07-06 10:51:09,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444147
+17ULR32-5, 2022-07-06 08:35:26,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Light,None,,444131
+16UEA91-18, 2022-07-10 07:46:04,1SPT,300,Transcribed,Amanda Guercio,None,Light,None,None,None,,444149
+17ULQ18-7, 2022-07-07 05:49:50,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,444140
+16UEA91-14, 2022-07-10 08:09:46,1SPT,300,Transcribed,Matthew Timpf,,,,,,,444126
+16UFV78-Y, 2022-07-08 07:20:55,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None,"Talking at beginning of recording, some periods of insect buzzing",444145
+17ULR94-1, 2022-07-09 09:05:14,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Light,None,,444119
+17ULR94-10, 2022-07-09 10:16:27,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444132
+17ULQ18-14, 2022-07-07 06:16:49,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Light,None,,444153
+16UEA91-16, 2022-07-10 08:24:56,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Light,Light,None,,444160
+17ULR94-3, 2022-07-09 10:26:52,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Heavy,None,Insects are very loud. Just picturing a cloud of tabanid flies.,444172
+17ULQ18-13, 2022-07-07 09:02:49,1SPT,300,Transcribed,David Bell,,,,,,,444134
+17TNM03-1, 2022-06-23 05:27:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,442984
+17ULQ18-Q, 2022-07-07 10:10:22,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,Insect buzzing throughout,444156
+17ULR32-7, 2022-07-06 07:06:35,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444118
+16UEA91-W, 2022-07-10 09:17:01,1SPT,300,Transcribed,Timothy B. Lucas,None,Moderate,None,None,None,,444151
+17ULR32-K, 2022-07-06 08:01:24,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,insect buzzing throughout,444125
+17ULQ18-11, 2022-07-07 08:33:18,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,444123
+17ULR32-S, 2022-07-06 10:09:58,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Moderate,None,,444148
+17ULR30-15, 2022-07-05 06:22:56,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,Moderate,None,,444144
+17TNM03-17, 2022-06-23 06:25:44,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,442987
+17ULQ18-12, 2022-07-07 08:44:07,1SPT,300,Transcribed,David Bell,,,,,,,444117
+17TNM03-20, 2022-06-23 07:37:30,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Light,None,,442972
+17ULQ18-6, 2022-07-07 06:39:48,1SPT,300,Transcribed,David Bell,,,,,,,444169
+17ULR94-5, 2022-07-09 09:56:00,1SPT,300,Transcribed,Amanda Guercio,Light,Light,None,None,None,,444115
+16UFV78-X, 2022-07-08 10:16:14,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Light,None,,444157
+17TNM03-10, 2022-06-23 06:12:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Moderate,None,Squirrel noise.,442979
+17TPK74-1, 2022-05-31 06:43:40,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,443006
+17ULQ18-B, 2022-07-07 10:31:39,1SPT,300,Transcribed,David Bell,,,,,,,444168
+16UEA91-4, 2022-07-10 06:12:26,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Light,None,,444130
+17ULR30-G, 2022-07-05 10:24:26,1SPT,300,Transcribed,Dominic Cormier,Light,Light,None,Light,None,,444142
+17ULR30-23, 2022-07-05 06:44:43,1SPT,300,Transcribed,Amanda Guercio,None,Light,None,None,None,,444150
+17ULR32-M, 2022-07-06 10:30:36,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Light,None,,444163
+17ULR94-7, 2022-07-09 08:13:05,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,444166
+16UFV78-19, 2022-07-08 09:20:28,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444122
+17TNM03-11, 2022-06-22 06:38:51,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Moderate,None,,442973
+17ULQ18-9, 2022-07-07 06:01:32,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444135
+17ULR32-30, 2022-07-06 07:20:30,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444146
+17ULR94-22, 2022-07-09 08:53:52,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444165
+17TPK74-10, 2022-06-13 06:37:30,1SPT,300,Transcribed,Amanda Guercio,None,None,Moderate,None,None,,443012
+17TPK74-23, 2022-06-13 09:24:35,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Moderate,None,,443017
+17TPK74-9, 2022-05-31 07:15:30,1SPT,300,Transcribed,Dominic Cormier,None,None,Moderate,Light,None,,443009
+17ULQ18-10, 2022-07-07 08:53:14,1SPT,300,Transcribed,Dominic Cormier,Light,Light,Light,Light,None,,444127
+17TPK74-18, 2022-05-31 08:09:31,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,442999
+16UFV78-Z, 2022-07-08 07:46:09,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444158
+17ULR94-11, 2022-07-09 06:34:21,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Light,None,,444129
+17ULR94-14, 2022-07-09 09:45:38,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Light,None,,444170
+17TNM03-23, 2022-06-22 06:57:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Moderate,None,Squirrel,442992
+17ULR32-N, 2022-07-06 09:39:19,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Moderate,None,,444143
+17TNM03-12, 2022-06-23 08:08:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,442974
+17ULR30-25, 2022-07-05 07:58:17,1SPT,300,Transcribed,Dominic Cormier,Light,Light,Light,Light,None,,444116
+17ULR94-9, 2022-07-09 09:23:29,1SPT,300,Transcribed,Ken Burrell,None,Light,None,None,None,,444120
+17ULR94-8, 2022-07-09 07:03:50,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,444161
+17ULR94-12, 2022-07-09 10:05:02,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,None,Insect buzzing throughout,444137
+17ULR30-D, 2022-07-05 09:02:05,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,Some periods of insect buzzing throughout,444121
+17TPK74-16, 2022-06-10 08:30:30,1SPT,300,Transcribed,Amanda Guercio,None,Light,None,None,None,,443018
+17ULR32-E, 2022-07-06 09:20:20,1SPT,300,Transcribed,David Bell,,,,,,,444155
+17TNM03-7, 2022-06-23 06:48:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,442982
+17TPK74-8, 2022-06-08 06:41:30,1SPT,300,Transcribed,David Bell,,,,,,,443015
+17ULR94-18, 2022-07-09 08:43:46,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Light,None,,444114
+17TNM03-6, 2022-06-25 06:03:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,442990
+17TPK74-25, 2022-06-25 06:50:43,1SPT,300,Transcribed,David Bell,None,None,Light,Moderate,None,beside a drainpipe or something - running water,442996
+16UEA91-X, 2022-07-10 10:38:01,1SPT,300,Transcribed,Amanda Guercio,None,Moderate,None,None,None,,444138
+17ULQ18-2, 2022-07-07 07:50:51,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Moderate,None,,444141
+17ULQ18-1, 2022-07-07 07:04:23,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,444124
+16UEA91-6, 2022-07-10 07:54:37,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444136
+16UEA91-22, 2022-07-10 06:52:59,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Moderate,Light,None,,444154
+17ULQ92-16, 2022-06-22 10:20:43,1SPT,300,Transcribed,Ken Burrell,None,Moderate,None,Light,None,,449254
+17TPK74-38, 2022-06-25 07:05:30,1SPT,300,Transcribed,David Bell,,,,,,,442997
+17TNM03-31, 2022-06-22 06:02:31,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,None,None,,442989
+17TPK74-3, 2022-06-13 06:21:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,Heavy,Light,None,,443008
+17ULR94-2, 2022-07-09 08:02:56,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,444133
+17ULR94-16, 2022-07-09 08:24:09,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,444159
+17UMR02-W, 2022-06-23 09:33:25,1SPT,300,Transcribed,Adam Timpf,None,None,None,Moderate,None,lots of flying insects,449235
+17ULQ92-23, 2022-06-22 10:11:15,1SPT,300,Transcribed,Joshua Vandermeulen,None,Heavy,None,Moderate,None,heavy wind in environment meant that almost no birds were singing. Difficult listening conditions,449232
+16UFV78-I, 2022-07-08 08:29:46,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Light,None,,444164
+17ULQ75-18, 2022-06-24 07:02:26,1SPT,300,Transcribed,Joshua Vandermeulen,None,None,None,Light,None,,449249
+17UMR02-24, 2022-06-23 10:15:29,1SPT,300,Transcribed,Joshua Vandermeulen,None,Moderate,None,Heavy,None,heavy insect noise blocked out almost all the bird vocalizations,449240
+17UMR53-41, 2022-06-25 07:44:52,1SPT,300,Transcribed,Adam Timpf,None,Light,None,None,None,,449248
+17TPK74-26, 2022-06-08 06:12:30,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443019
+17ULR94-13, 2022-07-09 09:14:06,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,None,Light,None,,444167
+17TNM03-9, 2022-06-22 07:43:30,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Light,Light,None,,442980
+17UMR02-10, 2022-06-23 10:03:41,1SPT,300,Transcribed,Adam Timpf,None,Light,None,Light,None,some buzzing insects,449243
+17TNM03-18, 2022-06-23 06:00:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Light,None,,442975
+17TPK74-13, 2022-06-08 07:02:30,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443001
+17TPK74-36, 2022-06-25 08:20:41,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,443014
+17ULQ75-20, 2022-06-21 10:23:36,1SPT,300,Transcribed,Adam Timpf,None,Light,None,Light,Other issues,"car horn, some weird static? / technical issue. didn't effect data",449236
+16UFV78-17, 2022-07-08 09:29:19,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444139
+17ULQ92-19, 2022-06-22 09:00:59,1SPT,300,Transcribed,Adam Timpf,None,Heavy,None,None,None,Very windy? only can hear 2 birds.,449257
+17UMR53-15, 2022-06-25 08:02:13,1SPT,300,Transcribed,Adam Timpf,None,Light,None,None,None,,449241
+17TNM03-19, 2022-06-23 05:16:30,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None,Light background traffic,442976
+17ULQ75-14, 2022-06-21 10:32:28,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449231
+17TPK74-14, 2022-05-31 07:49:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,443005
+17TNM03-5, 2022-06-23 08:27:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,442986
+17TPK74-30, 2022-06-25 07:54:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Moderate,None,Insects,442998
+17TNM03-4, 2022-06-25 06:35:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Moderate,None,RESQ,442985
+17TPK74-5, 2022-06-03 07:46:56,1SPT,300,Transcribed,Dominic Cormier,None,Heavy,Moderate,Light,None,,443007
+17ULR30-1, 2022-07-05 07:07:33,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Light,Light,None,,444171
+17TNM03-2, 2022-06-22 05:42:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,442977
+17UMR02-20, 2022-06-23 08:27:35,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,Moderate,None,Bug noise,449230
+17TPK74-21, 2022-06-08 07:32:36,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None, crickets chirping throughout,443020
+17ULQ18-20, 2022-07-07 08:20:10,1SPT,300,Transcribed,Matthew Timpf,Moderate,None,None,Light,None,Brief period of loud passing traffic near end of recording,444152
+17TNM03-21, 2022-06-22 07:19:30,1SPT,300,Transcribed,David Bell,,,,,,,442978
+17ULR94-4, 2022-07-09 06:44:27,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444128
+17TPK74-34, 2022-06-25 07:37:30,1SPT,300,Transcribed,Ken Burrell,None,None,Light,Light,None,,443000
+17TPK74-31, 2022-06-13 08:04:37,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443010
+17UMR53-2, 2022-06-25 08:31:45,1SPT,300,Transcribed,Adam Timpf,None,Light,None,None,None,,449233
+17ULQ92-4, 2022-06-22 07:20:22,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449245
+17UMR53-42, 2022-06-25 06:50:12,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449251
+17ULQ75-12, 2022-06-24 06:37:07,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449237
+17ULR30-L, 2022-07-05 08:08:31,1SPT,300,Transcribed,Adam Timpf,Moderate,None,None,None,None,,449383
+17TNM03-8, 2022-06-22 06:22:46,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,some background traffic at times,442981
+17ULR32-8, 2022-07-06 07:22:55,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449347
+17TNM03-13, 2022-06-25 05:41:30,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,442993
+17ULQ47-9, 2022-06-28 09:50:06,1SPT,300,Transcribed,Adam Timpf,None,Moderate,None,None,None,,449323
+17ULQ38-K, 2022-07-09 06:08:00,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449326
+17ULQ47-33, 2022-06-28 08:01:38,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449334
+17UMR60-14, 2022-06-27 10:33:07,1SPT,300,Transcribed,Adam Timpf,,,,,,,449366
+17UMR02-23, 2022-06-23 07:02:14,1SPT,300,Transcribed,Adam Timpf,,,,,,,449255
+17TPK74-7, 2022-05-31 07:01:38,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,443011
+16UFV78-25, 2022-07-08 08:11:45,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449318
+16UFV78-9, 2022-07-08 07:41:25,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449375
+16UEA91-C, 2022-07-10 10:04:32,1SPT,300,Transcribed,Adam Timpf,None,None,None,Light,None,"a couple vehicles, talking",449337
+16UEA91-20, 2022-07-10 08:46:03,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449379
+17TPK74-6, 2022-06-11 05:38:51,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Moderate,None,Squirrel noises as other,443003
+17TPK74-19, 2022-06-13 07:20:56,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,442995
+17ULQ92-22, 2022-06-22 06:09:21,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449234
+17ULQ38-I, 2022-07-09 09:49:28,1SPT,300,Transcribed,Adam Timpf,None,None,None,Light,None,lots of flies,449358
+17ULR30-T, 2022-07-05 07:41:05,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449369
+17ULQ18-15, 2022-07-07 08:01:23,1SPT,300,Transcribed,Sean Jenniskens,None,Light,None,Light,None,,444162
+17ULR30-14, 2022-07-05 09:30:01,1SPT,300,Transcribed,Adam Timpf,Moderate,None,None,None,None,,449394
+16UFV78-T, 2022-07-08 09:37:14,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Moderate,None,Buzzing of multitudes of mosquitoes around microphone impaired hearing.,449382
+17UMR53-28, 2022-06-25 07:17:12,1SPT,300,Transcribed,Adam Timpf,,,,,,,449238
+17TNM03-14, 2022-06-25 06:18:30,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,None,,442988
+17ULR32-1, 2022-07-06 07:58:13,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449332
+17TPK74-12, 2022-06-03 06:36:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Heavy,None,,443016
+17ULQ38-6, 2022-07-07 10:03:20,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449317
+17UMR60-3, 2022-06-27 08:53:04,1SPT,300,Transcribed,Adam Timpf,None,Heavy,None,None,None,,449316
+17ULQ47-30, 2022-06-28 07:33:28,1SPT,300,Transcribed,Adam Timpf,None,Light,None,None,None,,449354
+17TPK74-15, 2022-06-08 07:46:45,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Light,Light,None,,442994
+17ULR32-A, 2022-07-06 08:51:03,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449359
+17UMR34-E, 2022-06-29 10:28:19,1SPT,300,Transcribed,Adam Timpf,,,,,,,449367
+17ULR32-4, 2022-07-06 06:28:14,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449344
+17TNM03-22, 2022-06-25 05:11:43,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Light,None,,442983
+17UMR60-D, 2022-06-27 09:51:58,1SPT,300,Transcribed,Adam Timpf,None,Moderate,None,None,None,,449327
+17UMR60-10, 2022-06-27 10:40:13,1SPT,300,Transcribed,Donald Sutherland,Moderate,Moderate,None,Light,None,"Probably a scrub. Light to moderate rain, moderate to heavy wind. Passing truck.",449370
+17TPK74-2, 2022-06-03 06:04:39,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443002
+17ULQ38-14, 2022-07-09 07:14:53,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449324
+16UEA91-2, 2022-07-10 06:59:09,1SPT,300,Transcribed,Adam Timpf,,,,,,,449349
+17ULQ38-18, 2022-07-09 09:31:55,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449377
+16UEA91-15, 2022-07-10 09:42:02,1SPT,300,Transcribed,Adam Timpf,None,Light,None,Light,None,a few vehicles,449330
+17ULQ92-11, 2022-06-22 06:44:52,1SPT,300,Transcribed,Adam Timpf,None,Light,None,None,None,,449246
+16UFV78-1, 2022-07-08 07:54:16,1SPT,300,Transcribed,Adam Timpf,,,,,,,449322
+17UMR02-4, 2022-06-23 06:47:47,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449256
+17TPK74-4, 2022-06-03 07:15:40,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None,Some type of loud domestic animal briefly making noises.,443021
+17UMR02-18, 2022-06-23 08:52:31,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Moderate,None,Insects buzzing the microphone impaired hearing.,449244
+17ULQ75-16, 2022-06-24 06:15:29,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,449250
+17ULQ38-13, 2022-07-07 10:35:27,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,449393
+17TNL48-19, 2022-06-11 08:32:40,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,443034
+17TNM03-15, 2022-06-23 07:04:30,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,442991
+17ULQ47-27, 2022-06-28 07:17:49,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,449319
+17ULR30-W, 2022-07-05 06:34:32,1SPT,300,Transcribed,Donald Sutherland,Light,Light,None,Moderate,None,Insects around microphone light to moderate. Poor recording.,449321
+17ULR30-4, 2022-07-05 09:42:44,1SPT,300,Transcribed,Adam Timpf,None,None,None,Light,None,some loud vehicles,449325
+17ULR32-L, 2022-07-06 09:44:43,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Moderate,None,hella buggy,449385
+17ULQ92-18, 2022-06-22 09:53:30,1SPT,300,Transcribed,Adam Timpf,None,Moderate,None,None,None,,449242
+17TNK01-OR4, 2022-06-24 07:57:11,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,443027
+17TNM30-20, 2022-06-13 08:19:39,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Light,Moderate,None,"
+",443047
+17ULQ92-8, 2022-06-22 09:22:41,1SPT,300,Transcribed,Adam Timpf,,,,,,,449252
+17ULQ47-35, 2022-06-28 08:28:55,1SPT,300,Transcribed,Donald Sutherland,Moderate,Light,None,None,None,"Pouring rain, possibly some thunder. Poor recording.",449336
+17UMR34-A, 2022-06-29 09:27:01,1SPT,300,Transcribed,Adam Timpf,None,Light,None,None,None,,449365
+17ULQ38-17, 2022-07-09 09:12:07,1SPT,300,Transcribed,Sean Jenniskens,None,Moderate,None,Light,None,,449388
+17ULQ38-J, 2022-07-09 08:03:29,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Moderate,None,"Observere standing too close to recorder, shifting around, zipping and unzipping jacket, etc. Very distracting.",449342
+17UMR02-V, 2022-06-23 07:57:34,1SPT,300,Transcribed,Adam Timpf,None,None,None,None,None,,449247
+17UMR60-L, 2022-06-27 09:35:03,1SPT,300,Transcribed,Sean Jenniskens,None,Light,None,Light,None,,449378
+17ULQ47-28, 2022-06-28 09:28:17,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,Other issues,Poor quality. Low volume with lots of hiss.,449361
+17UMR53-31, 2022-06-25 09:00:59,1SPT,300,Transcribed,Adam Timpf,None,Moderate,None,None,None,,449239
+17ULQ38-19, 2022-07-09 10:16:05,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Moderate,None,,449396
+17TPK74-11, 2022-05-31 06:18:53,1SPT,300,Transcribed,Brandon Holden,None,None,Light,Light,None,"
+",443004
+17ULR32-T, 2022-07-06 10:02:33,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Moderate,None,"Insects buzzing microphone distracting. Observer too close to recorder, shuffling around, etc.",449368
+17TNM30-UNKN1, 2022-06-13 08:59:31,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Moderate,None,Some background voices and a crying child in the first part of recording. Lot's of mammal chatter throughout. ,443022
+17TNJ38-OR3, 2022-06-08 08:31:02,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,some squirrel chatter at times,443044
+17TNM30-18, 2022-06-13 08:05:56,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,Some sporadic gusts of moderate wind,443040
+17ULQ38-15, 2022-07-09 07:47:09,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Light,None,,449399
+17TNK01-OR5, 2022-06-24 08:33:40,1SPT,300,Transcribed,David Bell,,,,,,,443058
+16UEA91-G, 2022-07-10 10:26:09,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,None,Buzzing mosquitoes and blackflies around microphone. Passing truck on Hwy 11 at end of count.,449353
+17TNL48-5, 2022-06-11 08:45:14,1SPT,300,Transcribed,David Bell,,,,,,,443046
+17ULR32-6, 2022-07-06 08:10:38,1SPT,300,Transcribed,Sean Jenniskens,,,,,,,449331
+17UMR60-1, 2022-06-27 10:20:47,1SPT,300,Transcribed,Sean Jenniskens,None,Heavy,None,Light,None,,449360
+17ULQ92-21, 2022-06-22 10:02:25,1SPT,300,Transcribed,Sean Jenniskens,None,Heavy,None,Light,None,,449258
+17UMR34-B, 2022-06-29 09:44:41,1SPT,300,Transcribed,Sean Jenniskens,None,Light,None,Moderate,None,,449386
+17ULQ92-9, 2022-06-22 07:03:11,1SPT,300,Transcribed,Sean Jenniskens,None,Moderate,None,Light,None,,449253
+17TNM30-6, 2022-06-15 06:12:33,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Light,None,None,,443037
+17TNM30-6, 2022-06-15 06:27:30,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Light,Both Sides Extra Static,A bit of static and recordist talking,443023
+17TNJ38-OR2, 2022-06-08 07:43:11,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Light,None,None,,443051
+17ULR32-2, 2022-07-06 07:36:20,1SPT,300,Transcribed,Sean Jenniskens,None,Light,None,Light,None,,449346
+17ULQ47-36, 2022-06-28 08:44:56,1SPT,300,Transcribed,Sean Jenniskens,None,Moderate,None,Light,None,,449355
+17TNL48-11, 2022-06-11 09:36:22,1SPT,300,Transcribed,Sean Jenniskens,None,Moderate,None,Light,None,,443030
+17TPK74-17, 2022-06-03 06:22:40,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,None,None,"
+",443013
+17TNK01-OR3, 2022-06-24 07:39:34,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None,  some light traffic/plane noise,443031
+17TNK01-OR1, 2022-06-24 05:44:48,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443053
+17TNM30-37, 2022-06-14 09:45:58,1SPT,300,Transcribed,David Bell,,,,,,,443048
+17TNJ38-7, 2022-06-28 07:38:39,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443039
+17TNJ38-OR1, 2022-06-08 06:55:28,1SPT,300,Transcribed,David Bell,,,,,,,443032
+17TNM30-4, 2022-06-14 06:26:02,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Moderate,None,"
+",443024
+17TNL48-12, 2022-06-11 07:45:17,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,443025
+17TNM30-2, 2022-06-13 09:50:24,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Light,None,None,,443054
+17TPM12-10, 2022-06-05 07:56:33,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Light,None,,444265
+16UFV78-27, 2022-07-08 10:34:40,1SPT,300,Transcribed,Sean Jenniskens,None,Light,None,Moderate,None,,449364
+16UEA91-19, 2022-07-10 07:58:53,1SPT,300,Transcribed,Sean Jenniskens,None,Moderate,None,Light,None,,449328
+17UMR34-D, 2022-06-29 10:12:45,1SPT,300,Transcribed,Sean Jenniskens,None,Heavy,None,Moderate,None,,449391
+17TPM12-4, 2022-06-05 05:57:30,1SPT,300,Transcribed,Nathan Hood,None,Heavy,None,None,None,,444275
+16UFV35-OR2, 2022-07-08 09:40:45,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,"
+",444311
+17TPM12-8, 2022-06-05 08:09:25,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Light,None,"
+",444269
+17TNJ38-OR5, 2022-06-08 09:30:55,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,443026
+17ULQ38-3, 2022-07-07 10:22:34,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Light,None,,449345
+16UEA91-17, 2022-07-10 06:13:33,1SPT,300,Transcribed,Sean Jenniskens,None,Light,None,Light,None,,449329
+17ULQ38-1, 2022-07-07 10:12:19,1SPT,300,Transcribed,Sean Jenniskens,None,Light,None,Light,None,,449335
+17UMR60-8, 2022-06-27 08:32:38,1SPT,300,Transcribed,Sean Jenniskens,None,Moderate,None,Light,None,,449372
+17UMR60-4, 2022-06-27 08:42:38,1SPT,300,Transcribed,Sean Jenniskens,None,Moderate,None,Light,None,,449389
+17TNM30-11, 2022-06-15 06:36:14,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Light,None,Cell phone static ,443041
+17UMR60-13, 2022-06-27 08:11:23,1SPT,300,Transcribed,Sean Jenniskens,None,Moderate,None,Light,None,,449376
+17TPM13-8, 2022-06-20 08:44:32,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,444271
+17TNM30-3, 2022-06-13 09:42:23,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,443059
+16UFV78-16, 2022-07-08 08:22:06,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Light,None,,449398
+17TNL48-1, 2022-06-11 09:09:26,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,443052
+17TNL48-7, 2022-06-11 06:09:26,1SPT,300,Transcribed,Matthew Timpf,None,None,None,None,None,,443049
+17ULQ47-34, 2022-06-28 08:18:47,1SPT,300,Transcribed,Sean Jenniskens,None,Moderate,None,Light,None,,449380
+17TNL48-20, 2022-06-11 09:20:16,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443033
+17TPM13-18, 2022-07-08 06:40:26,1SPT,300,Transcribed,David Bell,,,,,,,444277
+17TNJ38-12, 2022-06-28 06:44:46,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Moderate,Both Sides Extra Static,A few brief periods of static. Background traffic/plane noise throughout.,443038
+17TPM13-19, 2022-06-20 09:47:24,1SPT,300,Transcribed,David Bell,,,,,,,444266
+17TNM30-25, 2022-06-14 07:23:24,1SPT,300,Transcribed,David Bell,,,,,,,443036
+17TPM12-3, 2022-06-05 06:13:29,1SPT,300,Transcribed,David Bell,,,,,,,444273
+17TPM12-9, 2022-06-05 07:23:30,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,None,Some traffic,444267
+17TPM12-5, 2022-06-05 07:40:37,1SPT,300,Transcribed,Brandon Holden,None,Light,Heavy,Light,None,,444278
+17TNM30-17, 2022-06-14 06:06:58,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443042
+17TNM30-22, 2022-06-14 09:13:42,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,443050
+17UMR60-11, 2022-06-27 10:09:31,1SPT,300,Transcribed,Sean Jenniskens,None,Heavy,None,Light,None,,449356
+16UFV78-24, 2022-07-08 09:20:27,1SPT,300,Transcribed,Sean Jenniskens,None,Light,None,Light,None,,449348
+16UEA91-1, 2022-07-10 07:45:31,1SPT,300,Transcribed,Sean Jenniskens,None,Light,None,Light,None,,449343
+17TNM30-8, 2022-06-14 08:10:34,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,Left Side Extra Static,,443056
+17TPM12-7, 2022-06-05 07:11:27,1SPT,300,Transcribed,Amanda Guercio,None,None,Heavy,None,None,,444276
+17ULR30-M, 2022-07-05 07:17:26,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Moderate,None,,449320
+17TNK01-OR2, 2022-06-24 06:51:45,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,,443045
+17ULQ47-32, 2022-06-28 07:46:21,1SPT,300,Transcribed,Sean Jenniskens,None,Moderate,None,Light,None,,449357
+17UMR34-C, 2022-06-29 09:58:30,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Moderate,None,,449333
+17TNM30-9, 2022-06-14 07:12:52,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Moderate,Left Side Extra Static,"Some brief static, background traffic quite loud in second half",443028
+17ULR30-22, 2022-07-05 09:59:04,1SPT,300,Transcribed,Sean Jenniskens,Moderate,Light,None,None,None,,449390
+17TNM30-21, 2022-06-14 08:35:35,1SPT,300,Transcribed,David Bell,,,,,,,443043
+17TPM13-15, 2022-06-20 10:34:33,1SPT,300,Transcribed,David Bell,,,,,,,444270
+17TNL48-12, 2022-06-11 08:55:31,1SPT,300,Transcribed,David Bell,,,,,,,443057
+17TPM12-1, 2022-06-05 06:39:27,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Light,Moderate,None,,444274
+17TPM91-11, 2022-07-07 06:36:45,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Moderate,None,trickling water and moderate traffic throughout,443498
+17TPK02-2, 2022-06-11 06:16:46,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444352
+17TPK02-18, 2022-05-29 05:48:26,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,Both Sides Extra Static,,444356
+17TPK02-13, 2022-06-05 07:40:38,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Light,Right Side Extra Static,,444348
+17TPK02-A3, 2022-06-05 09:29:53,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,None,Right Side Extra Static,,444353
+17TPK02-A, 2022-06-13 05:25:48,1SPT,300,Transcribed,David Bell,,,,,,,444355
+17TPK02-16, 2022-05-29 06:36:29,1SPT,300,Transcribed,David Bell,,,,,,,444357
+17TPK02-17, 2022-05-29 06:10:08,1SPT,300,Transcribed,Brandon Holden,None,None,Light,Light,Right Side Extra Static,,444350
+17TPK02-14, 2022-06-05 07:00:48,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Moderate,None,some occasional brief loud traffic,444358
+17TNJ38-OR4, 2022-06-08 08:55:28,1SPT,300,Transcribed,David Bell,,,,,,,443035
+17TPK02-D3, 2022-05-24 05:58:07,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Moderate,None,constant traffic in background,444354
+17TPK02-5, 2022-06-11 06:43:35,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,None,Right Side Extra Static,,444351
+17TPK02-E3, 2022-06-10 06:16:40,1SPT,300,Transcribed,David Bell,,,,,,,444349
+17TMM11-OR1, 2022-07-08 07:22:44,1SPT,300,Transcribed,David Bell,None,None,Heavy,Light,None,suspect geotag is off - sounds like it's right beside Hwy 17,443513
+17TPM12-2, 2022-06-05 06:26:26,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Moderate,Light,None,"
+",444268
+17TNL98-9, 2022-06-21 08:56:29,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Moderate,Heavy,Both Sides Extra Static,Lots of static. River nearby?,443931
+17TNJ38-19, 2022-06-23 07:14:49,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,443055
+17TNL98-3, 2022-06-21 07:51:31,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Moderate,Light,None,,443932
+17TNM30-14, 2022-06-13 05:45:16,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Moderate,None,"
+",443029
+17TMM21-15, 2022-07-04 07:04:39,1SPT,300,Transcribed,Matthew Timpf,Moderate,None,None,Light,None,some traffic,443510
+17TPM12-6, 2022-06-05 06:55:28,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,444272
+17TMM11-32, 2022-07-08 08:49:58,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,None,train horn in background,443693
+16UFV35-OR1, 2022-07-07 09:19:43,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,,444312
+17TPM54-4, 2022-06-13 08:34:38,1SPT,300,Transcribed,Amanda Guercio,Light,None,Light,None,None,,443364
+17TNK89-23, 2022-06-08 07:00:32,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Moderate,None,short periods of loud passing traffic,335591
+17TNK89-9, 2022-06-08 06:21:36,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Moderate,None,Constant running water sounds in background and a few brief periods of loud passing traffic.   ,335584
+17TNK89-OR5, 2022-06-20 09:20:02,1SPT,300,Transcribed,Matthew Timpf,None,None,None,None,None,,335595
+17TPK24-14, 2022-06-05 06:14:15,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Moderate,None,constant background traffic,334761
+18TVQ55-4, 2022-06-10 04:45:24,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Heavy,None,Heavy background traffic. Sounds like maybe some construction machinery as well.,340473
+18TVQ55-16, 2022-06-10 03:16:14,1SPT,300,Transcribed,Ken Burrell,None,Light,Moderate,None,None,Pretty heavy traffic and good chainsaw activity.,340483
+18TVQ55-7, 2022-06-10 04:01:59,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Moderate,None,"Voices in background at times, some prediods of heavy passing traffic, plane overhead at times",340482
+17TMN76-G, 2022-05-29 08:21:13,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,Talking at beginning of recording. Brief period of passing traffic,334636
+17TLM91-4, 2022-07-07 07:17:59,1SPT,300,Transcribed,David Bell,None,None,Light,Light,Other issues,some static/feedback throughout,443696
+17TMN49-6, 2022-05-31 07:24:20,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Moderate,None,"Some periods  of loud passing traffic, some background beeping noises from machinery at times",334690
+17TNL98-16, 2022-06-21 08:32:22,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443930
+17TPM10-34, 2022-06-19 07:53:17,1SPT,270,Transcribed,Brandon Holden,None,Light,Light,Light,None,,443748
+17TNK89-9, 2022-06-20 06:19:31,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,335598
+17TMN41-M-UNKN, 2022-05-28 07:27:48,1SPT,300,Transcribed,Ken Burrell,None,None,None,None,None,,334689
+17TMM64-23, 2022-06-30 06:45:30,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,Heavy,Both Sides Extra Static,,443677
+17TMN65-M6, 2022-05-30 06:50:55,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Light,None,Running water. ,334622
+17TNK89-29, 2022-06-08 06:33:15,1SPT,300,Transcribed,Amanda Guercio,None,Moderate,Light,None,None,,335586
+17TMN49-8, 2022-05-31 07:50:19,1SPT,300,Transcribed,Amanda Guercio,None,None,Moderate,None,None,,334698
+17TMN76-UNKN2, 2022-05-29 09:03:58,1SPT,300,Transcribed,Matthew Timpf,None,None,None,None,Other issues,Sound is all distorted so difficult to ID some of the calling species.,334691
+17TMM95-6, 2022-06-29 06:04:30,1SPT,300,Transcribed,Amanda Guercio,None,None,Moderate,None,None,,443686
+17TMN49-5, 2022-05-31 06:13:27,1SPT,300,Transcribed,Ken Burrell,None,None,None,None,None,,334646
+17TMN76-2, 2022-05-29 08:48:27,1SPT,300,Transcribed,Brandon Holden,None,None,None,None,None,,334662
+18TVQ55-2, 2022-06-26 08:33:24,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Moderate,Light,None,"
+",340476
+18TVQ65-11, 2022-06-26 09:23:42,1SPT,300,Transcribed,Brandon Holden,None,Light,Heavy,Light,None,,340469
+17TPM11-7, 2022-06-20 08:34:00,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,443745
+18TVQ55-9, 2022-06-10 02:54:30,1SPT,300,Transcribed,Amanda Guercio,None,Moderate,None,None,None,,340475
+17TPK24-6, 2022-06-03 06:42:11,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,None,None,,334760
+17TNH22-14, 2022-06-21 09:26:22,1SPT,300,New,Not Assigned,,,,,,,689046
+17TNH22-11, 2022-06-21 06:30:24,1SPT,300,New,Not Assigned,,,,,,,689045
+17TNH22-10, 2022-06-21 06:43:16,1SPT,300,New,Not Assigned,,,,,,,689051
+17TNH22-7, 2022-06-21 07:08:22,1SPT,300,New,Not Assigned,,,,,,,689055
+17TNH22-1, 2022-06-21 09:50:12,1SPT,300,New,Not Assigned,,,,,,,689061
+17TNH22-21, 2022-06-21 07:42:16,1SPT,300,New,Not Assigned,,,,,,,689064
+17TNH22-5, 2022-06-21 09:14:23,1SPT,300,New,Not Assigned,,,,,,,689047
+17TNH22-8, 2022-06-21 09:06:21,1SPT,300,New,Not Assigned,,,,,,,689050
+17TNH22-9, 2022-06-21 07:27:14,1SPT,300,New,Not Assigned,,,,,,,689058
+17TNH22-4, 2022-06-21 07:16:23,1SPT,300,New,Not Assigned,,,,,,,689062
+17TNM30-10, 2022-06-15 07:02:15,1SPT,300,New,Not Assigned,,,,,,,689067
+17TNM30-1, 2022-06-15 07:17:05,1SPT,293,New,Not Assigned,,,,,,,689071
+17TNH22-22, 2022-06-21 06:58:25,1SPT,300,New,Not Assigned,,,,,,,689052
+17TNH22-23, 2022-06-21 09:38:13,1SPT,300,New,Not Assigned,,,,,,,689048
+17TNH22-18, 2022-06-21 08:19:29,1SPT,300,New,Not Assigned,,,,,,,689053
+17TNH22-13, 2022-06-21 07:57:16,1SPT,300,New,Not Assigned,,,,,,,689060
+17TNH22-12, 2022-06-21 08:07:12,1SPT,300,New,Not Assigned,,,,,,,689057
+17TNH22-28, 2022-06-21 08:47:14,1SPT,300,New,Not Assigned,,,,,,,689049
+17TNH22-3, 2022-06-21 08:58:23,1SPT,300,New,Not Assigned,,,,,,,689063
+17TPL07-3, 2022-06-20 06:21:13,1SPT,300,New,Not Assigned,,,,,,,689066
+17TNH22-15, 2022-06-21 06:15:16,1SPT,300,New,Not Assigned,,,,,,,689056
+17TPL08-16, 2022-06-19 07:05:21,1SPT,300,New,Not Assigned,,,,,,,689065
+17TNM30-16, 2022-06-15 07:10:08,1SPT,270,New,Not Assigned,,,,,,,689070
+17TPL08-26, 2022-06-19 07:21:43,1SPT,300,New,Not Assigned,,,,,,,689072
+17TMN49-A, 2022-05-31 07:47:39,1SPT,300,Transcribed,David Bell,,,,,,,334614
+17TMN93-17, 2022-06-01 09:13:18,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,334700
+18TVQ55-1, 2022-06-10 03:27:05,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Moderate,None,None,"
+",340474
+17TMN93-15, 2022-06-01 09:28:25,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,None,None,,334586
+17TMN76-H, 2022-05-29 07:48:47,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,334650
+17TMN93-3, 2022-06-01 07:17:31,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,n,334661
+17TNH22-24, 2022-06-21 08:30:13,1SPT,300,New,Not Assigned,,,,,,,689054
+17TMN41-M2, 2022-05-28 07:03:06,1SPT,300,Transcribed,Brandon Holden,None,None,None,Light,None,,334623
+17TNH22-17, 2022-06-21 10:03:13,1SPT,300,New,Not Assigned,,,,,,,689059
+17TMN76-UNKN, 2022-05-29 08:48:27,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,Talking at beginning of recording.,334693
+17TPL08-15, 2022-06-19 07:46:31,1SPT,300,New,Not Assigned,,,,,,,689068
+17TPL08-22, 2022-06-19 06:51:36,1SPT,296,New,Not Assigned,,,,,,,689069
+17TPK24-16, 2022-06-05 07:06:06,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None,A brief period of loud passing traffic,334754
+17TNM97-B, 2022-07-03 09:11:30,1SPT,300,New,Not Assigned,,,,,,,709776
+18TVQ55-10, 2022-06-26 08:16:22,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,340461
+17TNM97-D, 2022-07-03 08:48:47,1SPT,300,New,Not Assigned,,,,,,,709777
+17TNM98-OR1, 2022-07-03 06:23:57,1SPT,300,New,Not Assigned,,,,,,,709780
+17TNM97-OR1, 2022-07-03 07:25:32,1SPT,300,New,Not Assigned,,,,,,,709784
+17TNM98-OR2, 2022-07-02 09:20:04,1SPT,300,New,Not Assigned,,,,,,,709778
+17TNM97-C, 2022-07-03 08:31:38,1SPT,300,New,Not Assigned,,,,,,,709781
+17TNM97-OR2, 2022-07-03 06:54:41,1SPT,300,New,Not Assigned,,,,,,,709779
+17TNM98-OR3, 2022-07-02 08:48:13,1SPT,300,New,Not Assigned,,,,,,,709783
+17TNM97-A, 2022-07-03 08:12:48,1SPT,300,New,Not Assigned,,,,,,,709782
+17TNL85-12, 2022-07-03 07:25:13,1SPT,300,New,Not Assigned,,,,,,,709788
+17TPL18-3, 2022-06-19 09:36:58,1SPT,300,New,Not Assigned,,,,,,,709785
+17TNL85-16, 2022-06-12 10:50:14,1SPT,300,New,Not Assigned,,,,,,,709789
+17TNL85-23, 2022-07-03 07:04:20,1SPT,300,New,Not Assigned,,,,,,,709792
+17TNL85-36, 2022-06-11 06:55:22,1SPT,300,New,Not Assigned,,,,,,,709795
+17TNL85-3, 2022-06-11 06:47:04,1SPT,300,New,Not Assigned,,,,,,,709786
+17TNL85-12, 2022-06-12 10:40:25,1SPT,300,New,Not Assigned,,,,,,,709794
+17TNL85-16, 2022-07-03 07:35:16,1SPT,300,New,Not Assigned,,,,,,,709800
+17TNL85-39, 2022-06-12 09:30:27,1SPT,300,New,Not Assigned,,,,,,,709790
+17TNL85-6, 2022-07-03 07:15:15,1SPT,300,New,Not Assigned,,,,,,,709787
+17TNL85-39, 2022-07-03 06:52:27,1SPT,300,New,Not Assigned,,,,,,,709796
+17TNL85-17, 2022-07-03 06:45:08,1SPT,300,New,Not Assigned,,,,,,,709797
+17TNL85-30, 2022-06-12 11:05:53,1SPT,300,New,Not Assigned,,,,,,,709802
+17TNL85-36, 2022-07-03 06:30:28,1SPT,300,New,Not Assigned,,,,,,,709791
+17TNL85-17, 2022-06-11 07:09:27,1SPT,300,New,Not Assigned,,,,,,,709807
+17TNL85-24, 2022-07-03 07:56:20,1SPT,300,New,Not Assigned,,,,,,,709799
+17TNL85-24, 2022-06-12 11:21:01,1SPT,300,New,Not Assigned,,,,,,,709793
+17TNL85-14, 2022-06-12 11:50:21,1SPT,300,New,Not Assigned,,,,,,,709805
+17TNL85-30, 2022-07-03 07:46:13,1SPT,300,New,Not Assigned,,,,,,,709801
+17TNL85-6, 2022-06-12 10:07:43,1SPT,300,New,Not Assigned,,,,,,,709804
+17TNL85-14, 2022-07-03 08:05:15,1SPT,300,New,Not Assigned,,,,,,,709803
+17TNL85-11, 2022-06-12 12:15:19,1SPT,300,New,Not Assigned,,,,,,,709798
+17TNL85-32, 2022-06-12 10:30:29,1SPT,300,New,Not Assigned,,,,,,,709809
+17TNL85-23, 2022-06-12 10:00:21,1SPT,300,New,Not Assigned,,,,,,,709806
+17TNL85-3, 2022-07-03 06:15:26,1SPT,300,New,Not Assigned,,,,,,,709808
+17TMN49-10, 2022-05-31 08:52:27,1SPT,300,Transcribed,Amanda Guercio,None,None,Moderate,Moderate,None,Traffic,334644
+17TMN65-M4, 2022-05-30 10:00:53,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,334621
+17TMN76-13, 2022-05-29 09:50:54,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,334601
+17TMN41-D, 2022-05-28 10:07:53,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,334606
+17TMN65-8-UNKN2, 2022-05-30 10:14:21,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Moderate,None,,334688
+17TMN65-17, 2022-05-30 05:48:46,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,334600
+17TMN65-9, 2022-05-30 08:22:16,1SPT,300,Malfunction,Ken Burrell,None,None,None,None,Both Channels Fail,,334639
+17TMN76-9, 2022-05-29 10:37:14,1SPT,300,Transcribed,Matthew Timpf,Light,Moderate,None,Light,None,brief traffic at end,334585
+17TPK24-A, 2022-06-08 07:20:29,1SPT,300,Transcribed,Nathan Hood,,,,,,,334757
+17TNK89-UNKN, 2022-06-08 08:36:40,1SPT,300,Transcribed,David Bell,,,,,,,335589
+17TNK89-OR2, 2022-06-20 08:05:46,1SPT,300,Transcribed,Matthew Timpf,,,,,,,335594
+17TPK24-24, 2022-06-05 06:25:17,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,334749
+17TNK89-9, 2022-06-08 08:14:03,1SPT,300,Transcribed,David Bell,None,Light,Light,Light,None,,335597
+17TPK24-9, 2022-06-08 05:59:55,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,334755
+17TNK89-OR1, 2022-06-20 06:49:57,1SPT,300,Transcribed,Brandon Holden,None,None,Light,Moderate,None,"
+",335592
+17TPK24-D, 2022-06-08 06:33:39,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,334764
+17TNK89-6, 2022-06-20 07:04:26,1SPT,300,Transcribed,David Bell,,,,,,,335596
+17TPK24-7, 2022-06-05 06:02:28,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,334750
+17TNK89-19, 2022-06-08 07:15:50,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,335603
+17TPK24-E, 2022-06-05 06:42:11,1SPT,300,Transcribed,Matthew Timpf,None,None,None,None,None,,334762
+17TNK89-5, 2022-06-08 09:33:00,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,None,brief loud passing traffic,335587
+17TNT47-UNKN1, 2022-06-11 06:09:32,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Light,None,,334721
+17TNK89-3, 2022-06-08 09:45:23,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,335608
+17TPK24-B, 2022-06-08 06:57:19,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,334753
+17TNK89-24, 2022-06-08 06:10:04,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,335585
+17TMN65-8-UNKN, 2022-05-30 08:00:16,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,334697
+17TNK89-13, 2022-06-08 08:02:41,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,335588
+17TNK89-22, 2022-06-08 06:46:41,1SPT,300,Transcribed,Amanda Guercio,None,Light,Light,None,None,,335590
+17TMN49-13, 2022-05-31 09:18:26,1SPT,300,Transcribed,Brandon Holden,None,None,None,None,None,,334605
+17TNK89-28, 2022-06-20 06:32:11,1SPT,300,Transcribed,Brandon Holden,None,None,None,Moderate,None,"
+",335599
+17TNK89-OR4, 2022-06-20 09:02:56,1SPT,300,Transcribed,Brandon Holden,None,None,None,None,None,,335602
+17TNK89-OR3, 2022-06-20 08:39:10,1SPT,300,Transcribed,Brandon Holden,None,None,None,Light,None,,335605
+17TMN93-6, 2022-06-01 06:33:50,1SPT,300,Transcribed,Brandon Holden,None,None,None,Light,None,,334649
+17TNK89-18, 2022-06-08 07:35:27,1SPT,300,Transcribed,Brandon Holden,Light,None,None,None,None,,335606
+17TMN41-3, 2022-05-28 09:49:47,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,None,None,,334653
+18TVQ65-7, 2022-06-26 09:31:53,1SPT,300,Transcribed,Nathan Hood,None,Moderate,Light,None,None,,340479
+18TVQ65-21, 2022-06-26 09:58:52,1SPT,300,Transcribed,Ken Burrell,None,Light,Light,None,None,,340485
+18TVQ55-UNKN1, 2022-06-26 07:27:28,1SPT,300,Transcribed,Ken Burrell,None,Light,None,None,None,,340487
+18TVQ55-18, 2022-06-10 03:44:33,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,None,some background traffic and plane noise,340484
+18TVQ65-20, 2022-06-26 08:51:15,1SPT,300,Transcribed,Ken Burrell,None,None,Heavy,None,None,Heavy traffic!,340480
+18TVQ55-19, 2022-06-10 02:36:09,1SPT,300,Transcribed,Amanda Guercio,None,Moderate,None,None,None,Timestamp issue... not from 2:30 am,340478
+18TVQ55-17, 2022-06-26 07:55:09,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,Light,None,On a farm!,340488
+18TVQ55-21, 2022-06-10 04:35:10,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Heavy,Moderate,None,,340464
+17TNP47-UNKN5, 2022-06-11 08:18:52,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,None,None,"
+",334719
+18TVQ55-15, 2022-06-10 02:46:06,1SPT,300,Transcribed,Sean Jenniskens,None,None,None,Moderate,None,,340481
+18TVQ65-13, 2022-06-26 09:06:32,1SPT,300,Transcribed,Ken Burrell,None,None,Moderate,None,None,,340486
+17TNP47-UNKN2, 2022-06-11 06:36:38,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,334722
+17TPK24-3, 2022-06-05 07:40:51,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,334758
+17TMN93-L, 2022-06-01 07:51:51,1SPT,300,Transcribed,David Bell,None,None,None,Moderate,None,many mosquitoes,334647
+17TNP47-UNKN3, 2022-06-11 07:12:46,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,334720
+17TPK24-10, 2022-06-03 07:10:47,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None,Background highway traffic,334751
+17TNK89-16, 2022-06-08 09:55:19,1SPT,300,Transcribed,Ken Burrell,None,Light,Light,None,None,,335604
+17TMN49-D, 2022-05-31 06:49:42,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,334615
+17TMN49-H, 2022-05-31 08:36:55,1SPT,300,Transcribed,Matthew Timpf,,,,,,,334645
+17TMN41-7, 2022-05-28 10:34:26,1SPT,300,Transcribed,David Bell,,,,,,,334655
+17TMN41-M-UNKN2, 2022-05-28 08:00:37,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,Other issues,Non-LEBI Alarm Played @ End,334694
+17TPL18-16, 2022-06-20 09:07:11,1SPT,300,New,Not Assigned,,,,,,,710297
+17TMN41-C, 2022-05-28 09:36:53,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,n,334582
+17TPL18-OR1, 2022-06-21 06:13:11,1SPT,300,New,Not Assigned,,,,,,,710299
+17TPL18-2, 2022-06-19 06:53:41,1SPT,300,New,Not Assigned,,,,,,,710298
+17TPL18-18, 2022-06-19 06:34:51,1SPT,300,New,Not Assigned,,,,,,,710303
+17TPL18-7, 2022-06-19 07:40:24,1SPT,300,New,Not Assigned,,,,,,,710304
+17TPL18-21, 2022-06-19 07:19:13,1SPT,300,New,Not Assigned,,,,,,,710306
+17TPL18-1, 2022-06-20 06:22:11,1SPT,300,New,Not Assigned,,,,,,,710307
+17TPL18-5, 2022-06-19 10:14:58,1SPT,300,New,Not Assigned,,,,,,,710302
+17TPL35-OR1, 2022-06-13 08:08:46,1SPT,300,New,Not Assigned,,,,,,,710394
+17TPL18-17, 2022-06-19 07:54:31,1SPT,300,New,Not Assigned,,,,,,,710300
+17TPL18-15, 2022-06-20 08:56:26,1SPT,300,New,Not Assigned,,,,,,,710301
+17TPL35-32, 2022-06-11 07:21:07,1SPT,300,New,Not Assigned,,,,,,,710397
+17TPL18-8, 2022-06-20 07:24:07,1SPT,300,New,Not Assigned,,,,,,,710305
+17TPL35-15, 2022-06-10 07:50:34,1SPT,300,New,Not Assigned,,,,,,,710403
+17TPL35-19, 2022-06-11 06:39:38,1SPT,300,New,Not Assigned,,,,,,,710412
+17TPL35-33, 2022-06-11 08:01:54,1SPT,300,New,Not Assigned,,,,,,,710393
+17TPL35-OR5, 2022-06-13 07:32:29,1SPT,300,New,Not Assigned,,,,,,,710401
+17TPL35-14, 2022-06-10 08:02:18,1SPT,300,New,Not Assigned,,,,,,,710395
+17TPL35-24, 2022-06-13 07:15:34,1SPT,300,New,Not Assigned,,,,,,,710405
+17TPL35-9, 2022-06-10 07:19:28,1SPT,300,New,Not Assigned,,,,,,,710404
+17TPL35-5, 2022-06-13 06:47:07,1SPT,300,New,Not Assigned,,,,,,,710417
+17TPL35-2, 2022-06-10 08:30:51,1SPT,300,New,Not Assigned,,,,,,,710409
+17TPL35-8, 2022-06-11 08:44:30,1SPT,300,New,Not Assigned,,,,,,,710415
+17TPL35-3, 2022-06-10 07:04:28,1SPT,300,New,Not Assigned,,,,,,,710396
+17TPL35-17, 2022-06-11 08:31:57,1SPT,300,New,Not Assigned,,,,,,,710399
+17TPL35-1, 2022-06-10 07:34:08,1SPT,300,New,Not Assigned,,,,,,,710402
+17TPL35-20, 2022-06-10 08:44:49,1SPT,300,New,Not Assigned,,,,,,,710398
+17TPL35-16, 2022-06-11 08:15:37,1SPT,300,New,Not Assigned,,,,,,,710406
+17TPL35-OR4, 2022-06-13 07:51:32,1SPT,300,New,Not Assigned,,,,,,,710411
+17TPL35-26, 2022-06-11 07:03:12,1SPT,300,New,Not Assigned,,,,,,,710407
+17TPL35-21, 2022-06-11 06:50:02,1SPT,300,New,Not Assigned,,,,,,,710416
+17TPL35-4, 2022-06-10 06:47:31,1SPT,300,New,Not Assigned,,,,,,,710413
+17TPL35-OR3, 2022-06-15 06:52:24,1SPT,300,New,Not Assigned,,,,,,,710400
+17TPL35-7, 2022-06-10 09:02:11,1SPT,300,New,Not Assigned,,,,,,,710410
+17TPL35-18, 2022-06-10 08:14:45,1SPT,300,New,Not Assigned,,,,,,,710408
+17UNR50-R, 2022-06-20 09:09:12,1SPT,300,New,Not Assigned,,,,,,,710308
+17TPL35-OR2, 2022-06-15 07:11:14,1SPT,300,New,Not Assigned,,,,,,,710414
+17UNR51-AA, 2022-06-26 09:14:02,1SPT,300,New,Not Assigned,,,,,,,710309
+17UNR51-9, 2022-06-24 07:18:08,1SPT,300,New,Not Assigned,,,,,,,710316
+17UNR50-Y, 2022-06-23 07:58:51,1SPT,300,New,Not Assigned,,,,,,,710312
+17UNR51-1, 2022-06-26 05:49:50,1SPT,299.934988662132,New,Not Assigned,,,,,,,710340
+17UNR51-3, 2022-06-20 06:29:53,1SPT,300,New,Not Assigned,,,,,,,710320
+17UNR50-C, 2022-06-29 07:41:39,1SPT,300,New,Not Assigned,,,,,,,710347
+17UNR50-5, 2022-06-20 07:05:34,1SPT,300,New,Not Assigned,,,,,,,710327
+17UNR51-19, 2022-06-26 08:39:27,1SPT,300,New,Not Assigned,,,,,,,710352
+17UNR51-17, 2022-06-24 06:24:08,1SPT,300,New,Not Assigned,,,,,,,710332
+17UNR50-10, 2022-06-19 06:16:13,1SPT,300,New,Not Assigned,,,,,,,710310
+17UNR50-12, 2022-06-19 07:24:12,1SPT,300,New,Not Assigned,,,,,,,710339
+17UNR62-18, 2022-06-30 07:02:05,1SPT,300,New,Not Assigned,,,,,,,710344
+17UNR50-15, 2022-06-20 06:49:45,1SPT,300,New,Not Assigned,,,,,,,710315
+17UNR51-11, 2022-06-26 08:05:19,1SPT,300,New,Not Assigned,,,,,,,710354
+17UNR51-CC, 2022-06-29 06:38:35,1SPT,300,New,Not Assigned,,,,,,,710322
+17UNR50-19, 2022-06-20 07:21:54,1SPT,300,New,Not Assigned,,,,,,,710361
+17UNR51-7, 2022-06-26 05:59:19,1SPT,300,New,Not Assigned,,,,,,,710328
+17UNR51-14, 2022-06-25 05:55:45,1SPT,300,New,Not Assigned,,,,,,,710331
+17UNR50-14, 2022-06-19 05:52:14,1SPT,300,New,Not Assigned,,,,,,,710311
+17UNR51-10, 2022-06-26 07:53:35,1SPT,300,New,Not Assigned,,,,,,,710334
+17UNR50-4, 2022-06-20 08:03:16,1SPT,300,New,Not Assigned,,,,,,,710318
+17UNR51-13, 2022-06-25 06:14:00,1SPT,300,New,Not Assigned,,,,,,,710342
+17UNR51-22, 2022-06-26 06:22:05,1SPT,300,New,Not Assigned,,,,,,,710321
+17UNR51-15, 2022-06-26 07:11:44,1SPT,300,New,Not Assigned,,,,,,,710346
+17UNR51-A, 2022-06-29 09:01:11,1SPT,300,New,Not Assigned,,,,,,,710353
+17UNR50-2, 2022-06-19 07:01:01,1SPT,300,New,Not Assigned,,,,,,,710325
+17UNR51-4, 2022-06-26 06:32:19,1SPT,300,New,Not Assigned,,,,,,,710362
+17UNR51-5, 2022-06-24 07:02:47,1SPT,300,New,Not Assigned,,,,,,,710330
+17UNR50-16, 2022-06-19 06:36:11,1SPT,300,New,Not Assigned,,,,,,,710313
+17UNR50-7, 2022-06-19 09:09:53,1SPT,300,New,Not Assigned,,,,,,,710336
+17UNR51-BB, 2022-06-26 09:49:14,1SPT,300,New,Not Assigned,,,,,,,710343
+17UNR51-2, 2022-06-26 06:43:34,1SPT,300,New,Not Assigned,,,,,,,710329
+17UNR50-3, 2022-06-19 08:01:13,1SPT,300,New,Not Assigned,,,,,,,710350
+17UNR51-16, 2022-06-26 07:28:33,1SPT,300,New,Not Assigned,,,,,,,710355
+17UNR51-18, 2022-06-26 08:21:26,1SPT,300,New,Not Assigned,,,,,,,710338
+17UNR50-AA, 2022-06-23 09:10:42,1SPT,300,New,Not Assigned,,,,,,,710358
+17UNR51-20, 2022-06-25 06:31:41,1SPT,300,New,Not Assigned,,,,,,,710345
+16UFD33-K, 2022-07-05 06:30:27,1SPT,300,New,Not Assigned,,,,,,,710418
+16UFD33-OR8, 2022-07-05 09:05:04,1SPT,300,New,Not Assigned,,,,,,,710425
+16UFC28-F, 2022-06-27 09:01:44,1SPT,300,New,Not Assigned,,,,,,,710428
+16UFC39-OR1, 2022-07-01 05:40:17,1SPT,300,New,Not Assigned,,,,,,,710436
+16UFC28-R, 2022-06-27 09:34:50,1SPT,300,New,Not Assigned,,,,,,,710442
+16UFD47-A, 2022-07-08 05:46:23,1SPT,300,New,Not Assigned,,,,,,,710447
+16UFD33-M, 2022-07-04 07:46:58,1SPT,300,New,Not Assigned,,,,,,,710455
+17TMH89-12, 2022-06-24 10:29:13,1SPT,300,New,Not Assigned,,,,,,,710459
+17TMH89-20, 2022-06-28 08:20:15,1SPT,300,New,Not Assigned,,,,,,,710474
+17TMH89-2, 2022-06-28 08:53:34,1SPT,299.87,New,Not Assigned,,,,,,,710478
+17UNR51-DD, 2022-06-29 09:28:07,1SPT,300,New,Not Assigned,,,,,,,710314
+17UNR50-8, 2022-06-20 06:13:00,1SPT,300,New,Not Assigned,,,,,,,710326
+17UNR50-9, 2022-06-19 08:16:09,1SPT,300,New,Not Assigned,,,,,,,710337
+17UNR50-13, 2022-06-19 06:49:08,1SPT,300,New,Not Assigned,,,,,,,710348
+17UNR50-1, 2022-06-19 07:40:53,1SPT,300,New,Not Assigned,,,,,,,710351
+17UNR51-8, 2022-06-26 06:09:44,1SPT,300,New,Not Assigned,,,,,,,710359
+16UFD47-G, 2022-07-08 07:31:54,1SPT,300,New,Not Assigned,,,,,,,710420
+16UFC39-G, 2022-06-29 07:49:23,1SPT,300,New,Not Assigned,,,,,,,710424
+17UNR51-6, 2022-06-26 06:57:34,1SPT,300,New,Not Assigned,,,,,,,710357
+16UFC39-D, 2022-06-29 06:29:27,1SPT,300,New,Not Assigned,,,,,,,710431
+16UFC28-E, 2022-06-27 11:01:26,1SPT,300,New,Not Assigned,,,,,,,710419
+16UFC28-L, 2022-06-27 10:30:26,1SPT,300,New,Not Assigned,,,,,,,710441
+16UFD33-OR1, 2022-07-04 05:44:57,1SPT,300,New,Not Assigned,,,,,,,710445
+16UFC39-Q, 2022-07-01 07:55:43,1SPT,300,New,Not Assigned,,,,,,,710458
+16UFD33-OR2, 2022-07-04 06:39:12,1SPT,300,New,Not Assigned,,,,,,,710422
+17UNR62-19, 2022-06-30 06:14:07,1SPT,300,New,Not Assigned,,,,,,,710317
+16UFC28-K, 2022-06-27 10:09:38,1SPT,300,New,Not Assigned,,,,,,,710426
+16UFD47-OR4, 2022-07-08 09:48:48,1SPT,300,New,Not Assigned,,,,,,,710429
+17UNR62-20, 2022-06-30 06:48:27,1SPT,300,New,Not Assigned,,,,,,,710323
+17UNR50-17, 2022-06-19 07:12:41,1SPT,300,New,Not Assigned,,,,,,,710335
+16UFD47-OR2, 2022-07-08 08:52:25,1SPT,300,New,Not Assigned,,,,,,,710433
+16UFD47-Q, 2022-07-09 07:00:30,1SPT,300,New,Not Assigned,,,,,,,710421
+16UFC28-M, 2022-06-27 08:29:10,1SPT,300,New,Not Assigned,,,,,,,710430
+16UFD47-OR6, 2022-07-09 09:24:46,1SPT,300,New,Not Assigned,,,,,,,710437
+16UFD33-V, 2022-07-04 08:23:09,1SPT,300,New,Not Assigned,,,,,,,710434
+16UFC39-OR2, 2022-07-01 07:32:46,1SPT,300,New,Not Assigned,,,,,,,710440
+17TMH89-5, 2022-06-24 08:39:11,1SPT,300,New,Not Assigned,,,,,,,710461
+16UFD33-OR6, 2022-07-05 07:24:02,1SPT,300,New,Not Assigned,,,,,,,710444
+16UFD47-N, 2022-07-09 07:40:05,1SPT,283.772471655329,New,Not Assigned,,,,,,,710451
+17TMH89-21, 2022-06-28 09:21:26,1SPT,300,New,Not Assigned,,,,,,,710466
+16UFD33-OR3, 2022-07-04 09:12:19,1SPT,300,New,Not Assigned,,,,,,,710456
+17UNR50-6, 2022-06-19 09:25:00,1SPT,300,New,Not Assigned,,,,,,,710360
+17UNR50-11, 2022-06-24 06:38:44,1SPT,300,New,Not Assigned,,,,,,,710319
+17UNR62-24, 2022-06-30 06:34:30,1SPT,300,New,Not Assigned,,,,,,,710324
+16UFC39-F, 2022-06-29 07:14:11,1SPT,300,New,Not Assigned,,,,,,,710435
+17UNR51-12, 2022-06-24 06:51:47,1SPT,300,New,Not Assigned,,,,,,,710333
+16UFC39-K, 2022-06-29 05:54:16,1SPT,299.111995464853,New,Not Assigned,,,,,,,710449
+17UNR50-20, 2022-06-20 05:57:37,1SPT,300,New,Not Assigned,,,,,,,710341
+17UNR50-Z, 2022-06-23 08:32:38,1SPT,300,New,Not Assigned,,,,,,,710349
+17TMH89-8, 2022-06-28 09:35:13,1SPT,300,New,Not Assigned,,,,,,,710460
+17UNR50-18, 2022-06-19 08:48:01,1SPT,299.983990929705,New,Not Assigned,,,,,,,710356
+16UFC39-C, 2022-07-01 06:54:38,1SPT,300,New,Not Assigned,,,,,,,710423
+17TMH89-19, 2022-06-28 09:54:12,1SPT,300,New,Not Assigned,,,,,,,710472
+16UFD47-OR5, 2022-07-08 10:13:00,1SPT,300,New,Not Assigned,,,,,,,710427
+16UFD33-OR5, 2022-07-05 06:10:51,1SPT,300,New,Not Assigned,,,,,,,710438
+16UFC39-R, 2022-06-29 08:20:35,1SPT,300,New,Not Assigned,,,,,,,710432
+16UFD47-OR3, 2022-07-08 09:15:30,1SPT,300,New,Not Assigned,,,,,,,710443
+16UFD47-C, 2022-07-08 06:45:37,1SPT,300,New,Not Assigned,,,,,,,710448
+16UFD33-B, 2022-07-04 09:52:13,1SPT,300,New,Not Assigned,,,,,,,710454
+16UFD47-OR1, 2022-07-08 08:01:00,1SPT,300,New,Not Assigned,,,,,,,710452
+17TMH89-11, 2022-06-24 10:13:14,1SPT,300,New,Not Assigned,,,,,,,710464
+16UFD47-W, 2022-07-09 06:27:05,1SPT,300,New,Not Assigned,,,,,,,710439
+17TMH89-6, 2022-06-28 10:15:29,1SPT,300,New,Not Assigned,,,,,,,710471
+17TMH89-22, 2022-06-28 10:41:39,1SPT,299.94,New,Not Assigned,,,,,,,710475
+16UFD47-J, 2022-07-09 08:46:19,1SPT,300,New,Not Assigned,,,,,,,710446
+17TMH89-18, 2022-06-24 09:56:12,1SPT,300,New,Not Assigned,,,,,,,710463
+16UFD33-P, 2022-07-04 06:13:46,1SPT,300,New,Not Assigned,,,,,,,710453
+17TMH89-3, 2022-06-28 08:33:14,1SPT,300,New,Not Assigned,,,,,,,710470
+16UFD33-OR7, 2022-07-05 08:29:56,1SPT,300,New,Not Assigned,,,,,,,710462
+17TMH89-23, 2022-06-28 10:05:32,1SPT,299.94,New,Not Assigned,,,,,,,710465
+17TMH89-13, 2022-06-24 08:49:14,1SPT,300,New,Not Assigned,,,,,,,710467
+16UFD33-OR4, 2022-07-05 05:45:11,1SPT,300,New,Not Assigned,,,,,,,710450
+17TMH89-9, 2022-06-28 09:04:12,1SPT,300,New,Not Assigned,,,,,,,710477
+16UFC39-E, 2022-07-01 08:21:31,1SPT,300,New,Not Assigned,,,,,,,710457
+17TMH89-10, 2022-06-24 08:08:13,1SPT,300,New,Not Assigned,,,,,,,710469
+17TMH89-1, 2022-06-24 09:40:12,1SPT,300,New,Not Assigned,,,,,,,710468
+17TMH89-14, 2022-06-24 09:19:29,1SPT,300,New,Not Assigned,,,,,,,710473
+17TMH89-17, 2022-06-24 08:23:12,1SPT,300,New,Not Assigned,,,,,,,710476
+16TFU61-F, 2022-07-02 08:43:58,1SPT,300,New,Not Assigned,,,,,,,710364
+16TFU61-J, 2022-07-02 09:04:25,1SPT,300,New,Not Assigned,,,,,,,710363
+17TPL08-11, 2022-06-20 07:53:27,1SPT,300,New,Not Assigned,,,,,,,710484
+16TFU61-C, 2022-07-02 09:27:58,1SPT,300,New,Not Assigned,,,,,,,710365
+17TPL08-12, 2022-06-20 08:34:41,1SPT,300,New,Not Assigned,,,,,,,710489
+17TPL07-28, 2022-06-20 08:53:06,1SPT,300,New,Not Assigned,,,,,,,710488
+17TPL07-39, 2022-06-21 06:36:18,1SPT,300,New,Not Assigned,,,,,,,710483
+17TPL07-24, 2022-06-20 08:04:56,1SPT,300,New,Not Assigned,,,,,,,710491
+17TPL08-7, 2022-06-21 07:32:41,1SPT,300,New,Not Assigned,,,,,,,710485
+17TPL07-34, 2022-06-20 09:04:32,1SPT,300,New,Not Assigned,,,,,,,710490
+17TPL08-13, 2022-06-20 07:18:46,1SPT,300,New,Not Assigned,,,,,,,710487
+17TNL85-17, 2022-06-11 19:09:00,1SPT,365.83,New,Not Assigned,,,,,,,710502
+17TPL07-17, 2022-06-20 07:33:27,1SPT,300,New,Not Assigned,,,,,,,710486
+17TNL85-16, 2022-06-12 10:50:00,1SPT,351.83,New,Not Assigned,,,,,,,710493
+17TNL85-12, 2022-06-12 10:40:00,1SPT,345.42,New,Not Assigned,,,,,,,710500
+17TNL85-30, 2022-06-12 11:05:00,1SPT,373.9,New,Not Assigned,,,,,,,710492
+17TNL85-36, 2022-06-11 18:55:00,1SPT,337.77,New,Not Assigned,,,,,,,710496
+17TNL85-23, 2022-06-12 09:45:00,1SPT,359.73,New,Not Assigned,,,,,,,710494
+17TNL85-6, 2022-06-12 10:07:00,1SPT,358.21,New,Not Assigned,,,,,,,710497
+17TNL85-24, 2022-06-12 11:20:00,1SPT,407.85,New,Not Assigned,,,,,,,710498
+17TNL85-14, 2022-06-12 11:50:00,1SPT,462.42,New,Not Assigned,,,,,,,710495
+17TNL85-17, 2022-07-03 06:40:08,1SPT,300,New,Not Assigned,,,,,,,710504
+17TNL85-11, 2022-06-12 12:15:00,1SPT,362.67,New,Not Assigned,,,,,,,710499
+17TNL85-39, 2022-06-12 09:30:00,1SPT,334.62,New,Not Assigned,,,,,,,710501
+17TNL85-3, 2022-06-11 18:45:00,1SPT,423.99,New,Not Assigned,,,,,,,710503
+18TUQ89-27, 2022-07-03 06:40:39,1SPT,300,New,Not Assigned,,,,,,,710569
+18TUQ89-26, 2022-07-03 07:00:11,1SPT,300,New,Not Assigned,,,,,,,710567
+18TUQ89-22, 2022-07-03 07:30:10,1SPT,300,New,Not Assigned,,,,,,,710566
+17TMN93-G, 2022-06-01 07:57:15,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Light,None,,334590
+17TNK89-7, 2022-06-08 10:06:17,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,335607
+18TUQ89-6, 2022-07-03 08:00:11,1SPT,300,New,Not Assigned,,,,,,,710568
+17TMN41-2, 2022-05-28 08:40:52,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,None,None,,334635
+17TMN65-5, 2022-05-30 08:22:16,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,334692
+18TVQ55-14, 2022-06-10 04:15:57,1SPT,300,Transcribed,Amanda Guercio,None,Light,Light,None,None,,340466
+17TMN65-21, 2022-05-30 06:15:06,1SPT,300,Transcribed,David Bell,,,,,,,334613
+17TMN93-13, 2022-06-01 09:46:02,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,None,None,,334642
+17TMN93-N, 2022-06-01 08:40:14,1SPT,300,Transcribed,Joshua Vandermeulen,None,None,None,None,None,,334657
+17TMN41-9, 2022-05-28 09:06:01,1SPT,300,Transcribed,David Bell,,,,,,,334651
+18TVQ65-3, 2022-06-26 09:45:33,1SPT,300,Transcribed,Amanda Guercio,,,,,,,340467
+17TMN41-K, 2022-05-28 07:35:57,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,n,334603
+17TMN93-17, 2022-06-01 09:14:11,1SPT,300,Transcribed,Brandon Holden,None,None,None,None,None,,334656
+17TPK24-22, 2022-06-05 06:53:32,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,None,None,,334763
+17TMN41-5, 2022-05-28 11:25:45,1SPT,300,Transcribed,Amanda Guercio,None,Moderate,None,None,None,Seems too late for a PC?,334634
+17TPK24-12, 2022-06-03 06:19:30,1SPT,300,Transcribed,Dominic Cormier,None,Light,Moderate,Light,None,,334759
+17TMN49-K, 2022-05-31 06:28:41,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Moderate,None,,334596
+17TMN65-8, 2022-05-30 08:00:16,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,None,None,,334633
+17TMN41-G, 2022-05-28 08:10:13,1SPT,300,Transcribed,David Bell,,,,,,,334598
+17TMN93-J, 2022-06-01 07:17:31,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,334696
+17TMN93-1, 2022-06-01 06:10:01,1SPT,300,Transcribed,David Bell,,,,,,,334592
+17TPK24-19, 2022-06-05 05:51:59,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,334752
+17TMN93-M, 2022-06-01 07:37:17,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,334602
+17TMN76-M3, 2022-05-29 10:10:08,1SPT,300,Transcribed,David Bell,,,,,,,334699
+17TNJ41-3, 2022-05-24 09:44:59,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Moderate,Moderate,None,,334664
+17TMN49-4, 2022-05-31 10:10:46,1SPT,300,Transcribed,Ken Burrell,None,None,None,None,None,,334704
+17TMN65-M5, 2022-05-30 09:37:18,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Light,None,,334701
+17TNJ41-11, 2022-05-24 08:03:44,1SPT,300,Transcribed,David Bell,,,,,,,334702
+17TMN76-H, 2022-05-29 07:47:48,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,334703
+18TVQ55-5, 2022-06-10 03:08:18,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Heavy,None,None,,340462
+17TMN41-10, 2022-05-28 10:16:48,1SPT,300,Transcribed,David Bell,,,,,,,334663
+17TMN65-6, 2022-05-30 07:27:33,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,,334593
+17TMN76-16, 2022-05-29 09:26:53,1SPT,300,Transcribed,Brandon Holden,None,Moderate,Light,Moderate,None,,334643
+18TVQ55-12, 2022-06-26 07:43:09,1SPT,300,Transcribed,Ken Burrell,None,None,None,None,None,,340463
+17TMN41-8, 2022-05-28 11:01:21,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,334638
+17TMN49-15, 2022-05-31 05:55:36,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,334612
+17TMN49-1, 2022-05-31 09:57:40,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Light,None,,334607
+17TNJ41-1, 2022-05-24 08:03:44,1SPT,300,Transcribed,Ken Burrell,None,None,Light,None,None,,334637
+17TMN65-D, 2022-05-30 06:08:17,1SPT,300,Transcribed,David Bell,,,,,,,334665
+17TMN49-3, 2022-05-31 06:52:33,1SPT,300,Transcribed,Ken Burrell,None,None,Light,None,None,,334695
+17TMN41-T, 2022-05-28 08:51:03,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,"
+",334599
+17TMN93-K, 2022-06-01 08:17:47,1SPT,300,Transcribed,Ken Burrell,Light,None,None,Moderate,None,Heavy bug presence. ,334654
+17TMN49-N, 2022-05-31 07:21:30,1SPT,300,Transcribed,Ken Burrell,None,None,None,Light,None,,334591
+17TMN93-C, 2022-06-01 07:08:44,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,334597
+17TMN93-H, 2022-06-01 06:41:57,1SPT,300,Transcribed,Sean Jenniskens,None,Light,None,Light,None,,334609
+17TMN76-11, 2022-05-29 08:09:28,1SPT,300,Transcribed,Matthew Timpf,None,None,None,None,None,,334594
+17TMN41-1, 2022-05-28 06:26:35,1SPT,300,Transcribed,Brandon Holden,None,None,None,None,None,,334652
+18TVQ65-4, 2022-06-26 08:43:17,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Light,None,,340477
+17TMN49-14, 2022-05-31 08:54:01,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,334604
+17TMN41-B, 2022-05-28 08:34:23,1SPT,300,Transcribed,Brandon Holden,None,None,None,None,None,"
+",334588
+18TVQ55-13, 2022-06-26 08:05:39,1SPT,300,Transcribed,David Bell,,,,,,,340468
+17TMN76-14, 2022-05-29 06:33:50,1SPT,300,Transcribed,Brandon Holden,None,Light,None,Light,None,,334632
+17TMN76-5, 2022-05-29 08:41:51,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,None,None,,334584
+17TMN76-J, 2022-05-29 09:48:01,1SPT,300,Transcribed,Dominic Cormier,None,Light,None,Light,None,,334658
+17TMN76-M5, 2022-05-29 09:26:42,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,Both channels cut out intermittently,,334629
+18TVQ55-3, 2022-06-10 03:53:30,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Heavy,None,"heavy traffic throughout, time of recording seems off",340470
+17TNP47-36, 2022-06-11 09:41:46,1SPT,300,Transcribed,Ken Burrell,None,None,None,None,None,,334717
+17TMN49-L, 2022-05-31 09:25:15,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Light,None,"
+",334640
+17TMN65-12, 2022-05-30 07:52:17,1SPT,300,Transcribed,Sean Jenniskens,None,Moderate,None,Light,None,,334583
+17TNJ42-10, 2022-05-24 10:14:12,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,,334659
+17TNJ42-26, 2022-05-24 10:30:58,1SPT,300,Transcribed,Nathan Hood,None,Heavy,Light,None,None,,334641
+17TMN76-7, 2022-05-29 10:20:56,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,,334587
+17TMN76-1, 2022-05-29 06:33:05,1SPT,300,Transcribed,Brandon Holden,None,Light,None,None,None,,334611
+17TMN41-6, 2022-05-28 09:30:51,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,None,None,,334660
+18TVQ55-6, 2022-06-10 04:55:57,1SPT,300,Transcribed,David Bell,,,,,,,340465
+17TMN93-19, 2022-06-01 09:09:28,1SPT,300,Transcribed,Dominic Cormier,None,Moderate,Light,Light,None,,334610
+17TMN65-1, 2022-05-30 08:21:02,1SPT,300,Transcribed,Brandon Holden,None,Moderate,None,Light,None,"
+",334589
+17TNK89-15, 2022-06-08 05:54:18,1SPT,300,Transcribed,David Bell,,,,,,,335600
+18TVQ65-14, 2022-06-26 08:59:35,1SPT,300,Transcribed,Brandon Holden,None,Light,Moderate,Light,None,"
+",340472
+17TPK24-C, 2022-06-05 07:21:56,1SPT,300,Transcribed,Brandon Holden,None,Light,Light,Light,None,"
+",334756
+17TNK89-27, 2022-06-08 09:01:58,1SPT,300,Transcribed,Dominic Cormier,None,Light,Light,Light,None,,335601
+17TNP47-UNKN4, 2022-06-11 07:49:56,1SPT,300,Transcribed,Brandon Holden,None,None,Light,None,None,,334718

@@ -1,0 +1,186 @@
+﻿location,recordingDate,method,taskLength,status,transcriber,rain,wind,industryNoise,otherNoise,audioQuality,taskComments,internal_task_id
+15UXQ10-6, 2022-07-04 06:33:02,1SPT,300,Transcribed,Ken Burrell,None,None,None,Moderate,None,,537155
+15UXQ10-3, 2022-07-04 05:31:50,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,537149
+15UXQ10-2, 2022-07-04 07:19:28,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Moderate,None,,537150
+15UXQ10-7, 2022-07-04 05:14:32,1SPT,300,Transcribed,Dana Latour,None,Light,None,Moderate,None,,537151
+15UXQ10-6, 2022-07-04 10:11:16,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,537152
+15UXQ10-4, 2022-07-05 10:23:39,1SPT,180,Transcribed,Dana Latour,Light,Light,None,Moderate,None,,537153
+15UXQ10-9, 2022-07-04 05:59:41,1SPT,300,Transcribed,Dana Latour,None,Light,None,Light,None,,537154
+15UXQ10-12, 2022-07-04 06:11:03,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,537156
+15UXQ10-18, 2022-07-04 07:43:42,1SPT,300,Transcribed,Dana Latour,None,Light,None,Moderate,None,,537158
+15UXQ10-10, 2022-07-04 06:37:47,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,537159
+15UXQ10-15, 2022-07-04 06:51:39,1SPT,300,Transcribed,David Bell,None,None,None,Moderate,None,a lot of mosquito noise,537160
+15UXQ10-34, 2022-07-04 04:51:34,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,,537232
+15UXQ10-24, 2022-07-04 06:18:37,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,537221
+15UXR12-25, 2022-06-23 06:35:50,1SPT,300,Transcribed,David Bell,None,Light,Light,Light,None,,537326
+15UXR12-38, 2022-06-23 10:54:33,1SPT,300,Transcribed,Dana Latour,None,Heavy,None,Light,None,,537322
+15UXQ10-MIX2, 2022-07-04 07:46:01,1SPT,300,Transcribed,Dana Latour,None,Light,Light,Heavy,Other issues,Both channels with occasional extra static,537229
+15UXR12-29, 2022-06-23 09:29:20,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,537323
+15UXR12-39, 2022-06-23 09:51:40,1SPT,300,Transcribed,David Bell,None,Moderate,Light,Light,None,,537325
+15UXQ10-20, 2022-07-04 05:56:26,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Moderate,None,,537222
+15UXR12-MIXED-OFFROAD1, 2022-07-07 08:13:02,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,537332
+15UXQ10-27, 2022-07-04 05:02:03,1SPT,300,Transcribed,Dana Latour,None,None,Light,Moderate,None,,537225
+15UXR12-MIXED-OFFROAD2, 2022-07-07 08:54:14,1SPT,300,Transcribed,Dana Latour,None,Moderate,None,Moderate,None,,537334
+15UXR12-23, 2022-06-23 09:36:58,1SPT,300,Transcribed,Dana Latour,None,Heavy,Light,Moderate,None,,537328
+15UXR12-24, 2022-06-23 09:01:33,1SPT,300,Transcribed,David Bell,None,Moderate,Light,Light,None,,537335
+15UXQ10-22, 2022-07-04 07:08:47,1SPT,300,Transcribed,Dana Latour,None,Light,Light,Moderate,None,,537226
+15UXR12-33, 2022-06-23 08:25:35,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,fly got stuck in the mic for last 90s,537327
+15UXQ10-26, 2022-07-04 08:41:56,1SPT,300,Transcribed,Dana Latour,None,Light,Moderate,Light,None,,537223
+15UXQ10-BROADLEAF, 2022-07-04 09:30:21,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Moderate,None,traffic in background,537233
+15UXQ10-29, 2022-07-04 06:07:10,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,None,,537224
+15UXR12-MIX1, 2022-07-07 06:58:05,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Moderate,None,,537329
+15UXR12-40, 2022-06-23 07:00:51,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,Some heavy wind gusts,537330
+15UXQ10-23, 2022-07-04 07:59:17,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Light,None,Some periods of insects buzzing throughout,537227
+15UXR12-30, 2022-06-23 07:16:23,1SPT,300,Transcribed,Dana Latour,None,Heavy,None,Moderate,None,,537333
+15UXR12-OFF-SHRUB, 2022-07-07 06:22:46,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,Some occasional insect buzzing throughout,537331
+15UXQ10-SHRUBLAND, 2022-07-04 08:31:55,1SPT,300,Transcribed,Dana Latour,None,Light,Moderate,Moderate,None,,537230
+15UXR21-2, 2022-06-07 10:20:28,1SPT,300,Transcribed,David Bell,None,Light,Light,Light,None,,537345
+15UXR21-6, 2022-06-07 09:32:38,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,537336
+15UXR21-10, 2022-06-07 09:23:12,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,537344
+15UXQ10-MIX, 2022-07-04 08:11:12,1SPT,300,Transcribed,David Bell,None,None,None,Moderate,None,mosquitoes,537228
+15UXR21-8, 2022-06-07 06:36:18,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,537337
+15UXR21-3, 2022-06-07 06:23:51,1SPT,300,Transcribed,Dana Latour,None,Light,None,Light,None,,537342
+15UXQ10-30, 2022-07-04 06:23:53,1SPT,300,Transcribed,David Bell,None,Light,None,Light,Both Sides Extra Static,,537231
+15UXR21-4, 2022-06-07 06:44:40,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,537338
+15UXR21-1, 2022-06-07 08:27:24,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,537339
+15UXQ27-19, 2022-06-30 06:37:49,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,,537273
+15UXQ10-32, 2022-07-04 07:31:40,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,periods of insect buzzing throughout,537234
+15UXQ27-MIX2, 2022-06-30 09:17:59,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,None,Some insects buzzing throughout,537284
+15UXQ27-13, 2022-06-30 07:56:14,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,537270
+15UXQ27-MIX, 2022-06-30 09:24:07,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,537282
+15UXQ27-17, 2022-06-30 05:31:19,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,537278
+15UXQ27-2, 2022-06-30 07:14:26,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,,537239
+15UXQ27-CON2, 2022-06-30 08:45:24,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,Can hear person shuffling in the background at times and a timer goes off near the end,537275
+15UXR21-5, 2022-06-07 06:58:24,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Moderate,None,"plane in background, some human walking/shuffling at times - talking at end of recording",537340
+15UXQ27-1, 2022-06-30 07:12:29,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,537235
+15UXQ27-8, 2022-06-30 06:40:12,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,537238
+15UXQ27-14, 2022-06-30 06:49:57,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,537281
+15UXQ27-18, 2022-06-30 06:01:15,1SPT,300,Transcribed,Amanda Guercio,None,Moderate,None,None,None,,537283
+15UXQ27-WETLAND, 2022-06-30 10:08:15,1SPT,300,Transcribed,Amanda Guercio,None,Light,None,None,None,,537277
+15UXQ27-16, 2022-06-30 07:59:41,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,537271
+15UXQ27-9, 2022-06-30 08:43:55,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,537241
+15UXQ27-20, 2022-06-30 07:47:44,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,Light,None,Can hear person walking at end of recordng,537280
+15UXQ27-12, 2022-06-30 06:49:14,1SPT,300,Transcribed,Dana Latour,None,Light,None,Light,None,,537272
+15UXR21-9, 2022-06-07 07:01:26,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,537341
+15UXQ27-9, 2022-06-30 07:00:51,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,537236
+15UXQ27-CON1, 2022-06-30 08:21:56,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,537274
+15UXQ27-4, 2022-06-30 07:39:26,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,None,Some periods of insect buzzing,537237
+15UXR21-7, 2022-06-07 08:16:50,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,537343
+15UXQ27-15, 2022-06-30 06:16:24,1SPT,300,Transcribed,Nathan Hood,None,Heavy,None,None,None,,537276
+15UXQ27-11, 2022-06-30 06:29:18,1SPT,300,Transcribed,Dana Latour,None,Moderate,None,Moderate,None,,537279
+15UXQ27-5, 2022-06-30 07:26:49,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,537244
+15UXQ27-7, 2022-06-30 07:37:57,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Light,None,,537245
+15UXQ27-10, 2022-06-30 08:56:59,1SPT,300,Transcribed,Dana Latour,None,Light,None,Light,None,,537242
+15UXQ27-3, 2022-06-30 05:48:27,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,Some heavy wind gusts,537240
+15UXR12-11, 2022-06-23 09:32:01,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Light,None,Some insect buzzing throughout,537285
+15UXR12-15, 2022-06-23 07:44:39,1SPT,300,Transcribed,Amanda Guercio,None,Moderate,None,None,None,,537287
+15UXR12-14, 2022-06-23 08:38:44,1SPT,300,Transcribed,Nathan Hood,None,Heavy,None,None,None,,537286
+15UXQ27-6, 2022-06-30 07:20:59,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Light,None,,537243
+15UXR12-16, 2022-06-23 07:55:37,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,None,None,Some heavy wind gusts,537288
+15UXR12-19, 2022-06-23 09:48:01,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,537289
+15UXR12-6, 2022-06-23 08:51:57,1SPT,300,Transcribed,David Bell,None,Light,Light,Light,None,,537295
+15UXR12-4, 2022-06-23 08:06:40,1SPT,300,Transcribed,Nathan Hood,,,,,,,537290
+15UXR12-8, 2022-06-23 06:49:28,1SPT,300,Transcribed,Nathan Hood,None,Heavy,None,None,None,,537293
+15UXR12-10, 2022-06-23 08:30:55,1SPT,300,Transcribed,Amanda Guercio,None,Moderate,None,None,None,,537291
+15UXR12-13, 2022-06-23 08:54:53,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,537294
+15UXR12-9, 2022-06-23 09:20:01,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,537292
+15UXR99-CON3, 2022-06-04 10:33:15,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,538575
+15UXS73-WETLAND, 2022-06-05 06:05:42,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,538560
+15UXS73-SHRUB, 2022-06-05 09:44:10,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Moderate,None,Shuffling around,538571
+15UXS73-2, 2022-06-05 05:22:36,1SPT,300,Transcribed,Dana Latour,None,Light,None,Light,None,,538570
+15UXS73-9, 2022-06-05 05:48:38,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,Can hear person walking/shuffling in the background at times,538561
+15UXS73-CON3, 2022-06-05 10:10:37,1SPT,300,Transcribed,Ken Burrell,None,None,None,None,None,,538569
+15UXS73-CON2, 2022-06-05 09:36:48,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,538582
+15UXS73-A, 2022-06-05 07:54:18,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,538581
+15UXS73-3, 2022-06-05 07:11:59,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,538563
+15UXR99-SHRUBLAND, 2022-06-04 08:01:46,1SPT,300,Transcribed,Dana Latour,None,Light,Moderate,Heavy,None,,538577
+15UXS73-7, 2022-06-05 05:48:59,1SPT,300,Transcribed,Dana Latour,None,Light,None,Light,None,,538572
+15UXS73-D, 2022-06-05 06:19:46,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,None,,538562
+15UXS73-B, 2022-06-05 06:36:21,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,538585
+15UXS73-12, 2022-06-05 05:36:27,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,None,,538591
+15UXS73-13, 2022-06-05 08:16:10,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,538588
+15UXS73-CON5, 2022-06-05 10:11:49,1SPT,300,Transcribed,David Bell,None,None,Light,Moderate,None,"obs fiddling with something, should stand farther from mic",538587
+15UXS73-CON1, 2022-06-05 08:33:42,1SPT,300,Transcribed,Matthew Timpf,None,None,None,None,None,,538574
+15UXS73-4, 2022-06-05 07:10:39,1SPT,300,Transcribed,Dana Latour,None,Light,None,Light,None,,538568
+15UXS73-10, 2022-06-05 07:42:21,1SPT,300,Transcribed,Matthew Timpf,None,None,None,None,None,plane in background in first half of recording,538576
+15UXS73-C, 2022-06-05 07:21:05,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,538589
+15UXS73-5, 2022-06-05 06:50:00,1SPT,300,Transcribed,Matthew Timpf,None,None,None,Moderate,None,Some human walking/shuffling noises throughout,538573
+15UXS73-1, 2022-06-05 07:38:38,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,Light,None,,538592
+15UXS73-14, 2022-06-05 08:14:01,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,,538586
+15UXR99-MIX, 2022-06-04 10:38:02,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,538583
+15UXR99-WETLAND, 2022-06-04 06:25:05,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Heavy,None,Shuffling around and talking,538578
+15UXR99-CON, 2022-06-04 06:48:37,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,538584
+15UXS73-15, 2022-06-05 09:14:29,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,538593
+15UXS73-6, 2022-06-05 06:49:45,1SPT,300,Transcribed,Dana Latour,None,Light,None,Light,None,,538590
+16UCB75-17, 2022-06-18 06:18:51,1SPT,300,Transcribed,Dana Latour,None,Light,None,Light,None,,538605
+16UCB75-3, 2022-06-18 07:57:55,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,Can hear person walking in background at beginning,538610
+16UCB75-CON2, 2022-06-18 06:44:31,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,538603
+16UCB75-BROADLEAF, 2022-06-18 07:28:19,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Moderate,None,,538598
+16UCB75-20, 2022-06-18 05:28:30,1SPT,300,Transcribed,Dana Latour,None,Light,None,Light,None,,538594
+16UCB75-16, 2022-06-18 07:15:13,1SPT,300,Transcribed,Dana Latour,None,None,None,Light,None,,538607
+16UCB75-17, 2022-06-18 04:06:01,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,538611
+16UCB75-21, 2022-06-18 06:10:09,1SPT,300,Transcribed,Dana Latour,None,Light,None,Light,None,,538597
+16UCB75-18, 2022-06-18 03:54:13,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Heavy,None,Constant shuffling/rustling,538612
+16UCB75-12, 2022-06-18 05:52:00,1SPT,300,Transcribed,Dana Latour,None,Light,None,None,None,,538595
+16UCB96-3, 2022-06-19 07:30:13,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,538619
+16UCB75-14, 2022-06-18 04:25:41,1SPT,300,Transcribed,Dana Latour,None,Light,None,Light,None,,538599
+16UCB75-6, 2022-06-18 05:14:09,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,538614
+16UCB75-4, 2022-06-18 04:15:52,1SPT,300,Transcribed,Matthew Timpf,None,None,None,None,None,,538615
+16UCB75-13, 2022-06-18 07:37:55,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,,538609
+16UCB75-10, 2022-06-18 07:19:09,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Moderate,None,Walking/shuffling around,538602
+16UCB75-5, 2022-06-18 09:05:11,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,538601
+16UCB75-19, 2022-06-18 04:50:48,1SPT,300,Transcribed,Dana Latour,None,Light,None,Moderate,None,,538600
+16UCB75-1, 2022-06-18 04:56:12,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,None,,538604
+15UXR21-D, 2022-06-07 08:49:59,1SPT,300,Transcribed,Dana Latour,None,Light,Moderate,Heavy,None,,538320
+16UCB75-11, 2022-06-18 09:23:41,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,538617
+16UCB75-SHRUBLAND, 2022-06-18 08:48:04,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,538613
+16UCB75-OFFROAD-CON, 2022-06-18 05:41:55,1SPT,300,Transcribed,Nathan Hood,None,None,None,Heavy,None,,538606
+15UXR21-12, 2022-06-07 04:59:59,1SPT,300,Transcribed,Dana Latour,None,Light,None,Light,None,,538321
+16UCB75-7, 2022-06-18 05:09:31,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,538616
+16UCB75-2, 2022-06-18 06:27:28,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,None,,538608
+16UCB96-11, 2022-06-20 06:18:28,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,538618
+16UCB96-CON1, 2022-06-20 06:38:05,1SPT,300,Transcribed,Amanda Guercio,None,Light,None,None,None,,538622
+15UXR21-C, 2022-06-07 05:27:07,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,538322
+16UCB96-CON, 2022-06-20 05:34:01,1SPT,300,Transcribed,Nathan Hood,None,None,None,Moderate,None,,538624
+15UXR21-17, 2022-06-07 09:42:40,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,538324
+15UXR21-B, 2022-06-07 06:00:34,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,538330
+15UXR21-20, 2022-06-07 08:30:16,1SPT,300,Transcribed,Dana Latour,None,None,None,Heavy,None,,538332
+16UCB96-20, 2022-06-19 07:39:46,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,538623
+16UCB96-NEW4, 2022-06-20 05:54:12,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,,538627
+15UXR21-L, 2022-06-07 06:20:04,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,538326
+15UXR21-19, 2022-06-07 06:12:56,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Moderate,None,,538325
+15UXR21-24, 2022-06-07 05:50:05,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Light,None,,538327
+16UCB96-NEW3, 2022-06-20 05:46:55,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,538625
+16UCB96-NEW2, 2022-06-20 05:35:50,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,538621
+15UXR21-15, 2022-06-07 04:26:34,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,538328
+15UXR21-18, 2022-06-07 10:30:23,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,Moderate,None,,538329
+16UCB96-23, 2022-06-19 06:26:51,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,538626
+16UCB96-4, 2022-06-19 05:31:52,1SPT,300,Transcribed,Dana Latour,Light,Moderate,None,Light,None,,538628
+15UXR21-13, 2022-06-07 09:17:51,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,538331
+15UXR99-25, 2022-06-04 07:10:54,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,538343
+15UXR99-29, 2022-06-03 06:35:18,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,538344
+15UXR99-40, 2022-06-03 07:21:38,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,538354
+15UXR99-31, 2022-06-04 07:43:35,1SPT,300,Transcribed,Dana Latour,None,None,None,Light,None,,538358
+15UXR99-13, 2022-06-03 08:11:22,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,,538337
+15UXR99-15, 2022-06-03 07:08:48,1SPT,300,Transcribed,Nathan Hood,None,None,None,Heavy,None,,538342
+15UXR99-26, 2022-06-03 10:15:18,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,538356
+15UXR99-37, 2022-06-03 08:05:19,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Heavy,None,,538341
+15UXR99-28, 2022-06-03 07:41:59,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Light,None,,538338
+15UXR99-14, 2022-06-03 08:38:44,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,538355
+15UXR99-8, 2022-06-03 10:13:39,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Moderate,None,,538351
+15UXR99-16, 2022-06-03 06:00:32,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,Heavy,None,,538339
+15UXR99-34, 2022-06-04 08:26:52,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Light,None,,538340
+15UXR99-35, 2022-06-03 08:16:24,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,Moderate,None,Lots of shuffling/walking,538352
+15UXR99-1, 2022-06-03 05:48:41,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,538359
+15UXR99-39, 2022-06-04 07:41:13,1SPT,300,Transcribed,Nathan Hood,None,None,None,Heavy,None,,538348
+15UXR99-21, 2022-06-03 07:08:48,1SPT,300,Transcribed,David Bell,None,None,None,Moderate,None,observer fiddling with something - should stand farther from mic,538353
+15UXR99-32, 2022-06-03 06:16:02,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Moderate,None,,538357
+15UXR99-17, 2022-06-03 09:31:21,1SPT,300,Transcribed,Matthew Timpf,None,Moderate,None,Moderate,None,"Some heavy wind gusts - trees creaking in background, overhead plane in second half of recording and some human walking/shuffling",538350
+15UXQ10-11, 2022-07-04 05:44:14,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,537157
+15UXS73-CON4, 2022-06-05 08:30:42,1SPT,300,Transcribed,Ken Burrell,None,None,None,None,None,,538579
+15UXS73-11, 2022-06-05 06:32:00,1SPT,300,Transcribed,Ken Burrell,None,None,None,None,None,,538580
+16UCB96-NEW1, 2022-06-20 05:28:09,1SPT,300,Transcribed,Matthew Timpf,None,Light,None,None,None,,538620
+15UXR12-MIX2, 2022-07-07 07:20:51,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,Both channels cut out intermittently,,537324
+16UCB96-16, 2022-06-19 06:01:00,1SPT,300,Transcribed,Dana Latour,None,Moderate,Light,Moderate,None,,538629
+16UCB75-9, 2022-06-18 05:31:14,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,538596
+15UXR21-29, 2022-06-07 07:10:28,1SPT,300,Transcribed,Dana Latour,None,None,None,Moderate,None,,538323

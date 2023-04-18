@@ -1,5 +1,20 @@
 # Methods
 
+```{r, warning = F, message = F}
+
+locs <- dir_ls("/users/alexandremacphail/desktop/dpcs/locs", regexp = "*.csv") %>%
+  map_dfr(~read_csv(.)) %>%
+  select(location, latitude, longitude)
+
+pcs <- dir_ls("/users/alexandremacphail/desktop/dpcs", regexp = "*.csv") %>%
+  map_dfr(~read_csv(.)) %>%
+  select(location, recordingDate) %>%
+  inner_join(., locs, by = c("location" = "location")) %>%
+  filter(!is.na(latitude))
+
+```
+
+
 
 Table 1 - Protocol for conducting a digital point count
 

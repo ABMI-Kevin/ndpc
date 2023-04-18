@@ -1,0 +1,910 @@
+﻿location,recordingDate,method,taskLength,status,transcriber,rain,wind,industryNoise,otherNoise,audioQuality,taskComments,internal_task_id
+15UXR02-7, 2021-06-22 08:29:58,1SPT,300,Transcribed,Marcus Sommers,None,Light,Light,None,None,,308850
+17TMM93-19, 2021-06-03 08:23:00,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,Moderate,None,,178445
+17TNM01-14, 2021-07-09 05:40:14,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176236
+17TNM42-4, 2021-06-08 06:53:58,1SPT,300,Transcribed,Donald Sutherland,None,Moderate,None,Light,None,Wind didn't seem as strong as listed; a few distorting gusts toward the end of the recording. Loud passing vehicles at 70-117s and 265-300s.,176798
+17TMM52, 2021-07-02 06:14:55,1SPT,300,Transcribed,Timothy B. Lucas,Light,None,Moderate,Light,None,Some highway noise. Probably a CSWA and a BAWW but too quite,176219
+17TMM73-2, 2021-06-30 06:36:29,1SPT,300,Transcribed,David Bell,None,Light,Moderate,Light,None,several cars passing,176210
+15UVS24-19, 2021-06-16 06:16:00,1SPT,300,Transcribed,Ken Burrell,None,None,Light,Light,None,,174378
+17TMM66-15, 2021-06-26 06:58:00,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176225
+17TNM01-8, 2021-07-09 06:15:33,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,,176222
+17TMM73-26, 2021-06-29 06:24:27,1SPT,300,Transcribed,Ken Burrell,None,Light,Moderate,Moderate,None,Road traffic quite loud. ,176218
+17TNM34-1, 2021-06-16 05:27:54,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176241
+17TMM66-16, 2021-06-26 05:31:22,1SPT,300,Transcribed,Mike V.A. Burrell,None,None,Light,Light,None,,176304
+17TNM34-16, 2021-06-16 06:59:32,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176301
+17TNM34-19, 2021-06-16 08:39:47,1SPT,300,Transcribed,Ken Burrell,None,Moderate,Light,Moderate,None,,176303
+17TMM98-4, 2021-07-05 05:40:20,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176380
+17TMM99-1, 2021-07-05 07:33:17,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Light,None,,176385
+17TMM80, 2021-07-10 07:08:34,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,some noise from observer,176384
+17TMM64-4, 2021-07-03 06:15:57,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176382
+17TNM55-10, 2021-07-04 05:37:50,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176398
+17TNM35-13, 2021-06-12 08:28:12,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176406
+17TNM01-23, 2021-07-09 05:22:49,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176396
+17TMM52-3, 2021-07-02 08:36:41,1SPT,300,Transcribed,Timothy B. Lucas,Light,Light,Moderate,None,None,,176400
+17TMM64-5, 2021-07-03 05:54:43,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176421
+17TMM64-7, 2021-07-03 07:46:10,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,176454
+17TNM55-40, 2021-07-04 06:42:53,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176468
+17TMM63-12, 2021-07-01 05:52:50,1SPT,300,Transcribed,Amanda Guercio,Light,Light,None,None,None,,176474
+17TNM35-10, 2021-06-12 08:05:55,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176478
+17TMM66-24, 2021-06-26 05:49:43,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,176493
+17TMM56-7, 2021-06-22 05:03:58,1SPT,300,Transcribed,Mike V.A. Burrell,None,None,Light,Light,None,,176488
+17TMM55-9, 2021-06-23 08:02:37,1SPT,300,Transcribed,David Bell,None,Light,Light,Moderate,Both Sides Extra Static,"static in recording, plane passing over",176243
+16TFU61-15, 2021-07-02 05:55:49,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,176531
+17TMP95-10, 2021-06-12 08:25:41,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,,176548
+17TMP95-1, 2021-06-12 05:58:25,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176550
+16UCV35-3, 2021-06-27 09:05:14,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,174365
+17TMP95-5, 2021-06-12 08:47:39,1SPT,300,Transcribed,Nathan Hood,Light,None,None,Light,None,,176556
+15UVS25-5, 2021-06-25 06:54:00,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,Other issues,General volume seems low. Electric window and other vehicle noises in first minute.,174369
+16UCV35-5, 2021-06-27 09:52:47,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,174366
+17TNM65-7, 2021-07-04 05:42:43,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176567
+15UVS24-18, 2021-06-16 06:59:00,1SPT,300,Transcribed,David Bell,None,Light,Light,Light,None,,174405
+17TNM32, 2021-06-09 06:28:57,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,176617
+17TNM30-4, 2021-06-19 07:22:46,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176626
+16TFU61-11, 2021-06-14 07:58:32,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Light,None,None,,177789
+16TCU35-UNKN, 2021-06-16 07:55:09,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,177796
+16TFU61-19, 2021-06-17 08:21:43,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,177794
+17TMM90-1, 2021-07-09 07:45:30,1SPT,300,Transcribed,Timothy B. Lucas,Moderate,Light,None,Light,None,,176620
+17TMH89-5, 2021-06-28 07:46:24,1SPT,300,Transcribed,David Bell,None,Light,Light,Moderate,Both Sides Extra Static,,177804
+17TNM41-8, 2021-06-20 08:20:11,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,176682
+17TMM53-16, 2021-07-02 06:57:06,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176686
+17TNM30-7, 2021-06-19 08:54:31,1SPT,300,Transcribed,Amanda Guercio,Light,None,Light,None,None,,176698
+17TNM41-11, 2021-06-20 08:11:46,1SPT,300,Transcribed,David Bell,None,Light,None,Moderate,Both Sides Extra Static,faint/staticy recording,176712
+17TNM44-22, 2021-06-17 08:08:02,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,176726
+17TMM97-1, 2021-07-05 06:07:07,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176728
+17TMM66-4, 2021-06-26 07:16:19,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176751
+17TMM83-4, 2021-06-10 07:17:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,178459
+15UWR75-14, 2021-06-23 06:45:00,1SPT,300,Transcribed,Nathan Hood,None,None,Moderate,Moderate,None,,178507
+16TCU22-OR1, 2021-06-27 08:40:00,1SPT,300,Transcribed,Nathan Hood,Light,None,None,Light,None,,178526
+16TCU22-OR9, 2021-06-17 07:57:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,178515
+17TMM93-25, 2021-06-06 09:04:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,178412
+15UWR75-5, 2021-06-23 07:35:00,1SPT,300,Transcribed,Lev Frid,None,Moderate,None,Light,None,,178527
+16TCU22-OR11, 2021-06-27 08:12:00,1SPT,300,Transcribed,Lev Frid,Light,None,None,None,None,,178534
+17TMM93-20, 2021-06-10 06:14:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178462
+17TMM93-28, 2021-06-17 07:04:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178471
+17TMM93-31, 2021-06-06 08:27:00,1SPT,300,Transcribed,Lev Frid,None,None,None,Light,None,,178422
+15UWR75-12, 2021-06-23 06:11:00,1SPT,300,Transcribed,Lev Frid,None,None,Moderate,Moderate,None,,178528
+16TCU22-OR3, 2021-06-27 07:43:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178502
+17TMM93-11, 2021-06-06 08:28:00,1SPT,300,Transcribed,Lev Frid,None,Light,None,Moderate,None,,178426
+15UXR42-8, 2021-06-22 05:51:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178508
+17TMM93-5, 2021-06-06 08:15:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178450
+17TMM93-24, 2021-06-13 06:13:00,1SPT,300,Transcribed,Lev Frid,None,None,None,Moderate,None,,178458
+16TCU22-OR2, 2021-06-17 06:32:00,1SPT,300,Transcribed,Lev Frid,None,None,None,Moderate,None,,178535
+17TMM93-12, 2021-06-03 06:18:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178438
+17TMM93-B, 2021-06-04 08:24:00,1SPT,300,Transcribed,Lev Frid,None,Light,None,Light,None,,178423
+17TMM93-4, 2021-06-06 07:29:00,1SPT,300,Transcribed,Lev Frid,None,None,None,Light,None,,178415
+18TUQ55-20, 2021-06-19 08:10:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178583
+18TUQ56-8, 2021-06-19 06:20:00,1SPT,300,Transcribed,Lev Frid,Moderate,None,None,Light,None,,178565
+18TUQ55-36, 2021-06-23 08:45:00,1SPT,300,Malfunction,Lev Frid,,,,,,,178572
+18TUQ55-34, 2021-06-17 08:30:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178596
+18TUQ56-1, 2021-06-14 06:20:00,1SPT,300,Malfunction,Lev Frid,,,,,,,178601
+18TUQ55-27, 2021-06-19 07:40:00,1SPT,300,Transcribed,Lev Frid,Light,None,None,Light,None,,178587
+18TUQ56-7, 2021-07-20 06:30:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178602
+17TPM14-20, 2021-06-17 10:08:44,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178575
+18TUQ52-A, 2021-06-30 06:44:00,1SPT,300,Transcribed,Lev Frid,Light,None,None,Moderate,None,,178581
+18TUQ52-K, 2021-06-01 06:56:00,1SPT,300,Transcribed,Lev Frid,None,None,Light,Moderate,None,,178570
+18TUQ55-38, 2021-06-24 07:50:00,1SPT,300,Malfunction,Lev Frid,,,,,,,178590
+15UVS24-1, 2021-06-22 06:17:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178576
+18TUQ55-8, 2021-06-23 08:10:00,1SPT,300,Malfunction,Lev Frid,,,,,,,178595
+17TPM14-17, 2021-06-21 10:40:00,1SPT,300,Transcribed,Lev Frid,None,None,None,Moderate,None,,178585
+17TPM14-33, 2021-06-10 07:50:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178578
+18TUQ55-33, 2021-06-17 09:40:00,1SPT,300,Transcribed,Lev Frid,Heavy,Moderate,None,Moderate,None,,178562
+17TPM14-1, 2021-06-10 07:00:00,1SPT,300,Transcribed,Lev Frid,None,None,None,Light,None,,178589
+18TUQ55-29, 2021-06-20 08:00:00,1SPT,300,Transcribed,Lev Frid,None,None,Moderate,Light,None,,178600
+18TUQ55-17, 2021-06-17 07:30:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178586
+18TUQ52-17, 2021-06-16 06:50:00,1SPT,300,Transcribed,Lev Frid,None,None,None,Heavy,None,,178597
+18TUQ52-18, 2021-06-16 07:12:00,1SPT,300,Transcribed,Lev Frid,None,Light,None,Moderate,None,,178563
+17TPM14-15, 2021-06-17 07:34:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178582
+17TPM14-19, 2021-07-04 07:48:00,1SPT,300,Transcribed,Lev Frid,Light,None,None,None,None,,178592
+15UVS24-11, 2021-06-16 06:50:00,1SPT,300,Transcribed,Lev Frid,None,None,None,Light,None,,178573
+17TPM14-14, 2021-07-04 06:15:00,1SPT,300,Transcribed,Lev Frid,None,None,Light,Moderate,None,,178567
+18TUQ56-12, 2021-06-19 06:35:00,1SPT,300,Transcribed,Lev Frid,Light,None,None,None,None,,178591
+18TUQ56-15, 2021-06-14 05:45:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178579
+18TUQ52-4, 2021-06-01 06:56:00,1SPT,300,Transcribed,Lev Frid,None,None,None,Light,None,,178569
+18TUQ52-13, 2021-06-30 05:49:00,1SPT,300,Transcribed,Lev Frid,None,None,None,Moderate,None,,178584
+17TMN24-UNKN3, 2021-07-10 07:49:00,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,some noise from observer,177798
+17TNP19-UNKN6, 2021-06-18 06:40:07,1SPT,300,Transcribed,David Bell,Light,Light,None,Light,None,,177829
+17TMM80-30, 2021-07-10 06:06:03,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176200
+17TNM21-8, 2021-07-10 05:56:42,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176704
+17TNM34-6, 2021-06-16 06:15:16,1SPT,300,Transcribed,Mike V.A. Burrell,None,None,None,None,None,,176448
+17TMM93-5, 2021-06-18 06:56:54,1SPT,300,Transcribed,David Bell,None,None,Moderate,Light,None,"construction + car noise, people talking",176389
+17TMM64-14, 2021-07-03 06:07:05,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,None,"Observer walking around, operating power window and opening and closing vehicle doors during recording.",176470
+17TMM66-13, 2021-06-26 06:43:39,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176605
+17TMM56-2, 2021-06-22 05:47:42,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176394
+17TNM34-7, 2021-06-16 07:58:50,1SPT,300,Transcribed,Mike V.A. Burrell,None,Moderate,None,Moderate,None,,176369
+17TMM55-15, 2021-06-23 06:07:24,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,None,Light,None,Good recording. Very light wind noise.,176424
+17TMM90-2, 2021-07-09 08:02:59,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Both Sides Extra Static,Heavy static on both sides after 110s. Perhaps more windy than indicated.,176772
+17TMM97, 2021-07-05 07:07:27,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176670
+17TNM42-7, 2021-06-08 07:23:53,1SPT,300,Transcribed,Nathan Hood,None,Light,Light,Light,None,,176855
+17TMM57-19, 2021-06-22 06:03:37,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,None,,176850
+17TMM92-4, 2021-06-23 06:59:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,178434
+17TNM30-8, 2021-06-19 06:33:14,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,None,None,,176827
+17TNM30-14, 2021-06-19 08:04:06,1SPT,300,Transcribed,Nathan Hood,None,Heavy,Moderate,None,None,,176824
+17TMM93-1, 2021-06-13 07:52:00,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,None,,178411
+17TMK59-10, 2021-06-01 07:46:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,178453
+17TNM32-1, 2021-06-09 05:49:07,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,Moderate,None,,176852
+17TMM97-14, 2021-07-05 06:15:27,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,None,,176853
+17TMM93-40, 2021-06-06 08:46:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,178472
+17TNM54-3, 2021-07-03 05:28:20,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176844
+17TMM83-36, 2021-06-10 07:43:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,178427
+17TMM93-39, 2021-06-06 06:17:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,Moderate,None,,178465
+16TFU61-5, 2021-07-03 06:03:03,1SPT,300,Transcribed,Donald Sutherland,None,Light,Heavy,Heavy,None,Poor recording. Heavy truck traffic on Hwy 17 (100 m to SSW) made it difficult to impossible to hear most species/registrations.,176538
+17TNP14-15, 2021-06-26 06:51:49,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,176551
+17TNM33-25, 2021-06-16 08:01:46,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,Light,None,,176847
+15UVS25-9, 2021-06-25 07:38:00,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Light,None,,174387
+17TMM85-26, 2021-06-07 08:13:14,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Moderate,Light,None,,176579
+17TMM53-37, 2021-07-02 07:58:43,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,Light,None,,176849
+15UVS24-2, 2021-06-19 07:44:00,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,None,Some wind and perhaps running water. ,174381
+17TMM57-17, 2021-06-22 05:22:47,1SPT,300,Transcribed,Nathan Hood,None,None,Light,Light,None,,176856
+17TMM90-7, 2021-07-09 05:27:18,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,None,,176857
+17TNM55-34, 2021-07-04 06:30:37,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,None,Observer walking around on gravel and adjusting power window.,176245
+17TMM73-5, 2021-06-30 05:50:04,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,Light,Light,None,,176247
+17TMM98-27, 2021-07-05 06:01:46,1SPT,300,Transcribed,Mike V.A. Burrell,None,None,None,None,None,,176285
+17TNM34-8, 2021-06-16 08:11:52,1SPT,300,Transcribed,Ken Burrell,None,None,Light,None,None,,176208
+17TNM55-24, 2021-07-04 08:02:28,1SPT,300,Transcribed,Mike V.A. Burrell,None,None,Light,Light,None,,176257
+17TMM98-1, 2021-07-05 05:29:55,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176295
+17TMM93-9, 2021-06-18 05:31:09,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176272
+17TMM73, 2021-06-30 07:47:55,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,176231
+17TNM11-14, 2021-07-06 06:50:12,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176229
+17TMM98-7, 2021-07-05 06:11:36,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176240
+17TMM66-36, 2021-06-26 07:29:18,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Light,None,,176223
+17TNM11-24, 2021-07-06 06:27:22,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Light,None,,176280
+17TNM01-22, 2021-07-09 07:02:34,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,176402
+17TNM35-18, 2021-06-12 08:45:25,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176418
+17TNM34-5, 2021-06-16 07:22:56,1SPT,300,Transcribed,Donald Sutherland,None,Light,Moderate,Moderate,Other issues,Poor recording. Substantial traffic noise from Hwy 17 (1.7 km to north) throughout recording. Observer walking around on gravel throughout.,176417
+17TNM55-21, 2021-07-04 08:12:44,1SPT,300,Transcribed,Ken Burrell,None,None,None,None,None,,176397
+17TNM55-4, 2021-07-04 05:21:59,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176419
+17TMM52-8, 2021-07-02 07:46:06,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,,176408
+17TMM92-1, 2021-06-23 06:39:00,1SPT,300,Transcribed,Nathan Hood,None,None,Light,Light,None,,178393
+15UVS24-7, 2021-06-16 07:42:00,1SPT,300,Transcribed,Donald Sutherland,None,Light,Light,Moderate,Other issues,Poor audio with too much hiss.,174398
+17TMM63-18, 2021-06-30 08:35:42,1SPT,300,Transcribed,Ken Burrell,None,Moderate,Light,Light,None,,176449
+17TNM01-7, 2021-07-09 06:05:53,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,Light,None,,176455
+17TMM80-8, 2021-07-10 05:49:08,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,Other issues,Observer walking around recorder during recording.,176439
+17TNM55-36, 2021-07-04 06:51:13,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Heavy,Left Side Extra Static,Static severe enough to impair analysis. Observer operating power windows and walking around during recording.,176441
+17TNM35-12, 2021-06-12 07:56:00,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,stream noise,176461
+17TMM80-7, 2021-07-10 06:48:59,1SPT,300,Transcribed,Ken Burrell,None,None,Light,Light,None,,176444
+17TNM34-2, 2021-06-16 05:19:27,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176440
+17TMM63-8, 2021-06-30 08:44:17,1SPT,300,Transcribed,David Bell,None,Light,None,Moderate,Both Sides Extra Static,,176502
+17TNP14-14, 2021-06-26 07:05:10,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176558
+16TFU61-1, 2021-07-02 07:33:45,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,Very faint,176545
+17TMM66-18, 2021-06-26 06:13:24,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176489
+17TNM33-2, 2021-06-17 06:04:13,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176591
+16UCV35-14, 2021-06-27 10:16:33,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,174406
+17TMM93-D, 2021-06-17 08:30:00,1SPT,300,Malfunction,Nathan Hood,None,None,None,None,Both Channels Fail,Failure @ 18s,178396
+17TNM30-5, 2021-06-19 05:30:36,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Moderate,None,Several vehicles passing during count which obliterated several seconds of song.,176587
+15UVS24-20, 2021-06-16 06:40:00,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,174403
+16UCV35-8, 2021-06-27 08:54:25,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,,174391
+15UVS25-13, 2021-06-25 08:39:00,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,None,,174399
+17TNP19-UNKN2, 2021-06-20 09:00:47,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,177867
+17TNM32-15, 2021-06-16 05:59:19,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176642
+17TMM57-4, 2021-06-22 05:33:58,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176609
+17TMM53-8, 2021-07-02 07:27:36,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,,176593
+17TNJ29-14, 2021-06-28 06:17:50,1SPT,300,Transcribed,Timothy B. Lucas,None,Light,None,None,None,,177834
+17TMH89-24, 2021-06-28 08:23:36,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,Light,None,,177821
+17TMM53-22, 2021-07-02 05:45:30,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,Light,None,"Very ""muddy"" sound",176625
+17TNM54-20, 2021-07-03 05:49:47,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176619
+17TNM65-26, 2021-07-04 07:04:25,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176594
+17TMN24-UNKN4, 2021-07-10 10:25:00,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,Incredibly faint recording,177860
+17TNM44-13, 2021-06-17 07:09:03,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Heavy,None,Constant loud roar of vehicle traffic on Hwy 17 less than a kilometer to the north and several vehicles passing on North Central Rd.,176596
+17TMM72-20, 2021-06-30 06:29:52,1SPT,300,Transcribed,David Bell,None,Light,Light,Moderate,None,,176610
+17TMH89-6, 2021-07-01 07:06:35,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,177824
+16TFU51-3, 2021-07-04 08:04:23,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,177870
+17TMH89-22, 2021-06-28 05:32:06,1SPT,300,Transcribed,Amanda Guercio,None,None,Moderate,None,None,,177873
+16TCU24-3, 2021-06-19 08:29:28,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,177822
+16TCU25-13, 2021-06-09 06:16:55,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,Light,None,,177812
+17TMM93-35, 2021-06-03 07:37:00,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,None,,178401
+17TNP19-UNKN9, 2021-06-26 08:22:40,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,177859
+17TNJ29-18, 2021-06-28 06:00:37,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,177823
+17TMN24-UNKN9, 2021-07-09 09:10:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,Moderate,None,,177817
+17TMH89-9, 2021-06-28 05:48:57,1SPT,300,Transcribed,Amanda Guercio,None,None,Moderate,None,None,,177813
+17TNP19-UNKN8, 2021-06-18 05:44:40,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,177847
+17TNM41-3, 2021-06-20 05:22:15,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176656
+16TCU25-UNKN, 2021-06-03 07:00:37,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,177868
+17TNM33-6, 2021-06-10 08:00:44,1SPT,300,Transcribed,David Bell,None,Moderate,None,Moderate,Both Sides Extra Static,,177820
+17TNM54-21, 2021-07-03 08:14:32,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,Light,None,,176651
+17TMM90-5, 2021-07-09 07:09:12,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Light,None,None,,176657
+16TCU25-1, 2021-06-01 07:00:51,1SPT,300,Transcribed,Donald Sutherland,None,Light,Moderate,None,None,,177805
+17TMM57-15, 2021-06-22 06:34:03,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,distant truck for first minute or so,176653
+17TNP08-UNKN, 2021-06-18 07:56:54,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,177869
+17TNP19-UNKN5, 2021-06-18 07:17:32,1SPT,300,Transcribed,Nathan Hood,None,None,None,Moderate,None,,177802
+17TMN24-UNKN12, 2021-07-10 11:23:00,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Other issues,Some static on both sides. Recordist sitting too close to microphone.,177889
+17TMH89-12, 2021-07-01 06:39:49,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,Distant traffic,177842
+16TFU61-3, 2021-06-15 08:42:16,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,177792
+17TNJ29-1, 2021-06-15 06:22:10,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,177832
+17TNJ29-10, 2021-06-13 06:22:52,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,177800
+17TMM57-37, 2021-06-22 08:08:05,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,176643
+17TMM63-32, 2021-07-02 05:27:54,1SPT,300,Transcribed,Ken Burrell,None,Light,Heavy,Heavy,None,Highway traffic very loud.,176206
+16TFU61-10, 2021-07-03 07:27:37,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,177857
+17TNJ29-20, 2021-06-20 06:30:57,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,177863
+17TNM42-34, 2021-06-08 07:54:41,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176666
+17TNM54-31, 2021-07-03 06:56:54,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Other issues,General hiss.,176658
+16TCU35-11, 2021-06-16 07:23:42,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,177848
+16TCU24-10, 2021-07-10 09:29:29,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,Light,None,,177881
+17TMH89-19, 2021-07-01 07:40:09,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,177885
+16TCU24-5, 2021-07-10 09:50:12,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,177861
+17TNP19-UNKN, 2021-06-18 06:16:07,1SPT,300,Transcribed,Timothy B. Lucas,Light,Light,None,None,None,,177854
+17TMN24-UNKN7, 2021-07-10 08:38:00,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,Very quiet. Mic sensitivity is likely low,177836
+17TNP14-9, 2021-06-26 08:32:25,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Moderate,None,Mosquito buzzing around the microphone highly distracting!,176553
+17TMH89-23, 2021-07-01 07:24:49,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,177858
+17TMM53-24, 2021-07-02 08:12:08,1SPT,300,Transcribed,David Bell,None,Moderate,None,Heavy,Both Sides Extra Static,very staticy recording,176667
+16TCU24-1, 2021-06-19 08:45:45,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,Both Sides Extra Static,,177882
+17TNM42-3, 2021-06-10 05:54:39,1SPT,300,Transcribed,Donald Sutherland,Light,Light,None,None,Other issues,Low volume recording with hiss (check batteries!),176674
+17TNM21-21, 2021-07-10 08:03:38,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176660
+17TNM33-12, 2021-06-16 07:50:24,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,177831
+16TCU24-7, 2021-07-10 09:40:02,1SPT,300,Transcribed,David Bell,None,Light,Light,Light,None,,177872
+17TNM21-24, 2021-07-10 07:45:56,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176649
+17TMM72-18, 2021-06-30 06:47:38,1SPT,300,Transcribed,David Bell,None,Light,Light,Moderate,Both Sides Extra Static,,176663
+16TFU51-2, 2021-07-04 07:26:28,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,177849
+16TFU51-10, 2021-07-04 07:06:40,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,177838
+16TFU51-8, 2021-07-04 08:25:08,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,177814
+17TNM21-6, 2021-07-10 06:13:51,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,,176661
+17TNM42-1, 2021-06-08 07:38:13,1SPT,300,Transcribed,Nathan Hood,None,None,Moderate,Light,None,,176673
+17TNM41-2, 2021-06-20 05:56:19,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Other issues,Fairly loud hiss from both channels throughout.,176669
+17TNM35-6, 2021-06-12 05:01:28,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Light,None,"Difficult to resolve the background warblers, people walking - probably at least another another NAWA and perhaps another CSWA",176269
+17TNM41-20, 2021-06-20 07:44:48,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,None,,176690
+17TNM42-6, 2021-06-08 09:31:07,1SPT,300,Transcribed,Nathan Hood,None,None,Light,Light,None,,176705
+17TNJ29-19, 2021-06-20 06:12:29,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,177871
+17TNM54-10, 2021-07-03 06:23:13,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176701
+17TMM57-24, 2021-06-22 07:57:12,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176678
+17TMM90-18, 2021-07-09 05:59:56,1SPT,300,Transcribed,David Bell,None,Light,Light,Moderate,Both Sides Extra Static,faint recording,176709
+17TNM41-17, 2021-06-20 06:43:27,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176750
+17TNM21-12, 2021-07-10 06:22:17,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176706
+17TMM63-16, 2021-06-30 08:25:52,1SPT,300,Transcribed,Donald Sutherland,None,Moderate,None,Moderate,Both Sides Extra Static,Poor recording. Light to moderate wind near a trembling aspen stand.,176203
+17TMM97-25, 2021-07-05 05:23:33,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176718
+17TNM54-11, 2021-07-03 07:04:57,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,Both Sides Extra Static,Static/'hiss on both sides. Occasional anthropogenic bird alarm.,176746
+17TMM57-6, 2021-06-22 08:35:12,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176713
+17TMM90-3, 2021-07-09 05:45:23,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176722
+17TNM30-2, 2021-06-19 08:34:53,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Moderate,None,None,A lot of car and train noise,176724
+17TMM53-10, 2021-07-02 08:21:01,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,176691
+17TNM21-27, 2021-07-10 05:48:33,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Both Sides Extra Static,Both sides with significant static.,176742
+17TMM72-21, 2021-06-30 06:39:07,1SPT,300,Transcribed,Amanda Guercio,Moderate,None,None,None,None,,176744
+17TMM86-31, 2021-06-23 07:30:25,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176768
+17TNM44-12, 2021-06-17 06:58:00,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Heavy,None,None,,176757
+17TMM90-7, 2021-07-09 06:38:59,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,,176761
+17TMM86-14, 2021-06-23 06:58:42,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176740
+17TNM21-26, 2021-07-10 05:41:10,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176753
+17TMM66-3, 2021-06-26 06:51:42,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,1 Eastern Chipmunk,176763
+17TMM97-4, 2021-07-05 05:49:59,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Both Sides Extra Static,Considerable static/hiss on both sides impairing hearing.,176762
+17TMM90-16, 2021-07-09 06:22:43,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,Other issues,Both sides with some to significant static. Passing vehicle.,176773
+17TNM21-7, 2021-07-10 07:26:08,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176764
+17TNM54-12, 2021-07-03 08:49:55,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,176777
+17TNM33-17, 2021-06-16 09:22:09,1SPT,300,Transcribed,Amanda Guercio,Moderate,None,Light,None,None,,176755
+15UVS24-17, 2021-06-16 07:07:00,1SPT,300,Transcribed,Donald Sutherland,None,Light,Moderate,Light,None,Log haul truck and other vehicle noise from 215s to end,174407
+17TNM32-16, 2021-06-16 06:24:21,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176814
+17TMM57-1, 2021-06-22 06:15:59,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,176792
+17TNM42-9, 2021-06-10 06:39:12,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,176784
+17TMM57-18, 2021-06-22 07:02:25,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,Light,Light,None,,176812
+17TMM72-9, 2021-06-30 07:59:15,1SPT,300,Transcribed,Mike V.A. Burrell,None,Moderate,None,Moderate,None,fair bit of bit,176795
+17TMM72-4, 2021-06-30 07:30:51,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Both Sides Extra Static,"Serious static on both sides, particularly after 60s, significantly impairing detection of song. Could it be windier than indicated? Passing vehicle in last 40s.",176774
+17TNM54-17, 2021-07-03 08:40:31,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,None,None,None,,176807
+17TPH18-3, 2021-07-09 09:19:47,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,Light,None,"Low hum of traffic, 2 close cars",176541
+17TMM97-1, 2021-07-05 05:57:25,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Moderate,None,Large loud truck passing between 240 and 265s and another approaching 280-300s.,176813
+17TMM53-23, 2021-07-02 06:45:18,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,176791
+17TNM30-6, 2021-06-19 08:18:20,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,None,,176782
+17TMM97-26, 2021-07-05 08:07:03,1SPT,300,Transcribed,Donald Sutherland,None,Light,Light,Moderate,None,"Moderate noise from heavy machinery, presumably from quarries around 600 m to east, throughout the entire recording.",176788
+17TMM65-17, 2021-06-23 05:08:24,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,176822
+17TNM44-9, 2021-06-17 07:27:25,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176816
+17TMM90-5, 2021-07-09 07:53:00,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,None,,176818
+17TNM65-UNKN, 2021-07-04 06:27:08,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,None,Noise from passing vehicles.,176811
+17TNM54-7, 2021-07-03 06:14:16,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,Tabanid occasionally buzzing microphone.,176572
+17TMM98-26, 2021-07-05 05:49:12,1SPT,300,Transcribed,Donald Sutherland,None,Light,Heavy,Heavy,Other issues,"Passing logging haul truck, necessitating moving of observers vehicle, and then idling truck obscured most calls on recording from 157s to end.",176209
+17TNM30-33, 2021-06-19 08:25:24,1SPT,300,Transcribed,Donald Sutherland,None,Heavy,None,Moderate,None,Poor recording. Wind seems much stronger than indicated with gusts that at times cause serious interference (e.g. aspen leaves) and microphone distortion obliterating bird sounds. ,176576
+17TNM55-12, 2021-07-04 06:05:38,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Moderate,None,American Red Squirrel calling loudly in foreground through much of recording.,176215
+17TMM52-2, 2021-07-02 07:54:07,1SPT,300,Transcribed,Donald Sutherland,None,Moderate,Light,Light,Other issues,Wind light to at times moderate with creating roar (aspen leaves?) and considerable base distortion. Observer adjusting power windows in vehicle after start of recording; passing vehicle in last 10s.,176216
+17TMM93-13, 2021-06-02 08:06:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178431
+17TMM93-3, 2021-06-04 06:22:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178435
+17TNM35-17, 2021-06-12 05:37:30,1SPT,300,Transcribed,Ken Burrell,None,None,None,None,None,,176387
+17TMM93-21, 2021-06-06 06:29:00,1SPT,300,Transcribed,Lev Frid,None,None,None,Light,None,,178446
+17TNM01-21, 2021-07-09 05:31:02,1SPT,300,Transcribed,Ken Burrell,None,None,Light,None,None,,176412
+17TMM93-18, 2021-06-17 07:40:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178464
+17TNM41-14, 2021-06-20 06:19:29,1SPT,300,Transcribed,Donald Sutherland,Light,Light,None,None,Both Sides Extra Static,Extremely poor recording. Severe static on both sides obscuring most bird song. Wind may be stronger than indicated. Light rain beginning at 200s.,176748
+17TMM93-8, 2021-06-06 07:10:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178466
+17TNM21-36, 2021-07-10 08:18:55,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Other issues,A lot of background hiss making identification of distant calls difficult/impossible.,176584
+17TNM21-2, 2021-07-10 06:04:54,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176703
+17TNM42-11, 2021-06-10 06:28:19,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176721
+16TCU22-6*, 2021-06-17 08:54:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178514
+17TMM66-9, 2021-06-26 07:21:14,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,None,Observer adjusting power window several times during recording.,176224
+17TMK59-C, 2021-06-08 08:49:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178520
+17TNM33-7, 2021-06-10 07:51:18,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Unbalanced Channels,A lot of loud hiss during entire recording.,176600
+17TMM85-35, 2021-06-07 09:21:52,1SPT,300,Transcribed,Nathan Hood,None,None,Light,Light,None,,176737
+17TMM86-2, 2021-06-23 07:14:37,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,176608
+17TMM73-8, 2021-06-30 05:58:40,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,Light,None,Faint and muddy recording overall,176239
+17TNM34-12, 2021-06-16 05:36:45,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,None,Very loud scolding Red Squirrel obscuring other sounds between 236 and 300s.,176242
+17TMM52-5, 2021-07-02 08:03:26,1SPT,300,Transcribed,Amanda Guercio,Moderate,None,None,Light,None,,176293
+17TMM97-11, 2021-07-05 06:31:46,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Other issues,Constant hiss.,176611
+17TMM57-20, 2021-06-22 08:38:23,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Moderate,None,Loud footsteps/keys jingling and a conversation with a walker,176388
+17TMM86-21, 2021-06-23 06:41:48,1SPT,300,Transcribed,Donald Sutherland,None,Moderate,None,Light,Other issues,Constant hiss. Posted wind speed on the high side for a count.,176613
+17TMM64-1, 2021-07-03 06:41:20,1SPT,300,Transcribed,Donald Sutherland,None,Light,Moderate,Moderate,None,Vehicle passing between 120 and 167s. Observer operating power windows after start of recording and walking around on gravel during much of the latter half of the recording.,176255
+17TMM64-33, 2021-07-03 08:20:51,1SPT,300,Transcribed,Amanda Guercio,Light,Light,None,None,None,,176472
+17TMM73-38, 2021-06-30 07:07:09,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Heavy,Other issues,"Extremely poor recording! Frequent traffic drowning out all other sounds. Observer open and closing vehicle door, walking around on gravel and adjusting recorder during recording!",176259
+17TMM56-9, 2021-06-22 07:44:02,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,None,"Some interference with wind at times. WTSP overwhelming due to their close proximity to the microphone. Probably four total, but three for sure.",176277
+17TNM32-8, 2021-06-09 06:55:39,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Other issues,Constant hiss.,176623
+17TMP95-2, 2021-06-12 06:39:53,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176557
+17TNM34, 2021-06-16 07:39:31,1SPT,300,Transcribed,David Bell,None,Light,Light,Light,None,,176482
+17TNM35-3, 2021-06-12 08:18:06,1SPT,300,Transcribed,Ken Burrell,None,Light,None,None,None,,176228
+17TNM11-23, 2021-07-06 07:22:05,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Moderate,None,Light to moderate noise. Severe traffic noise from passing vehicle during middle of recording.,176282
+17TMM56-30, 2021-06-22 05:16:50,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,Other issues,Observer using power windows and walking around during recording.,176290
+17TMM53-27, 2021-07-02 06:29:58,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Moderate,None,,176747
+17TMM56-5, 2021-06-22 06:50:00,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,176302
+17TMM85-1, 2021-06-07 06:17:36,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,Other issues,Passing vehicle. Persistent hiss on recording.,176629
+17TNM65-11, 2021-07-04 07:35:40,1SPT,300,Transcribed,Donald Sutherland,None,Moderate,None,Heavy,None,Dog barking loudly nearby during entire recording. ,176630
+17TMM93-14, 2021-06-13 07:12:00,1SPT,300,Transcribed,Nathan Hood,None,None,Light,Light,None,,178413
+18TUQ52-20, 2021-06-16 05:37:00,1SPT,300,Transcribed,Lev Frid,None,Light,Light,Heavy,Left channel cuts out intermittently,difficult to hear due to noise,178559
+17TNM55-25, 2021-07-04 06:19:45,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Other issues,Observer crunching around on gravel from 220s to end.,176366
+17TNM11-15, 2021-07-06 07:52:18,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,176372
+17TMM93-9, 2021-06-13 06:30:00,1SPT,300,Transcribed,Nathan Hood,None,None,Light,Moderate,None,,178443
+17TMM86-3, 2021-06-23 06:06:21,1SPT,300,Transcribed,Donald Sutherland,None,Light,Moderate,Light,Other issues,Constant loud hum from nearby hydro transformer; general persistent hiss to recording; and large noisy flock of FY EUST and COGR obscured most other bird song.,176645
+18TUQ55-40, 2021-06-20 07:38:00,1SPT,300,Transcribed,Lev Frid,None,Light,None,Light,None,,178561
+17TMM93-16, 2021-06-10 06:59:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,178461
+18TUQ52-1, 2021-06-16 05:50:00,1SPT,300,Transcribed,Lev Frid,None,Light,None,Light,None,,178564
+17TMN24-UNKN2, 2021-07-09 09:26:00,1SPT,300,Transcribed,Amanda Guercio,None,Light,None,Light,None,Bit of shuffling around,177887
+17TNM55-2, 2021-07-04 05:30:15,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,Other issues,Observer operating power windows during recording.,176401
+17TMM55-3, 2021-06-23 06:18:20,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176491
+17TMM56-1, 2021-06-22 08:09:16,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176492
+17TMM90-1, 2021-07-09 07:20:10,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176622
+17TMM52, 2021-07-02 06:28:30,1SPT,300,Transcribed,Donald Sutherland,None,Light,Heavy,Heavy,None,Wind generally light with a few moderate gusts. Constant heavy noise from traffic on Hwy 17 around 600 m to east impairs hearing.,176410
+17TMM64-16, 2021-07-03 08:03:46,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,Other issues,"Poor quality recording. Wind registered as light but probably light-moderate, clearly gusting and interfering with recording.",176415
+16TFU61-4, 2021-07-03 07:37:09,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,177878
+17TNM54-16, 2021-07-03 06:47:58,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Other issues,Continuous hiss.,176716
+15UVS24-9, 2021-06-19 07:34:00,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,consistent squirrel noises,172717
+17TNM32-12, 2021-06-16 06:56:14,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Left Side Extra Static,"Severe hiss/static on left channel after 70s, diminishing somewhat in the last 15s.",176680
+17TMM55-14, 2021-06-23 07:14:51,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176525
+17TNM65-36, 2021-07-04 06:45:59,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Other issues,Hiss on left channel.,176685
+17TNM34-15, 2021-06-16 06:38:48,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176238
+17TMM64, 2021-07-03 07:33:25,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,Light rain in last minute,176405
+17TMM57-11, 2021-06-22 07:20:52,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176586
+16UCV35-12, 2021-06-27 08:31:56,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,174388
+17TMM73, 2021-06-30 07:36:56,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,176377
+17TNM34-4, 2021-06-16 04:58:43,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,"observer walking around a bit, distant car noise",176261
+17TNM33-19, 2021-06-17 06:14:02,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,176687
+17TMM72-30, 2021-06-30 05:47:59,1SPT,300,Transcribed,Timothy B. Lucas,Light,None,None,None,None,,176637
+16UCV35-1, 2021-06-27 10:07:27,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,observer playing on phone and walking around a bit,174393
+17TNM65-32, 2021-07-04 05:21:59,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Other issues,Poor recording. Likely other species singing but overwhelmed by the songs of REVI. Two large dogs barking for first 68s obscured virtually all bird song.,176688
+17TMM63-1, 2021-07-01 06:09:05,1SPT,300,Transcribed,Donald Sutherland,None,Light,Heavy,Heavy,Other issues,"Poor recording. Vehicle and recorder moved early in recording, then passing vehicles and finally construction/industrial noise obscuring most bird song. Aborted analysis.",176430
+17TMM63-26, 2021-07-01 08:01:03,1SPT,300,Transcribed,Amanda Guercio,Moderate,None,None,None,None,,176287
+17TMM99-7, 2021-07-05 07:05:09,1SPT,300,Transcribed,Donald Sutherland,None,Moderate,None,Light,Other issues,"Sustained wind gust in middle of recording (sounding like) rain and conditions probably too windy to be conducting survey. Observer also making too much noise, walking around, operating power windows, opening and closing doors, etc.",176431
+17TPM14-35, 2021-07-04 07:02:00,1SPT,300,Transcribed,Lev Frid,None,None,None,Light,None,,178571
+17TNM30-3, 2021-06-19 08:43:11,1SPT,300,Transcribed,Donald Sutherland,Moderate,Light,Light,None,Both Sides Extra Static,Poor recording. Moderate to heavy rain obliterating most bird song. Gusty wind. Some vehicle noise.,176819
+17TMM93-11, 2021-06-18 06:44:23,1SPT,300,Transcribed,Donald Sutherland,None,Light,Light,Light,Other issues,"Observer using power windows, opening and closing doors on vehicle and walking around during recording.",176465
+17TNM11-3, 2021-07-06 05:47:52,1SPT,300,Transcribed,Donald Sutherland,None,Light,Moderate,Moderate,Other issues,"Yelling kids, passing train.",176446
+18TUQ52-6, 2021-06-01 06:23:00,1SPT,300,Transcribed,Lev Frid,None,None,Moderate,Heavy,None,"hard to hear, much noise and distortion of songs",178593
+17TPM14-32, 2021-06-10 08:00:00,1SPT,300,Transcribed,Lev Frid,None,None,Light,Light,None,,178598
+17TMM86-10, 2021-06-23 07:09:14,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176612
+17TMM97-19, 2021-07-05 05:13:58,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176606
+17TMM73-1, 2021-06-28 05:10:43,1SPT,300,Transcribed,Nathan Hood,None,None,Moderate,Light,None,,176641
+17TMM65-15, 2021-06-23 05:17:03,1SPT,300,Transcribed,Nathan Hood,None,None,None,Moderate,None,,176636
+17TNM41-30, 2021-06-20 07:07:49,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176639
+17TMM57-13, 2021-06-22 06:53:41,1SPT,300,Transcribed,Donald Sutherland,Light,None,None,Moderate,None,Either light rain or significant static between 145 and 255s. Moderately loud trucks passing on Hwy 144 around 800 m to west between 95 and 175s.,176802
+17TMM56-14, 2021-06-22 07:06:12,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176270
+17TNM65-1, 2021-07-04 05:53:09,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176771
+17TMM55-6, 2021-06-23 07:24:08,1SPT,300,Transcribed,David Bell,None,None,None,Moderate,Both Sides Extra Static,"extra static starts at around 120s, noise goes to moderate after that. Observer moving around a fair bit as well",176281
+17TMM66-38, 2021-06-26 07:39:03,1SPT,300,Transcribed,David Bell,None,Light,Light,Light,None,"persistent fly in first few minutes, some camera shutter noises and passing car",176214
+17TMM80-2, 2021-07-10 07:44:33,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,"car passing at start, observer walking around a bit",176221
+17TMM72-14, 2021-06-30 06:19:58,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Moderate,None,,176756
+17TNM54-27, 2021-07-03 07:35:04,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176776
+17TMM72-28, 2021-06-30 05:59:44,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176779
+17TNM41-5, 2021-06-20 05:11:16,1SPT,300,Transcribed,Nathan Hood,None,None,Light,Light,None,,176739
+16TFU61-13, 2021-06-14 08:18:59,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,177793
+17TNM30-16, 2021-06-19 05:51:51,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176602
+17TMM63-11, 2021-07-02 05:15:57,1SPT,300,Transcribed,Amanda Guercio,Moderate,None,None,None,None,,176428
+17TMM53-12, 2021-07-02 05:27:35,1SPT,300,Transcribed,Donald Sutherland,None,Light,Heavy,None,None,"Extremely poor recording! Constant roar from truck traffic on Hwy 17, 400 m to north, obscures all but a few close, loud singers.",176697
+17TMM86-9, 2021-06-23 06:15:19,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176631
+17TMM64-15, 2021-07-03 06:52:58,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,No option for Eastern Chipmunk (x2),176496
+17TMM80, 2021-07-10 07:16:55,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,"passing cars, obs moving around",176395
+17TMM72-11, 2021-06-30 08:20:27,1SPT,300,Transcribed,Nathan Hood,None,Moderate,Light,Light,None,,176615
+17TMM52, 2021-07-02 08:12:57,1SPT,300,Transcribed,David Bell,None,Moderate,None,Moderate,Both Sides Extra Static,"right side fainter, lots of static on both sides",176447
+17TNM11-31, 2021-07-06 06:05:57,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,"distant traffic noise light to moderate, one passing car around 120s",176514
+17TMM57-2, 2021-06-22 07:44:14,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,"Still interference/static on both channels, particularly during latter half of recording. Wind probably light-moderate, given distortion from gusts.",176778
+17TMH89-17, 2021-06-28 07:30:34,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,177840
+17TNM01-17, 2021-07-09 06:45:01,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,None,Light,None,Very light wind and some running water.,176426
+16TFT69-4, 2021-06-29 07:30:27,1SPT,300,Transcribed,Donald Sutherland,Light,Light,None,Light,Both Sides Extra Static,Poor recording. Static both sides. Low volume. Fairly continuous roar of truck traffic on Hwy 17 around 600 m to west. ,177790
+17TMM64-20, 2021-07-03 07:11:36,1SPT,300,Transcribed,Mike V.A. Burrell,None,None,Light,Light,None,some talking,176390
+17TNM00-17, 2021-07-10 05:30:35,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,Moderate,None,Some walking around,176498
+17TMM73-4, 2021-06-30 05:25:45,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Light,None,None,,176479
+16TFU61-20, 2021-06-29 06:39:03,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176532
+17TNP19-UNKN3, 2021-06-26 07:44:33,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,Noise from buzzing mosquitoes and blackflies distracting from 140s to end.,177852
+17TMM52-13, 2021-07-02 06:38:56,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Moderate,Moderate,None,Lots of traffic noise,176490
+17TNM41-13, 2021-06-20 07:35:34,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,wind picks up later in recording,176684
+16TCU35-UNKN, 2021-06-08 07:11:47,1SPT,300,Transcribed,Donald Sutherland,None,Light,Heavy,Heavy,None,Very poor recording. Beside a busy highway with constant traffic obscuring all but the loudest and closest species.,177841
+17TMM97-5, 2021-07-05 07:30:29,1SPT,300,Transcribed,David Bell,None,None,None,Moderate,Both Sides Extra Static,recording very faint,176696
+17TNM33-26, 2021-06-16 08:53:02,1SPT,300,Transcribed,David Bell,None,Moderate,None,Moderate,Both Sides Extra Static,,176717
+15UWR75-6, 2021-06-23 07:06:02,1SPT,300,Transcribed,Marcus Sommers,None,Light,Light,Light,None,,308844
+17TNM21-10, 2021-07-10 06:37:49,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176677
+17TMM56-10, 2021-06-22 07:24:08,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Light,None,,176411
+17TNM35-2, 2021-06-12 07:45:54,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,None,Light,None,,176392
+17TMK59-B, 2021-06-08 09:06:54,1SPT,300,Transcribed,Gill Holmes,None,Light,None,Light,Both Sides Extra Static,,308866
+17TMM63, 2021-07-01 08:11:12,1SPT,300,Transcribed,Amanda Guercio,Heavy,None,None,None,None,,176450
+17TMM56-13, 2021-06-22 06:41:49,1SPT,300,Transcribed,Ken Burrell,None,None,None,None,None,,176278
+17TMM56-31, 2021-06-22 06:58:30,1SPT,300,Transcribed,Ken Burrell,None,None,None,Light,None,,176404
+17TMM53-7, 2021-07-02 05:36:35,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Heavy,Heavy,None,A lot of traffic noise,176664
+17TMM93-22, 2021-06-18 07:08:22,1SPT,300,Transcribed,David Bell,None,None,Moderate,Light,None,several passing cars/trucks,176299
+17TNM54-9, 2021-07-03 06:07:56,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176783
+17TMM90-21, 2021-07-09 07:39:26,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Both Sides Extra Static,Extremely poor recording. Heavy static/hiss on both channels obscuring most bird song.,176659
+15UXR02-OR2, 2021-06-22 09:28:36,1SPT,300,Transcribed,Gill Holmes,None,Moderate,None,Light,Both Sides Extra Static,,308831
+15UWR75-OR1, 2021-06-24 08:40:06,1SPT,300,Transcribed,Gill Holmes,None,Light,None,Light,Both Sides Extra Static,,308839
+16TFU61-8, 2021-07-02 06:12:49,1SPT,300,Transcribed,Donald Sutherland,None,Light,Heavy,Heavy,Other issues,Heavy traffic noise. Recording made right beside Hwy 17,176534
+17TMM66-8, 2021-06-26 06:09:58,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,Light,Light,None,,176803
+17TNM32-14, 2021-06-16 06:32:38,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176644
+17TNM42-5, 2021-06-08 08:17:35,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,None,A few vehicles one of which stopped by the microphone to speak to the recordist.,176647
+17TMM93-6, 2021-06-18 05:52:07,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Light,None,None,,176435
+17TNM21-33, 2021-07-10 07:18:36,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176675
+16TCU35-20, 2021-06-16 07:35:56,1SPT,300,Transcribed,Donald Sutherland,None,None,Heavy,Heavy,None,Overwhelming roar of industry associated with port and railway.,177851
+17TMH89-22, 2021-06-28 08:39:53,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,177855
+17TMM56-33, 2021-06-22 06:31:34,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176296
+17TMM73-30, 2021-06-29 06:54:58,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,Light,None,,176463
+17TMN24-UNKN19, 2021-07-10 09:33:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,177856
+17TNM34-17, 2021-06-16 08:59:27,1SPT,300,Transcribed,Amanda Guercio,Moderate,None,Light,None,None,,176521
+15UVS24-16, 2021-06-16 08:00:00,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,Moderate,Moderate,None,,172720
+15UVS24-3, 2021-06-16 07:33:00,1SPT,300,Transcribed,Mike V.A. Burrell,None,Moderate,None,Moderate,None,,172719
+15UVS25-10, 2021-06-25 08:06:00,1SPT,300,Transcribed,Ken Burrell,None,None,Light,Light,None,,172721
+17TNM34-14, 2021-06-16 05:08:46,1SPT,300,Transcribed,Donald Sutherland,None,Light,Light,None,None,Traffic noise on Hwy 17 (2.5 km NNE) particularly evident during latter half of recording.,176524
+17TPH18-6, 2021-07-09 08:16:51,1SPT,300,Transcribed,Donald Sutherland,None,Light,Heavy,Heavy,None,Heavy interference from industrial noise.,176528
+17TMM56-32, 2021-06-22 06:05:27,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176207
+17TMM80-1, 2021-07-10 06:14:31,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176202
+17TPH18-7, 2021-07-09 09:01:35,1SPT,300,Transcribed,Donald Sutherland,None,Light,Heavy,Heavy,None,"Substantial interference from heavy industrial noise (primarily traffic from QEW, 2 km to north).",176542
+17TMM64-2, 2021-07-03 06:33:26,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176504
+17TNM11-2, 2021-07-06 06:16:52,1SPT,300,Transcribed,Ken Burrell,None,Light,Moderate,Moderate,None,,176211
+17TNM35-4, 2021-06-12 05:48:30,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Light,None,,176220
+17TNM35-11, 2021-06-12 07:02:44,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176213
+17TNM35-9, 2021-06-12 07:23:51,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176420
+17TMM55, 2021-06-23 08:13:24,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176235
+17TMM93-17, 2021-06-18 07:21:28,1SPT,300,Transcribed,Mike V.A. Burrell,None,None,Light,Light,None,,176237
+17TMM63-15, 2021-07-01 06:33:22,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176244
+17TNM11-40, 2021-07-06 06:59:27,1SPT,300,Transcribed,Ken Burrell,None,Light,Light,Light,None,,176230
+17TMM66-2, 2021-06-26 06:48:03,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176252
+17TNM65-6, 2021-07-04 07:20:51,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,None,,176710
+17TNM11-33, 2021-07-06 07:34:38,1SPT,300,Transcribed,Ken Burrell,None,None,Light,Light,None,,176262
+17TMM56-18, 2021-06-22 06:21:43,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Light,None,,176286
+17TMM93-11, 2021-06-18 06:05:02,1SPT,300,Transcribed,Mike V.A. Burrell,None,None,None,Light,None,,176291
+17TMM73-23, 2021-06-29 08:07:59,1SPT,300,Transcribed,Donald Sutherland,None,Light,Moderate,Moderate,None,Observer walking around during recording. Passing train and vehicles.,176480
+17TMM56-11, 2021-06-22 05:26:02,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176305
+17TMM97-15, 2021-07-05 06:59:54,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176652
+17TMM63-19, 2021-07-01 08:21:30,1SPT,300,Transcribed,Mike V.A. Burrell,None,Heavy,Light,Heavy,None,Very windy,176373
+17TNM11-38, 2021-07-06 07:43:23,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176371
+17TMM52-12, 2021-07-02 06:03:11,1SPT,300,Transcribed,Ken Burrell,None,None,Light,Light,None,,176375
+17TMM63-36, 2021-07-01 07:05:42,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176376
+17TMM64-9, 2021-07-03 05:30:23,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,"Muddy sound - reflection off vegetation? Very difficult to resolve the # of MOWA and AMRE, and other background vocalizations.",176367
+17TNJ29-6, 2021-06-12 08:10:58,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,177827
+17TMM63-17, 2021-07-01 06:01:05,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,None,Light,None,,176464
+17TNM11-9, 2021-07-06 05:55:59,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176469
+17TMH89-18, 2021-07-01 05:40:42,1SPT,300,Transcribed,Amanda Guercio,None,None,Moderate,None,None,,177809
+17TMM80-11, 2021-07-10 06:58:29,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,Light,Light,None,,176486
+17TMM93-1, 2021-06-18 06:26:03,1SPT,300,Transcribed,Donald Sutherland,None,Light,Light,Light,None,Train in background,176503
+17TNM11-30, 2021-07-06 08:09:35,1SPT,300,Transcribed,Mike V.A. Burrell,None,Moderate,Light,Light,None,,176505
+17TMM98-25, 2021-07-05 05:21:14,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,176506
+17TMM55-8, 2021-06-23 07:05:30,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176497
+17TMM80-31, 2021-07-10 07:53:38,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176512
+17TMM80-32, 2021-07-10 08:32:08,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,Light,Light,None,,176508
+17TMM55-18, 2021-06-23 05:57:18,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,176518
+17TMM52, 2021-07-02 08:28:47,1SPT,300,Transcribed,Mike V.A. Burrell,None,Moderate,Light,Light,None,,176519
+17TNM35-7, 2021-06-12 05:29:06,1SPT,300,Transcribed,David Bell,None,Light,Light,Light,None,,176522
+17TMM80-3, 2021-07-10 08:10:30,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,One loud vehicle,176520
+17TMM80-23, 2021-07-10 05:57:40,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,,176527
+17TMM53-26, 2021-07-02 07:12:27,1SPT,300,Transcribed,Nathan Hood,None,Light,Light,Light,None,,176789
+16TFU61-16, 2021-07-02 07:18:19,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,176536
+17TPH18-2, 2021-07-09 08:37:31,1SPT,300,Transcribed,David Bell,None,Light,Moderate,Light,None,,176537
+16TFU61-14, 2021-07-02 07:04:37,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,Light,Light,None,,176533
+17TPH18-4, 2021-07-08 07:32:25,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176535
+16TFU61-7, 2021-07-01 07:17:56,1SPT,300,Transcribed,David Bell,None,Moderate,Light,Light,None,,176543
+16TFU61-17, 2021-07-02 06:39:13,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,Heavy,Heavy,None,Lots of traffic/vehicle noise.,176539
+16TFU61-12, 2021-07-03 06:20:31,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Moderate,Light,None,,176540
+17TNM21-18, 2021-07-10 05:32:39,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176699
+16TFU61-96, 2021-07-02 07:49:10,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,Light,Light,None,,176544
+17TNP14-10, 2021-06-26 06:39:24,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176546
+17TMP95-7, 2021-06-12 07:44:38,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Light,None,None,,176547
+17TMP86-11, 2021-06-14 07:10:36,1SPT,300,Transcribed,Amanda Guercio,Light,None,Light,None,None,,176561
+16TFU61-9, 2021-06-14 07:24:23,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,,177795
+15UVS25-4, 2021-06-25 06:45:00,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,174367
+17TMP95-14, 2021-06-12 06:20:02,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,176562
+17TMP86-13, 2021-06-14 06:48:14,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,Moderate,Moderate,None,,176554
+17TMM90-2, 2021-07-09 05:35:16,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176714
+15UVS25-1, 2021-06-25 06:03:00,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,174380
+15UVS24-13, 2021-06-19 07:13:00,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,174379
+15UVS25-3, 2021-06-25 06:35:00,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,174389
+15UVS25-16, 2021-06-25 09:08:00,1SPT,300,Transcribed,Ken Burrell,None,Light,Light,Light,None,,174383
+17TNM30-21, 2021-06-19 07:07:48,1SPT,300,Transcribed,David Bell,None,Moderate,None,Moderate,Both Sides Extra Static,,176574
+17TNM54-8, 2021-07-03 06:39:21,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,176570
+17TNM42-23, 2021-06-08 09:45:08,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176575
+15UVS25-11, 2021-06-25 08:21:00,1SPT,300,Transcribed,Timothy B. Lucas,None,Light,None,None,None,,174373
+17TNM33-4, 2021-06-10 07:41:21,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,176571
+16UCV35-11, 2021-06-27 08:43:36,1SPT,300,Transcribed,Ken Burrell,None,Light,Moderate,Moderate,Both Sides Extra Static,,174401
+16UCV35-6, 2021-06-27 09:34:11,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,,174386
+16UCV35-15, 2021-06-27 10:34:49,1SPT,300,Transcribed,Mike V.A. Burrell,None,Moderate,None,Moderate,None,,174375
+17TMM85-8, 2021-06-07 07:05:41,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,Light,None,People walking near end,176583
+15UVS24-8, 2021-06-19 07:04:00,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,174377
+15UVS25-17, 2021-06-25 09:21:00,1SPT,300,Transcribed,Timothy B. Lucas,Light,None,None,None,None,,174392
+15UVS24-1, 2021-06-25 06:17:00,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,174374
+15UVS24-6, 2021-06-16 07:16:00,1SPT,300,Transcribed,Ken Burrell,None,Heavy,Moderate,Heavy,None,,174376
+15UVS25-8, 2021-06-25 07:29:00,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Light,None,,174402
+17TMM66-10, 2021-06-26 07:24:18,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,176582
+17TNM33-15, 2021-06-17 06:21:22,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,cogr/amro/blja harassing the BWHA,176577
+17TNM30-10, 2021-06-19 05:43:58,1SPT,300,Transcribed,Amanda Guercio,Moderate,None,None,None,None,,176573
+15UVS24-14, 2021-06-16 08:01:00,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,174394
+15UVS24-4, 2021-06-19 06:49:00,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,174382
+17TNM41-18, 2021-06-20 05:30:42,1SPT,300,Transcribed,Nathan Hood,None,None,Light,Light,None,,176588
+17TMM53-3, 2021-07-02 06:40:12,1SPT,300,Transcribed,Donald Sutherland,None,Light,Light,None,None,Truck in background at several points.,176585
+15UVS25-12, 2021-06-25 08:30:00,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,,174395
+17TMM97-8, 2021-07-05 07:23:10,1SPT,300,Transcribed,David Bell,None,Moderate,None,Moderate,Both Sides Extra Static,,176592
+17TNM54-1, 2021-07-03 07:41:38,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176590
+15UVS24-5, 2021-06-16 07:51:00,1SPT,300,Transcribed,Amanda Guercio,Moderate,Light,None,None,None,,174384
+16UCV35-10, 2021-06-27 09:20:51,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,174397
+16UCV35-9, 2021-06-27 09:44:10,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Moderate,Both Sides Extra Static,,174400
+17TNM42-12, 2021-06-08 09:03:21,1SPT,300,Transcribed,Timothy B. Lucas,Light,None,Light,None,None,,176597
+17TNM54-13, 2021-07-03 05:56:11,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,persistent loud squirrels throughout,176595
+15UVS25-2, 2021-06-25 06:06:00,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,174385
+17TMM97-9, 2021-07-05 07:15:22,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,177865
+17TMP95-6, 2021-06-12 07:04:07,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176549
+17TNM65-33, 2021-07-04 06:15:57,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176589
+17TNM32-10, 2021-06-16 06:38:32,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176604
+17TMH89-20, 2021-06-28 06:45:28,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,,177806
+17TNM30-20, 2021-06-19 09:22:38,1SPT,300,Transcribed,David Bell,None,Moderate,None,Moderate,Both Sides Extra Static,,176635
+17TMN24-UNKN13, 2021-07-09 08:59:45,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,177810
+17TMM72-2, 2021-06-30 05:28:36,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,176628
+16TFU51-6, 2021-07-04 08:15:14,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,177797
+17TNM42-18, 2021-06-08 06:00:22,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Heavy,None,None,,176638
+17TMM72-7, 2021-06-30 07:01:08,1SPT,300,Transcribed,Amanda Guercio,Moderate,None,None,None,None,,176646
+17TMM85-34, 2021-06-07 09:07:06,1SPT,300,Transcribed,Amanda Guercio,Moderate,Light,Light,None,None,,176650
+17TMM64-23, 2021-07-03 06:23:56,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,car passing at end,176246
+17TMH89-8, 2021-06-28 06:08:31,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,177880
+17TNM35-16, 2021-06-12 06:26:40,1SPT,300,Transcribed,Ken Burrell,None,None,None,None,None,,176258
+17TMM85-5, 2021-06-07 08:04:49,1SPT,300,Transcribed,Amanda Guercio,None,None,Moderate,None,None,,176708
+16TFU51-7, 2021-07-04 07:48:34,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,177837
+17TNM41-10, 2021-06-20 08:56:34,1SPT,300,Transcribed,David Bell,None,Moderate,None,Moderate,Both Sides Extra Static,,176725
+17TMM53-18, 2021-07-02 05:55:33,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Heavy,None,None,,176723
+17TNM35-15, 2021-06-12 08:36:39,1SPT,300,Transcribed,David Bell,None,Light,Light,Light,None,,176495
+17TNM33-24, 2021-06-16 08:13:07,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176743
+17TNM32-5, 2021-06-09 06:46:55,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,176765
+17TMM57-27, 2021-06-22 08:46:49,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,176759
+17TMM90-6, 2021-07-09 06:08:11,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176766
+17TMM97-2, 2021-07-05 07:45:47,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Both Sides Extra Static,Moderate static on both sides after 120s,176767
+17TNM21-20, 2021-07-10 07:58:25,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176781
+17TMM72-6, 2021-06-30 07:20:32,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,None,Light,None,,176790
+17TNM41-16, 2021-06-20 08:03:03,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,176785
+17TMM53-13, 2021-07-02 06:06:29,1SPT,300,Transcribed,Mike V.A. Burrell,None,None,Heavy,Heavy,None,Heavy traffic noise.,176793
+17TNM33-8, 2021-06-16 08:26:01,1SPT,300,Transcribed,Mike V.A. Burrell,None,Moderate,None,Light,None,,176797
+17TNM32-6, 2021-06-09 07:29:26,1SPT,300,Transcribed,Mike V.A. Burrell,None,Moderate,None,Moderate,None,Fair bit of wind.,176799
+17TMM85-4, 2021-06-07 07:33:08,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,Moderate,Moderate,None,,176805
+17TMM72-15, 2021-06-30 05:37:18,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,Light,Light,None,,176810
+17TMM90-9, 2021-07-09 06:34:09,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,None,Light,None,,176800
+17TMM72-22, 2021-06-30 07:49:55,1SPT,300,Transcribed,Lev Frid,None,Light,None,None,None,,176821
+17TNM65-9, 2021-07-04 07:28:17,1SPT,300,Transcribed,Lev Frid,None,None,None,Light,None,,176825
+17TNM21-17, 2021-07-10 07:04:46,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,None,,176804
+17TNM54-2, 2021-07-03 07:51:14,1SPT,300,Transcribed,Nathan Hood,None,None,Light,None,None,,176817
+17TMM97-1, 2021-07-05 06:23:03,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176820
+17TNM41-36, 2021-06-20 08:39:35,1SPT,300,Transcribed,Nathan Hood,None,Moderate,Moderate,Heavy,None,,176829
+17TMM90-1, 2021-07-09 06:17:52,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176832
+17TMM85-2, 2021-06-07 06:38:48,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,None,,176835
+17TNM41-2, 2021-06-20 07:29:36,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,None,,176823
+17TNM65-10, 2021-07-04 07:57:24,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,None,,176826
+17TMM85-36, 2021-06-07 09:33:22,1SPT,300,Transcribed,Nathan Hood,None,None,Heavy,Heavy,None,,176828
+17TMM86-19, 2021-06-23 06:32:18,1SPT,300,Transcribed,Nathan Hood,None,None,Light,None,None,,176830
+17TMM97-6, 2021-07-05 05:38:41,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176839
+17TMM57-10, 2021-06-22 05:44:42,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176840
+17TMM66-6, 2021-06-26 06:18:04,1SPT,300,Transcribed,Nathan Hood,None,Light,None,None,None,,176831
+17TMM57-14, 2021-06-22 05:53:55,1SPT,300,Transcribed,Nathan Hood,None,Light,Light,Light,None,,176837
+17TMM97-33, 2021-07-05 07:38:18,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176848
+17TMM66-11, 2021-06-26 06:29:23,1SPT,300,Transcribed,Nathan Hood,None,Light,Light,Light,None,,176851
+17TNM30-22, 2021-06-19 06:55:41,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,None,,176833
+17TNM44-38, 2021-06-17 08:19:24,1SPT,300,Transcribed,Nathan Hood,None,None,Heavy,Moderate,None,,176854
+17TMM53-9, 2021-07-02 07:47:31,1SPT,300,Transcribed,Nathan Hood,None,Heavy,None,Heavy,None, ,176841
+17TNM21-14, 2021-07-10 07:09:49,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,None,,176834
+17TNM65-UNKN, 2021-07-04 06:37:42,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,None,,176842
+17TMM85-7, 2021-06-07 07:19:55,1SPT,300,Transcribed,Nathan Hood,None,None,Light,Light,None,,176838
+17TNM65-13, 2021-07-04 06:07:21,1SPT,300,Transcribed,Nathan Hood,None,None,Light,Light,None,,176846
+17TNM32-11, 2021-06-09 06:09:03,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,None,,176858
+17TMH89-13, 2021-06-28 08:02:59,1SPT,300,Transcribed,David Bell,None,Moderate,Light,Moderate,Other issues,quite a bit of wind/insect noise,177803
+17TMN24-UNKN6, 2021-07-10 06:44:00,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,Other issues,"Some hiss and decrease in volume during latter half of recording. Recordist sitting too close to microphone; breathing, sneezing, throat-clearing and shifting around distracting.",177862
+16TCU22-OR6, 2021-06-17 09:56:55,1SPT,300,Transcribed,Marcus Sommers,None,Light,Light,None,None,,308863
+17TNM11-39, 2021-07-06 07:59:53,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Light,None,,176292
+17TMM93-6, 2021-06-13 07:32:00,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,None,,178402
+17TMM93-2, 2021-06-03 06:37:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,178419
+17TMM93-C, 2021-06-04 08:42:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,178430
+17TMK59-8, 2021-06-07 07:47:00,1SPT,300,Transcribed,Nathan Hood,None,None,Light,Light,None,,178503
+15UXR02-9, 2021-06-22 07:35:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,178510
+17TMM93-29, 2021-06-03 07:17:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,178451
+16TCU22-OR4, 2021-06-17 09:51:00,1SPT,300,Transcribed,Nathan Hood,None,Moderate,None,Light,None,,178521
+15UWR75-15, 2021-06-23 07:17:00,1SPT,300,Transcribed,Nathan Hood,None,Moderate,Moderate,Heavy,None,,178509
+17TMM92-2, 2021-06-23 06:07:00,1SPT,300,Transcribed,Lev Frid,None,None,None,Moderate,None,,178469
+15UXR42-1, 2021-06-22 06:10:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178524
+17TMM93-27, 2021-06-13 06:56:00,1SPT,300,Transcribed,Nathan Hood,None,Light,Light,Light,None,,178421
+17TMM64-10, 2021-07-03 08:11:29,1SPT,300,Transcribed,Mike V.A. Burrell,None,Moderate,Light,Light,None,,176284
+17TMM64-22, 2021-07-03 05:38:40,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Light,None,None,,176275
+17TNM32-17, 2021-06-16 06:47:25,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,177853
+15UWR75-3, 2021-06-23 05:38:00,1SPT,300,Transcribed,Lev Frid,None,None,None,Moderate,None,,178516
+17TMM66-14, 2021-06-26 06:35:58,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,176808
+17TNM41-7, 2021-06-20 05:40:15,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176598
+17TNM33-16, 2021-06-16 09:03:14,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Both Sides Extra Static,"Poor recording. Both sides with extreme static, but particularly left. Too windy. Wind probably much higher than listed with much higher gusts generally obscuring most song.",176732
+18TUQ55-32, 2021-06-19 08:10:00,1SPT,300,Malfunction,Lev Frid,,,,,,,178566
+15UVS24-16, 2021-06-16 07:30:00,1SPT,300,Transcribed,Lev Frid,None,None,Moderate,Light,None,,178574
+18TUQ56-7, 2021-06-19 06:00:00,1SPT,300,Transcribed,Lev Frid,Light,None,None,Light,None,,178588
+18TUQ56-30, 2021-06-14 06:04:00,1SPT,300,Transcribed,Lev Frid,Light,None,None,None,None,,178594
+18TUQ55-7, 2021-06-23 07:45:00,1SPT,300,Transcribed,Lev Frid,None,None,Moderate,Light,None,,178599
+15UVS25-6, 2021-06-25 07:04:00,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,174408
+17TMM86-18, 2021-06-23 07:50:02,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176741
+16TCU25-7, 2021-06-01 06:48:03,1SPT,300,Transcribed,David Bell,None,Light,Moderate,Moderate,None,,177876
+17TNM30-16, 2021-06-19 05:59:53,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,None,,176580
+17TNM11-10, 2021-07-06 08:17:20,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,,176273
+17TNP14-18, 2021-06-26 06:05:21,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176565
+17TNM30-18, 2021-06-19 09:10:36,1SPT,300,Transcribed,Amanda Guercio,Light,None,Light,None,None,,176707
+17TNM33-11, 2021-06-17 05:39:05,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176693
+16TFT59-1, 2021-06-29 06:45:32,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,177791
+17TMM98-20, 2021-07-05 06:20:40,1SPT,300,Transcribed,Ken Burrell,None,Light,Light,Light,None,,176234
+17TNM30-17, 2021-06-19 07:34:36,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,None,,176648
+17TMM73-36, 2021-06-29 07:22:18,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176205
+17TNP19-UNKN4, 2021-06-20 08:27:25,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,177874
+17TNM44-1, 2021-06-17 07:57:42,1SPT,300,Transcribed,David Bell,None,Light,Light,Light,None,truck passing later in recording,176578
+17TMM63-22, 2021-07-01 06:21:36,1SPT,300,Transcribed,Donald Sutherland,None,Light,Light,Light,None,,176501
+17TMM66-12, 2021-06-26 07:00:51,1SPT,300,Transcribed,David Bell,Light,None,None,Light,None,,176634
+17TNM21-3, 2021-07-10 06:46:03,1SPT,300,Transcribed,Nathan Hood,None,None,Light,Light,None,,176627
+17TNM32-7, 2021-06-16 05:40:34,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176845
+17TNM34-13, 2021-06-16 06:30:39,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176475
+17TMM99-1, 2021-07-05 07:24:02,1SPT,300,Transcribed,Ken Burrell,None,Light,Light,Light,None,,176427
+17TMM72-33, 2021-06-30 06:11:16,1SPT,300,Transcribed,Nathan Hood,None,None,None,Moderate,None,,176769
+17TNM54-15, 2021-07-03 05:38:05,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,,176618
+17TNM42-20, 2021-06-08 07:12:01,1SPT,300,Transcribed,David Bell,None,Light,Moderate,Light,None,several passing cars,177883
+17TNM21-4, 2021-07-10 07:39:53,1SPT,300,Transcribed,Donald Sutherland,None,None,None,Light,Right channel cuts out intermittently,Considerable hiss. One passing heavy truck.,176702
+17TMM55-17, 2021-06-23 06:41:42,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176399
+17TMM56-8, 2021-06-22 07:58:58,1SPT,300,Transcribed,Mike V.A. Burrell,None,Moderate,Light,Light,None,,176471
+17TMH89-3, 2021-06-28 06:28:29,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Light,None,None,,177799
+17TNJ29-9, 2021-06-28 06:31:49,1SPT,300,Transcribed,Timothy B. Lucas,Light,Light,Light,Moderate,None,,177801
+15UVS25-7, 2021-06-25 07:20:00,1SPT,300,Transcribed,Ken Burrell,None,None,None,None,None,,174404
+17TNM55-11, 2021-07-04 07:53:42,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176271
+17TNM34-10, 2021-06-16 05:56:51,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,"Observer using power windows, walking around and adjusting recorder during recording.",176227
+17TMM64-3, 2021-07-03 07:55:47,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,None,Observer operating power windows and walking around during recording.,176264
+17TNM34, 2021-06-16 05:47:40,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176226
+17TMM55-7, 2021-06-23 06:31:36,1SPT,300,Transcribed,Donald Sutherland,None,Light,Light,Light,Other issues,"Wind indicated as 29 kph, but doubtfully accurate. Light to moderate noise of power windows, vehicle doors opening and closing, observer walking around on gravel.",176283
+17TMM55-2, 2021-06-23 07:53:25,1SPT,300,Transcribed,Amanda Guercio,Moderate,None,None,None,None,,176232
+17TNM11-6, 2021-07-06 06:36:26,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,176260
+17TNM35-8, 2021-06-12 07:11:54,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176256
+17TNM55-39, 2021-07-04 07:22:35,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Light,None,None,,176263
+17TMM64-25, 2021-07-03 07:03:03,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,some noise from observer,176233
+17TMM56-4, 2021-06-22 06:13:34,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,Other issues,"Observer operating power windows and walking around, snuffling during recording.",176434
+17TNM01-18, 2021-07-09 06:26:27,1SPT,300,Transcribed,Ken Burrell,None,None,Light,Light,None,,176438
+17TMM55-4, 2021-06-23 05:35:51,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176413
+17TMM52, 2021-07-02 07:36:41,1SPT,300,Transcribed,David Bell,None,Light,None,Light,Both Sides Extra Static,"slightly extra static, maybe insect noise?",176423
+17TMM66-35, 2021-06-26 06:00:07,1SPT,300,Transcribed,Mike V.A. Burrell,None,None,None,None,None,,176432
+17TNM01-20, 2021-07-09 06:53:42,1SPT,300,Transcribed,Mike V.A. Burrell,None,None,Light,Light,None,,176436
+17TMM80-24, 2021-07-10 06:31:57,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176425
+17TNM42-13, 2021-06-10 06:09:27,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Moderate,None,Moderate to loud passing vehicle between 216 and 300s. Livestock bells ringing in background throughout recording.,176801
+17TNM01-15, 2021-07-09 05:56:14,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176460
+17TMM93-A, 2021-06-04 07:48:00,1SPT,300,Transcribed,Nathan Hood,None,Light,Light,Light,None,,178394
+17TNM42-15, 2021-06-08 09:15:17,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Heavy,Both Sides Extra Static,Persistent hum and hiss from one both but particularly the left side. Left side seem to cut out for a large portion of recording. Wood chipper obliterated all other sounds from 215s to end. Overflying jet aircraft between 50 and 95s.,176806
+17TNM42-16, 2021-06-08 08:34:35,1SPT,300,Transcribed,Amanda Guercio,Light,None,Light,None,None,,176720
+17TNJ29-11, 2021-06-20 07:04:29,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,,177839
+17TMH89-1, 2021-06-28 09:04:26,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,None,"Poor recording. Wind probably higher, at least gusting, than indicated as there is considerable distortion.",177816
+17TMM80-5, 2021-07-10 08:54:47,1SPT,300,Transcribed,Ken Burrell,Light,None,None,None,None,,176279
+17TMM90-8, 2021-07-09 05:52:42,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Right Channel Failed,Loud vehicle passing 100-170s. Gurgling running water in close proximity throughout recording.,176815
+17TNM30-13, 2021-06-19 07:48:50,1SPT,300,Transcribed,David Bell,None,Moderate,Light,Moderate,Both Sides Extra Static,,176601
+17TMN24-UNKN18, 2021-07-09 12:26:00,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Both Sides Extra Static,"Poor recording. Wind possibly higher than indicated, certainly considerable distortion during gusts. Recording made between 12:26 and 12:31. SAVS singing regularly throughout the recording, but satellite coverage of insufficient quality to determine where suitable habitat might exist at this site.",177815
+17TMM52-11, 2021-07-02 08:54:21,1SPT,300,Transcribed,Ken Burrell,None,Heavy,Light,Heavy,None,,176267
+17TNM21-38, 2021-07-10 08:14:05,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176694
+17TNM55, 2021-07-04 07:12:01,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176458
+17TMN24-UNKN10, 2021-07-10 08:12:00,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,177884
+17TMH89-10, 2021-06-28 07:14:31,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,177845
+17TNP14-16, 2021-06-26 08:20:07,1SPT,300,Transcribed,Mike V.A. Burrell,None,None,None,None,None,,176552
+17TMM56-33, 2021-06-22 05:56:28,1SPT,300,Transcribed,Ken Burrell,None,None,None,None,None,,176453
+17TMM73-10, 2021-06-30 06:26:02,1SPT,300,Transcribed,David Bell,None,Light,Light,Moderate,Both Sides Extra Static,recording very faint,176473
+17TMM80-25, 2021-07-10 06:24:17,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176289
+17TMM52-6, 2021-07-02 08:21:22,1SPT,300,Transcribed,Mike V.A. Burrell,None,Moderate,None,Moderate,None,windy,176414
+17TMM66-7, 2021-06-26 07:06:25,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176276
+17TNM42-10, 2021-06-08 08:09:15,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Other issues,Constant hiss.,176603
+17TMM63-7, 2021-07-02 05:07:10,1SPT,300,Transcribed,David Bell,None,Moderate,Moderate,Moderate,Both Sides Extra Static,,176457
+15UXR02-4, 2021-06-22 07:06:00,1SPT,300,Transcribed,Jon Van Arragon,None,Light,None,None,None,,308857
+17TMM66-5, 2021-06-26 07:08:15,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176621
+17TNM33-10, 2021-06-10 07:18:47,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176745
+16TFU51-1, 2021-07-04 07:37:19,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,177808
+17TMM56-15, 2021-06-22 05:36:04,1SPT,300,Transcribed,Mike V.A. Burrell,None,None,None,None,None,,176407
+17TMN24-UNKN11, 2021-07-08 08:45:00,1SPT,300,Transcribed,Amanda Guercio,None,Moderate,None,Light,None,,177830
+17TMM73-9, 2021-06-30 06:12:04,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Heavy,Light,None,Occasional cars passing. Constant road noise,176393
+17TNP14-4, 2021-06-26 07:47:32,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,some mosquitoes,176559
+17TMM72-40, 2021-06-30 07:40:36,1SPT,300,Transcribed,David Bell,None,Light,None,Moderate,Both Sides Extra Static,,176731
+17TNM11-37, 2021-07-06 07:07:06,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,Other issues,Observer walking around during recording.,176294
+17TNM65-UNKN, 2021-07-04 08:16:22,1SPT,300,Transcribed,Nathan Hood,None,None,Moderate,None,None,,176843
+17TNJ29-17, 2021-06-20 05:57:33,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,177843
+17TNM41-21, 2021-06-20 06:53:26,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,176633
+18TUQ55-18, 2021-06-17 09:55:00,1SPT,300,Transcribed,Lev Frid,Light,None,None,None,None,,178560
+17TMM93-26, 2021-06-04 06:49:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,178439
+17TMM92-3, 2021-06-23 06:22:00,1SPT,300,Transcribed,Lev Frid,None,None,None,Moderate,None,,178457
+17TNM11-21, 2021-07-06 05:39:04,1SPT,300,Transcribed,Donald Sutherland,None,Light,Light,Light,Other issues,Train approaching in distance to east becoming louder and impeding hearing during second half of recording. Observer walking around on gravel and talking.,176391
+17TMM72-26, 2021-06-30 05:20:23,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,Other issues,Poor quality. Some loud vehicle traffic.,176679
+16UCV35-4, 2021-06-27 08:17:59,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,some pinging from truck ,174368
+15UVS25-14, 2021-06-25 08:49:00,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,"fly landing on mic in first minute, running water",174371
+15UVS24-11, 2021-06-11 06:50:00,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,174372
+17TNM55-38, 2021-07-04 07:44:33,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Light,None,Power window noises,176381
+15UVS25-15, 2021-06-25 08:55:00,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,None,Light,None,,172718
+17TMM55-1, 2021-06-23 07:33:20,1SPT,300,Transcribed,Donald Sutherland,None,Moderate,None,None,Other issues,Noise from wind in leaves.,176422
+18TUQ56-8, 2021-07-20 06:45:00,1SPT,300,Transcribed,Lev Frid,None,None,None,None,None,,178568
+17TMM92-5, 2021-06-23 07:18:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,178403
+17TMM93-17, 2021-06-06 07:54:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,178405
+18TUQ55-23, 2021-06-17 09:15:00,1SPT,300,Transcribed,Lev Frid,Light,None,None,Light,None,,178577
+18TUQ52-9, 2021-06-16 05:50:00,1SPT,300,Transcribed,Lev Frid,None,None,Light,Light,None,,178580
+17TNM01-16, 2021-07-09 05:48:14,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176403
+17TNM33-22, 2021-06-17 08:59:24,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,None,,176681
+17TNM42-19, 2021-06-08 06:42:35,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176729
+17TNM41-19, 2021-06-20 06:10:32,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176738
+17TMH89-11, 2021-07-01 06:13:05,1SPT,300,Transcribed,Nathan Hood,None,None,Light,Light,None,,177844
+17TNM42-2, 2021-06-08 08:44:12,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176689
+17TMP95-16, 2021-06-12 08:12:53,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176555
+17TMM90-19, 2021-07-09 06:56:14,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176655
+17TMM53-30, 2021-07-02 07:20:09,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176607
+17TMM85-16, 2021-06-07 08:28:32,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176624
+17TMM57-7, 2021-06-22 06:24:45,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176695
+17TMM56-12, 2021-06-22 07:15:03,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Light,None,"Running water throughout, one car @254s",176201
+17TNM42-8, 2021-06-08 10:00:15,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,Both Sides Extra Static,Poor recording. Two vehicles passing during recording. Hiss/static on both sides.,176752
+17TNM32-2, 2021-06-16 06:13:30,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176760
+17TNM21-11, 2021-07-10 06:32:27,1SPT,300,Transcribed,Donald Sutherland,None,Light,Moderate,Moderate,None,"Noise from Hwy 400/69 and railway 2.7 km to west moderate to heavy, somewhat impairing hearing.",176754
+17TMM99-4, 2021-07-05 06:56:19,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176274
+17TNM35-5, 2021-06-12 06:01:09,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,persistent fly,176288
+17TMM93-8, 2021-06-18 07:46:49,1SPT,300,Transcribed,Ken Burrell,None,None,Moderate,Light,Other issues,,176212
+17TMM55-12, 2021-06-23 05:21:07,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176526
+17TMM97-7, 2021-07-05 06:37:05,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176671
+17TNM65-19, 2021-07-04 07:48:09,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176672
+17TMM66-22, 2021-06-26 06:25:26,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,176477
+17TMM73-32, 2021-06-29 06:37:26,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,176513
+17TNM35-14, 2021-06-12 06:13:49,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Light,None,,176416
+17TNM44-10, 2021-06-17 07:21:53,1SPT,300,Transcribed,Nathan Hood,None,None,None,Light,None,,176758
+17TMM90-13, 2021-07-09 06:47:13,1SPT,300,Transcribed,Nathan Hood,None,Light,Light,Light,None,,176836
+17TNM34-9, 2021-06-16 06:06:12,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Light,None,,176370
+17TMM57-26, 2021-06-22 09:05:15,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Left Side Extra Static,"Severe static on both sides, particularly on left, obscuring bird song. Wind probably much greater than listed, at least with strong gusts. Sounded like downpour from 220s onward.",176727
+17TNM41-9, 2021-06-20 05:46:54,1SPT,300,Transcribed,Nathan Hood,None,None,Light,Light,None,,176780
+17TMM73-39, 2021-06-29 08:30:48,1SPT,300,Transcribed,Donald Sutherland,None,Light,Heavy,Heavy,None,Heavy traffic noise from Hwy 17 (600 m to north) and local traffic. ,176509
+17TMM55-11, 2021-06-23 05:46:02,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176429
+17TMM80, 2021-07-10 07:33:14,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,,176456
+17TNM54-19, 2021-07-03 05:18:04,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Light,Other issues,Loud click and volume suddenly reduced at 83s. Several passing vehicles and significant roar of traffic from Hwy 17 around 600 m to south. ,176775
+17TNM54-5, 2021-07-03 08:24:08,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Both Sides Extra Static,Poor recording. Significant static on both sides.,176786
+17TNM35-19, 2021-06-12 07:36:43,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,wind picks up later in recording,176500
+17TNM54-4, 2021-07-03 07:23:45,1SPT,300,Transcribed,Donald Sutherland,None,Light,Light,Light,Both Sides Extra Static,Fairly poor recording. Considerable static on both sides. Interference from high voltage transmission lines around 150 m to north. Moderate roar from traffic on Hwy 17 around 1.5 km to south.,176787
+17TMM53-38, 2021-07-02 08:04:06,1SPT,300,Transcribed,Donald Sutherland,Heavy,Light,None,Light,Both Sides Extra Static,Terrible recording. Sounds like torrential downpour obliterating most bird song. Overfly jet aircraft between 110 and 210s.,176794
+17TNM44-2, 2021-06-17 07:37:36,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,distant highway noise,176692
+17TMM97-33, 2021-07-05 07:57:33,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,,176711
+17TMM86-7, 2021-06-23 06:50:08,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176719
+16TCU25-2, 2021-06-09 08:23:29,1SPT,300,Transcribed,Donald Sutherland,None,Light,Moderate,Moderate,Other issues,Significant roar from industry and several passing vehicles. Significant hiss on both sides.,177886
+17TNM65-32, 2021-07-04 05:35:29,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176730
+17TMM90-15, 2021-07-09 07:28:49,1SPT,300,Transcribed,David Bell,None,Light,Light,Light,Both Sides Extra Static,somewhat faint recording,176749
+17TMN24-UNKN15, 2021-07-08 10:49:00,1SPT,300,Transcribed,David Bell,None,Moderate,None,Moderate,None,"observer moving around and playing with mic a lot, interferes with listening",177835
+16TFU51-4, 2021-07-04 07:16:38,1SPT,300,Transcribed,David Bell,None,Light,Light,Light,None,distant plane/highway noise,177826
+17TMM52-2, 2021-07-02 08:45:31,1SPT,300,Transcribed,Mike V.A. Burrell,None,Moderate,None,Moderate,None,,176442
+16TCU24-UNKN, 2021-07-10 09:20:16,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,truck driving by around 220s,177864
+17TPH18-5, 2021-07-10 08:33:48,1SPT,300,Transcribed,David Bell,None,None,Light,Moderate,Both Sides Extra Static,sounds like wave action creating a fair bit of noise,176530
+17TMM55-16, 2021-06-23 07:42:21,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,176515
+17TMH89-14, 2021-06-28 09:38:38,1SPT,300,Transcribed,David Bell,None,Light,Light,Moderate,None,some vehicle/plane/insect noise. BLJA mobbing something obscured much of the recording,177875
+17TMN24-UNKN, 2021-07-09 16:20:00,1SPT,300,Transcribed,David Bell,None,Light,None,Moderate,None,"observer fiddling with notebook for most of the recording, difficult to hear much else. birds all very faint",177879
+17TMH89-25, 2021-07-01 05:56:44,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Moderate,Moderate,None,Equipment noise in the background,177888
+17TNM32-4, 2021-06-09 06:37:46,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,176568
+17TMM53-1, 2021-07-02 06:21:24,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,176640
+17TNM55-33, 2021-07-04 05:45:31,1SPT,300,Transcribed,Mike V.A. Burrell,None,None,Light,Light,None,,176476
+17TMM73, 2021-06-30 07:22:52,1SPT,300,Transcribed,Mike V.A. Burrell,None,Moderate,Light,Moderate,None,,176485
+17TMM63-13, 2021-07-01 05:40:48,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,Moderate,Moderate,None,,176487
+17TNM65-2, 2021-07-04 07:10:01,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176662
+17TNM30-15, 2021-06-19 06:11:04,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176665
+16TFU61-21, 2021-07-03 05:48:42,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,Moderate,Light,None,,176529
+17TMM53-33, 2021-07-02 07:35:57,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,176668
+17TMM86-20, 2021-06-23 07:22:24,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176715
+17TMN24-UNKN5, 2021-07-10 09:49:00,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,Very faint,177846
+16TCU22-OR8, 2021-06-17 08:19:33,1SPT,300,Transcribed,Jon Van Arragon,None,None,None,None,None,,308864
+15UWR75-10, 2021-06-23 06:30:25,1SPT,300,Transcribed,Steve Enid,None,Light,Moderate,Moderate,None,,308841
+15UWR75-D_U1, 2021-06-24 07:22:40,1SPT,300,Transcribed,Ken Burrell,None,None,Light,None,None,,308843
+15UXR02-9, 2021-06-22 06:36:01,1SPT,300,Transcribed,Ken Burrell,None,None,None,None,None,,308855
+17TMK59-6, 2021-06-08 07:26:16,1SPT,300,Transcribed,Ken Burrell,None,None,Light,None,None,,308868
+15UWR75-2, 2021-06-23 07:17:47,1SPT,300,Transcribed,Jon Van Arragon,Light,Moderate,Light,None,None,Intermittent heavy wind,308845
+15UWR75-OR5, 2021-06-24 05:48:25,1SPT,300,Transcribed,Gill Holmes,None,Light,None,Light,Both Sides Extra Static,,308836
+15UXR02-OR1, 2021-06-22 09:48:46,1SPT,300,Transcribed,Steve Enid,None,Light,None,Light,Right Side Extra Static,right side not working well,308835
+15UWR75-OR4, 2021-06-24 06:02:48,1SPT,300,Transcribed,Christopher Moser-Purdy,None,Light,None,None,None,,308837
+15UWR15-17, 2021-06-24 08:13:48,1SPT,300,Transcribed,Gill Holmes,None,Light,None,Light,Both Sides Extra Static,,308846
+15UXR02-OR3, 2021-06-22 09:10:42,1SPT,300,Transcribed,Steve Enid,None,Moderate,None,Moderate,None,,308847
+15UWR75-OR2, 2021-06-24 06:32:26,1SPT,300,Transcribed,Marcus Sommers,None,None,None,None,None,,308838
+15UWR75-7, 2021-06-24 07:58:51,1SPT,300,Transcribed,Nola Sheets,None,None,None,Light,None,,308842
+15UXR02-2, 2021-06-22 07:21:56,1SPT,300,Transcribed,Gill Holmes,Light,Light,None,Moderate,Both Sides Extra Static,rushing water.,308852
+15UXR02-10, 2021-06-22 08:52:57,1SPT,300,Transcribed,Gill Holmes,None,Moderate,None,Light,Both Sides Extra Static,,308848
+15UWR75-OR3, 2021-06-24 06:19:19,1SPT,300,Transcribed,Christopher Moser-Purdy,None,Light,None,None,None,,308849
+15UXR02-6, 2021-06-22 07:50:00,1SPT,300,Transcribed,Gill Holmes,Light,Light,Moderate,Light,Both Sides Extra Static,noise is airline traffic?,308854
+15UXR02-11, 2021-06-22 08:10:26,1SPT,300,Transcribed,Jon Van Arragon,None,Light,None,Moderate,None,Yellowlegs alarm calling through entire recording drowning out significant chunks of audio,308851
+15UXR02-3, 2021-06-22 07:35:50,1SPT,300,Transcribed,Steve Enid,None,Moderate,None,Moderate,None,windy,308853
+15UXR02-1, 2021-06-22 06:10:59,1SPT,300,Transcribed,Marcus Sommers,None,None,None,Light,None,,308856
+16TCU22-OR7, 2021-06-17 08:55:05,1SPT,300,Transcribed,Steve Enid,None,None,None,None,None,,308860
+17TMK59-11, 2021-06-07 07:21:18,1SPT,300,Transcribed,Steve Enid,None,Light,Light,Moderate,None,"loud water noise
+some traffic noise",308867
+16TCU22-OR5, 2021-06-17 10:27:12,1SPT,300,Transcribed,Nola Sheets,None,Moderate,None,Moderate,Both Sides Extra Static,,308862
+17TPL34-29, 2021-06-23 08:30:37,1SPT,300,Transcribed,Christopher Moser-Purdy,None,None,None,Moderate,None,,308876
+17TPL34-18, 2021-06-25 06:48:52,1SPT,300,Transcribed,Steve Enid,None,Moderate,Moderate,Moderate,None,windy !,308886
+17TPL34-16, 2021-06-23 07:35:00,1SPT,300,Transcribed,Nola Sheets,None,None,None,Light,None,,308884
+17TPL34-OR1, 2021-06-30 07:02:02,1SPT,300,Transcribed,Marcus Sommers,None,None,Light,Light,None,,308877
+17TPL34-35, 2021-06-30 06:40:26,1SPT,300,Transcribed,Jon Van Arragon,None,Light,None,Light,None,,308890
+17TPL34-6, 2021-06-23 07:14:17,1SPT,300,Transcribed,Jon Van Arragon,Light,Light,None,None,None,,308878
+17TPL34-OR2, 2021-06-30 07:29:20,1SPT,300,Transcribed,Gill Holmes,None,Light,Light,Moderate,Both Sides Extra Static,,308885
+17TPL34-28, 2021-06-23 08:13:05,1SPT,300,Transcribed,Nola Sheets,None,None,None,Heavy,None,,308887
+17TPL34-OR5, 2021-07-05 07:10:39,1SPT,300,Transcribed,Nola Sheets,,,,,,,308879
+17TPL34-7, 2021-06-29 06:56:42,1SPT,300,Transcribed,Gill Holmes,None,Light,Light,Moderate,Both Sides Extra Static,,308893
+17TPL34-4, 2021-06-29 07:08:31,1SPT,300,Transcribed,Steve Enid,None,Light,Moderate,Moderate,None,traffic and wind,308880
+17TPL34-26, 2021-06-29 06:45:54,1SPT,300,Transcribed,Jon Van Arragon,None,Light,None,Light,None,,308896
+17TPL34-22, 2021-06-23 07:52:09,1SPT,300,Transcribed,Gill Holmes,Moderate,Light,None,Light,Both Sides Extra Static,,308881
+17TPL34-1, 2021-06-29 07:53:10,1SPT,300,Transcribed,Gill Holmes,Light,Light,None,Moderate,Both Sides Extra Static,,308891
+17TPL34-36, 2021-06-25 07:34:25,1SPT,300,Transcribed,Marcus Sommers,None,None,None,None,Both Sides Extra Static,,308895
+17TPL34-8, 2021-06-25 06:33:12,1SPT,300,Transcribed,Nola Sheets,None,None,None,Light,None,,308888
+17TPL34-17, 2021-06-23 06:53:32,1SPT,300,Transcribed,Christopher Moser-Purdy,None,Light,None,Light,None,,308882
+17TPL34-OR4, 2021-07-05 06:54:26,1SPT,300,Transcribed,Steve Enid,None,Heavy,Light,Heavy,None,Windy !,308892
+17TPL34-11, 2021-06-23 08:47:44,1SPT,300,Transcribed,Marcus Sommers,None,None,Light,None,None,,308883
+17TPL34-14, 2021-06-29 07:36:53,1SPT,300,Transcribed,Christopher Moser-Purdy,None,None,None,Light,None,,308894
+17TPL34-32, 2021-06-25 07:08:24,1SPT,300,Transcribed,Marcus Sommers,Light,None,None,None,None,,308889
+17TPL34-24, 2021-06-23 06:34:39,1SPT,300,Transcribed,Gill Holmes,Moderate,Light,None,Light,Both Sides Extra Static,,308897
+17TPL34-30, 2021-06-25 07:21:51,1SPT,300,Transcribed,Steve Enid,None,Moderate,Light,Moderate,None,"windy !
+some traffic noise",308898
+17TPL34-9, 2021-06-23 06:18:38,1SPT,300,Transcribed,Gill Holmes,None,Light,Light,Light,Both Sides Extra Static,,308899
+15UXR02-8, 2021-06-22 05:51:49,1SPT,300,Transcribed,Gill Holmes,None,Light,None,Moderate,Both Sides Extra Static,"heavy static, but no wind/",308858
+15UWR75-D_U2, 2021-06-23 07:00:20,1SPT,300,Transcribed,Gill Holmes,None,Moderate,Moderate,Moderate,Both Sides Extra Static,Heavy traffic,308840
+17TPL34-OR3, 2021-07-05 06:30:45,1SPT,300,Transcribed,Christopher Moser-Purdy,None,Moderate,None,Moderate,None,,308900
+16TCU22-OR10, 2021-06-17 08:33:58,1SPT,300,Transcribed,Gill Holmes,Light,Light,None,Moderate,Both Sides Extra Static,noise is buzzing insects,308861
+17TMM93-33, 2021-06-10 06:29:00,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,None,,178392
+17TMM98-2, 2021-07-05 06:45:44,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176507
+17TMM73-7, 2021-06-30 05:09:54,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Moderate,Light,None,,176409
+16TCU35-6, 2021-06-14 06:28:34,1SPT,300,Transcribed,Donald Sutherland,None,Light,Heavy,Heavy,Both Sides Extra Static,Very poor recording. Roar of Thunder Bay Harbour industry combined with signficant static on both sides seriously impairs song detection.,177811
+17TMN24-UNKN17, 2021-07-09 11:33:00,1SPT,300,Transcribed,David Bell,None,Light,Light,Light,None,"distant car; recording is very faint, observer moving around a bit",177818
+16UCV35-7, 2021-06-27 10:26:59,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Moderate,Both Sides Extra Static,Poor recording with a lot of hiss making detection/identification of most registrations difficult.,174396
+15UVS24-10, 2021-06-19 06:39:00,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,174390
+17TMM55-10, 2021-06-23 05:07:11,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,176483
+17TNP14-7, 2021-06-26 08:01:32,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176560
+17TMM72-25, 2021-06-30 07:09:18,1SPT,300,Transcribed,Timothy B. Lucas,None,None,Moderate,None,None,,176676
+17TMM63-25, 2021-07-01 06:54:23,1SPT,300,Transcribed,Ken Burrell,None,Light,Light,Light,None,,176268
+17TMM99-1, 2021-07-05 07:41:48,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,observer moving around a lot and breaking twigs at start,176437
+17TNM55-29, 2021-07-04 07:30:55,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Light,None,,176254
+17TNJ29-15, 2021-06-20 06:48:10,1SPT,300,Transcribed,David Bell,None,Light,Light,Light,None,passing car and plane flyover,177866
+17TMM93-4, 2021-06-18 07:33:28,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,Light,Light,None,jogger! ,176386
+17TMM57-16, 2021-06-22 05:07:55,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,None,None,,176581
+17TMM63-2, 2021-07-01 06:42:36,1SPT,300,Transcribed,Ken Burrell,None,None,None,None,None,,176265
+17TMM55-5, 2021-06-23 06:54:45,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176298
+17TNM55-7, 2021-07-04 05:10:41,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176248
+17TMM93-10, 2021-06-06 06:53:00,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,None,,178444
+17TNP19-UNKN7, 2021-06-26 07:10:06,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,Heavy,None,Tons of mosquitos,177877
+17TNM00-16, 2021-07-10 05:21:57,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176517
+17TNM35-1, 2021-06-12 05:19:34,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,,176452
+17TNM65-UNKN, 2021-07-04 08:09:49,1SPT,300,Transcribed,David Bell,None,Light,None,Light,None,,176616
+17TMM53, 2021-07-02 05:17:13,1SPT,300,Transcribed,Amanda Guercio,None,None,Moderate,None,None,Wall of sound! ,176599
+17TMM80-10, 2021-07-10 08:02:35,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176249
+17TNM55-30, 2021-07-04 05:55:12,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176374
+17TMM80-16, 2021-07-10 08:43:14,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,None,Light,None,,176379
+17TNM55-32, 2021-07-04 07:03:25,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176459
+17TMM52-15, 2021-07-02 05:49:15,1SPT,300,Transcribed,Mike V.A. Burrell,None,None,Light,Light,None,,176445
+17TMM73-28, 2021-06-29 07:43:19,1SPT,300,Transcribed,Mike V.A. Burrell,None,None,Moderate,Moderate,None,,176297
+17TNM32-13, 2021-06-09 05:57:55,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,176632
+16TCU24-UNKN, 2021-06-19 08:11:50,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,177807
+17TMM63-14, 2021-06-30 08:09:39,1SPT,300,Transcribed,Amanda Guercio,Light,None,Light,Moderate,None,Extended conversation,176451
+17TMM73-14, 2021-06-30 05:37:20,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176462
+17TMM73-11, 2021-06-29 08:17:22,1SPT,300,Transcribed,Ken Burrell,None,None,Heavy,Heavy,None,,176250
+17TNM32-9, 2021-06-09 06:17:47,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,176614
+17TNM33-5, 2021-06-16 08:33:15,1SPT,300,Transcribed,Donald Sutherland,None,Moderate,None,None,None,"Extremely poor recording. The listed wind speed is 10 kph (light), but that seems doubtful given the amount of continuous interference with considerable distortion during gusts, and it must be at least moderate. Left channel has considerable hiss/static and keeps cutting out.",176700
+17TNM30-8, 2021-06-19 06:21:28,1SPT,300,Transcribed,Nathan Hood,None,Light,None,Light,None,,176683
+16TFU60-2, 2021-07-02 07:37:14,1SPT,300,Transcribed,Donald Sutherland,None,Light,Moderate,Moderate,Both Sides Extra Static,Poor recording. Recording level may have been set to low as recording faint. Signficiant roar from vehicle traffic on Hwy 17 less than a kilometer to E.,177819
+17TNP14-8, 2021-06-26 07:19:25,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176566
+17TNM11-4, 2021-07-06 05:28:53,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176523
+17TMM56-6, 2021-06-22 07:33:20,1SPT,300,Transcribed,Mike V.A. Burrell,None,Light,Light,Light,None,,176467
+17TMM52-10, 2021-07-02 06:47:28,1SPT,300,Transcribed,David Bell,None,None,Light,Light,None,observer walking around a lot,176510
+17TNM65-20, 2021-07-04 05:16:46,1SPT,300,Transcribed,Nathan Hood,None,None,None,None,None,,176859
+17TMM73-33, 2021-06-29 07:59:04,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,176383
+17TMM63-9, 2021-07-01 07:26:05,1SPT,300,Transcribed,Timothy B. Lucas,Light,Light,Light,None,None,,176217
+17TMM64-11, 2021-07-03 05:11:07,1SPT,300,Transcribed,Ken Burrell,None,Light,None,Light,None,,176253
+17TMM80-28, 2021-07-10 06:40:23,1SPT,300,Transcribed,Amanda Guercio,None,None,None,Light,None,Muddy recording,176443
+17TMM63-3, 2021-07-01 07:15:01,1SPT,300,Transcribed,Amanda Guercio,Light,None,None,None,None,,176266
+17TMM98-3, 2021-07-05 06:36:35,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176378
+17TMM64-17, 2021-07-03 05:21:33,1SPT,300,Transcribed,Mike V.A. Burrell,None,None,None,None,None,,176251
+15UVS24-15, 2021-06-16 07:24:00,1SPT,300,Transcribed,Mike V.A. Burrell,None,None,Moderate,Moderate,None,,174370
+17TNM35-20, 2021-06-12 06:52:39,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176481
+16TFU61-23, 2021-07-03 07:49:29,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,177825
+17TMH89-4, 2021-06-28 07:01:25,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,177828
+17TNM65-8, 2021-07-04 06:54:51,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,Moderate,None,Loud vehicle passing 75-130s.,176809
+17TMM99-9, 2021-07-05 07:15:27,1SPT,300,Transcribed,Ken Burrell,None,Heavy,Light,Heavy,None,,176433
+17TNM34-3, 2021-06-16 06:48:53,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,,176368
+17TMM80, 2021-07-10 08:22:02,1SPT,300,Transcribed,Amanda Guercio,None,None,Light,Light,None,,176499
+17TNM34-22, 2021-06-16 08:27:31,1SPT,300,Transcribed,David Bell,None,Light,Moderate,Moderate,None,,176204
+17TNM01-5, 2021-07-09 06:35:14,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176466
+17TMN24-UNKN16, 2021-07-09 07:46:00,1SPT,300,Transcribed,Donald Sutherland,None,None,None,None,None,Recordist sitting to close to microphone; can hear breathing and shifting around.,177850
+17TMM57-28, 2021-06-22 08:19:16,1SPT,300,Transcribed,Donald Sutherland,None,Light,Light,Moderate,Other issues,Poor recording. Either a lot of interference or the wind was higher than indicated. Vehicle passed during latter half of recording.,176484
+17TNM32-3, 2021-06-16 05:48:17,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,None,None,,176569
+17TNM33-20, 2021-06-16 09:33:11,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,Both Sides Extra Static,Poor recording. Seems windier than indicated. Severe static on both sides with a significant reduction in volume at 180s. Difficult to hear all but loudest singers.,176770
+17TMP95-12, 2021-06-12 07:27:02,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,,176563
+17TMM73-19, 2021-06-30 07:57:12,1SPT,300,Transcribed,Ken Burrell,None,Light,Heavy,Moderate,None,,176300
+17TNM41-15, 2021-06-20 05:02:13,1SPT,300,Transcribed,Donald Sutherland,None,Light,None,None,None,Crowing rooster throughout recording.,176796
+17TNP14-11, 2021-06-26 06:17:09,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,a few flies/mosquitoes,176564
+17TNM44-8, 2021-06-17 07:49:10,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,some odd static at one point and a persistent fly later on,176654
+17TMN24-UNKN14, 2021-07-09 10:13:00,1SPT,300,Transcribed,Timothy B. Lucas,None,None,None,Light,None,,177833
+17TMM73-12, 2021-06-30 06:50:18,1SPT,300,Transcribed,Amanda Guercio,None,Light,Moderate,None,None,,176494
+17TMM64-8, 2021-07-03 05:46:33,1SPT,300,Transcribed,David Bell,None,None,None,Light,None,persistent fly,176516
+17TMM57-3, 2021-06-22 08:28:42,1SPT,300,Transcribed,Amanda Guercio,None,None,None,None,None,,176511
