@@ -2,12 +2,15 @@
 title: "Operationalizing a national protocol for digital point counts"
 author: "Alexander G. MacPhail"
 date: "`r Sys.Date()`"
+output:
+  html_document:
+    df_print: paged
 site: bookdown::bookdown_site
-output: bookdown::bs4_book
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography:
+- book.bib
+- packages.bib
 url: https://abbiodiversity/github.io/ndpc
-#cover-image: images/cover.jpg
 description: |
   Digital point counts.
 link-citations: yes
