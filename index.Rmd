@@ -74,9 +74,34 @@ pcs <- dir_ls(".", recurse = T, regexp = "Tasks") %>%
 - Citizen scientists can participate in avian research and contribute to scientific knowledge, working in partnership with established organizations
 - No prior experience or expertise required, making it user-friendly for all skill levels, with support and guidance from expert stakeholders
 
+## The Basics
+
+- [Select a protocol](#download-cheatsheets) for conducting a digital point count
+- [Select a recorder model](#selecting-a-recorder)
+- Prepare equipment and settings
+- Conduct the point count surveys
+  + Adjust survey length for anthropogenic or geophonic conditions
+- Upload the recordings to a [central repository](#data-submission)
+- Run the speech-to-text recognizer and standardize the recordings
+- Upload the trimmed recordings to [WildTrax]()
+- Process data
+- Publish and merge with [NatureCounts](#canavian)
+
+## Download Cheatsheets {.unnumbered}
+
+Download the digital point count cheatsheet and voice note templates for a variety of different format relative to your monitoring program needs:
+
+- [Breeding Bird Atlas 5-minute Survey: Roadside]()
+- [Breeding Bird Atlas 5-minute Survey: Offroad]()
+- [Bioacoustic Unit 3-minute Survey]()
+- [Breeding Bird Survey 3-minute Survey]()
+- [Marshbird Monitoring Protocol 10-minute Survey]()
+
 ## Frequently Asked Questions {.unnumbered}
 
 - [Why should I record a point count?](#introduction)
 - [What recorder can I use?](#selecting-a-recorder)
 - [Where do I submit my recordings?](#data-submission)
 - [How are we working to improve this protocol?](#discussion)
+
+
