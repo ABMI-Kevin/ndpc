@@ -1,6 +1,6 @@
 # Introduction
 
-Recording point counts can enhance avian monitoring in Canada, providing valuable data on population trends and distribution. Integrating recording with traditional point count surveys can improve data quality and accessibility for citizen scientists, aligning metadata for accurate species detection.
+Recording point counts can enhance avian monitoring in Canada, providing valuable data on population trends and distribution. Integrating recordings with traditional point count surveys can improve data quality and accessibility for researchers, decision-makers and citizen scientists. Recording point counts can also help to ensure high-quality data and species identification confirmation and accuracy.
 
 The [Alberta Biodiversity Monitoring Institute](htttps://abmi.ca) and [WildTrax](https://wildtrax.ca) aim to maintain a standard infrastructure for collecting, storing and processing data from digital point counts.
 
@@ -18,6 +18,8 @@ Augmentation of avian data collection with autonomous recording units (ARUs) alo
 
 ## CanAvian
 
-Our mission is to improve accessibility and increase use of avian data and information in Canada by enhancing data sharing, networking, and collaboration. Our vision to provide reliable and comprehensive avian data and information are openly available to support biodiversity conservation and decision-making in Canada.
+CanAvian is a group of organizations who have come together to help facilitate open avian data across Canada.
+
+Its mission is to improve accessibility and increase use of avian data and information in Canada by enhancing data sharing, networking, and collaboration. Our vision to provide reliable and comprehensive avian data and information are openly available to support biodiversity conservation and decision-making in Canada.
 
 

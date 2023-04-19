@@ -11,13 +11,13 @@ description: |
 
 
 
-# Welcome
+# Welcome {.unnumbered}
 
 ::: {.rmdnote}
-This site is currently under construction to align with the 2023 field season
+This site is currently under construction in preparation for the 2023 field season
 :::
 
-Welcome to the protocol for conducting a **digital avian point count** using an autonomous recording unit or handheld recording device. In collaboration with partners from [Environment and Climate Change Canada](https://www.canada.ca/en/environment-climate-change.html), the [Breeding Bird Survey](https://www.canada.ca/en/environment-climate-change/services/bird-surveys/landbird/north-american-breeding/overview.html), the [Ontario Breeding Bird Atlas](https://www.birdsontario.org/), the [Bioacoustic Unit](http://bioacoustic.abmi.ca/), the [Alberta Biodiversity Monitoring Institute](https://abmi.ca/home.html) and the [Boreal Avian Modeling Project](https://borealbirds.ca/), this user-friendly protocol aims to establish a standard method for collecting data on avian populations in a digital format, making it accessible and easy for citizen scientists to collect and contribute to avian research and population monitoring.
+Welcome to the protocol for conducting a **digital point count** using an autonomous recording unit or handheld recording device. In collaboration with partners from [Environment and Climate Change Canada](https://www.canada.ca/en/environment-climate-change.html), the [Ontario Breeding Bird Atlas](https://www.birdsontario.org/), the [Bioacoustic Unit](http://bioacoustic.abmi.ca/), the [Alberta Biodiversity Monitoring Institute](https://abmi.ca/home.html) and the [Boreal Avian Modeling Project](https://borealbirds.ca/), this user-friendly protocol aims to establish a standard method for collecting data on avian populations in a digital format, making it accessible and easy for citizen scientists to collect and contribute to avian research and population monitoring.
 
 
 
@@ -42,6 +42,8 @@ Welcome to the protocol for conducting a **digital avian point count** using an 
 - Process data
 - Publish project and send data to [NatureCounts](#canavian)'*'
 
+'\*' --- *Currently supported by the ABMI*
+
 ## Download Cheatsheets {.unnumbered}
 
 Download the digital point count cheatsheet and voice note templates for a variety of different format relative to your monitoring program needs:
@@ -60,4 +62,4 @@ Download the digital point count cheatsheet and voice note templates for a varie
 - [Where do I submit my recordings?](#data-submission)
 - [How are we working to improve this protocol?](#discussion)
 
-
+## Acknowledgements {.unnumbered}

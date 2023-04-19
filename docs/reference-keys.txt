@@ -1,4 +1,3 @@
-welcome
 introduction
 overview-and-scope
 canavian
@@ -18,9 +17,7 @@ voice-notes
 survey-length-adjustment
 data-submission
 where-do-i-submit-my-recordings
-should-i-check-anything-else-with-my-recordings-before-uploading
-quality-control
-speech-to-text-recognition
+should-i-check-my-recordings-for-anything-before-uploading
 data-processing-in-wildtrax
 analysis
 submitting-data-to-naturecounts

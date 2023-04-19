@@ -54,11 +54,15 @@ The following settings will allow you to easily record and integrate data with o
 
 Ensure the recorder uses the following settings:
 
+<img align="left" src="images/zoomsettings.png" width="680" height="680">
+
 - <span style="font-variant:small-caps;">2CH</span> selected on channel selector dial
-- <span style="font-variant:small-caps;">Mic Gain</span> set to 10 (maximum)
+- <span style="font-variant:small-caps;">Mic Gain</span> set to `10` (maximum)
 - <span style="font-variant:small-caps;">Surround</span> is set to `S±0`. This is *really easy to change by accident*, because it is changed by moving the <span style="font-variant:small-caps;">Play</span> lever while in <span style="font-variant:small-caps;">Record</span> mode)
-- <span style="font-variant:small-caps;">Rec Formate</span> is set at <span style="font-variant:small-caps;">WAV</span> (when you turn on the recorder, the <span style="font-variant:small-caps;">Rec/span> format is displayed on the lower left [e.g., 44.1/16]. If it doesn’t match, go to <span style="font-variant:small-caps;">Menu</span> to change it under <span style="font-variant:small-caps;">Rec</span> settings)
-- Use 44.1kHz/16 bit (there are other wav settings that would also work but use a little or a lot more memory). Do not use MP3. 
+- <span style="font-variant:small-caps;">Rec Format</span> is set at <span style="font-variant:small-caps;">Wav</span> (when you turn on the recorder, the <span style="font-variant:small-caps;">Rec</span> format is displayed on the lower left [e.g., 44.1/16]. If it doesn’t match, go to <span style="font-variant:small-caps;">Menu</span> to change it under <span style="font-variant:small-caps;">Rec</span> settings)
+- Use `44.1kHz/16 bit` (there are other wav settings that would also work but use a little or a lot more memory). Do not use MP3. 
+
+<img align="left" src="images/zoomtable.png" width="680" height="400">
 
 Other audio settings include:
 
@@ -69,24 +73,19 @@ Other audio settings include:
 
 Ensure the side bar also has these settings:
 
-- MS Side Level:  0 (120 degrees)
-- Input Setting: Plug-in Power
+- <span style="font-variant:small-caps;">MS Side Level</span>: `0 (120 degrees)`
+- <span style="font-variant:small-caps;">Input Setting</span>: Plug-in Power
 
 ### SM4 Equipment Setup
 
-Ensure firmware is the most recent version.
-
-```{r, include = T, eval = T}
-
-```
+- Ensure [firmware](https://www.wildlifeacoustics.com/release-notes/song-meter-sm4) is the most recent version.
 
 #### Required equipment
 
 The following equipment is required in order to conduct the survey protocol:
 
 - 1 SD card; a 32 GB card will allow you to collect ~1,000 3-minute audio recordings
-- 2x AA batteries (pack at least 2 spare AA batteries)
-- Windsock
+- 4x D batteries (pack at least 4 spare D batteries)
 - Tripod
 
 #### Settings
@@ -99,16 +98,16 @@ Conducting the survey is the core piece of work that you'll be doing.
 
 - Arrive at survey location and follow safety instructions outlined by the designated point count protocol.
 - Set up the recorder at a fixed location, keeping it at a minimum distance of 5 meters away from the observer to minimize observer sounds, but no more than 20 meters away to minimize error. A tripod or stable surface is recommended to support the ARU; do not place the recorder on or near a vehicle as it will pick up vibrations that could mask species detections. Placing the recorder to the rear of the vehicle can also minimise the sounds made from a vehicle engine (e.g. car, truck, quad, etc.) after it is shut off.
-- Turn on the unit and speak the designated voice note. Move away from the recorder to begin the count and say "START"
-- At the end of the count, speak STOP.
+- Turn on the unit and speak the designated voice note. Move away from the recorder to begin the count and say <span style="font-variant:small-caps;">Start</span>
+- At the end of the count, speak <span style="font-variant:small-caps;">Stop</span>.
 - Turn off the recorder and move to the next location. Repeat steps as necessary to conduct more surveys along a route
 
 ### H2N Survey Deployment
 
-- Initiate the survey by pressing the RECORD button on the recorder.
+- Initiate the survey by pressing the <span style="font-variant:small-caps;">Record</span> button on the recorder.
 - Speak a clear message into the recorder to serve as the voicestamp, including observer name, location (spatial coordinates or identifier), and optional date and time stamp.
 - Move 5-20 meters away from the recorder to reduce observer noise.
-- Say "START" to indicate the end of the speech-to-text recording and move away from the recorder
+- Say <span style="font-variant:small-caps;">Start</span> to indicate the end of the speech-to-text recording and move away from the recorder
 
 ### SM4 Survey Deployment
 
@@ -116,7 +115,7 @@ SM4 DEPLOYMENT HERE
 
 ### Voice Notes
 
-Voice notes serve as an effective tool for capturing spatial and temporal information. It is essential that users follow a specific speaking order to ensure accuracy and consistency in their voice notes. 
+Voice notes serve as an effective tool for capturing spatial and temporal information on each recording. It is essential that users follow a specific speaking order to ensure accuracy and consistency in their voice notes. A voice note must include at a minium:
 
 - Observer's name
 - Location name
@@ -124,13 +123,19 @@ Voice notes serve as an effective tool for capturing spatial and temporal inform
 
 If the location is off-road or in a new area, it is also necessary to provide latitude and longitude coordinates. Following this speaking order will allow for easy organization and standardization of data during the file-naming process.
 
-To create a standard filename format after processing the voice note through speech-to-text recognition, the location name should be written first, followed by the date and time in a specific format. The format for the date should be in YYYYMMDD (year, month, day), and the time should be in HHMMSS (hour, minute, second) format. The resulting filename format will be in the following manner: LOCATION_YYYYMMDD_HHMMSS.wav.
-
-By adhering to the specific speaking order, researchers and data collectors can maintain a standardized approach to data collection, organization, and analysis. This approach will lead to increased efficiency and ease in interpreting and utilizing the collected data for various purposes.
+Creating a standard filename format after processing the voice note is done through speech-to-text recognition. For example, the format for [Zoom](#h2n-equipment-setup) recordings should be in `YYMMDD` (year, month, day), and the time should be in `HHMMSS` (hour, minute, second) format. The resulting filename format after the processing will be in the following format: `LOCATION_YYYYMMDD_HHMMSS.wav`.
 
 :::{.rmdwarning}
-Do not to speak during the survey to limit erroneous speech errors picked up by the speech-to-text recognizer
+Do not to speak during the point count survey itself to limit erroneous speech errors picked up by the speech-to-text recognizer
 :::
+
+#### Speech-to-text {.unnumbered}
+
+*This is A B M I dash Five Six Five dash S W. The date is February 23rd 2022 and the time is 11:06 AM Mountain standard time. Observers are John Doe and Jane Doe*
+
+A speech-to-text recognizer is used to transcribe the voice note into text information in order to extract the location name, spatial coordinates or confirm the temporal stamp of the ARU, all for quality control purposes. The [Google Cloud Speech-to-Text](https://cloud.google.com/speech-to-text) recognizer is an advanced deep learning neural network using algorithms for automatic speech recognition. The recognizer can also use one of several machine learning models to transcribe the audio files, support for French and other language variants, and alternatives based on likelihood values. Google has trained these speech recognition models for specific audio types and sources. 
+
+For example, time stamps derived from the observer speech-to-text array as well as the recording time stamp from the audio would be joined into to create a unique location and recording date with the file prefix from the ARU.
 
 ### Survey Length Adjustment
 
@@ -138,11 +143,11 @@ Surveys may occur along roadsides or near areas of loud anthropogenic noise. In 
 
 It’s recommended to keep a stopwatch or phone timer set to the length of the survey interval, and the maximum survey interval so you don’t have to keep track of the traffic events specifically but rather the time you can survey for. 
 
-Geophonic events are similar; if it becomes too windy or rainy to continue the survey, i.e. if geophonic events last for >10 minutes during the survey, the media will be considered “Bad Weather”. Surveys can be extended for 1 minute at a time for intermittent periods of rain or wind.
+Geophonic events are similar; if it becomes too windy or rainy to continue the survey, i.e. if geophonic events last for >10 minutes during the survey, the media will be considered [*Bad Weather*](https://www.wildtrax.ca/home/resources/guide/acoustic-data/acoustic-tagging-page.html). Surveys can be extended for 1 minute at a time for intermittent periods of rain or wind.
 
 ## Data submission
 
-Cirrus is a server administered by the University of Alberta SRIT. The Bioacoustic Unit and its collaborators use Cirrus to house and standardize their acoustic data sets for redundancy or permanent storage on a cost-recovery basis. Cirrus contains a variety of different types of data but a large majority of the volume is currently being occupied with environmental sensor data i.e. acoustic recordings and remote camera images. 
+Cirrus is a server administered by the [University of Alberta SRIT](https://spaces.facsci.ualberta.ca/cirrus/about-us/). The Bioacoustic Unit and its collaborators use Cirrus to house and standardize their acoustic data sets for redundancy or permanent storage on a cost-recovery basis. Cirrus contains a variety of different types of data but a large majority of the volume is currently being occupied with environmental sensor data i.e. acoustic recordings and remote camera images. 
 
 Raw recordings uploaded to Cirrus via an FTP in order to standardize them before they are processed in WildTrax.
 
@@ -157,40 +162,57 @@ Download an FTP client like [Filezilla](https://filezilla-project.org/). Enter t
 - **Port**: 22
 :::
 
+#### Single-visit digtial point counts {.unnumbered}
+
+Organization > Project > Observer
+
+```{r}
+# OBBA <- The organization
+# OBBA_2023 <- The project
+# Jane_Doe <- The observer
+
+```
+
+<img align="left" src="images/zoomdata.png">
+
+#### Multi-day recordings {.unnumbered}
+
+:::{.rmdnote}
+This is for multi-day ARUs
+:::
+
 Place the recordings in a folder under the following hierarchy:
 
-Organization > Project > Year > Visit > Group* > Location
+Organization > Sensor > Project > Year > Visit > *Group* > Location
 
-*Group* is a
+```{r}
+# BU <- The organization
+# ARU <- The sensor 
+# BUM  <- The field project, e.g. BUM = Bioacoustic Mobile
+# 2022 <- The year of the study
+# V1 <- The visit
+# BUM-401 <- The location
+# Below this level will be all the files for that location
 
-### Should I check anything else with my recordings before uploading?
+```
+
+*Group* is a set of locations on the landscape. For example a Breeding Bird Survey route, e.g. `BBS-4239` would be a group and `BBS-4239-1` would be a location.
+
+<img align="left" src="images/string.png" width="680" height="480">
+
+### Should I check my recordings for anything before uploading?
 
 - Ensure the file name convention of the recordings follows either `YYMMDD-HHMMSS` or `LOCATION_YYYYMMDD_HHMMSS` format
 - Ensure the folder structure follows the [standard hierarchy]()
 - If there are zero-length files or files smaller than the intended length of the count, **do not upload these files**
 
-## Quality control
-
-### Speech-to-Text Recognition
-
-Upload trimmed recordings to WildTrax or other software for speech-to-text recognition to convert audio data into text format for analysis.
-
-“This is A B M I dash Five Six Five dash S W. The date is February 23rd 2022 and the time is 11:06 AM Mountain standard time. Observers are John Doe and Jane Doe.”
-
-A speech-to-text recognizer is used to transcribe this into text information in order to extract the location name, spatial coordinates or confirm the temporal stamp of the ARU, all for quality control purposes. The [Google Cloud Speech-to-Text]() recognizer is an advanced deep learning neural network using algorithms for automatic speech recognition. The recognizer can also use one of several machine learning models to transcribe the audio files, support for French and other language variants, and alternatives based on likelihood values. Google has trained these speech recognition models for specific audio types and sources. For example, time stamps derived from the observer speech-to-text array as well as the recording time stamp from the audio would be joined into to create a unique location and recording date with the file prefix from the ARU. Some general steps to get started would be to:
-
-- Create a lookup table for the locations or spatial coordinates. This can be generated by downloading a list of location names or coordinates entered from WildTrax either in the organization or the project (see Location Management)
-- Run the script and instruct the prompts what settings and files you want to use as inputs
-
-Folder with audio files
-Matching threshold (0 - 100, where 100 is a perfect match)
-Length of desired trimmed files (in seconds)
-Output file name for csv results
-
-Upload the trimmed media to WildTrax
-Once the recordings are trimmed to the correct length of time Bioacoustic Unit staff will upload them to WildTrax. Go to My Data -> My Projects and search for the appropriate project for your data. Follow the WildTrax protocols on getting data uploaded to a project.
+:::{.rmdwarning}
+You can technically upload all recordings directly to a project on WildTrax provided you are given the correct privileges. If the FTP is not functioning, this is an alternative option.
+:::
 
 ## Data processing in WildTrax
 
+Once the recordings are trimmed to the correct length of time, ABMI staff will upload them to appropriate projects in WildTrax. Go to My Data -> My Projects and search for the appropriate project for your data.
 
+<img align="left" src="images/project.png" width="575" height="500">
 
