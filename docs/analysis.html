@@ -4,17 +4,17 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Chapter 4 Analysis | Operationalizing a national protocol for digital point counts</title>
+<title>4 Analysis | Operationalizing a national protocol for digital point counts</title>
 <meta name="author" content="Alexander G. MacPhail">
-<meta name="description" content="4.1 Speech-to-Text Recognition Upload trimmed recordings to WildTrax or other software for speech-to-text recognition to convert audio data into text format for analysis. Run the speech-to-text...">
+<meta name="description" content="4.1 Speech-to-Text Recognition Upload trimmed recordings to WildTrax or other software for speech-to-text recognition to convert audio data into text format for analysis. “This is A B M I dash...">
 <meta name="generator" content="bookdown 0.30 with bs4_book()">
-<meta property="og:title" content="Chapter 4 Analysis | Operationalizing a national protocol for digital point counts">
+<meta property="og:title" content="4 Analysis | Operationalizing a national protocol for digital point counts">
 <meta property="og:type" content="book">
 <meta property="og:url" content="https:/abbiodiversity.github.io/ndpc/analysis.html">
-<meta property="og:description" content="4.1 Speech-to-Text Recognition Upload trimmed recordings to WildTrax or other software for speech-to-text recognition to convert audio data into text format for analysis. Run the speech-to-text...">
+<meta property="og:description" content="4.1 Speech-to-Text Recognition Upload trimmed recordings to WildTrax or other software for speech-to-text recognition to convert audio data into text format for analysis. “This is A B M I dash...">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Chapter 4 Analysis | Operationalizing a national protocol for digital point counts">
-<meta name="twitter:description" content="4.1 Speech-to-Text Recognition Upload trimmed recordings to WildTrax or other software for speech-to-text recognition to convert audio data into text format for analysis. Run the speech-to-text...">
+<meta name="twitter:title" content="4 Analysis | Operationalizing a national protocol for digital point counts">
+<meta name="twitter:description" content="4.1 Speech-to-Text Recognition Upload trimmed recordings to WildTrax or other software for speech-to-text recognition to convert audio data into text format for analysis. “This is A B M I dash...">
 <!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
 <script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.4.1/transition.js"></script><script src="libs/bs3compat-0.4.1/tabs.js"></script><script src="libs/bs3compat-0.4.1/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
@@ -64,23 +64,18 @@
 <span class="header-section-number">4.1</span> Speech-to-Text Recognition<a class="anchor" aria-label="anchor" href="#speech-to-text-recognition"><i class="fas fa-link"></i></a>
 </h2>
 <p>Upload trimmed recordings to WildTrax or other software for speech-to-text recognition to convert audio data into text format for analysis.</p>
-<p>Run the speech-to-text recognizer
-During the deployment of the ARU, the field technician records a voice note as the initial recording. The voice note has the following format:
-Location name
-Spatial coordinates* (not applicable for Ecosystem Health locations)
-Date and time
-Observers
-Comments
-“This is A B M I dash Five Six Five dash S W. The date is February 23rd 2022 and the time is 11:06 AM Mountain standard time. Observers are John Doe and Jane Doe.”
-A speech-to-text recognizer is used to transcribe this into text information in order to extract the location name, spatial coordinates or confirm the temporal stamp of the ARU, all for quality control purposes. The Google Cloud Speech-to-Text recognizer is an advanced deep learning neural network using algorithms for automatic speech recognition. The recognizer can also use one of several machine learning models to transcribe the audio files, support for French and other language variants, and alternatives based on likelihood values. Google has trained these speech recognition models for specific audio types and sources. For example, time stamps derived from the observer speech-to-text array as well as the recording time stamp from the audio would be joined into to create a unique location and recording date with the file prefix from the ARU. Some general steps to get started would be to:
-Create a lookup table for the locations or spatial coordinates. This can be generated by downloading a list of location names or coordinates entered from WildTrax either in the organization or the project (see Location Management)
-Run the script and instruct the prompts what settings and files you want to use as inputs
-Folder with audio files
+<p>“This is A B M I dash Five Six Five dash S W. The date is February 23rd 2022 and the time is 11:06 AM Mountain standard time. Observers are John Doe and Jane Doe.”</p>
+<p>A speech-to-text recognizer is used to transcribe this into text information in order to extract the location name, spatial coordinates or confirm the temporal stamp of the ARU, all for quality control purposes. The <a href="">Google Cloud Speech-to-Text</a> recognizer is an advanced deep learning neural network using algorithms for automatic speech recognition. The recognizer can also use one of several machine learning models to transcribe the audio files, support for French and other language variants, and alternatives based on likelihood values. Google has trained these speech recognition models for specific audio types and sources. For example, time stamps derived from the observer speech-to-text array as well as the recording time stamp from the audio would be joined into to create a unique location and recording date with the file prefix from the ARU. Some general steps to get started would be to:</p>
+<ul>
+<li>Create a lookup table for the locations or spatial coordinates. This can be generated by downloading a list of location names or coordinates entered from WildTrax either in the organization or the project (see Location Management)</li>
+<li>Run the script and instruct the prompts what settings and files you want to use as inputs</li>
+</ul>
+<p>Folder with audio files
 Matching threshold (0 - 100, where 100 is a perfect match)
 Length of desired trimmed files (in seconds)
 Output file name for csv results</p>
-<p>Upload the trimmed media to WildTrax
-Once the recordings are trimmed to the correct length of time Bioacoustic Unit staff will upload them to WildTrax. Go to My Data -&gt; My Projects and search for the appropriate project for your data. Follow the WildTrax protocols on getting data uploaded to a project.</p>
+<p>Upload the trimmed media to WildTrax</p>
+<p>Once the recordings are trimmed to the correct length of time Bioacoustic Unit staff will upload them to WildTrax. Go to My Data -&gt; My Projects and search for the appropriate project for your data. Follow the WildTrax protocols on getting data uploaded to a project.</p>
 </div>
 <div id="quality-control-procedures" class="section level2">
 <h2>

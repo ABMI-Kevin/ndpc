@@ -2,7 +2,7 @@
 
 Recording point counts can enhance avian monitoring in Canada, providing valuable data on population trends and distribution. Integrating recording with traditional point count surveys can improve data quality and accessibility for citizen scientists, aligning metadata for accurate species detection.
 
-the [Alberta Biodiversity Monitoring Institute](htttps://abmi.ca) and [WildTrax](https://wildtrax.ca) aim to maintain a standard infrastructure for collecting, storing and processing data from digital point counts.
+The [Alberta Biodiversity Monitoring Institute](htttps://abmi.ca) and [WildTrax](https://wildtrax.ca) aim to maintain a standard infrastructure for collecting, storing and processing data from digital point counts.
 
 ## Overview and Scope
 

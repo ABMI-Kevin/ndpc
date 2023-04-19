@@ -10,8 +10,8 @@ bookdown::gitbook:
     edit: https://github.com/ABbiodiversity/ndpc/edit/main/%s
     download: ["pdf", "epub"]
     sharing:
-      facebook: no
-      twitter: no
+      facebook: yes
+      twitter: yes
       github: yes
       all: []
 bookdown::pdf_book:

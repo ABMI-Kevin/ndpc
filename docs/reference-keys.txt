@@ -1,5 +1,4 @@
 welcome
-the-basics
 introduction
 overview-and-scope
 canavian
@@ -8,12 +7,15 @@ selecting-a-recorder
 equipment-and-settings-preparation
 h2n-equipment-setup
 sm4-equipment-setup
-conducting-the-survey-protocol
+conducting-the-survey
 h2n-survey-deployment
 sm4-survey-deployment
+voice-notes
 survey-length-adjustment
 important-notes
 data-submission
+how-do-i-connect-to-cirrus
+do-my-data-follow-the-standard-file-name-convention
 analysis
 speech-to-text-recognition
 quality-control-procedures
