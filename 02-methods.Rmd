@@ -4,54 +4,98 @@
 
 Consider selecting an affordable, readily available, and user-friendly autonomous recording unit (ARU) or handheld recording device. Here are some recommended options:
 
-- [Zoom H2N]() are a handheld portable recorder with multiple built-in microphones. It is affordable, lightweight, and easy to use for an introductory user.
+- [Zoom H2N](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/h2n-handy-recorder/) are a handheld portable recorder with multiple built-in microphones. It is affordable, lightweight, and easy to use for an introductory user.
   + [H2N Equipment Setup](#h2n-equipment-setup)
   + [H2N Survey Deployment](#h2n-survey-deployment)
-- [Wildlife Acoustics SM4]() is a weatherproof, mountable recorder that requires external microphones and offers advanced recording features and durability but comes at a higher price.
+- [Wildlife Acoustics SM4](https://www.wildlifeacoustics.com/products/song-meter-sm4) is a weatherproof, mountable recorder that requires external microphones and offers advanced recording features and durability but comes at a higher price.
   + [SM4 Equipment Setup](#sm4-equipment-setup)
   + [SM4 Survey Deployment](#h2n-survey-deployment)
     
 ## Equipment and Settings Preparation
 
-Calibration and testing of ARUs prior to conducting a survey is essential for high-quality acoustic data.
+Calibration and testing of equipment prior to conducting a survey is essential for collecting high-quality acoustic data.
 
 ### H2N Equipment Setup
 
-- Update firmware to the most recent version (3.0).
-- Gather USB cables, SD cards, batteries, windsock, and tripod.
-- Follow technical setup steps for Zoom H2N, including adjusting date/time settings, battery power, memory card space, and recording settings.
+- Ensure firmware is the most recent version.
 
+```{r, include = T, eval = T}
+library(downloadthis)
 
-- Turn on the device using the POWER switch. 
-- Press the MENU button, toggle the PLAY button up/down and then press down to select SYSTEM. 
-- Select DATE/TIME. 
-- Use the PLAY button to select and modify the year, day, month, and time settings as needed. 
-- When all settings are correct, select OK and press the PLAY button to exit. 
-- Ensure that FILE NAME (under REC settings) is set to DATE so that individual files will be named by the date/time of the start of recording). Do not use DEFAULT. 
-- Ensure the recorder has sufficient battery power to record all counts (and pack at least 2 spare AA batteries). 
-- Ensure that there is a memory-card inserted with sufficient space (the bottom-right corner of the unit’s screen indicates the remaining time on the SD card). 
-- Ensure the recorder uses the following settings:
-  + 2CH selected on channel selector dial
-  + MIC GAIN set to 10 (maximum)
-  + SURROUND is set to S±0 (this is really easy to change by accident, because it is changed by moving the PLAY lever while in RECORD mode)
-  + REC FORMAT is set at WAV (when you turn on the recorder, the REC format is displayed on the lower left [e.g., 44.1/16]– if it doesn’t match, go to MENU to change it under REC settings)
-  + Use 44.1kHz/16 bit (there are other wav settings that would also work but use a little or a lot more memory). Do not use MP3
-  + AUTO REC is OFF
-  + LO CUT is ON (may be useful to reduce impacts of wind or traffic noise)
-  + COMP/LIMITER is OFF
-  + AUTO GAIN is off
-  
-MS Side Level
-0 (120 degrees)
-Input Setting
-Plug-in Power
-Off
+download_file(path = "./data/H2n_v3.00E.zip", button_label = "Download Zoom H2N Firmware", has_icon=T, icon = "fa fa-save", self_contained=F)
+```
+
+#### Required equipment
+
+The following additional equipment is required in order to conduct the survey protocol:
+
+- 1 SD card; a 32 GB card will allow you to collect ~1,000 3-minute audio recordings
+- 2x AA batteries (pack at least 2 spare AA batteries)
+- Windsock
+- Tripod
+
+#### Settings
+
+The following settings will allow you to easily record and integrate data with other Zoom recordings:
+
+##### Setting the date and time {.unnumbered}
+
+- Turn on the device using the <span style="font-variant:small-caps;">Power</span> switch.
+- Press the <span style="font-variant:small-caps;">Menu</span> button, toggle the <span style="font-variant:small-caps;">Play</span> button up/down and then press down to select <span style="font-variant:small-caps;">System</span>. 
+- Select <span style="font-variant:small-caps;">Date/Time</span>
+- Use the <span style="font-variant:small-caps;">Play</span> button to select and modify the year, day, month, and time settings as needed. 
+- When all settings are correct, select <span style="font-variant:small-caps;">OK</span> and press the <span style="font-variant:small-caps;">Play</span> button to exit. 
+
+##### Defaulting to date and time filenames {.unnumbered}
+
+- Ensure that <span style="font-variant:small-caps;">Filename</span> (under <span style="font-variant:small-caps;">Rec</span> settings) is set to <span style="font-variant:small-caps;">Date</span> so that individual files will be named by the date/time of the start of recording, e.g. `230604-053010` which corresponds to the year, month day, hour, minute and second the recording started. Do not use <span style="font-variant:small-caps;">Default</span>.
+
+##### Audio settings {.unnumbered}
+
+Ensure the recorder uses the following settings:
+
+- <span style="font-variant:small-caps;">2CH</span> selected on channel selector dial
+- <span style="font-variant:small-caps;">Mic Gain</span> set to 10 (maximum)
+- <span style="font-variant:small-caps;">Surround</span> is set to `S±0`. This is *really easy to change by accident*, because it is changed by moving the <span style="font-variant:small-caps;">Play</span> lever while in <span style="font-variant:small-caps;">Record</span> mode)
+- <span style="font-variant:small-caps;">Rec Formate</span> is set at <span style="font-variant:small-caps;">WAV</span> (when you turn on the recorder, the <span style="font-variant:small-caps;">Rec/span> format is displayed on the lower left [e.g., 44.1/16]. If it doesn’t match, go to <span style="font-variant:small-caps;">Menu</span> to change it under <span style="font-variant:small-caps;">Rec</span> settings)
+- Use 44.1kHz/16 bit (there are other wav settings that would also work but use a little or a lot more memory). Do not use MP3. 
+
+Other audio settings include:
+
+- <span style="font-variant:small-caps;">Auto Rec</span> is <span style="font-variant:small-caps;">Off</span>
+- <span style="font-variant:small-caps;">Lo Cut</span> is <span style="font-variant:small-caps;">On</span> (useful to reduce impacts of wind or traffic noise)
+- <span style="font-variant:small-caps;">Comp Limiter</span> is <span style="font-variant:small-caps;">Off</span>
+- <span style="font-variant:small-caps;">Auto Gain</span> is <span style="font-variant:small-caps;">Off</span>
+
+Ensure the side bar also has these settings:
+
+- MS Side Level:  0 (120 degrees)
+- Input Setting: Plug-in Power
 
 ### SM4 Equipment Setup
 
-SM4 STUFF HERE
+Ensure firmware is the most recent version.
+
+```{r, include = T, eval = T}
+
+```
+
+#### Required equipment
+
+The following equipment is required in order to conduct the survey protocol:
+
+- 1 SD card; a 32 GB card will allow you to collect ~1,000 3-minute audio recordings
+- 2x AA batteries (pack at least 2 spare AA batteries)
+- Windsock
+- Tripod
+
+#### Settings
+
+SM4 SETTINGS HERE
 
 ## Conducting the Survey
+
+Conducting the survey is the core piece of work that you'll be doing.
 
 - Arrive at survey location and follow safety instructions outlined by the designated point count protocol.
 - Set up the recorder at a fixed location, keeping it at a minimum distance of 5 meters away from the observer to minimize observer sounds, but no more than 20 meters away to minimize error. A tripod or stable surface is recommended to support the ARU; do not place the recorder on or near a vehicle as it will pick up vibrations that could mask species detections. Placing the recorder to the rear of the vehicle can also minimise the sounds made from a vehicle engine (e.g. car, truck, quad, etc.) after it is shut off.
@@ -68,6 +112,7 @@ SM4 STUFF HERE
 
 ### SM4 Survey Deployment
 
+SM4 DEPLOYMENT HERE
 
 ### Voice Notes
 
@@ -83,15 +128,17 @@ To create a standard filename format after processing the voice note through spe
 
 By adhering to the specific speaking order, researchers and data collectors can maintain a standardized approach to data collection, organization, and analysis. This approach will lead to increased efficiency and ease in interpreting and utilizing the collected data for various purposes.
 
+:::{.rmdwarning}
+Do not to speak during the survey to limit erroneous speech errors picked up by the speech-to-text recognizer
+:::
+
 ### Survey Length Adjustment
 
-Surveys may occur along roadsides or near areas of loud anthropogenic noise. In order to optimize species detections in the detection radius of the ARU, survey time can be extended by 1 minute per traffic event up to maximum survey length time of 10 minutes. It’s recommended to keep a stopwatch or phone timer set to the length of the survey interval, and the maximum survey interval so you don’t have to keep track of the traffic events specifically but rather the time you can survey for. Geophonic events are similar. 
+Surveys may occur along roadsides or near areas of loud anthropogenic noise. In order to optimize species detections in the detection radius of the ARU, survey time can be extended by 1 minute per traffic event up to maximum survey length time of 10 minutes. 
 
-If it becomes too windy or rainy to continue the survey, i.e. if geophonic events last for >10 minutes during the survey, the media will be considered “Bad Weather”. However, surveys can be extended for 1 minute at a time for intermittent periods of rain or wind.
+It’s recommended to keep a stopwatch or phone timer set to the length of the survey interval, and the maximum survey interval so you don’t have to keep track of the traffic events specifically but rather the time you can survey for. 
 
-### Important Notes
-
-- Do not to speak during the survey to limit erroneous speech errors picked up by the speech-to-text recognizer
+Geophonic events are similar; if it becomes too windy or rainy to continue the survey, i.e. if geophonic events last for >10 minutes during the survey, the media will be considered “Bad Weather”. Surveys can be extended for 1 minute at a time for intermittent periods of rain or wind.
 
 ## Data submission
 
@@ -99,15 +146,51 @@ Cirrus is a server administered by the University of Alberta SRIT. The Bioacoust
 
 Raw recordings uploaded to Cirrus via an FTP in order to standardize them before they are processed in WildTrax.
 
-### How do I connect to Cirrus?
+### Where do I submit my recordings?
 
-Download an FTP client like [Filezilla](). Enter the following credentials:
+Download an FTP client like [Filezilla](https://filezilla-project.org/). Enter the following credentials:
 
-**Host**: upload.wildtrax.ca or sftp://upload.wildtrax.ca
-**User**: eccc
-**Password**: w0rdb1rd
-**Port**: 22
+:::{.rmdnote}
+- **Host**: upload.wildtrax.ca or sftp://upload.wildtrax.ca
+- **User**: eccc
+- **Password**: w0rdb1rd
+- **Port**: 22
+:::
+
+Place the recordings in a folder under the following hierarchy:
+
+Organization > Project > Year > Visit > Group* > Location
+
+*Group* is a
+
+### Should I check anything else with my recordings before uploading?
+
+- Ensure the file name convention of the recordings follows either `YYMMDD-HHMMSS` or `LOCATION_YYYYMMDD_HHMMSS` format
+- Ensure the folder structure follows the [standard hierarchy]()
+- If there are zero-length files or files smaller than the intended length of the count, **do not upload these files**
+
+## Quality control
+
+### Speech-to-Text Recognition
+
+Upload trimmed recordings to WildTrax or other software for speech-to-text recognition to convert audio data into text format for analysis.
+
+“This is A B M I dash Five Six Five dash S W. The date is February 23rd 2022 and the time is 11:06 AM Mountain standard time. Observers are John Doe and Jane Doe.”
+
+A speech-to-text recognizer is used to transcribe this into text information in order to extract the location name, spatial coordinates or confirm the temporal stamp of the ARU, all for quality control purposes. The [Google Cloud Speech-to-Text]() recognizer is an advanced deep learning neural network using algorithms for automatic speech recognition. The recognizer can also use one of several machine learning models to transcribe the audio files, support for French and other language variants, and alternatives based on likelihood values. Google has trained these speech recognition models for specific audio types and sources. For example, time stamps derived from the observer speech-to-text array as well as the recording time stamp from the audio would be joined into to create a unique location and recording date with the file prefix from the ARU. Some general steps to get started would be to:
+
+- Create a lookup table for the locations or spatial coordinates. This can be generated by downloading a list of location names or coordinates entered from WildTrax either in the organization or the project (see Location Management)
+- Run the script and instruct the prompts what settings and files you want to use as inputs
+
+Folder with audio files
+Matching threshold (0 - 100, where 100 is a perfect match)
+Length of desired trimmed files (in seconds)
+Output file name for csv results
+
+Upload the trimmed media to WildTrax
+Once the recordings are trimmed to the correct length of time Bioacoustic Unit staff will upload them to WildTrax. Go to My Data -> My Projects and search for the appropriate project for your data. Follow the WildTrax protocols on getting data uploaded to a project.
+
+## Data processing in WildTrax
 
 
 
-### Do my data follow the standard file name convention?

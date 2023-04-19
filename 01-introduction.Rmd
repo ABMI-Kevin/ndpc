@@ -17,3 +17,7 @@ Augmentation of avian data collection with autonomous recording units (ARUs) alo
 ![]()
 
 ## CanAvian
+
+Our mission is to improve accessibility and increase use of avian data and information in Canada by enhancing data sharing, networking, and collaboration. Our vision to provide reliable and comprehensive avian data and information are openly available to support biodiversity conservation and decision-making in Canada.
+
+

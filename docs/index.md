@@ -1,7 +1,7 @@
 --- 
 title: "Operationalizing a national protocol for digital point counts"
 author: "Alexander G. MacPhail"
-date: "18 April, 2023"
+date: "19 April, 2023"
 site: bookdown::bookdown_site
 output: bookdown::bs4_book
 url: https:/abbiodiversity.github.io/ndpc
@@ -26,21 +26,21 @@ Welcome to the protocol for conducting a **digital avian point count** using an 
 - Use of autonomous recording units (ARUs) and handheld recording devices to conduct avian point counts, in collaboration with leading avian research organizations
 - Standardized protocol for data collection to ensure consistency and comparability of results, following established guidelines
 - Digital format for data collection, making it easily accessible and shareable among researchers from various organizations
-- Citizen scientists can participate in avian research and contribute to scientific knowledge, working in partnership with established organizations
+- Citizen scientists can participate in avian research and contribute to scientific knowledge
 - No prior experience or expertise required, making it user-friendly for all skill levels, with support and guidance from experts
 
 ## The Basics {.unnumbered}
 
-- [Select a protocol](#download-cheatsheets) for conducting a digital point count
+- [Select a point count protocol](#download-cheatsheets) for conducting a digital point count
 - [Select a recorder model](#selecting-a-recorder)
 - Prepare equipment and settings
 - Conduct the point count surveys
   + Adjust survey length for anthropogenic or geophonic conditions
 - Upload the recordings to a [central repository](#data-submission)
-- Run the speech-to-text recognizer and standardize the recordings (*Currently supported by the ABMI*)
-- Upload the trimmed recordings to [WildTrax]() (*Currently supported by the ABMI*)
+- Run the speech-to-text recognizer and standardize the recordings'*'
+- Upload the trimmed recordings to [WildTrax]()'*'
 - Process data
-- Publish project and send data to [NatureCounts](#canavian) (*Currently supported by the ABMI*)
+- Publish project and send data to [NatureCounts](#canavian)'*'
 
 ## Download Cheatsheets {.unnumbered}
 
