@@ -14,7 +14,5 @@ rmd_files:
 
     "02-methods.Rmd",
 
-    "03-analysis.Rmd",
-
-    "04-discussion.Rmd"
+    "03-discussion.Rmd"
 ]

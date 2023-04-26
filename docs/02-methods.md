@@ -2,11 +2,20 @@
 
 ## Selecting a recorder
 
-Consider selecting an affordable, readily available, and user-friendly autonomous recording unit (ARU) or handheld recording device. Here are some recommended options:
+This protocol considers selecting affordable, readily available, and user-friendly autonomous recording units (ARUs) or handheld recording devices. Here are some recommended options.
 
-- [Zoom H2N](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/h2n-handy-recorder/) are a handheld portable recorder with multiple built-in microphones. It is affordable, lightweight, and easy to use for an introductory user.
+:::{.rmdnote}
+Read the section on equipment setup, then survey deployment before you conduct your surveys
+:::
+
+- [**Zoom H2N**](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/h2n-handy-recorder/) are a handheld portable recorder with multiple built-in microphones. It is affordable, lightweight, and easy to use for an introductory user.
   + [H2N Equipment Setup](#h2n-equipment-setup)
   + [H2N Survey Deployment](#h2n-survey-deployment)
+  
+:::{.rmdwarning}
+It's recommended not to use a Zoom H4N given the microphones are directional
+:::
+  
 - [Wildlife Acoustics](https://www.wildlifeacoustics.com/products/song-meter-sm4) sell weatherproof, mountable autonomous recorders that requires external microphones but offer advanced recording features and durability but comes at a higher price.
   + [SM4 Equipment Setup](#sm4-equipment-setup)
   + [SM4 Survey Deployment]()
@@ -14,7 +23,8 @@ Consider selecting an affordable, readily available, and user-friendly autonomou
   + [SM Mini Survey Deployment]()
   + [SM Micro Equipment Setup]()
   + [SM Micro Survey Deployment]()
-- [Frontier BAR-LT]()
+
+- [Frontier BAR-LT]() sell durable acoustic recording equipment as well.
   + [BAR-LT Equipment Setup]()
   + [BAR-LT Survey Deployment]()
     
@@ -104,7 +114,23 @@ The following equipment is required in order to conduct the survey protocol:
 
 #### Settings
 
-SM4 SETTINGS HERE
+### SM Mini Equipment Setup
+
+#### Required equipment
+
+#### Settings
+
+### SM Micro Equipment Setup
+
+#### Required equipment
+
+#### Settings
+
+### BAR-LT Equipment Setup
+
+#### Required equipment
+
+#### Settings
 
 ## Conducting the Survey
 
@@ -116,16 +142,42 @@ Conducting the survey is the core piece of work that you'll be doing.
 - At the end of the count, speak <span style="font-variant:small-caps;">Stop</span>.
 - Turn off the recorder and move to the next location. Repeat steps as necessary to conduct more surveys along a route
 
-### H2N Survey Deployment
+### Segmented recording method
+
+The *segmented* recording method indicates you will be turning the recorder on and off at each location.
+
+#### H2N Segmented Survey Deployment
 
 - Initiate the survey by pressing the <span style="font-variant:small-caps;">Record</span> button on the recorder.
 - Speak a clear message into the recorder to serve as the voicestamp, including observer name, location (spatial coordinates or identifier), and optional date and time stamp.
 - Move 5-20 meters away from the recorder to reduce observer noise.
 - Say <span style="font-variant:small-caps;">Start</span> to indicate the end of the speech-to-text recording and move away from the recorder
 
-### SM4 Survey Deployment
+#### SM4 Segmented Survey Deployment
 
-SM4 DEPLOYMENT HERE
+#### SM Mini Segmented Survey Deployment
+
+#### SM Micro Segmented Survey Deployment
+
+#### BAR-LT Segmented Survey Deployment
+
+### Continuous recording method
+
+The *continuous* recording method indicates you will be turning the recorder on at the beginning of a survey route, and turning it off at the end of a survey route. A survey route can include many locations.
+
+:::{.rmdwarning}
+Do not use a Zoom H2N for continuous deployment as battery life will not last for the duration of the survey route.
+:::
+
+#### SM4 Segmented Survey Deployment
+
+#### SM Mini Segmented Survey Deployment
+
+#### SM Micro Segmented Survey Deployment
+
+#### BAR-LT Segmented Survey Deployment
+
+## Other
 
 ### Voice Notes
 
@@ -171,11 +223,7 @@ It's possible the survey is taking place in an environment when anthropogenic no
 
 Cirrus is a server administered by the [University of Alberta SRIT](https://spaces.facsci.ualberta.ca/cirrus/about-us/). The Bioacoustic Unit and its collaborators use Cirrus to house and standardize their acoustic data sets for redundancy or permanent storage on a cost-recovery basis. Cirrus contains a variety of different types of data but a large majority of the volume is currently being occupied with environmental sensor data i.e. acoustic recordings and remote camera images. 
 
-Raw recordings uploaded to Cirrus via an FTP in order to standardize them before they are processed in WildTrax.
-
-### Where do I submit my recordings?
-
-Download an FTP client like [Filezilla](https://filezilla-project.org/). Enter the following credentials:
+Raw recordings uploaded to Cirrus via an FTP in order to standardize them before they are processed in WildTrax. Download an FTP client like [Filezilla](https://filezilla-project.org/). Enter the following credentials:
 
 :::{.rmdnote}
 - **Host**: upload.wildtrax.ca or sftp://upload.wildtrax.ca
@@ -184,7 +232,7 @@ Download an FTP client like [Filezilla](https://filezilla-project.org/). Enter t
 - **Port**: 22
 :::
 
-#### Single-visit digtial point counts {.unnumbered}
+### Single-visit digtial point counts {.unnumbered}
 
 Organization > Project > Observer
 
@@ -197,13 +245,7 @@ Organization > Project > Observer
 
 <img align="left" src="images/zoomdata.png">
 
-#### Multi-day recordings {.unnumbered}
-
-:::{.rmdnote}
-This is for multi-day ARUs
-:::
-
-Place the recordings in a folder under the following hierarchy:
+You can also place the recordings in a folder under the following hierarchy:
 
 Organization > Sensor > Project > Year > Visit > *Group* > Location
 
@@ -218,11 +260,11 @@ Organization > Sensor > Project > Year > Visit > *Group* > Location
 # Below this level will be all the files for that location
 ```
 
-*Group* is a set of locations on the landscape. For example a Breeding Bird Survey route, e.g. `BBS-4239` would be a group and `BBS-4239-1` would be a location.
+Where *group* is a set of locations on the landscape. For example a Breeding Bird Survey route, e.g. `BBS-4239` would be a group and `BBS-4239-1` would be a location.
 
 <img align="left" src="images/string.png" width="680" height="480">
 
-### Should I check my recordings for anything before uploading?
+### Metadata confirmation
 
 - Ensure the file name convention of the recordings follows either `YYMMDD-HHMMSS` or `LOCATION_YYYYMMDD_HHMMSS` format
 - Ensure the folder structure follows the [standard hierarchy]()
@@ -237,4 +279,8 @@ You can technically upload all recordings directly to a project on WildTrax prov
 Once the recordings are trimmed to the correct length of time, ABMI staff will upload them to appropriate projects in WildTrax. Go to My Data -> My Projects and search for the appropriate project for your data.
 
 <img align="left" src="images/project.png" width="575" height="500">
+
+## Data publication
+
+Once the project is completed, the status can be switched to one of the *published* statuses, allowing the public and other WildTrax users, as well as NatureCounts to receive data.
 

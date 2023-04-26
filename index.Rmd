@@ -25,7 +25,7 @@ library(downloadthis)
 library(rmapshaper)
 ```
 
-# Welcome {.unnumbered}
+# Home {-}
 
 ::: {.rmdnote}
 This site is currently under construction in preparation for the 2023 field season
@@ -90,15 +90,21 @@ The use of autonomous recording units (ARUs) and handheld recording devices in a
 
 ## The Basics {.unnumbered}
 
+**1) Select a protocol and equipment**
+
 - [Select a point count protocol](#download-cheatsheets) for conducting a digital point count
-- [Select a recorder model](#selecting-a-recorder) and the recording method you'll see (either segmented or continuous)
-- Prepare equipment and settings
-- Conduct the point count surveys
-  + Adjust survey length for anthropogenic or geophonic conditions
+- [Select a recorder model](#selecting-a-recorder) and prepare equipment
+- [Select a recording method](), either *continuous* or *segmented*
+
+**2) Conduct the surveys**
+
+- [Conduct the point count surveys](#conducting-the-survey)
+
+**3) Upload and process the data**
+
 - Upload the recordings to a [central repository](#data-submission)
-- Standardize the recordings'*'
-- Upload the recordings to [WildTrax](https://www.wildtrax.ca)'*'
-- Process recordings
+- [Standardize the recordings](#speech-to-text)'*'
+- Upload the recordings to [WildTrax](https://www.wildtrax.ca)'*' for processing
 - Publish project to WildTrax and [NatureCounts](#canavian)'*'
 
 '\*' --- *Currently supported by the ABMI*
@@ -107,14 +113,25 @@ The use of autonomous recording units (ARUs) and handheld recording devices in a
 
 Download the digital point count cheatsheet and voice note templates for a variety of different format relative to your monitoring program needs:
 
+**Breeding Bird Atlas**
+
 - [Breeding Bird Atlas 5-minute Survey: Roadside]()
 - [Breeding Bird Atlas 5-minute Survey: Off-road]()
+
+**Bioacoustic Unit Linear Feature Surveys**
+
 - [Bioacoustic Unit 3-minute Survey]()
-- Breeding Bird Survey 3-minute Survey
-  - [Segmented recording type]()
-  - [Continuous recording]()
+
+**Breding Bird Survey**
+
+- [Segmented recording method]()
+- [Continuous recording method]()
+  
+**Marshbird Monitoring Protocol**  
+
 - [Marshbird Monitoring Protocol 10-minute Survey]()
-- <span style="color:grey;">More soon</span>
+
+<span style="color:grey;font-style:italic">More protocols will be supported soon!</span>
 
 ## Frequently Asked Questions {.unnumbered}
 
@@ -122,6 +139,20 @@ Download the digital point count cheatsheet and voice note templates for a varie
 - [What recorder can I use?](#selecting-a-recorder)
 - [What should I say in the voice note?](#voice-notes)
 - [Where do I submit my recordings?](#data-submission)
+- [Should I check my recordings for anything before submitting?](#metadata-checking)
 - [How are we working to improve this protocol?](#discussion)
+- [What is this data used for?]()
 
 ## Acknowledgements {.unnumbered}
+
+Thank you to [Environment and Climate Change Canada](https://www.canada.ca/en/environment-climate-change.html) for the continued funding and support to realize this project.
+
+## Book Legend {.unnumbered}
+
+:::{.rmdnote}
+This is a note
+:::
+
+:::{.rmdwarning}
+This is a warning
+:::
