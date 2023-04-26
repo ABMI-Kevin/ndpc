@@ -31,7 +31,7 @@ library(rmapshaper)
 This site is currently under construction in preparation for the 2023 field season
 :::
 
-Welcome to the protocol for conducting a **digital point count** using an autonomous recording unit or handheld recording device. In collaboration with partners from [Environment and Climate Change Canada](https://www.canada.ca/en/environment-climate-change.html), the [Ontario Breeding Bird Atlas](https://www.birdsontario.org/), the [Bioacoustic Unit](http://bioacoustic.abmi.ca/), the [Alberta Biodiversity Monitoring Institute](https://abmi.ca/home.html) and the [Boreal Avian Modeling Project](https://borealbirds.ca/), this user-friendly protocol aims to establish a standard method for collecting data on avian populations in a digital format, making it accessible and easy for citizen scientists to collect and contribute to avian research and population monitoring.
+Welcome to the protocol for conducting a **digital point count** using an autonomous recording unit or handheld recording device. In collaboration with a multitude of [partners](#acknowledgements), this user-friendly protocol aims to establish a standard method for collecting data on avian populations in a digital format, making it accessible and easy for citizen scientists to collect and contribute to avian research and population monitoring.
 
 ```{r, eval=F, include=F, warning=F, message=F} 
 
@@ -138,6 +138,7 @@ Download the digital point count cheatsheet and voice note templates for a varie
 - [Why should I record a point count?](#introduction)
 - [What recorder can I use?](#selecting-a-recorder)
 - [What should I say in the voice note?](#voice-notes)
+- [How much data will I accumulate?]()
 - [Where do I submit my recordings?](#data-submission)
 - [Should I check my recordings for anything before submitting?](#metadata-checking)
 - [How are we working to improve this protocol?](#discussion)
@@ -146,6 +147,14 @@ Download the digital point count cheatsheet and voice note templates for a varie
 ## Acknowledgements {.unnumbered}
 
 Thank you to [Environment and Climate Change Canada](https://www.canada.ca/en/environment-climate-change.html) for the continued funding and support to realize this project.
+
+Thank you for the participation from the following organizations:
+
+- [Environment and Climate Change Canada](https://www.canada.ca/en/environment-climate-change.html)
+- The 3rd [Ontario Breeding Bird Atlas](https://www.birdsontario.org/)
+- The [Bioacoustic Unit](http://bioacoustic.abmi.ca/)
+- The [Alberta Biodiversity Monitoring Institute](https://abmi.ca/home.html) 
+- The [Boreal Avian Modeling Project](https://borealbirds.ca/)
 
 ## Book Legend {.unnumbered}
 

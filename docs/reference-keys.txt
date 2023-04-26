@@ -1,5 +1,6 @@
 introduction
 overview-and-scope
+single-visits-versus-multi-day-deployments
 canavian
 methods
 selecting-a-recorder
@@ -34,6 +35,7 @@ bar-lt-segmented-survey-deployment-1
 other
 voice-notes
 survey-length-adjustment
+data-accumulation
 data-submission
 metadata-confirmation
 data-processing-in-wildtrax

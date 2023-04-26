@@ -1,0 +1,14 @@
+name: volume_calc
+title: volume_calc
+username:
+account: agmacpha
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8962509
+bundleId: 7139973
+url: https://agmacpha.shinyapps.io/volume_calc/
+when: 1682539180.00573
+lastSyncTime: 1682539180.00575
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: _bookdown.yml|_output.yml|.RData|01-introduction.Rmd|02-methods.Rmd|03-discussion.Rmd|book.bib|index.Rmd|LICENSE|ndpc.rds|packages.bib|preamble.tex|README.md|render14b0266a05b31.rds|style.css|data|docs|images

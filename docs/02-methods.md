@@ -219,6 +219,16 @@ Geophonic events are similar; if it becomes too windy or rainy to continue the s
 It's possible the survey is taking place in an environment when anthropogenic noise can't be avoid. In this case, survey for the standard amount of time dictated by your protocol.
 :::
 
+### Data accumulation
+
+
+```r
+knitr::include_app("https://agmacpha.shinyapps.io/volume_calc/",
+  height = "400px")
+```
+
+<iframe src="https://agmacpha.shinyapps.io/volume_calc/?showcase=0" width="672" height="400px" data-external="1"></iframe>
+
 ## Data submission
 
 Cirrus is a server administered by the [University of Alberta SRIT](https://spaces.facsci.ualberta.ca/cirrus/about-us/). The Bioacoustic Unit and its collaborators use Cirrus to house and standardize their acoustic data sets for redundancy or permanent storage on a cost-recovery basis. Cirrus contains a variety of different types of data but a large majority of the volume is currently being occupied with environmental sensor data i.e. acoustic recordings and remote camera images. 
