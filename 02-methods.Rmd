@@ -7,9 +7,16 @@ Consider selecting an affordable, readily available, and user-friendly autonomou
 - [Zoom H2N](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/h2n-handy-recorder/) are a handheld portable recorder with multiple built-in microphones. It is affordable, lightweight, and easy to use for an introductory user.
   + [H2N Equipment Setup](#h2n-equipment-setup)
   + [H2N Survey Deployment](#h2n-survey-deployment)
-- [Wildlife Acoustics SM4](https://www.wildlifeacoustics.com/products/song-meter-sm4) is a weatherproof, mountable recorder that requires external microphones and offers advanced recording features and durability but comes at a higher price.
+- [Wildlife Acoustics](https://www.wildlifeacoustics.com/products/song-meter-sm4) sell weatherproof, mountable autonomous recorders that requires external microphones but offer advanced recording features and durability but comes at a higher price.
   + [SM4 Equipment Setup](#sm4-equipment-setup)
-  + [SM4 Survey Deployment](#h2n-survey-deployment)
+  + [SM4 Survey Deployment]()
+  + [SM Mini Equipment Setup]()
+  + [SM Mini Survey Deployment]()
+  + [SM Micro Equipment Setup]()
+  + [SM Micro Survey Deployment]()
+- [Frontier BAR-LT]()
+  + [BAR-LT Equipment Setup]()
+  + [BAR-LT Survey Deployment]()
     
 ## Equipment and Settings Preparation
 
@@ -54,15 +61,13 @@ The following settings will allow you to easily record and integrate data with o
 
 Ensure the recorder uses the following settings:
 
-<img align="left" src="images/zoomsettings.png" width="680" height="680">
-
 - <span style="font-variant:small-caps;">2CH</span> selected on channel selector dial
 - <span style="font-variant:small-caps;">Mic Gain</span> set to `10` (maximum)
 - <span style="font-variant:small-caps;">Surround</span> is set to `S±0`. This is *really easy to change by accident*, because it is changed by moving the <span style="font-variant:small-caps;">Play</span> lever while in <span style="font-variant:small-caps;">Record</span> mode)
 - <span style="font-variant:small-caps;">Rec Format</span> is set at <span style="font-variant:small-caps;">Wav</span> (when you turn on the recorder, the <span style="font-variant:small-caps;">Rec</span> format is displayed on the lower left [e.g., 44.1/16]. If it doesn’t match, go to <span style="font-variant:small-caps;">Menu</span> to change it under <span style="font-variant:small-caps;">Rec</span> settings)
 - Use `44.1kHz/16 bit` (there are other wav settings that would also work but use a little or a lot more memory). Do not use MP3. 
 
-<img align="left" src="images/zoomtable.png" width="680" height="400">
+<img align="left" src="images/zoomsettings.png" width="680" height="680">>
 
 Other audio settings include:
 
@@ -70,6 +75,8 @@ Other audio settings include:
 - <span style="font-variant:small-caps;">Lo Cut</span> is <span style="font-variant:small-caps;">On</span> (useful to reduce impacts of wind or traffic noise)
 - <span style="font-variant:small-caps;">Comp Limiter</span> is <span style="font-variant:small-caps;">Off</span>
 - <span style="font-variant:small-caps;">Auto Gain</span> is <span style="font-variant:small-caps;">Off</span>
+
+<img align="left" src="images/zoomtable.png" width="680" height="400"
 
 Ensure the side bar also has these settings:
 
@@ -139,11 +146,19 @@ For example, time stamps derived from the observer speech-to-text array as well 
 
 ### Survey Length Adjustment
 
-Surveys may occur along roadsides or near areas of loud anthropogenic noise. In order to optimize species detections in the detection radius of the ARU, survey time can be extended by 1 minute per traffic event up to maximum survey length time of 10 minutes. 
+Surveys may occur along roadsides, near areas of loud anthropogenic noise, or interrupted by intermittent or inclement weather. In order to optimize species detections in the detection radius of the ARU, survey time can be extended by 1 minute per event up to maximum survey length time of 10 minutes. 
 
-It’s recommended to keep a stopwatch or phone timer set to the length of the survey interval, and the maximum survey interval so you don’t have to keep track of the traffic events specifically but rather the time you can survey for. 
+It’s recommended to keep a stopwatch or phone timer set to the length of the survey interval, and the maximum survey interval so you don’t have to keep track of the events specifically but rather the time you can survey for. 
+
+For example, if a vehicle is passing, extend the survey for up to one minute.
+
+![](images/vehicle.png)
 
 Geophonic events are similar; if it becomes too windy or rainy to continue the survey, i.e. if geophonic events last for >10 minutes during the survey, the media will be considered [*Bad Weather*](https://www.wildtrax.ca/home/resources/guide/acoustic-data/acoustic-tagging-page.html). Surveys can be extended for 1 minute at a time for intermittent periods of rain or wind.
+
+:::{.rmdnote}
+It's possible the survey is taking place in an environment when anthropogenic noise can't be avoid. In this case, survey for the standard amount of time dictated by your protocol.
+:::
 
 ## Data submission
 

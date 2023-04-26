@@ -1,7 +1,7 @@
 --- 
 title: "Operationalizing a national protocol for digital point counts"
 author: "Alexander G. MacPhail"
-date: "19 April, 2023"
+date: "25 April, 2023"
 site: bookdown::bookdown_site
 output: bookdown::bs4_book
 url: https:/abbiodiversity.github.io/ndpc
@@ -22,6 +22,8 @@ Welcome to the protocol for conducting a **digital point count** using an autono
 
 
 ![](./images/map.gif)
+
+## What is included {.unnumbered}
 
 - Use of autonomous recording units (ARUs) and handheld recording devices to conduct avian point counts, in collaboration with leading avian research organizations
 - Standardized protocol for data collection to ensure consistency and comparability of results, following established guidelines
