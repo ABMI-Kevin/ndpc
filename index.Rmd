@@ -22,6 +22,7 @@ library(fs)
 library(sf)
 library(gganimate)
 library(downloadthis)
+library(rmapshaper)
 ```
 
 # Welcome {.unnumbered}
@@ -35,34 +36,50 @@ Welcome to the protocol for conducting a **digital point count** using an autono
 ```{r, eval=F, include=F, warning=F, message=F} 
 
 # locs <- dir_ls(".", recurse = T, regexp = "Locations") %>%
-#   map_dfr(~read_csv(.)) %>%
-#   select(location, latitude, longitude)
+#    map_dfr(~read_csv(.)) %>%
+#    select(location, latitude, longitude)
 # 
 # pcs <- dir_ls(".", recurse = T, regexp = "Tasks") %>%
-#   map_dfr(~read_csv(.)) %>%
-#   select(location, recordingDate) %>%
-#   inner_join(., locs, by = c("location" = "location")) %>%
-#   filter(!is.na(latitude)) %>%
-#   mutate(year = year(recordingDate)) %>%
-#   sample_frac(0.03) %>%
-#   st_as_sf(coords = c("longitude","latitude")) %>%
+#    map_dfr(~read_csv(.)) %>%
+#    select(location, recordingDate) %>%
+#    inner_join(., locs, by = c("location" = "location")) %>%
+#    filter(!is.na(latitude)) %>%
+#    mutate(month = format(recordingDate, "%Y-%m")) %>%
+#    sample_frac(0.05) %>%
+#    mutate(year = year(recordingDate)) %>%
+#    st_as_sf(coords = c("longitude","latitude")) %>%
+#    st_make_valid() %>%
+#    st_set_crs(4269)
+# 
+# can <- read_sf("./data/gis/gpr_000b11a_e.shp") %>%
+#   filter(PRNAME %in% c("Ontario","Alberta","British Columbia","Saskatchewan","Manitoba")) %>%
+#   mutate(colour_type = case_when(PRNAME %in% c("Ontario","Alberta") ~ "Bold", TRUE ~ "Faint")) %>%
 #   st_make_valid() %>%
+#   st_transform(4269) %>%
 #   st_set_crs(4269)
-
-# mymap <- ggplot() +
-#    coord_sf(crs = 4269) +
-#    geom_sf(pcs, mapping = aes(colour = year)) +
-#    theme_bw() +
-#    scale_colour_viridis_c() +
-#    theme(legend.position = "none",
-#          axis.text.x = element_blank(),
-#          axis.text.y = element_blank()) +
-#    ggtitle('Date of Survey: {closest_state}',
-#            subtitle = "Total counts: {frame}%") +
-#    transition_states(states = recordingDate, transition_length = 2, state_length = 1, wrap = T) +
-#    shadow_mark(past = TRUE, alpha = 1) +
-#    ease_aes('cubic-in-out') +
-#    enter_fade()
+# 
+# can_s <- rmapshaper::ms_simplify(can)
+# 
+# my_colours <- c("Faint" = "#D3D3D3", 
+#              "Bold" = "#303234")
+# 
+# mymap <- ggplot(can_s) +
+#     coord_sf(crs = 4326) +
+#     geom_sf(mapping = aes(), fill = NA) +
+#     scale_colour_manual(values = my_colours) + 
+#     geom_sf(pcs, mapping = aes()) +
+#     theme_bw() +
+#     theme(legend.position = "none",
+#           axis.text.x = element_blank(),
+#           axis.text.y = element_blank(),
+#           panel.grid.major = element_blank(),
+#           panel.grid.minor = element_blank()) +
+#     ggtitle("Location of digital point counts across Canada",
+#             subtitle = 'Date of Survey: {closest_state}') + 
+#     transition_states(states = month, transition_length = 0, state_length = , wrap = T) +
+#     shadow_mark(past = TRUE, alpha = 1) +
+#     ease_aes('cubic-in-out') +
+#     enter_fade()
 # 
 # anim_save("./images/map.gif", mymap, width=600, height=300, duration=5)
 ```

@@ -1,7 +1,7 @@
 --- 
 title: "Operationalizing a national protocol for digital point counts"
 author: "Alexander G. MacPhail"
-date: "25 April, 2023"
+date: "26 April, 2023"
 site: bookdown::bookdown_site
 output: bookdown::bs4_book
 url: https:/abbiodiversity.github.io/ndpc
@@ -23,26 +23,20 @@ Welcome to the protocol for conducting a **digital point count** using an autono
 
 ![](./images/map.gif)
 
-## What is included {.unnumbered}
-
-- Use of autonomous recording units (ARUs) and handheld recording devices to conduct avian point counts, in collaboration with leading avian research organizations
-- Standardized protocol for data collection to ensure consistency and comparability of results, following established guidelines
-- Digital format for data collection, making it easily accessible and shareable among researchers from various organizations
-- Citizen scientists can participate in avian research and contribute to scientific knowledge
-- No prior experience or expertise required, making it user-friendly for all skill levels, with support and guidance from experts
+The use of autonomous recording units (ARUs) and handheld recording devices in avian point counts, in partnership with leading avian research organizations, provides a standardized protocol for data collection that ensures consistency and comparability of results following established guidelines. The data is collected in a digital format, which makes it easily accessible and shareable among researchers from various organizations. Citizen scientists can participate in avian research, regardless of prior experience or expertise, and contribute to scientific knowledge. The program is designed to be user-friendly, for all skill levels, with support and guidance from experts.
 
 ## The Basics {.unnumbered}
 
 - [Select a point count protocol](#download-cheatsheets) for conducting a digital point count
-- [Select a recorder model](#selecting-a-recorder)
+- [Select a recorder model](#selecting-a-recorder) and the recording method you'll see (either segmented or continuous)
 - Prepare equipment and settings
 - Conduct the point count surveys
   + Adjust survey length for anthropogenic or geophonic conditions
 - Upload the recordings to a [central repository](#data-submission)
-- Run the speech-to-text recognizer and standardize the recordings'*'
-- Upload the trimmed recordings to [WildTrax]()'*'
-- Process data
-- Publish project and send data to [NatureCounts](#canavian)'*'
+- Standardize the recordings'*'
+- Upload the recordings to [WildTrax](https://www.wildtrax.ca)'*'
+- Process recordings
+- Publish project to WildTrax and [NatureCounts](#canavian)'*'
 
 '\*' --- *Currently supported by the ABMI*
 
@@ -53,8 +47,11 @@ Download the digital point count cheatsheet and voice note templates for a varie
 - [Breeding Bird Atlas 5-minute Survey: Roadside]()
 - [Breeding Bird Atlas 5-minute Survey: Off-road]()
 - [Bioacoustic Unit 3-minute Survey]()
-- [Breeding Bird Survey 3-minute Survey]()
+- Breeding Bird Survey 3-minute Survey
+  - [Segmented recording type]()
+  - [Continuous recording]()
 - [Marshbird Monitoring Protocol 10-minute Survey]()
+- <span style="color:grey;">More soon</span>
 
 ## Frequently Asked Questions {.unnumbered}
 
