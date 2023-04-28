@@ -1,7 +1,7 @@
 --- 
 title: "Operationalizing a national protocol for digital point counts"
 author: "Alexander G. MacPhail"
-date: "26 April, 2023"
+date: "28 April, 2023"
 site: bookdown::bookdown_site
 output: bookdown::bs4_book
 url: https:/abbiodiversity.github.io/ndpc
