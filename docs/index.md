@@ -21,7 +21,7 @@ In collaboration with a multitude of [partners](#acknowledgements), this user-fr
 
 ![](./images/map.gif)
 
-The use of autonomous recording units (ARUs) and hand-held recording devices in avian point counts, in partnership with leading avian research organizations, provides a standardized protocol for data collection that ensures consistency and comparability of results following established guidelines. The data is collected in a digital format, which makes it easily accessible and shareable among researchers from various organizations. Citizen scientists can participate in avian research, regardless of prior experience or expertise, and contribute to scientific knowledge. The program is designed to be user-friendly, for all skill levels, with support and guidance from experts.
+The use of autonomous recording units (**ARUs**) and hand-held recording devices in avian point counts, in partnership with leading avian research organizations, provides a standardized protocol for data collection that ensures consistency and comparability of results following established guidelines. The data is collected in a digital format, which makes it easily accessible and shareable among researchers from various organizations. Citizen scientists can participate in avian research, regardless of prior experience or expertise, and contribute to scientific knowledge. The program is designed to be user-friendly, for all skill levels, with support and guidance from experts.
 
 ---
 
@@ -39,30 +39,35 @@ The use of autonomous recording units (ARUs) and hand-held recording devices in 
 
 ## The Basics {.unnumbered}
 
+<img src="./images/process.png" class="cover" width="200" height="500"/>
+
 **1) Select a protocol and equipment**
 
-- [Select a point count protocol](#download-cheatsheets) for conducting a digital point count
+- [Select a point count protocol](#download-cheatsheets)
 - [Select a recorder model](#selecting-a-recorder) and prepare equipment
-- [Select a recording method](), either *continuous* or *segmented*
+- [Select a recording method](#conducting-a-survey), either **continuous** or **segmented**
+
+<br>
 
 **2) Conduct the surveys**
 
 - [Conduct the point count surveys](#conducting-the-survey)
 
+<br>
+
 **3) Upload and process the data**
 
-- Upload the recordings to a [central repository](#data-submission)
-- [Standardize the recordings](#speech-to-text)'*'
-- Upload the recordings to [WildTrax](https://www.wildtrax.ca)'*' for processing
-- Publish project to WildTrax and [NatureCounts](#canavian)'*'
+- [Upload the recordings](#data-submission) for [standardization](#speech-to-text)'*'
+- Process data in [WildTrax](https://www.wildtrax.ca)
+- [Publish the data](#canavian)'*'
 
-'\*' --- *Currently supported by the ABMI*
+'\*' --- *Currently supported with assistance from the ABMI*
 
 ---
 
-## Download Cheatsheets {.unnumbered}
+## Download Cheat Sheets {.unnumbered}
 
-Download the digital point count cheatsheet and voice note templates for a variety of different format relative to your monitoring program needs:
+Download the digital point count cheat sheet and voice note templates for a variety of different format relative to your monitoring program needs:
 
 **Breeding Bird Atlas**
 
@@ -92,11 +97,10 @@ Download the digital point count cheatsheet and voice note templates for a varie
 - [Why should I record a point count?](#introduction)
 - [What recorder can I use?](#selecting-a-recorder)
 - [What should I say in the voice note?](#voice-notes)
-- [How much data will I accumulate?]()
+- [How much data will I accumulate?](#data-accumulation)
 - [Where do I submit my recordings?](#data-submission)
-- [Should I check my recordings for anything before submitting?](#metadata-checking)
+- [Should I check my recordings for anything before submitting?](#metadata-confirmation)
 - [How are we working to improve this protocol?](#discussion)
-- [What is this data used for?]()
 
 ---
 

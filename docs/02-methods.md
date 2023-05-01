@@ -10,21 +10,21 @@ This protocol considers selecting affordable, readily available, and user-friend
 
 The [**Zoom**](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/h2n-handy-recorder/) H2N, is a hand-held portable recorder with multiple built-in microphones. It is affordable, lightweight, and easy-to-use for an introductory user.
 
-- [H2N Equipment Setup](#h2n-equipment-setup) and [H2N Survey Deployment](#h2n-survey-deployment)
+- [H2N Equipment Setup](#h2n-equipment-setup) and [H2N Survey Deployment](#h2n-segmented-survey-deployment)
 
 <br>
 
 [**Wildlife Acoustics**](https://www.wildlifeacoustics.com/products/song-meter-sm4) sell weatherproof, mountable autonomous recorders that requires external microphones but offer advanced recording features and durability but comes at a higher price.
 
-- [SM4 Equipment Setup](#sm4-equipment-setup) and [SM4 Survey Deployment]()
-- [SM Mini Equipment Setup]() and [SM Mini Survey Deployment]()
-- [SM Micro Equipment Setup]() and [SM Micro Survey Deployment]()
+- [SM4 Equipment Setup](#sm4-equipment-setup) and SM4 Survey Deployment for [segmented](#sm4-segmented-survey-deployment) and [continous](#sm4-continuous-survey-deployment) recording methods
+- [SM Mini Equipment Setup](#sm-mini-equipment-setup) and [SM Mini Survey Deployment](#sm-mini-segmented-survey-deployment)
+- [SM Micro Equipment Setup](#sm-micro-equipment-setup) and [SM Micro Survey Deployment](#sm-micro-segmented-survey-deployment)
 
 <br>
 
-[**Frontier Labs**]() sell durable acoustic recording equipment as well. They are mid-range in price and are more suited to advanced users.
+[**Frontier Labs**](https://www.frontierlabs.com.au/product-page/bar-lt) sell durable acoustic recording equipment as well. They are mid-range in price and are more suited to advanced users.
 
-- [BAR-LT Equipment Setup]() and [BAR-LT Survey Deployment]()
+- [SM4 Equipment Setup](#bar-lt-equipment-setup) and BAR-LT Survey Deployment for [segmented](#bar-lt-segmented-survey-deployment) and [continous](#bar-lt-continuous-survey-deployment) recording methods
 
 <br>
 
@@ -42,36 +42,44 @@ The [**Zoom**](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/
  </thead>
 <tbody>
   <tr>
+   <td style="text-align:left;font-weight: bold;"> Autonomous </td>
+   <td style="text-align:center;"> No </td>
+   <td style="text-align:center;"> Yes </td>
+   <td style="text-align:center;"> Yes </td>
+   <td style="text-align:center;"> Yes </td>
+   <td style="text-align:center;"> Yes </td>
+  </tr>
+  <tr>
    <td style="text-align:left;font-weight: bold;"> Ease-of-use </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> Easy </td>
+   <td style="text-align:center;"> Moderate </td>
+   <td style="text-align:center;"> Moderate </td>
+   <td style="text-align:center;"> Moderate </td>
+   <td style="text-align:center;"> Difficult </td>
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;"> Price </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> Cheap ($ 200) </td>
+   <td style="text-align:center;"> Expensive ($ 1 200) </td>
+   <td style="text-align:center;"> Moderate </td>
+   <td style="text-align:center;"> Cheap </td>
+   <td style="text-align:center;"> Expensive ($ 1 000) </td>
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;"> Weight </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> Light (230 g) </td>
+   <td style="text-align:center;"> Heavy (5 400 g) </td>
+   <td style="text-align:center;"> Light (290 g) </td>
+   <td style="text-align:center;"> Light (195 g) </td>
+   <td style="text-align:center;"> Moderate (900 g) </td>
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;"> Advanced features </td>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> Few </td>
+   <td style="text-align:center;"> Many </td>
+   <td style="text-align:center;"> Many </td>
+   <td style="text-align:center;"> Many </td>
+   <td style="text-align:center;"> Many </td>
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;"> GPS tracking </td>
@@ -79,11 +87,11 @@ The [**Zoom**](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/
    <td style="text-align:center;"> Yes - with accessories </td>
    <td style="text-align:center;"> Yes - with accessories </td>
    <td style="text-align:center;"> Yes - with accessories </td>
-   <td style="text-align:center;"> Yes - built-in </td>
+   <td style="text-align:center;"> Yes </td>
   </tr>
 </tbody>
 <tfoot><tr><td style="padding: 0; " colspan="100%">
-<sup>1</sup> Footnote 1; </td></tr></tfoot>
+<sup>1</sup> Autonomous; refers to the ability for the recorder to turn on and off without human interventtion for set periods.</td></tr></tfoot>
 </table>
 
 ### General Equipment Care
@@ -98,7 +106,7 @@ Calibration and testing of equipment prior to conducting a survey is essential f
 
 ### H2N Equipment Setup
 
-- Ensure firmware is the most recent version.
+Ensure firmware is the most recent version.
 
 
 ```{=html}
@@ -106,6 +114,8 @@ Calibration and testing of equipment prior to conducting a survey is essential f
 <button class="btn btn-default"><i class="fa fa-save"></i> Download Zoom H2N Firmware</button>
 </a>
 ```
+
+<br>
 
 The following additional equipment is required in order to conduct the survey protocol:
 
@@ -354,12 +364,6 @@ For example, time stamps derived from the observer speech-to-text array as well 
 
 This app should help to determine how much data you should collect approximately for a season.
 
-
-```r
-knitr::include_app("https://agmacpha.shinyapps.io/volume_calc/",
-  height = "400px")
-```
-
 <iframe src="https://agmacpha.shinyapps.io/volume_calc/?showcase=0" width="672" height="400px" data-external="1"></iframe>
 
 ---
@@ -376,8 +380,6 @@ Raw recordings uploaded to Cirrus via an FTP in order to standardize them before
 - **Password**: w0rdb1rd
 - **Port**: 22
 :::
-
-### Single-visit digtial point counts {.unnumbered}
 
 Organization > Project > Observer
 

@@ -12,23 +12,7 @@ pre {
 pre code {
   white-space: inherit;
 }
-body {
-  background-color: #f2f2f2; /* change to the color you want */
-}
-/* HERO IMAGE */
-.hero-image-container {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 390px;
-  background-color: #133454;
-}
-.hero-image {
-  width: 100%;
-  height: 390px;
-  object-fit: cover;
-}
-.page-inner {
-  padding-top: 400px !important;
+.cover {
+ float: right;
+ padding: 0 20px 20px 0;
 }

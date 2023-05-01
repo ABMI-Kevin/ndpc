@@ -10,21 +10,21 @@ This protocol considers selecting affordable, readily available, and user-friend
 
 The [**Zoom**](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/h2n-handy-recorder/) H2N, is a hand-held portable recorder with multiple built-in microphones. It is affordable, lightweight, and easy-to-use for an introductory user.
 
-- [H2N Equipment Setup](#h2n-equipment-setup) and [H2N Survey Deployment](#h2n-survey-deployment)
+- [H2N Equipment Setup](#h2n-equipment-setup) and [H2N Survey Deployment](#h2n-segmented-survey-deployment)
 
 <br>
 
 [**Wildlife Acoustics**](https://www.wildlifeacoustics.com/products/song-meter-sm4) sell weatherproof, mountable autonomous recorders that requires external microphones but offer advanced recording features and durability but comes at a higher price.
 
-- [SM4 Equipment Setup](#sm4-equipment-setup) and [SM4 Survey Deployment]()
-- [SM Mini Equipment Setup]() and [SM Mini Survey Deployment]()
-- [SM Micro Equipment Setup]() and [SM Micro Survey Deployment]()
+- [SM4 Equipment Setup](#sm4-equipment-setup) and SM4 Survey Deployment for [segmented](#sm4-segmented-survey-deployment) and [continous](#sm4-continuous-survey-deployment) recording methods
+- [SM Mini Equipment Setup](#sm-mini-equipment-setup) and [SM Mini Survey Deployment](#sm-mini-segmented-survey-deployment)
+- [SM Micro Equipment Setup](#sm-micro-equipment-setup) and [SM Micro Survey Deployment](#sm-micro-segmented-survey-deployment)
 
 <br>
 
-[**Frontier Labs**]() sell durable acoustic recording equipment as well. They are mid-range in price and are more suited to advanced users.
+[**Frontier Labs**](https://www.frontierlabs.com.au/product-page/bar-lt) sell durable acoustic recording equipment as well. They are mid-range in price and are more suited to advanced users.
 
-- [BAR-LT Equipment Setup]() and [BAR-LT Survey Deployment]()
+- [SM4 Equipment Setup](#bar-lt-equipment-setup) and BAR-LT Survey Deployment for [segmented](#bar-lt-segmented-survey-deployment) and [continous](#bar-lt-continuous-survey-deployment) recording methods
 
 <br>
 
@@ -34,19 +34,19 @@ The [**Zoom**](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/
 library(kableExtra)
 
 df <- data.frame(
-  H2N = c(3, 3, 3, 1, "No"),
-  SM4 = c(2, 1, 1, 3, "Yes - with accessories"),
-  Mini = c(2, 2, 3, 3, "Yes - with accessories"),
-  Micro = c(2, 2, 3, 3, "Yes - with accessories"),
-  BAR_LT = c(1, 2, 2, 3, "Yes - built-in"),
-  row.names = c("Ease-of-use", "Price", "Weight", "Advanced features", "GPS tracking")
+  H2N = c("No", "Easy", "Cheap ($ 200)", "Light (230 g)", "Few", "No"),
+  SM4 = c("Yes", "Moderate", "Expensive ($ 1 200)", "Heavy (5 400 g)", "Many", "Yes - with accessories"),
+  Mini = c("Yes", "Moderate", "Moderate", "Light (290 g)", "Many", "Yes - with accessories"),
+  Micro = c("Yes", "Moderate", "Cheap", "Light (195 g)", "Many", "Yes - with accessories"),
+  BAR_LT = c("Yes", "Difficult", "Expensive ($ 1 000)", "Moderate (900 g)", "Many", "Yes"),
+  row.names = c("Autonomous", "Ease-of-use", "Price", "Weight", "Advanced features", "GPS tracking")
 )
 
 # Create kable table
 kable(df, format = "html", align = "c", row.names = TRUE) %>%
   kable_styling(bootstrap_options = "striped", full_width = FALSE) %>%
   column_spec(1, bold = TRUE) %>%
-  footnote(number = c("Footnote 1; "))
+  footnote(number = c("Autonomous; refers to the ability for the recorder to turn on and off without human interventtion for set periods."))
 
 ```
 
@@ -62,13 +62,15 @@ Calibration and testing of equipment prior to conducting a survey is essential f
 
 ### H2N Equipment Setup
 
-- Ensure firmware is the most recent version.
+Ensure firmware is the most recent version.
 
 ```{r, include = T, eval = T, echo=F}
 library(downloadthis)
 
 download_file(path = "./data/H2n_v3.00E.zip", button_label = "Download Zoom H2N Firmware", has_icon=T, icon = "fa fa-save", self_contained=F)
 ```
+
+<br>
 
 The following additional equipment is required in order to conduct the survey protocol:
 
@@ -317,7 +319,7 @@ For example, time stamps derived from the observer speech-to-text array as well 
 
 This app should help to determine how much data you should collect approximately for a season.
 
-```{r}
+```{r, echo=F}
 knitr::include_app("https://agmacpha.shinyapps.io/volume_calc/",
   height = "400px")
 
@@ -337,8 +339,6 @@ Raw recordings uploaded to Cirrus via an FTP in order to standardize them before
 - **Password**: w0rdb1rd
 - **Port**: 22
 :::
-
-### Single-visit digtial point counts {.unnumbered}
 
 Organization > Project > Observer
 
