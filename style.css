@@ -17,7 +17,7 @@ pre code {
  padding: 0 20px 20px 0;
 }
 .inline-figure {
-  border: none;
+  border: 0;
 }
 .book .book-body .page-wrapper .page-inner section.normal div.sidebar > :first-child {
   margin-top: 0;

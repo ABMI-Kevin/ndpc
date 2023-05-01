@@ -24,7 +24,7 @@ The [**Zoom**](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/
 
 [**Frontier Labs**](https://www.frontierlabs.com.au/product-page/bar-lt) sell durable acoustic recording equipment as well. They are mid-range in price and are more suited to advanced users.
 
-- [SM4 Equipment Setup](#bar-lt-equipment-setup) and BAR-LT Survey Deployment for [segmented](#bar-lt-segmented-survey-deployment) and [continous](#bar-lt-continuous-survey-deployment) recording methods
+- [BAR-LT Equipment Setup](#bar-lt-equipment-setup) and BAR-LT Survey Deployment for [segmented](#bar-lt-segmented-survey-deployment) and [continous](#bar-lt-continuous-survey-deployment) recording methods
 
 <br>
 
@@ -94,17 +94,17 @@ The [**Zoom**](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/
 <sup>1</sup> Autonomous; refers to the ability for the recorder to turn on and off without human interventtion for set periods.</td></tr></tfoot>
 </table>
 
-### General Equipment Care
+### General equipment care
 
 Always handle any equipment with care. Recorders contain sensitive electronic components that will not withstand crushing or heavy impacts. Do not use excess force to manipulate components and do all operations gently. See more on handling equipment in [wet weather](#wet-weather).
 
 ---
     
-## Equipment and Settings Preparation
+## Equipment and settings preparation
 
 Calibration and testing of equipment prior to conducting a survey is essential for collecting high-quality acoustic data.
 
-### H2N Equipment Setup
+### H2N equipment setup
 
 Ensure firmware is the most recent version.
 
@@ -168,7 +168,7 @@ Ensure the side bar also has these settings:
 - <span style="font-variant:small-caps;">MS Side Level</span>: `0 (120 degrees)`
 - <span style="font-variant:small-caps;">Input Setting</span>: Plug-in Power
 
-### SM4 Equipment Setup
+### SM4 equipment setup
 
 - Ensure [firmware](https://www.wildlifeacoustics.com/release-notes/song-meter-sm4) is the most recent version.
 
@@ -220,7 +220,7 @@ Sample Rate: 44100 kH
 
 Please also refer to a detailed manual of the SM4's operations by visiting [Wildlife Acoustics](https://www.wildlifeacoustics.com/uploads/user-guides/SM4-USER-GUIDE-20201022.pdf) User Guide and the [Bioacoustic Unit's Deployment Protocol](http://bioacoustic.abmi.ca/wp-content/uploads/2018/01/DeploymentProtocol_e.pdf).
 
-### SM Mini Equipment Setup
+### SM Mini equipment setup
 
 <span style="color:grey;font-style:italic">Coming soon!</span>
 
@@ -228,7 +228,7 @@ Please also refer to a detailed manual of the SM4's operations by visiting [Wild
 
 #### Settings
 
-### SM Micro Equipment Setup
+### SM Micro equipment setup
 
 <span style="color:grey;font-style:italic">Coming soon!</span>
 
@@ -237,7 +237,7 @@ Please also refer to a detailed manual of the SM4's operations by visiting [Wild
 #### Settings
 
 
-### BAR-LT Equipment Setup
+### BAR-LT equipment setup
 
 <span style="color:grey;font-style:italic">Coming soon!</span>
 
@@ -247,7 +247,7 @@ Please also refer to a detailed manual of the SM4's operations by visiting [Wild
 
 ---
 
-## Conducting the Survey
+## Conducting the survey
 
 Conducting the survey is the core piece of work that you'll be doing. This is when you will be placing the recorder at a designed [location](#locations) on the landscape in order to capture the soundscape for a given duration. 
 
@@ -267,26 +267,26 @@ The **segmented** recording method indicates you will be turning the recorder on
 Do not to speak during the point count survey itself to limit erroneous speech errors picked up by the speech-to-text recognizer
 :::
 
-#### H2N Segmented Survey Deployment
+#### H2N segmented survey deployment
 
 - Initiate the survey by pressing the <span style="font-variant:small-caps;">Record</span> button on the recorder.
 - Speak a clear message into the recorder to serve as the voicestamp, including observer name, location (spatial coordinates or identifier), and optional date and time stamp.
 - Move 5-20 meters away from the recorder to reduce observer noise.
 - Say <span style="font-variant:small-caps;">Start</span> to indicate the end of the speech-to-text recording and move away from the recorder
 
-#### SM4 Segmented Survey Deployment
+#### SM4 segmented survey deployment
 
 <span style="color:grey;font-style:italic">Coming soon!</span>
 
-#### SM Mini Segmented Survey Deployment
+#### SM Mini segmented survey deployment
 
 <span style="color:grey;font-style:italic">Coming soon!</span>
 
-#### SM Micro Segmented Survey Deployment
+#### SM Micro segmented survey deployment
 
 <span style="color:grey;font-style:italic">Coming soon!</span>
 
-#### BAR-LT Segmented Survey Deployment
+#### BAR-LT segmented survey deployment
 
 <span style="color:grey;font-style:italic">Coming soon!</span>
 
@@ -301,16 +301,22 @@ Only SM4 and BAR-LT are currently supported for the continuous recording method.
 **Please note that this unit will continuously and indiscriminately record and capture all sounds. We kindly request that you use discretion and be mindful of what is being recorded out of respect for your own privacy and the privacy of others.**
 :::
 
-#### SM4 Continuous Survey Deployment
+- Arrive at the beginning of the survey route and follow safety instructions outlined by the designated point count protocol.
+- Turn on the recorder and speak the designated voice note. Move away from the recorder to begin the count and say <span style="font-variant:small-caps;">Start</span>
+- At the end of the count, speak <span style="font-variant:small-caps;">Stop</span>.
+- Move to the next location along the survey route. Repeat steps as necessary. Verify at *each location* the recorder is still active.
+- At the end of the survey location, turn off the recorder.
+
+#### SM4 continuous survey deployment
 
 <span style="color:grey;font-style:italic">Coming soon!</span>
 
-#### BAR-LT Continuous Survey Deployment
+#### BAR-LT continuous survey deployment
 
 <span style="color:grey;font-style:italic">Coming soon!</span>
 
 
-### Survey Length Adjustment
+### Survey length adjustment
 
 Surveys are supposed to be a certain length. Surveys may occur along roadsides, near areas of loud anthropogenic noise, or interrupted by intermittent or inclement weather. In order to optimize species detections in the detection radius of the ARU, survey time can be extended by 1 minute per event up to maximum survey length time of 10 minutes (or in the case of Marshbird Monitoring Protocol, 15-minutes). 
 
@@ -342,7 +348,7 @@ In the context of this protocol, a **location** is a single physical, geographic
 
 ![](./images/locations.png)
 
-### Voice Notes
+### Voice notes
 
 Voice notes serve as an effective tool for capturing spatial and temporal information on each recording. It is not essential that users follow a specific speaking order, but a voice note must include at a mininum:
 
@@ -361,6 +367,8 @@ Here is an example of a voice note for a named location:
 </audio>
 ```
 
+<br>
+
 If the location is new, it is also necessary to provide latitude and longitude coordinates. Here is an example of an off-road or new location voice note:
 
 
@@ -370,10 +378,11 @@ If the location is new, it is also necessary to provide latitude and longitude c
 </audio>
 ```
 
+<br>
 
 Creating a standard file name format after processing the voice note is done through speech-to-text recognition. For example, the format for [Zoom](#h2n-equipment-setup) recordings should be in `YYMMDD` (year, month, day), and the time should be in `HHMMSS` (hour, minute, second) format. The resulting file name format after the processing will be in the following format: `LOCATION_YYYYMMDD_HHMMSS.wav`.
 
-#### Speech-to-text {.unnumbered}
+#### Speech-to-text
 
 *This is A B M I dash Five Six Five dash S W. The date is February 23rd 2022 and the time is 11:06 AM Mountain standard time. Observers are John Doe and Jane Doe*
 

@@ -13,6 +13,10 @@ description: |
 
 # Home {.unnumbered}
 
+:::{.rmdnote}
+<span style="font-size: 80%; font-weight: bold; color: grey;"><a href="https://abbiodiversity.github.io/ndpc-fr">Cliquez ici pour accéder à la version française</a></span>
+:::
+
 Welcome to the protocol for conducting a **digital point count** using an autonomous recording unit or hand-held recording device. 
 
 In collaboration with a multitude of [partners](#acknowledgements), this user-friendly protocol aims to establish a standard method for collecting data on bird populations in a digital format, making it accessible and easy for citizen scientists to collect and contribute to avian research and population monitoring.
@@ -39,9 +43,7 @@ The use of autonomous recording units (**ARUs**) and hand-held recording devices
 
 ## The Basics {.unnumbered}
 
-![](./images/process.png){width=200px height=500px style="float: right;"}
-
-[comment]: <> (<img src="./images/process.png" class="cover" align="right" width="200" height="500"/>)
+<img src="./images/process.png" class="cover" width="250" height="328"/>
 
 **1) Select a protocol and equipment**
 
@@ -63,11 +65,11 @@ The use of autonomous recording units (**ARUs**) and hand-held recording devices
 - Process data in [WildTrax](https://www.wildtrax.ca)
 - [Publish the data](#canavian)'*'
 
-'\*' --- *Currently supported with assistance from the ABMI*
+'\*' *Currently supported with assistance from the ABMI*
 
 ---
 
-## Download Cheat Sheets {.unnumbered}
+## Download cheat sheets {.unnumbered}
 
 Download the digital point count cheat sheet and voice note templates for a variety of different format relative to your monitoring program needs
 

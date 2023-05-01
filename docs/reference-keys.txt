@@ -35,6 +35,7 @@ wet-weather
 metadata
 locations
 voice-notes
+speech-to-text
 data-accumulation
 data-submission
 metadata-confirmation
