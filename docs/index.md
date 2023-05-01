@@ -39,7 +39,9 @@ The use of autonomous recording units (**ARUs**) and hand-held recording devices
 
 ## The Basics {.unnumbered}
 
-<img src="./images/process.png" class="cover" align="right" width="200" height="500"/>
+![](./images/process.png){width=200px height=500px style="float: right;"}
+
+[comment]: <> (<img src="./images/process.png" class="cover" align="right" width="200" height="500"/>)
 
 **1) Select a protocol and equipment**
 
@@ -67,27 +69,34 @@ The use of autonomous recording units (**ARUs**) and hand-held recording devices
 
 ## Download Cheat Sheets {.unnumbered}
 
-Download the digital point count cheat sheet and voice note templates for a variety of different format relative to your monitoring program needs:
+Download the digital point count cheat sheet and voice note templates for a variety of different format relative to your monitoring program needs
 
 **Breeding Bird Atlas**
 
 - [Breeding Bird Atlas 5-minute Survey: Roadside]()
 - [Breeding Bird Atlas 5-minute Survey: Off-road]()
 
+<br>
+
 **Bioacoustic Unit Linear Feature Surveys**
 
 - [Bioacoustic Unit 3-minute Survey]()
 
-**Breding Bird Survey**
+<br>
+
+**Breeding Bird Survey**
 
 - [Segmented recording method]()
 - [Continuous recording method]()
+
+<br>
   
 **Marshbird Monitoring Protocol**  
 
 - [Marshbird Monitoring Protocol 10-minute Survey]()
 
 <br>
+
 <span style="color:grey;font-style:italic">More protocols will be supported soon!</span>
 
 ---

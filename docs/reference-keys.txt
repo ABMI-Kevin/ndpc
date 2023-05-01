@@ -27,7 +27,7 @@ sm4-segmented-survey-deployment
 sm-mini-segmented-survey-deployment
 sm-micro-segmented-survey-deployment
 bar-lt-segmented-survey-deployment
-continous-recording
+continuous-recording
 sm4-continuous-survey-deployment
 bar-lt-continuous-survey-deployment
 survey-length-adjustment

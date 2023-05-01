@@ -3,7 +3,7 @@
 ## Selecting a recorder
 
 :::{.rmdnote}
-Read the section on equipment setup, then survey deployment before you conduct your surveys
+Read the section on equipment setup and preparation followed by conducting surveys
 :::
 
 This protocol considers selecting affordable, readily available, and user-friendly autonomous recording units (ARUs) or handheld recording devices. Here are some recommended options.
@@ -246,14 +246,14 @@ Do not to speak during the point count survey itself to limit erroneous speech e
 <span style="color:grey;font-style:italic">Coming soon!</span>
 
 
-### Continous recording
+### Continuous recording
 
 In the **continuous** recording method, you will be turning the recorder on at the beginning of a survey route, and turning it off at the end of a survey route. A survey route can include many [locations](#locations). For example, a Breeding Bird Survey route may be conducting using a continuous recording method, allowing you to focus time on conducting point counts.
 
 :::{.rmdwarning}
 Only SM4 and BAR-LT are currently supported for the continuous recording method.
 
-**Please note that this unit will continuously and indiscriminately record and capture all sounds. We kindly request that you use discretion and be mindful of what is being recorded, and respect for your own privacy and the privacy of others.**
+**Please note that this unit will continuously and indiscriminately record and capture all sounds. We kindly request that you use discretion and be mindful of what is being recorded out of respect for your own privacy and the privacy of others.**
 :::
 
 #### SM4 Continuous Survey Deployment
@@ -267,7 +267,7 @@ Only SM4 and BAR-LT are currently supported for the continuous recording method.
 
 ### Survey Length Adjustment
 
-Surveys are supposed to be a certain length. Surveys may occur along roadsides, near areas of loud anthropogenic noise, or interrupted by intermittent or inclement weather. In order to optimize species detections in the detection radius of the ARU, survey time can be extended by 1 minute per event up to maximum survey length time of 10 minutes. 
+Surveys are supposed to be a certain length. Surveys may occur along roadsides, near areas of loud anthropogenic noise, or interrupted by intermittent or inclement weather. In order to optimize species detections in the detection radius of the ARU, survey time can be extended by 1 minute per event up to maximum survey length time of 10 minutes (or in the case of Marshbird Monitoring Protocol, 15-minutes). 
 
 It’s recommended to keep a stopwatch or phone timer set to the length of the survey interval, and the maximum survey interval so you don’t have to keep track of the events specifically but rather the time you can survey for. 
 
@@ -299,13 +299,39 @@ In the context of this protocol, a **location** is a single physical, geographic
 
 ### Voice Notes
 
-Voice notes serve as an effective tool for capturing spatial and temporal information on each recording. It is essential that users follow a specific speaking order to ensure accuracy and consistency in their voice notes. A voice note must include at a minium:
+Voice notes serve as an effective tool for capturing spatial and temporal information on each recording. It is not essential that users follow a specific speaking order, but a voice note must include at a mininum:
 
 - Observer's name
 - [Location](#locations) name
 - Date and time
 
-If the location is new, it is also necessary to provide latitude and longitude coordinates. Following this speaking order will allow for easy organization and standardization of data during the file-naming process. Creating a standard file name format after processing the voice note is done through speech-to-text recognition. For example, the format for [Zoom](#h2n-equipment-setup) recordings should be in `YYMMDD` (year, month, day), and the time should be in `HHMMSS` (hour, minute, second) format. The resulting file name format after the processing will be in the following format: `LOCATION_YYYYMMDD_HHMMSS.wav`.
+Here is an example of a voice note for a named location:
+
+```{r setup, include = FALSE, echo=F}
+html_tag_audio <- function(file, type = c("wav")) {
+  type <- match.arg(type)
+  htmltools::tags$audio(
+    controls = "",
+    htmltools::tags$source(
+      src = file,
+      type = glue::glue("audio/{type}", type = type)
+    )
+  )
+}
+```
+
+```{r, echo=F}
+html_tag_audio("./assets/reprex.wav", type = "wav")
+```
+
+If the location is new, it is also necessary to provide latitude and longitude coordinates. Here is an example of an off-road or new location voice note:
+
+```{r, echo=F}
+html_tag_audio("./assets/reprex.wav", type = "wav")
+```
+
+
+Creating a standard file name format after processing the voice note is done through speech-to-text recognition. For example, the format for [Zoom](#h2n-equipment-setup) recordings should be in `YYMMDD` (year, month, day), and the time should be in `HHMMSS` (hour, minute, second) format. The resulting file name format after the processing will be in the following format: `LOCATION_YYYYMMDD_HHMMSS.wav`.
 
 #### Speech-to-text {.unnumbered}
 
