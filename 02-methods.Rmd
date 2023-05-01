@@ -2,31 +2,59 @@
 
 ## Selecting a recorder
 
-This protocol considers selecting affordable, readily available, and user-friendly autonomous recording units (ARUs) or handheld recording devices. Here are some recommended options.
-
 :::{.rmdnote}
 Read the section on equipment setup, then survey deployment before you conduct your surveys
 :::
 
-- [**Zoom H2N**](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/h2n-handy-recorder/) are a handheld portable recorder with multiple built-in microphones. It is affordable, lightweight, and easy to use for an introductory user.
-  + [H2N Equipment Setup](#h2n-equipment-setup)
-  + [H2N Survey Deployment](#h2n-survey-deployment)
-  
-:::{.rmdwarning}
-It's recommended not to use a Zoom H4N given the microphones are directional
-:::
-  
-- [Wildlife Acoustics](https://www.wildlifeacoustics.com/products/song-meter-sm4) sell weatherproof, mountable autonomous recorders that requires external microphones but offer advanced recording features and durability but comes at a higher price.
-  + [SM4 Equipment Setup](#sm4-equipment-setup)
-  + [SM4 Survey Deployment]()
-  + [SM Mini Equipment Setup]()
-  + [SM Mini Survey Deployment]()
-  + [SM Micro Equipment Setup]()
-  + [SM Micro Survey Deployment]()
+This protocol considers selecting affordable, readily available, and user-friendly autonomous recording units (ARUs) or handheld recording devices. Here are some recommended options.
 
-- [Frontier BAR-LT]() sell durable acoustic recording equipment as well.
-  + [BAR-LT Equipment Setup]()
-  + [BAR-LT Survey Deployment]()
+The [**Zoom**](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/h2n-handy-recorder/) H2N, is a hand-held portable recorder with multiple built-in microphones. It is affordable, lightweight, and easy-to-use for an introductory user.
+
+- [H2N Equipment Setup](#h2n-equipment-setup) and [H2N Survey Deployment](#h2n-survey-deployment)
+
+<br>
+
+[**Wildlife Acoustics**](https://www.wildlifeacoustics.com/products/song-meter-sm4) sell weatherproof, mountable autonomous recorders that requires external microphones but offer advanced recording features and durability but comes at a higher price.
+
+- [SM4 Equipment Setup](#sm4-equipment-setup) and [SM4 Survey Deployment]()
+- [SM Mini Equipment Setup]() and [SM Mini Survey Deployment]()
+- [SM Micro Equipment Setup]() and [SM Micro Survey Deployment]()
+
+<br>
+
+[**Frontier Labs**]() sell durable acoustic recording equipment as well. They are mid-range in price and are more suited to advanced users.
+
+- [BAR-LT Equipment Setup]() and [BAR-LT Survey Deployment]()
+
+<br>
+
+
+```{r, eval=T, include=T, warning=F, message=F, echo=F}
+
+library(kableExtra)
+
+df <- data.frame(
+  H2N = c(3, 3, 3, 1, "No"),
+  SM4 = c(2, 1, 1, 3, "Yes - with accessories"),
+  Mini = c(2, 2, 3, 3, "Yes - with accessories"),
+  Micro = c(2, 2, 3, 3, "Yes - with accessories"),
+  BAR_LT = c(1, 2, 2, 3, "Yes - built-in"),
+  row.names = c("Ease-of-use", "Price", "Weight", "Advanced features", "GPS tracking")
+)
+
+# Create kable table
+kable(df, format = "html", align = "c", row.names = TRUE) %>%
+  kable_styling(bootstrap_options = "striped", full_width = FALSE) %>%
+  column_spec(1, bold = TRUE) %>%
+  footnote(number = c("Footnote 1; "))
+
+```
+
+### General Equipment Care
+
+Always handle any equipment with care. Recorders contain sensitive electronic components that will not withstand crushing or heavy impacts. Do not use excess force to manipulate components and do all operations gently. See more on handling equipment in [wet weather](#wet-weather).
+
+---
     
 ## Equipment and Settings Preparation
 
@@ -36,13 +64,11 @@ Calibration and testing of equipment prior to conducting a survey is essential f
 
 - Ensure firmware is the most recent version.
 
-```{r, include = T, eval = T}
+```{r, include = T, eval = T, echo=F}
 library(downloadthis)
 
 download_file(path = "./data/H2n_v3.00E.zip", button_label = "Download Zoom H2N Firmware", has_icon=T, icon = "fa fa-save", self_contained=F)
 ```
-
-#### Required equipment
 
 The following additional equipment is required in order to conduct the survey protocol:
 
@@ -63,9 +89,9 @@ The following settings will allow you to easily record and integrate data with o
 - Use the <span style="font-variant:small-caps;">Play</span> button to select and modify the year, day, month, and time settings as needed. 
 - When all settings are correct, select <span style="font-variant:small-caps;">OK</span> and press the <span style="font-variant:small-caps;">Play</span> button to exit. 
 
-##### Defaulting to date and time filenames {.unnumbered}
+##### Defaulting to date and time file names {.unnumbered}
 
-- Ensure that <span style="font-variant:small-caps;">Filename</span> (under <span style="font-variant:small-caps;">Rec</span> settings) is set to <span style="font-variant:small-caps;">Date</span> so that individual files will be named by the date/time of the start of recording, e.g. `230604-053010` which corresponds to the year, month day, hour, minute and second the recording started. Do not use <span style="font-variant:small-caps;">Default</span>.
+Ensure that <span style="font-variant:small-caps;">Filename</span> (under <span style="font-variant:small-caps;">Rec</span> settings) is set to <span style="font-variant:small-caps;">Date</span> so that individual files will be named by the date/time of the start of recording, e.g. `230604-053010` which corresponds to the year, month day, hour, minute and second the recording started. Do not use <span style="font-variant:small-caps;">Default</span>.
 
 ##### Audio settings {.unnumbered}
 
@@ -77,7 +103,9 @@ Ensure the recorder uses the following settings:
 - <span style="font-variant:small-caps;">Rec Format</span> is set at <span style="font-variant:small-caps;">Wav</span> (when you turn on the recorder, the <span style="font-variant:small-caps;">Rec</span> format is displayed on the lower left [e.g., 44.1/16]. If it doesn’t match, go to <span style="font-variant:small-caps;">Menu</span> to change it under <span style="font-variant:small-caps;">Rec</span> settings)
 - Use `44.1kHz/16 bit` (there are other wav settings that would also work but use a little or a lot more memory). Do not use MP3. 
 
-<img align="left" src="images/zoomsettings.png" width="680" height="680">>
+<br>
+<img align="left" src="./images/zoomsettings.png" width="680" height="680">
+<br>
 
 Other audio settings include:
 
@@ -86,7 +114,7 @@ Other audio settings include:
 - <span style="font-variant:small-caps;">Comp Limiter</span> is <span style="font-variant:small-caps;">Off</span>
 - <span style="font-variant:small-caps;">Auto Gain</span> is <span style="font-variant:small-caps;">Off</span>
 
-<img align="left" src="images/zoomtable.png" width="680" height="400"
+<img align="left" src="./images/zoomtable.png" width="680" height="400"
 
 Ensure the side bar also has these settings:
 
@@ -97,6 +125,8 @@ Ensure the side bar also has these settings:
 
 - Ensure [firmware](https://www.wildlifeacoustics.com/release-notes/song-meter-sm4) is the most recent version.
 
+![](./images/sm4setup.png)
+
 #### Required equipment
 
 The following equipment is required in order to conduct the survey protocol:
@@ -105,9 +135,47 @@ The following equipment is required in order to conduct the survey protocol:
 - 4x D batteries (pack at least 4 spare D batteries)
 - Tripod
 
-#### Settings
+#### Setting the file prefix and date and time
+
+#### Activating the SM4 {.unnumbered}
+
+- Open the front cover of the unit
+- Turn on the <span style="font-variant:small-caps;">Power</span> switch on the side of the unit
+- Wait for the unit to initialize. SM4 units will automatically go to the <span style="font-variant:small-caps;">Main Menu</span> screen displaying the date, time, firmware and number of SD cards loaded. Make sure that the card slot does not show a row of question marks `??????` or say <span style="font-variant:small-caps;">Error</span>. This indicates that the card is not recognized
+- Check the date and time are correct
+
+
+- Use the arrows to navigate the menu.
+- Select the “Setting” section.
+- Scroll down to Location.
+- Select “File Prefix”.
+- Change the file prefix to the station name using the correct format (project specific but will follow standard naming conventions).
+- Fill out the data sheet as you go through this process.
+- Press the up and down arrows simultaneously to force-activate a recording speaking the [voice note](#voice-notes)
+ 
+Other settings include:
+
+- Solar Mode: Sunrise/Sunset (specified in SET or PGM file).
+Timezone: UTC -06 for Alberta between March and November (this is 6 from Prime Meridian =
+Mountain Standard Daylight Savings Time, specified in SET or PGM file). 
+
+ny SD cards that makes sense to store the amount of data you want to collect. Use
+the configuration utilities to figure this out.
+Batteries: 4 D-Cell batteries (Internal, Alkaline).
+Channel: Stereo.
+Gain: Left and right at 12.5 dB (BU specific settings file).
+High-pass filter: left and right are to be off.
+Sample Rate: 44100 kH
+
+#### Troubleshooting the SM4 {.unnumbered}
+
+- If the SM4 will not start after the power is switched on, press the <span style="font-variant:small-caps;">Check Status</span> button. If the unit still won't turn on, switch off the <span style="font-variant:small-caps;">Power</span> and take out the batteries and put them back in.
+
+Please also refer to a detailed manual of the SM4's operations by visiting [Wildlife Acoustics](https://www.wildlifeacoustics.com/uploads/user-guides/SM4-USER-GUIDE-20201022.pdf) User Guide and the [Bioacoustic Unit's Deployment Protocol](http://bioacoustic.abmi.ca/wp-content/uploads/2018/01/DeploymentProtocol_e.pdf).
 
 ### SM Mini Equipment Setup
+
+<span style="color:grey;font-style:italic">Coming soon!</span>
 
 #### Required equipment
 
@@ -115,29 +183,42 @@ The following equipment is required in order to conduct the survey protocol:
 
 ### SM Micro Equipment Setup
 
+<span style="color:grey;font-style:italic">Coming soon!</span>
+
 #### Required equipment
 
 #### Settings
+
 
 ### BAR-LT Equipment Setup
 
+<span style="color:grey;font-style:italic">Coming soon!</span>
+
 #### Required equipment
 
 #### Settings
 
+---
+
 ## Conducting the Survey
 
-Conducting the survey is the core piece of work that you'll be doing.
+Conducting the survey is the core piece of work that you'll be doing. This is when you will be placing the recorder at a designed [location](#locations) on the landscape in order to capture the soundscape for a given duration. 
 
-- Arrive at survey location and follow safety instructions outlined by the designated point count protocol.
-- Set up the recorder at a fixed location, keeping it at a minimum distance of 5 meters away from the observer to minimize observer sounds, but no more than 20 meters away to minimize error. A tripod or stable surface is recommended to support the ARU; do not place the recorder on or near a vehicle as it will pick up vibrations that could mask species detections. Placing the recorder to the rear of the vehicle can also minimise the sounds made from a vehicle engine (e.g. car, truck, quad, etc.) after it is shut off.
+There are two different types of recording method that can be used throughout a survey route: [**continuous**](#continuous-recording) and [**segmented**](#segmented-recording).
+
+### Segmented recording
+
+The **segmented** recording method indicates you will be turning the recorder on and off at each location along a survey route. Segmented recording is the most popular method for on and off-road deployments. The advantage is that you will only accumulate data and recording for the intended period during the point count. In general, a segmented recording method will involve the following steps, but refer to each subsection specific to a recorder make and model.
+
+- Arrive at a survey location and follow safety instructions outlined by the designated point count protocol.
+- Set up the recorder at a fixed location, keeping it at a minimum distance of 5 meters away from the observer to minimize observer sounds, but no more than 20 meters away to minimize error. A tripod or stable surface is recommended to support the ARU; do not place the recorder on or near a vehicle as it will pick up vibrations that could mask species detections. Placing the recorder to the rear of the vehicle can also minimize the sounds made from a vehicle engine (e.g. car, truck, quad, etc.) after it is shut off.
 - Turn on the unit and speak the designated voice note. Move away from the recorder to begin the count and say <span style="font-variant:small-caps;">Start</span>
 - At the end of the count, speak <span style="font-variant:small-caps;">Stop</span>.
 - Turn off the recorder and move to the next location. Repeat steps as necessary to conduct more surveys along a route
 
-### Segmented recording method
-
-The *segmented* recording method indicates you will be turning the recorder on and off at each location.
+:::{.rmdwarning}
+Do not to speak during the point count survey itself to limit erroneous speech errors picked up by the speech-to-text recognizer
+:::
 
 #### H2N Segmented Survey Deployment
 
@@ -148,57 +229,43 @@ The *segmented* recording method indicates you will be turning the recorder on a
 
 #### SM4 Segmented Survey Deployment
 
-#### SM Mini Segmented Survey Deployment
-
-#### SM Micro Segmented Survey Deployment
-
-#### BAR-LT Segmented Survey Deployment
-
-### Continuous recording method
-
-The *continuous* recording method indicates you will be turning the recorder on at the beginning of a survey route, and turning it off at the end of a survey route. A survey route can include many locations.
-
-:::{.rmdwarning}
-Do not use a Zoom H2N for continuous deployment as battery life will not last for the duration of the survey route.
-:::
-
-#### SM4 Segmented Survey Deployment
+<span style="color:grey;font-style:italic">Coming soon!</span>
 
 #### SM Mini Segmented Survey Deployment
 
+<span style="color:grey;font-style:italic">Coming soon!</span>
+
 #### SM Micro Segmented Survey Deployment
+
+<span style="color:grey;font-style:italic">Coming soon!</span>
 
 #### BAR-LT Segmented Survey Deployment
 
-## Other
+<span style="color:grey;font-style:italic">Coming soon!</span>
 
-### Voice Notes
 
-Voice notes serve as an effective tool for capturing spatial and temporal information on each recording. It is essential that users follow a specific speaking order to ensure accuracy and consistency in their voice notes. A voice note must include at a minium:
+### Continous recording
 
-- Observer's name
-- Location name
-- Date and time
-
-If the location is off-road or in a new area, it is also necessary to provide latitude and longitude coordinates. Following this speaking order will allow for easy organization and standardization of data during the file-naming process.
-
-Creating a standard filename format after processing the voice note is done through speech-to-text recognition. For example, the format for [Zoom](#h2n-equipment-setup) recordings should be in `YYMMDD` (year, month, day), and the time should be in `HHMMSS` (hour, minute, second) format. The resulting filename format after the processing will be in the following format: `LOCATION_YYYYMMDD_HHMMSS.wav`.
+In the **continuous** recording method, you will be turning the recorder on at the beginning of a survey route, and turning it off at the end of a survey route. A survey route can include many [locations](#locations). For example, a Breeding Bird Survey route may be conducting using a continuous recording method, allowing you to focus time on conducting point counts.
 
 :::{.rmdwarning}
-Do not to speak during the point count survey itself to limit erroneous speech errors picked up by the speech-to-text recognizer
+Only SM4 and BAR-LT are currently supported for the continuous recording method.
+
+**Please note that this unit will continuously and indiscriminately record and capture all sounds. We kindly request that you use discretion and be mindful of what is being recorded, and respect for your own privacy and the privacy of others.**
 :::
 
-#### Speech-to-text {.unnumbered}
+#### SM4 Continuous Survey Deployment
 
-*This is A B M I dash Five Six Five dash S W. The date is February 23rd 2022 and the time is 11:06 AM Mountain standard time. Observers are John Doe and Jane Doe*
+<span style="color:grey;font-style:italic">Coming soon!</span>
 
-A speech-to-text recognizer is used to transcribe the voice note into text information in order to extract the location name, spatial coordinates or confirm the temporal stamp of the ARU, all for quality control purposes. The [Google Cloud Speech-to-Text](https://cloud.google.com/speech-to-text) recognizer is an advanced deep learning neural network using algorithms for automatic speech recognition. The recognizer can also use one of several machine learning models to transcribe the audio files, support for French and other language variants, and alternatives based on likelihood values. Google has trained these speech recognition models for specific audio types and sources. 
+#### BAR-LT Continuous Survey Deployment
 
-For example, time stamps derived from the observer speech-to-text array as well as the recording time stamp from the audio would be joined into to create a unique location and recording date with the file prefix from the ARU.
+<span style="color:grey;font-style:italic">Coming soon!</span>
+
 
 ### Survey Length Adjustment
 
-Surveys may occur along roadsides, near areas of loud anthropogenic noise, or interrupted by intermittent or inclement weather. In order to optimize species detections in the detection radius of the ARU, survey time can be extended by 1 minute per event up to maximum survey length time of 10 minutes. 
+Surveys are supposed to be a certain length. Surveys may occur along roadsides, near areas of loud anthropogenic noise, or interrupted by intermittent or inclement weather. In order to optimize species detections in the detection radius of the ARU, survey time can be extended by 1 minute per event up to maximum survey length time of 10 minutes. 
 
 It’s recommended to keep a stopwatch or phone timer set to the length of the survey interval, and the maximum survey interval so you don’t have to keep track of the events specifically but rather the time you can survey for. 
 
@@ -212,13 +279,51 @@ Geophonic events are similar; if it becomes too windy or rainy to continue the s
 It's possible the survey is taking place in an environment when anthropogenic noise can't be avoid. In this case, survey for the standard amount of time dictated by your protocol.
 :::
 
+### Wet weather
+
+Extra care is required to handle ARUs in wet weather. When units such as Song Meters are closed, they are water tight and can withstand most weather conditions in the field. However, do not get water inside on the electronic components or into the external microphone sockets. Water will short out the electrical circuits and may cause permanent damage to the units.
+
+Take extra care on activation and deactivation on rainy days. Having wet hands, gloves and clothing will make it difficult to keep the inside of the equipment dry. Try to minimize the amount of time an ARU is exposed should you encounter inclement weather.
+
+---
+
+## Metadata
+
+### Locations
+
+In the context of this protocol, a **location** is a single physical, geographic place at which a digital point count is collected and/or biological data was collected on the landscape. They are one of the most important components as media and metadata are linked by the location.
+
+![](./images/locations.png)
+
+### Voice Notes
+
+Voice notes serve as an effective tool for capturing spatial and temporal information on each recording. It is essential that users follow a specific speaking order to ensure accuracy and consistency in their voice notes. A voice note must include at a minium:
+
+- Observer's name
+- [Location](#locations) name
+- Date and time
+
+If the location is new, it is also necessary to provide latitude and longitude coordinates. Following this speaking order will allow for easy organization and standardization of data during the file-naming process. Creating a standard file name format after processing the voice note is done through speech-to-text recognition. For example, the format for [Zoom](#h2n-equipment-setup) recordings should be in `YYMMDD` (year, month, day), and the time should be in `HHMMSS` (hour, minute, second) format. The resulting file name format after the processing will be in the following format: `LOCATION_YYYYMMDD_HHMMSS.wav`.
+
+#### Speech-to-text {.unnumbered}
+
+*This is A B M I dash Five Six Five dash S W. The date is February 23rd 2022 and the time is 11:06 AM Mountain standard time. Observers are John Doe and Jane Doe*
+
+A speech-to-text recognizer is used to transcribe the voice note into text information in order to extract the location name, spatial coordinates or confirm the temporal stamp of the ARU, all for quality control purposes. The [Google Cloud Speech-to-Text](https://cloud.google.com/speech-to-text) recognizer is an advanced deep learning neural network using algorithms for automatic speech recognition. The recognizer can also use one of several machine learning models to transcribe the audio files, support for French and other language variants, and alternatives based on likelihood values. Google has trained these speech recognition models for specific audio types and sources. 
+
+For example, time stamps derived from the observer speech-to-text array as well as the recording time stamp from the audio would be joined into to create a unique location and recording date with the file prefix from the ARU.
+
 ### Data accumulation
+
+This app should help to determine how much data you should collect approximately for a season.
 
 ```{r}
 knitr::include_app("https://agmacpha.shinyapps.io/volume_calc/",
   height = "400px")
 
 ```
+
+---
 
 ## Data submission
 
@@ -280,6 +385,8 @@ You can technically upload all recordings directly to a project on WildTrax prov
 Once the recordings are trimmed to the correct length of time, ABMI staff will upload them to appropriate projects in WildTrax. Go to My Data -> My Projects and search for the appropriate project for your data.
 
 <img align="left" src="images/project.png" width="575" height="500">
+
+---
 
 ## Data publication
 

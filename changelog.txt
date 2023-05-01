@@ -1,0 +1,12 @@
+# Changelog
+
+- 05-08-23:
+  - [Cheat sheets](#download-cheatsheets) and video tutorials for:
+    - [Equipment setup](#equipment-setup)
+    - [Conducting a survey](#conducting-a-survey)
+    - [Uploading data](#data-submission)
+
+- 05-05-23:
+  - French version (version français disponible)
+  - SM Micro, Mini and BAR-LT equipment support
+  - Addition of two recording methods for Breeding Bird Survey routes: segmented and continuous recordings. See [Conducting a Survey](#conducting-a-survey) for more details.

@@ -1,12 +1,20 @@
 bookdown::bs4_book:
   theme:
-    primary: "#637238"
+    base_font:
+      google: Raleway
+    heading_font:
+      google:
+        family: Montserrat
+        wght: 400
   repo:
     base: https://github.com/ABbiodiversity/ndpc
     branch: main
 bookdown::gitbook:
+  includes:
+    before_body: assets/hero-image.html
   css: style.css
   config:
+    view: https://github.com/ABbiodiversity/ndpc/blob/main/%s
     edit: https://github.com/ABbiodiversity/ndpc/edit/main/%s
     download: ["pdf", "epub"]
     sharing:
