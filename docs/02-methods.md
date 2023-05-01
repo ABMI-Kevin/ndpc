@@ -414,7 +414,7 @@ Where *group* is a set of locations on the landscape. For example a Breeding Bir
 ### Metadata confirmation
 
 - Ensure the file name convention of the recordings follows either `YYMMDD-HHMMSS` or `LOCATION_YYYYMMDD_HHMMSS` format
-- Ensure the folder structure follows the [standard hierarchy]()
+- Ensure the folder structure follows the [standard hierarchy](#data-submission)
 - If there are zero-length files or files smaller than the intended length of the count, **do not upload these files**
 
 :::{.rmdwarning}
