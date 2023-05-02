@@ -1,7 +1,7 @@
 --- 
 title: "Operationalizing a national protocol for digital point counts"
 author: "Alexander G. MacPhail"
-date: "01 May, 2023"
+date: "02 May, 2023"
 site: bookdown::bookdown_site
 output: bookdown::bs4_book
 url: https:/abbiodiversity.github.io/ndpc
@@ -25,7 +25,7 @@ In collaboration with a multitude of [partners](#acknowledgements), this user-fr
 
 ![](./images/map.gif)
 
-The use of autonomous recording units (**ARUs**) and hand-held recording devices in avian point counts, in partnership with leading avian research organizations, provides a standardized protocol for data collection that ensures consistency and comparability of results following established guidelines. The data is collected in a digital format, which makes it easily accessible and shareable among researchers from various organizations. Citizen scientists can participate in avian research, regardless of prior experience or expertise, and contribute to scientific knowledge. The program is designed to be user-friendly, for all skill levels, with support and guidance from experts.
+The use of autonomous recording units (**ARUs**) and hand-held recording devices in avian point counts, in partnership with leading avian research organizations, provides a standardized protocol for data collection that ensures consistency and comparability of results following established guidelines. The data is collected in a digital format, which makes it easily accessible and shareable among researchers from various organizations, but also archiveable and produces data that can be verified. Citizen scientists can participate in avian research, regardless of prior experience or expertise, and contribute to scientific knowledge. The program is designed to be user-friendly, for all skill levels, with support and guidance from experts.
 
 ---
 
@@ -43,7 +43,12 @@ The use of autonomous recording units (**ARUs**) and hand-held recording devices
 
 ## The Basics {.unnumbered}
 
-<img src="./images/process.png" class="cover" width="250" height="328"/>
+
+```r
+knitr::include_graphics("images/process.png")
+```
+
+<img src="images/process.png" width="30%" style="float:right; padding:10px" />
 
 **1) Select a protocol and equipment**
 
@@ -63,6 +68,11 @@ The use of autonomous recording units (**ARUs**) and hand-held recording devices
 
 - [Upload the recordings](#data-submission) for [standardization](#speech-to-text)'*'
 - Process data in [WildTrax](https://www.wildtrax.ca)
+
+<br>
+
+**4) Publish and share**
+
 - [Publish the data](#canavian)'*'
 
 '\*' *Currently supported with assistance from the ABMI*

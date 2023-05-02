@@ -1,35 +1,40 @@
 # Methods
 
-## Selecting a recorder
+In order to *digitize* a point count, it must be recorded. This involves selecting appropriate autonomous recording units (**ARUs**) or hand-held recording devices. **Autonomous** recording units refers to the ability for the recorder to turn on and off without human intervention for set periods. 
+
+When recording the soundscape, it is important to consider both the animals that produce sounds and the recorders themselves, which have an **effective detection radius**. The effective detection radius refers to the distance from the recorder within which the loudest sounds will be captured. As sounds become fainter with distance, the ability of an observer (or in this case, recorder) to detect them drops, which is referred to as **perceptibility**.
+
+To accurately capture the soundscape, it is important to place the recording device in a location that maximizes the perceptibility of the observer while minimizing interference from external sources. Additionally, it is important to ensure that the recording device is calibrated and set to appropriate recording settings to capture sounds effectively. This next section will help you through these steps.
 
 :::{.rmdnote}
-Read the section on equipment setup and preparation followed by conducting surveys
+It's recommended to  equipment setup and preparation followed by conducting surveys
 :::
 
-This protocol considers selecting affordable, readily available, and user-friendly autonomous recording units (ARUs) or handheld recording devices. Here are some recommended options.
+## Selecting a recorder
 
 The [**Zoom**](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/h2n-handy-recorder/) H2N, is a hand-held portable recorder with multiple built-in microphones. It is affordable, lightweight, and easy-to-use for an introductory user.
 
 - [H2N Equipment Setup](#h2n-equipment-setup) and [H2N Survey Deployment](#h2n-segmented-survey-deployment)
 
-<br>
+<hr style="height:2px; visibility:hidden;"/>
 
-[**Wildlife Acoustics**](https://www.wildlifeacoustics.com/products/song-meter-sm4) sell weatherproof, mountable autonomous recorders that requires external microphones but offer advanced recording features and durability but comes at a higher price.
+[**Wildlife Acoustics**](https://www.wildlifeacoustics.com/products/song-meter-sm4) sell weatherproof, durable, autonomous recorders with external microphones, advanced recording features. 
 
-- [SM4 Equipment Setup](#sm4-equipment-setup) and SM4 Survey Deployment for [segmented](#sm4-segmented-survey-deployment) and [continous](#sm4-continuous-survey-deployment) recording methods
-- [SM Mini Equipment Setup](#sm-mini-equipment-setup) and [SM Mini Survey Deployment](#sm-mini-segmented-survey-deployment)
-- [SM Micro Equipment Setup](#sm-micro-equipment-setup) and [SM Micro Survey Deployment](#sm-micro-segmented-survey-deployment)
+- [SM4 equipment setup](#sm4-equipment-setup) and SM4 survey deployment for [segmented](#sm4-segmented-survey-deployment) and [continuous](#sm4-continuous-survey-deployment) recording methods
+- [SM Mini equipment setup](#sm-mini-equipment-setup) and [SM Mini survey deployment](#sm-mini-segmented-survey-deployment)
+- [SM Micro equipment setup](#sm-micro-equipment-setup) and [SM Micro survey deployment](#sm-micro-segmented-survey-deployment)
 
-<br>
+<hr style="height:2px; visibility:hidden;"/>
 
-[**Frontier Labs**](https://www.frontierlabs.com.au/product-page/bar-lt) sell durable acoustic recording equipment as well. They are mid-range in price and are more suited to advanced users.
+[**Frontier Labs**](https://www.frontierlabs.com.au/product-page/bar-lt) sell the BAR-LT which is a durable acoustic recorder, including advanced features such as an internal GPS.
 
-- [BAR-LT Equipment Setup](#bar-lt-equipment-setup) and BAR-LT Survey Deployment for [segmented](#bar-lt-segmented-survey-deployment) and [continous](#bar-lt-continuous-survey-deployment) recording methods
+- [BAR-LT Equipment Setup](#bar-lt-equipment-setup) and BAR-LT survey deployment for [segmented](#bar-lt-segmented-survey-deployment) and [continous](#bar-lt-continuous-survey-deployment) recording methods
 
-<br>
+<hr style="height:2px; visibility:hidden;"/>
 
 
-<table class="table table-striped" style="width: auto !important; margin-left: auto; margin-right: auto;border-bottom: 0;">
+<table class="table table-striped" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<caption>(\#tab:unnamed-chunk-1)Equipment comparison</caption>
  <thead>
   <tr>
    <th style="text-align:left;">   </th>
@@ -59,19 +64,19 @@ The [**Zoom**](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;"> Price </td>
-   <td style="text-align:center;"> Cheap ($ 200) </td>
-   <td style="text-align:center;"> Expensive ($ 1 200) </td>
-   <td style="text-align:center;"> Moderate </td>
-   <td style="text-align:center;"> Cheap </td>
-   <td style="text-align:center;"> Expensive ($ 1 000) </td>
+   <td style="text-align:center;"> $200 </td>
+   <td style="text-align:center;"> $1000 </td>
+   <td style="text-align:center;"> $600 </td>
+   <td style="text-align:center;"> $300 </td>
+   <td style="text-align:center;"> $1000 </td>
   </tr>
   <tr>
-   <td style="text-align:left;font-weight: bold;"> Weight </td>
-   <td style="text-align:center;"> Light (230 g) </td>
-   <td style="text-align:center;"> Heavy (5 400 g) </td>
-   <td style="text-align:center;"> Light (290 g) </td>
-   <td style="text-align:center;"> Light (195 g) </td>
-   <td style="text-align:center;"> Moderate (900 g) </td>
+   <td style="text-align:left;font-weight: bold;"> Weight with batteries </td>
+   <td style="text-align:center;"> 230 g </td>
+   <td style="text-align:center;"> 5400 g </td>
+   <td style="text-align:center;"> 290 g </td>
+   <td style="text-align:center;"> 195 g </td>
+   <td style="text-align:center;"> 900 g </td>
   </tr>
   <tr>
    <td style="text-align:left;font-weight: bold;"> Advanced features </td>
@@ -90,8 +95,6 @@ The [**Zoom**](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/
    <td style="text-align:center;"> Yes </td>
   </tr>
 </tbody>
-<tfoot><tr><td style="padding: 0; " colspan="100%">
-<sup>1</sup> Autonomous; refers to the ability for the recorder to turn on and off without human interventtion for set periods.</td></tr></tfoot>
 </table>
 
 ### General equipment care

@@ -3,7 +3,7 @@
   margin-top: 10px;
 }
 p code {
-  white-space: inherit;
+  white-space: pre-wrap;
 }
 pre {
   word-break: normal;
