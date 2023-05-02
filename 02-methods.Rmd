@@ -1,53 +1,54 @@
 # Methods
 
-In order to *digitize* a point count, it must be recorded. This involves selecting appropriate autonomous recording units (**ARUs**) or hand-held recording devices. **Autonomous** recording units refers to the ability for the recorder to turn on and off without human intervention for set periods. 
+In order to *digitize* a point count, it must be recorded. This involves selecting appropriate autonomous recording units (**ARUs**) or hand-held recording device that will suit your monitoring program's needs. **Autonomous** refers to the ability for the recorder to turn on and off without human intervention for set periods until the SD cards fill up or the batteries run out.
 
 When recording the soundscape, it is important to consider both the animals that produce sounds and the recorders themselves, which have an **effective detection radius**. The effective detection radius refers to the distance from the recorder within which the loudest sounds will be captured. As sounds become fainter with distance, the ability of an observer (or in this case, recorder) to detect them drops, which is referred to as **perceptibility**.
 
 To accurately capture the soundscape, it is important to place the recording device in a location that maximizes the perceptibility of the observer while minimizing interference from external sources. Additionally, it is important to ensure that the recording device is calibrated and set to appropriate recording settings to capture sounds effectively. This next section will help you through these steps.
 
-:::{.rmdnote}
-It's recommended to  equipment setup and preparation followed by conducting surveys
-:::
-
 ---
 
 ## Selecting a recorder
 
-<img align="right" src="images/littlezoom.png" style="float:right;" width="25%"/>
-<br>
+<img align="right" src="images/littlezoom.png" style="float:right;" width="20%"/>
+<hr style="height:2px; visibility:hidden;" />
 
 The [**Zoom**](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/h2n-handy-recorder/) H2N, is a hand-held portable recorder with multiple built-in microphones. It is affordable, lightweight, and easy-to-use for an introductory user. 
 
 - [H2N equipment setup](#h2n-equipment-setup) and [H2N survey deployment](#h2n-segmented-survey-deployment)
 
+<hr style="height:2px; visibility:hidden;" />
+
 [**Wildlife Acoustics**](https://www.wildlifeacoustics.com/products/song-meter-sm4) sell weatherproof, durable, autonomous recorders with external microphones and advanced recording features.
 
-<img align="right" src="images/littlesm4closed.png" style="float:right;" width="25%"/>
-<br> <img align="right" src="images/smmini.jpeg" style="float:right;" width="25%"/>
-<br> <img align="right" src="images/smmicro.jpeg" style="float:right;" width="25%"/>
+<hr style="height:2px; visibility:hidden;" />
+<img align="right" src="images/littlesm4closed.png" style="float:right;" width="20%"/>
+<img align="right" src="images/smmini.jpeg" style="float:right;" width="20%"/>
+<img align="right" src="images/smmicro.jpeg" style="float:right;" width="20%"/>
 
 - [SM4 equipment setup](#sm4-equipment-setup) and SM4 survey deployment for [segmented](#sm4-segmented-survey-deployment) and [continuous](#sm4-continuous-survey-deployment) recording methods
 - [SM Mini equipment setup](#sm-mini-equipment-setup) and [SM Mini survey deployment](#sm-mini-segmented-survey-deployment)
 - [SM Micro equipment setup](#sm-micro-equipment-setup) and [SM Micro survey deployment](#sm-micro-segmented-survey-deployment)
 
-<img align="right" src="images/barlt.png" style="float:right;" width="25%"/>
-<br>
+<img align="right" src="images/barlt.png" style="float:right;" width="30%"/>
+<hr style="height:2px; visibility:hidden;" />
 
-[**Frontier Labs**](https://www.frontierlabs.com.au/product-page/bar-lt) sell the BAR-LT which is a durable acoustic recorder, including advanced features such as an internal GPS.
+[**Frontier Labs**](https://www.frontierlabs.com.au/product-page/bar-lt) sell the BAR-LT which is a durable acoustic recorder, including advanced features such as rechargeable batteries and an internal GPS.
 
 - [BAR-LT equipment setup](#bar-lt-equipment-setup) and BAR-LT survey deployment for [segmented](#bar-lt-segmented-survey-deployment) and [continuous](#bar-lt-continuous-survey-deployment) recording methods.
+
+<br>
 
 ```{r, eval=T, include=T, warning=F, message=F, echo=F}
 library(kableExtra)
 
 df <- data.frame(
-  H2N = c("No", "Easy", "$200", "230 g", "Few", "No"),
-  SM4 = c("Yes", "Moderate", "$1000", "5400 g", "Many", "Yes - with accessories"),
-  Mini = c("Yes", "Moderate", "$600", "290 g", "Many", "Yes - with accessories"),
-  Micro = c("Yes", "Moderate", "$300", "195 g", "Many", "Yes - with accessories"),
-  BAR_LT = c("Yes", "Difficult", "$1000", "900 g", "Many", "Yes"),
-  row.names = c("Autonomous", "Ease-of-use", "Price", "Weight with batteries", "Advanced features", "GPS tracking")
+  H2N = c("No", "Yes", "$200", "230 g", "Few", "No"),
+  SM4 = c("Yes", "Yes", "$1000", "5400 g", "Many", "Yes - with accessories"),
+  Mini = c("Yes", "No", "$600", "290 g", "Many", "Yes - with accessories"),
+  Micro = c("Yes", "No", "$300", "195 g", "Many", "Yes - with accessories"),
+  BAR_LT = c("Yes", "Yes", "$1000", "900 g", "Many", "Yes"),
+  row.names = c("Autonomous", "Display Screen", "Price", "Weight with batteries", "Advanced features", "GPS tracking")
 )
 
 # Create kable table
@@ -59,19 +60,30 @@ kable(df, booktabs = T, caption = "Equipment comparison", format = "html", align
 
 ### General equipment care
 
-Always handle any equipment with care. Recorders contain sensitive electronic components that will not withstand crushing or heavy impacts. Do not use excess force to manipulate components and do all operations gently. See more on handling equipment in [wet weather](#wet-weather).
+Always handle any equipment with care. Recorders contain sensitive electronic components that will not withstand crushing or heavy impacts. Do not use excess force to manipulate components and conduct all operations gently. See more on handling equipment in [wet weather](#wet-weather).
 
 ---
     
 ## Equipment and settings preparation
 
+:::{.rmdnote}
 Calibration and testing of equipment is a critical step in any acoustic survey. Ensuring the functionality of the recorder and its components are checked, helps to identify any issues that could affect the quality of the data, such as faulty wiring or damaged components. Testing should be done prior to every use of the equipment, and any problems that are identified should be addressed before data collection begins.
+
+Contact **support@wildtrax.ca** for more information on acoustic recorder equipment care and maintenance.
+:::
 
 By calibrating and testing equipment before conducting an acoustic survey, researchers can ensure that the data collected is accurate and reliable. This is essential for making accurate measurements of sound levels and other acoustic parameters.
 
 ### H2N equipment setup
 
-Ensure the H2N's firmware is the most recent version.
+The following equipment is required in order to conduct the survey protocol using an H2N
+
+- 1 SD card; a 32 GB card will allow you to collect ~1,000 3-minute audio recordings. See [Data accumulation](#data-accumulation).
+- 2x AA batteries (pack at least 2 spare AA batteries; re-chargeable batteries are recommended
+- Windsock
+- Tripod
+
+Ensure the H2N's firmware is also the most recent version.
 
 ```{r, include = T, eval = T, echo=F}
 library(downloadthis)
@@ -79,16 +91,7 @@ library(downloadthis)
 download_file(path = "./data/H2n_v3.00E.zip", button_label = "Download Zoom H2N Firmware", has_icon=T, icon = "fa fa-save", self_contained=F)
 ```
 
-<br>
-
-The following additional equipment is required in order to conduct the survey protocol:
-
-- 1 SD card; a 32 GB card will allow you to collect ~1,000 3-minute audio recordings
-- 2x AA batteries (pack at least 2 spare AA batteries)
-- Windsock
-- Tripod
-
-#### Settings
+#### H2N Settings
 
 The following settings will allow you to easily record and integrate data with other Zoom recordings:
 
@@ -100,9 +103,8 @@ The following settings will allow you to easily record and integrate data with o
 - Use the <span style="font-variant:small-caps;">Play</span> button to select and modify the year, day, month, and time settings as needed. 
 - When all settings are correct, select <span style="font-variant:small-caps;">OK</span> and press the <span style="font-variant:small-caps;">Play</span> button to exit. 
 
-<br>
-<img align="left" src="./images/zoomsettings.png" width="300" height="300">
-<br>
+<img align="right" src="images/zoomsettings.png" style="float:right;" width="60%"/>
+<hr style="height:2px; visibility:hidden;" />
 
 ##### Defaulting to date and time file names {.unnumbered}
 
@@ -118,7 +120,8 @@ Ensure the recorder uses the following settings:
 - <span style="font-variant:small-caps;">Rec Format</span> is set at <span style="font-variant:small-caps;">Wav</span> (when you turn on the recorder, the <span style="font-variant:small-caps;">Rec</span> format is displayed on the lower left [e.g., 44.1/16]. If it doesn’t match, go to <span style="font-variant:small-caps;">Menu</span> to change it under <span style="font-variant:small-caps;">Rec</span> settings)
 - Use `44.1kHz/16 bit` (there are other wav settings that would also work but use a little or a lot more memory). Do not use MP3. 
 
-<br>
+<img align="right" src="images/zoomtable.png" style="float:right;" width="70%"/>
+<hr style="height:2px; visibility:hidden;" />
 
 Other audio settings include:
 
@@ -127,8 +130,6 @@ Other audio settings include:
 - <span style="font-variant:small-caps;">Comp Limiter</span> is <span style="font-variant:small-caps;">Off</span>
 - <span style="font-variant:small-caps;">Auto Gain</span> is <span style="font-variant:small-caps;">Off</span>
 
-<img align="right" src="./images/zoomtable.png" width="320" height="200">
-
 Ensure the side bar also has these settings:
 
 - <span style="font-variant:small-caps;">MS Side Level</span>: `0 (120 degrees)`
@@ -136,49 +137,66 @@ Ensure the side bar also has these settings:
 
 ### SM4 equipment setup
 
-- Ensure [firmware](https://www.wildlifeacoustics.com/release-notes/song-meter-sm4) is the most recent version.
+<img align="right" src="images/sm4setup.png" style="float:right;" width="60%"/>
+<hr style="height:1px; visibility:hidden;" />
 
-![](./images/sm4setup.png)
+The following additional equipment is required in order to conduct the survey protocol:
 
-#### Required equipment
-
-The following equipment is required in order to conduct the survey protocol:
-
-- 1 SD card; a 32 GB card will allow you to collect ~1,000 3-minute audio recordings
+- 1 SD card; a 32 GB card will allow you to collect ~1,000 3-minute audio recordings. See [Data accumulation](#data-accumulation).
 - 4x D batteries (pack at least 4 spare D batteries)
 - Tripod
 
-#### Setting the file prefix and date and time
+Ensure [firmware](https://www.wildlifeacoustics.com/release-notes/song-meter-sm4) is the most recent version.
 
-#### Activating the SM4 {.unnumbered}
+#### SM4 Settings
 
 - Open the front cover of the unit
 - Turn on the <span style="font-variant:small-caps;">Power</span> switch on the side of the unit
 - Wait for the unit to initialize. SM4 units will automatically go to the <span style="font-variant:small-caps;">Main Menu</span> screen displaying the date, time, firmware and number of SD cards loaded. Make sure that the card slot does not show a row of question marks `??????` or say <span style="font-variant:small-caps;">Error</span>. This indicates that the card is not recognized
 - Check the date and time are correct
+- Use the arrows to navigate back to the <span style="font-variant:small-caps;">Main Menu</span>
+- Select the <span style="font-variant:small-caps;">Settings</span> section.
+- Scroll down to <span style="font-variant:small-caps;">Location</span> and select <span style="font-variant:small-caps;">File Prefix</span>. Change the file prefix to **your initials**
 
+:::{.rmdnote}
+Using simply your initials, recordings will be unique using the recording date and time:
 
-- Use the arrows to navigate the menu.
-- Select the “Setting” section.
-- Scroll down to Location.
-- Select “File Prefix”.
-- Change the file prefix to the station name using the correct format (project specific but will follow standard naming conventions).
-- Fill out the data sheet as you go through this process.
-- Press the up and down arrows simultaneously to force-activate a recording speaking the [voice note](#voice-notes)
- 
+| AGM_**20230605_053000**.wav
+| AGM_**20230605_063000**.wav
+| AGM_**20230607_0645000**.wav
+| AGM_**20230607_073000**.wav
+
+<br>
+
+Alternatively, you can change the prefix to match the survey route or group where the data is being collected:
+
+| *17TPM25*_**20230605_053000**.wav
+| *17TPM25*_**20230605_063000**.wav
+| *17TPM26*_**20230607_0645000**.wav
+| *17TPM26*_**20230607_073000**.wav
+
+<br>
+
+Ultimately the goal is to *reduce the amount of times* you need to re-program the equipment throughout a morning, or the survey season.
+:::
+
 Other settings include:
 
-- Solar Mode: Sunrise/Sunset (specified in SET or PGM file).
-Timezone: UTC -06 for Alberta between March and November (this is 6 from Prime Meridian =
-Mountain Standard Daylight Savings Time, specified in SET or PGM file). 
+- Timezone: For example, UTC -06 for Alberta between March and November (this is -6 from Prime Meridian =
+Mountain Standard Daylight Savings Time)
+- Batteries: 4 D-Cell batteries (Internal, Alkaline)
+- Channel: Stereo
+- Gain: Left and right at 12.5 dB (BU specific settings file)
+- High-pass filter: Left and right Off
+- Sample Rate: 44100 kHz
 
-ny SD cards that makes sense to store the amount of data you want to collect. Use
-the configuration utilities to figure this out.
-Batteries: 4 D-Cell batteries (Internal, Alkaline).
-Channel: Stereo.
-Gain: Left and right at 12.5 dB (BU specific settings file).
-High-pass filter: left and right are to be off.
-Sample Rate: 44100 kH
+##### Activating the SM4 {.unnumbered}
+
+In order to start a recording, press the <span style="font-variant:small-caps;">Up and Down Arrows</span> simultaneously. To stop the recording hit the <span style="font-variant:small-caps;">Schedule Stop</span> button.
+
+:::{.rmdwarning}
+Turning the recorder off with the power switch during a recording may not save the recording. Always use Schedule Stop.
+:::
 
 #### Troubleshooting the SM4 {.unnumbered}
 
@@ -222,6 +240,36 @@ There are two different types of recording methods that can be used throughout a
 ### Segmented recording
 
 The **segmented** recording method means you will be turning the recorder on and off at each location along a survey route. Segmented recording is the most popular method for on and off-road deployments. The advantage is that you will only [accumulate data](#data-accumulation) and recordings for the intended period matching the point count. The disadvantage is that you need to be mindful and carefully follow the steps in order to collect this data properly - manipulating the recorder again and again, can introduce error. 
+
+<br>
+<img align="right" src="images/segmented.gif" style="float:right; padding:2px" width="40%"/>
+
+```{r, echo=F,warning=F,message=F,include=F,eval=F}
+# library(ggplot2)
+# library(gganimate)
+# library(tidyverse)
+# 
+# # Create data frame
+# df <- tibble(x = seq(-10, 10, by = 0.25),
+#              y = (sin(x) * (x^2 + 2*x) / (x^2 + 1)),
+#              stop_time = case_when(x %in% c(-7,-5,-3,-2,0,1,4,6,8) ~ TRUE))
+# 
+# # Create ggplot object
+# segmented_gif <- ggplot(df, aes(x = x, y = y, colour=stop_time)) +
+#   geom_point(aes(size=4)) +
+#   transition_states(x, transition_length=2, state_length=1) +
+#   enter_fade() +
+#   exit_fade() +
+#   theme_void() +
+#   theme(legend.position = "none",
+#            axis.text.x = element_blank(),
+#            axis.text.y = element_blank(),
+#            panel.grid.major = element_blank(),
+#            panel.grid.minor = element_blank())
+# 
+# anim_save("./images/segmented.gif", segmented_gif, width=200, height=200, duration=10)
+
+```
 
 In general, a segmented recording method will involve the following steps, but refer to each subsection specific to a recorder make and model.
 
@@ -282,17 +330,47 @@ Do not to speak during the point count survey itself to limit erroneous speech e
 
 In the **continuous** recording method, you will be turning the recorder on at the beginning of a survey route, and turning it off at the end of a survey route. A survey route can include many [locations](#locations). For example, a Breeding Bird Survey route may be conducting using a continuous recording method, allowing you to focus time on conducting point counts.
 
-:::{.rmdwarning}
-Only SM4 and BAR-LT are currently supported for the continuous recording method.
+<br>
+<img align="right" src="images/continuous.gif" style="float:right; padding:2px" width="40%"/>
 
-**Please note that this unit will continuously and indiscriminately record and capture all sounds. We kindly request that you use discretion and be mindful of what is being recorded out of respect for your own privacy and the privacy of others.**
-:::
+```{r, echo=F,warning=F,message=F,include=F,eval=F}
+# library(ggplot2)
+# library(gganimate)
+# library(tidyverse)
+# 
+# # Create data frame
+# df_c <- tibble(x = seq(-10, 10, by = 0.25),
+#              y = (sin(x) * (x^2 + 2*x) / (x^2 + 1)))
+# 
+# # Create ggplot object
+# continuous_gif <- ggplot(df_c, aes(x = x, y = y)) +
+#   geom_point(aes(size=4)) +
+#   geom_path() +
+#   transition_reveal(along = x) +
+#   enter_fade() +
+#   exit_fade() +
+#   theme_void() +
+#   theme(legend.position = "none",
+#            axis.text.x = element_blank(),
+#            axis.text.y = element_blank(),
+#            panel.grid.major = element_blank(),
+#            panel.grid.minor = element_blank())
+# 
+# anim_save("./images/continuous.gif", continuous_gif, width=200, height=200, duration=10)
+
+```
 
 - Arrive at the beginning of the survey route and follow safety instructions outlined by the designated point count protocol.
 - Turn on the recorder and speak the designated voice note. Move away from the recorder to begin the count and say <span style="font-variant:small-caps;">Start</span>
 - At the end of the count, speak <span style="font-variant:small-caps;">Stop</span>.
 - Move to the next location along the survey route. Repeat steps as necessary. Verify at *each location* the recorder is still active.
 - At the end of the survey location, turn off the recorder.
+
+:::{.rmdwarning}
+Only SM4 and BAR-LT are currently supported for the continuous recording method.
+
+**Please note that this unit will continuously and indiscriminately record and capture all sounds. We kindly request that you use discretion and be mindful of what is being recorded out of respect for your own privacy and the privacy of others.**
+:::
 
 #### SM4 continuous survey deployment
 
@@ -309,9 +387,10 @@ Surveys are supposed to be a certain length. Surveys may occur along roadsides, 
 
 It’s recommended to keep a stopwatch or phone timer set to the length of the survey interval, and the maximum survey interval so you don’t have to keep track of the events specifically but rather the time you can survey for. 
 
-For example, if a vehicle is passing, extend the survey for up to one minute.
+<img align="right" src="images/vehicle.png" style="float:right;" width="40%"/>
+<hr style="height:2px; visibility:hidden;" />
 
-![](images/vehicle.png)
+For example, if a vehicle is passing, extend the survey for up to one minute.
 
 Geophonic events are similar; if it becomes too windy or rainy to continue the survey, i.e. if geophonic events last for >10 minutes during the survey, the media will be considered [*Bad Weather*](https://www.wildtrax.ca/home/resources/guide/acoustic-data/acoustic-tagging-page.html). Surveys can be extended for 1 minute at a time for intermittent periods of rain or wind.
 
@@ -325,15 +404,20 @@ Extra care is required to handle ARUs in wet weather. When units such as Song Me
 
 Take extra care on activation and deactivation on rainy days. Having wet hands, gloves and clothing will make it difficult to keep the inside of the equipment dry. Try to minimize the amount of time an ARU is exposed should you encounter inclement weather.
 
+:::{.rmdimportant}
+Do not record any point when the wind is greater than Beaufort 3
+:::
+
 ---
 
 ## Metadata
 
 ### Locations
 
-In the context of this protocol, a **location** is a single physical, geographic place at which a digital point count is collected and/or biological data was collected on the landscape. They are one of the most important components as media and metadata are linked by the location.
+<img align="right" src="images/locations.png" style="float:right;" width="100%"/>
+<br>
 
-![](./images/locations.png)
+In the context of this protocol, a **location** is a single physical, geographic place at which a digital point count is collected and/or biological data was collected on the landscape. They are one of the most important components as media and metadata are linked by the location.
 
 ### Voice notes
 
@@ -396,9 +480,9 @@ knitr::include_app("https://agmacpha.shinyapps.io/volume_calc/",
 
 ## Data submission
 
-Cirrus is a server administered by the [University of Alberta SRIT](https://spaces.facsci.ualberta.ca/cirrus/about-us/). The Bioacoustic Unit and its collaborators use Cirrus to house and standardize their acoustic data sets for redundancy or permanent storage on a cost-recovery basis. Cirrus contains a variety of different types of data but a large majority of the volume is currently being occupied with environmental sensor data i.e. acoustic recordings and remote camera images. 
+After recordings are collected, they can be uploaded to a centralized server in Edmonton, Alberta called **Cirrus**. Cirrus is administered by the [University of Alberta SRIT](https://spaces.facsci.ualberta.ca/cirrus/about-us/). The Bioacoustic Unit and its collaborators use Cirrus to house and standardize acoustic data for redundancy and permanent storage on a cost-recovery basis. Cirrus contains a variety of different types of data but a large majority of the volume is currently being occupied with environmental sensor data i.e. acoustic recordings and remote camera images.
 
-Raw recordings uploaded to Cirrus via an FTP in order to standardize them before they are processed in WildTrax. Download an FTP client like [Filezilla](https://filezilla-project.org/). Enter the following credentials:
+Raw recordings are uploaded to Cirrus via an FTP or *file transfer protocol* in order to standardize them before they are processed in WildTrax. You can download an FTP client like [Filezilla](https://filezilla-project.org/). Once you have installed the FTP client, enter the following credentials:
 
 :::{.rmdnote}
 - **Host**: upload.wildtrax.ca or sftp://upload.wildtrax.ca
@@ -407,12 +491,12 @@ Raw recordings uploaded to Cirrus via an FTP in order to standardize them before
 - **Port**: 22
 :::
 
-Organization > Project > Observer
+Once you've logged in, create or go to the [organization](https://www.wildtrax.ca/home/resources/guide/organizations/organization-management.html) that corresponds with your data. If you're unsure which organization you belong to, contact **support@wildtrax.ca**. Organization your recordings with the following folder structure:
 
 ```{r}
 # OBBA <- The organization
-# OBBA_2023 <- The project
-# Jane_Doe <- The observer
+    # OBBA_2023 <- The project
+        # Jane_Doe <- The observer
 
 ```
 
@@ -424,20 +508,21 @@ Organization > Sensor > Project > Year > Visit > *Group* > Location
 
 ```{r}
 # BU <- The organization
-# ARU <- The sensor 
-# BUM  <- The field project, e.g. BUM = Bioacoustic Mobile
-# 2022 <- The year of the study
-# V1 <- The visit
-# BUM-401 <- The location
-# Below this level will be all the files for that location
+    # ARU <- The sensor 
+        # BUM  <- The field project, e.g. BUM = Bioacoustic Mobile
+            # 2022 <- The year of the study
+                # V1 <- The visit
+                    # BUM-401 <- The location
+                    # Below this level will be all the files for that location
 
 ```
 
-Where *group* is a set of locations on the landscape. For example a Breeding Bird Survey route, e.g. `BBS-4239` would be a group and `BBS-4239-1` would be a location.
-
-<img align="left" src="images/string.png" width="680" height="480">
+Where *group* is a set of locations on the landscape. For example a [Breeding Bird Survey route](), e.g. `BBS-4239` would be a group and `BBS-4239-1` would be a location.
 
 ### Metadata confirmation
+
+<img align="right" src="images/string.png" style="float:right" width="60%">
+<hr style="height:2px; visibility:hidden;" />
 
 - Ensure the file name convention of the recordings follows either `YYMMDD-HHMMSS` or `LOCATION_YYYYMMDD_HHMMSS` format
 - Ensure the folder structure follows the [standard hierarchy](#data-submission)
@@ -451,7 +536,8 @@ You can technically upload all recordings directly to a project on WildTrax prov
 
 Once the recordings are trimmed to the correct length of time, ABMI staff will upload them to appropriate projects in WildTrax. Go to My Data -> My Projects and search for the appropriate project for your data.
 
-<img align="left" src="images/project.png" width="575" height="500">
+<img align="right" src="images/project.png" style="float:right" width="100%">
+<br>
 
 ---
 

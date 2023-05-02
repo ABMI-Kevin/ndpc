@@ -91,7 +91,7 @@ In collaboration with a multitude of [partners](#acknowledgements), this user-fr
 ```
 
 <br>
-<img align="right" src="images/map.gif" style="float:right;" width="60%"/>
+<img align="right" src="images/map.gif" style="float:right; padding:2px" width="60%"/>
 
 The use of autonomous recording units (**ARUs**) and hand-held recording devices in avian point counts, in partnership with leading avian research organizations, provides a standardized protocol for data collection that ensures consistency and comparability of results following established guidelines. The data is collected in a digital format, which makes it easily accessible and shareable among researchers from various organizations, but also archiveable and produces data that can be verified. Citizen scientists can participate in avian research, regardless of prior experience or expertise, and contribute to scientific knowledge. The program is designed to be user-friendly, for all skill levels, with support and guidance from experts.
 
@@ -112,7 +112,7 @@ The use of autonomous recording units (**ARUs**) and hand-held recording devices
 ## The Basics {.unnumbered}
 
 <img align="right" src="images/process.png" style="float:right;" width="40%"/>
-<br>
+<hr style="height:2px; visibility:hidden;" />
 
 **1) Select a protocol and equipment**
 
@@ -145,8 +145,7 @@ The use of autonomous recording units (**ARUs**) and hand-held recording devices
 
 ## Download cheat sheets {.unnumbered}
 
-Download the digital point count cheat sheet and voice note templates for a variety of different format relative to your monitoring program needs
-
+Download the digital point count cheat sheet 
 **Breeding Bird Atlas**
 
 - [Breeding Bird Atlas 5-minute Survey: Roadside]()
