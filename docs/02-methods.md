@@ -10,28 +10,33 @@ To accurately capture the soundscape, it is important to place the recording dev
 It's recommended to  equipment setup and preparation followed by conducting surveys
 :::
 
+---
+
 ## Selecting a recorder
 
-The [**Zoom**](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/h2n-handy-recorder/) H2N, is a hand-held portable recorder with multiple built-in microphones. It is affordable, lightweight, and easy-to-use for an introductory user.
+<img align="right" src="images/littlezoom.png" style="float:right;" width="25%"/>
+<br>
 
-- [H2N Equipment Setup](#h2n-equipment-setup) and [H2N Survey Deployment](#h2n-segmented-survey-deployment)
+The [**Zoom**](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/h2n-handy-recorder/) H2N, is a hand-held portable recorder with multiple built-in microphones. It is affordable, lightweight, and easy-to-use for an introductory user. 
 
-<hr style="height:2px; visibility:hidden;"/>
+- [H2N equipment setup](#h2n-equipment-setup) and [H2N survey deployment](#h2n-segmented-survey-deployment)
 
-[**Wildlife Acoustics**](https://www.wildlifeacoustics.com/products/song-meter-sm4) sell weatherproof, durable, autonomous recorders with external microphones, advanced recording features. 
+[**Wildlife Acoustics**](https://www.wildlifeacoustics.com/products/song-meter-sm4) sell weatherproof, durable, autonomous recorders with external microphones and advanced recording features.
+
+<img align="right" src="images/littlesm4closed.png" style="float:right;" width="25%"/>
+<br> <img align="right" src="images/smmini.jpeg" style="float:right;" width="25%"/>
+<br> <img align="right" src="images/smmicro.jpeg" style="float:right;" width="25%"/>
 
 - [SM4 equipment setup](#sm4-equipment-setup) and SM4 survey deployment for [segmented](#sm4-segmented-survey-deployment) and [continuous](#sm4-continuous-survey-deployment) recording methods
 - [SM Mini equipment setup](#sm-mini-equipment-setup) and [SM Mini survey deployment](#sm-mini-segmented-survey-deployment)
 - [SM Micro equipment setup](#sm-micro-equipment-setup) and [SM Micro survey deployment](#sm-micro-segmented-survey-deployment)
 
-<hr style="height:2px; visibility:hidden;"/>
+<img align="right" src="images/barlt.png" style="float:right;" width="25%"/>
+<br>
 
 [**Frontier Labs**](https://www.frontierlabs.com.au/product-page/bar-lt) sell the BAR-LT which is a durable acoustic recorder, including advanced features such as an internal GPS.
 
-- [BAR-LT Equipment Setup](#bar-lt-equipment-setup) and BAR-LT survey deployment for [segmented](#bar-lt-segmented-survey-deployment) and [continous](#bar-lt-continuous-survey-deployment) recording methods
-
-<hr style="height:2px; visibility:hidden;"/>
-
+- [BAR-LT equipment setup](#bar-lt-equipment-setup) and BAR-LT survey deployment for [segmented](#bar-lt-segmented-survey-deployment) and [continuous](#bar-lt-continuous-survey-deployment) recording methods.
 
 <table class="table table-striped" style="width: auto !important; margin-left: auto; margin-right: auto;">
 <caption>(\#tab:unnamed-chunk-1)Equipment comparison</caption>
@@ -105,11 +110,13 @@ Always handle any equipment with care. Recorders contain sensitive electronic co
     
 ## Equipment and settings preparation
 
-Calibration and testing of equipment prior to conducting a survey is essential for collecting high-quality acoustic data.
+Calibration and testing of equipment is a critical step in any acoustic survey. Ensuring the functionality of the recorder and its components are checked, helps to identify any issues that could affect the quality of the data, such as faulty wiring or damaged components. Testing should be done prior to every use of the equipment, and any problems that are identified should be addressed before data collection begins.
+
+By calibrating and testing equipment before conducting an acoustic survey, researchers can ensure that the data collected is accurate and reliable. This is essential for making accurate measurements of sound levels and other acoustic parameters.
 
 ### H2N equipment setup
 
-Ensure firmware is the most recent version.
+Ensure the H2N's firmware is the most recent version.
 
 
 ```{=html}
@@ -139,6 +146,10 @@ The following settings will allow you to easily record and integrate data with o
 - Use the <span style="font-variant:small-caps;">Play</span> button to select and modify the year, day, month, and time settings as needed. 
 - When all settings are correct, select <span style="font-variant:small-caps;">OK</span> and press the <span style="font-variant:small-caps;">Play</span> button to exit. 
 
+<br>
+<img align="left" src="./images/zoomsettings.png" width="300" height="300">
+<br>
+
 ##### Defaulting to date and time file names {.unnumbered}
 
 Ensure that <span style="font-variant:small-caps;">Filename</span> (under <span style="font-variant:small-caps;">Rec</span> settings) is set to <span style="font-variant:small-caps;">Date</span> so that individual files will be named by the date/time of the start of recording, e.g. `230604-053010` which corresponds to the year, month day, hour, minute and second the recording started. Do not use <span style="font-variant:small-caps;">Default</span>.
@@ -154,8 +165,6 @@ Ensure the recorder uses the following settings:
 - Use `44.1kHz/16 bit` (there are other wav settings that would also work but use a little or a lot more memory). Do not use MP3. 
 
 <br>
-<img align="left" src="./images/zoomsettings.png" width="680" height="680">
-<br>
 
 Other audio settings include:
 
@@ -164,7 +173,7 @@ Other audio settings include:
 - <span style="font-variant:small-caps;">Comp Limiter</span> is <span style="font-variant:small-caps;">Off</span>
 - <span style="font-variant:small-caps;">Auto Gain</span> is <span style="font-variant:small-caps;">Off</span>
 
-<img align="left" src="./images/zoomtable.png" width="680" height="400"
+<img align="right" src="./images/zoomtable.png" width="320" height="200">
 
 Ensure the side bar also has these settings:
 
@@ -252,19 +261,22 @@ Please also refer to a detailed manual of the SM4's operations by visiting [Wild
 
 ## Conducting the survey
 
-Conducting the survey is the core piece of work that you'll be doing. This is when you will be placing the recorder at a designed [location](#locations) on the landscape in order to capture the soundscape for a given duration. 
+Conducting the survey is the core piece of work that you'll be doing. This is when you will be placing the recorder at a designated [location](#locations) on the landscape in order to capture the soundscape for a given duration. 
 
-There are two different types of recording method that can be used throughout a survey route: [**continuous**](#continuous-recording) and [**segmented**](#segmented-recording).
+There are two different types of recording methods that can be used throughout a survey route: [**segmented**](#segmented-recording) and [**continuous**](#continuous-recording).
 
 ### Segmented recording
 
-The **segmented** recording method indicates you will be turning the recorder on and off at each location along a survey route. Segmented recording is the most popular method for on and off-road deployments. The advantage is that you will only accumulate data and recording for the intended period during the point count. In general, a segmented recording method will involve the following steps, but refer to each subsection specific to a recorder make and model.
+The **segmented** recording method means you will be turning the recorder on and off at each location along a survey route. Segmented recording is the most popular method for on and off-road deployments. The advantage is that you will only [accumulate data](#data-accumulation) and recordings for the intended period matching the point count. The disadvantage is that you need to be mindful and carefully follow the steps in order to collect this data properly - manipulating the recorder again and again, can introduce error. 
+
+In general, a segmented recording method will involve the following steps, but refer to each subsection specific to a recorder make and model.
 
 - Arrive at a survey location and follow safety instructions outlined by the designated point count protocol.
-- Set up the recorder at a fixed location, keeping it at a minimum distance of 5 meters away from the observer to minimize observer sounds, but no more than 20 meters away to minimize error. A tripod or stable surface is recommended to support the ARU; do not place the recorder on or near a vehicle as it will pick up vibrations that could mask species detections. Placing the recorder to the rear of the vehicle can also minimize the sounds made from a vehicle engine (e.g. car, truck, quad, etc.) after it is shut off.
-- Turn on the unit and speak the designated voice note. Move away from the recorder to begin the count and say <span style="font-variant:small-caps;">Start</span>
-- At the end of the count, speak <span style="font-variant:small-caps;">Stop</span>.
-- Turn off the recorder and move to the next location. Repeat steps as necessary to conduct more surveys along a route
+- Set up the recorder at a fixed location, keeping it at a minimum distance of 5 meters away but no more than 20 meters away if you're simulatenously conducting a point count in order to minimize error (*if you're not conducting a point count, stand a minimum of 5 meters away*). 
+- A tripod or stable surface is recommended to support the ARU. Do not place the recorder on or near a vehicle as it will pick up vibrations that could mask species detections. Placing the recorder to the rear of the vehicle can also minimize the sounds made from a vehicle engine (e.g. car, truck, quad, etc.) after it is shut off.
+- Turn on the unit and speak the designated [voice note](#voice-notes). Move away from the recorder to begin the count and say <span style="font-variant:small-caps; color:#003e3f">Start</span>
+- At the end of the count, say <span style="font-variant:small-caps; color:#003e3f">Stop</span>.
+- Turn off the recorder and move to the next location. Repeat steps as necessary to conduct more surveys along a route.
 
 :::{.rmdwarning}
 Do not to speak during the point count survey itself to limit erroneous speech errors picked up by the speech-to-text recognizer
@@ -272,14 +284,32 @@ Do not to speak during the point count survey itself to limit erroneous speech e
 
 #### H2N segmented survey deployment
 
-- Initiate the survey by pressing the <span style="font-variant:small-caps;">Record</span> button on the recorder.
-- Speak a clear message into the recorder to serve as the voicestamp, including observer name, location (spatial coordinates or identifier), and optional date and time stamp.
+- Arrive at a survey location and follow safety instructions outlined by the designated point count protocol.
+- Set up the recorder at a fixed location
+- Turn on the device using the <span style="font-variant:small-caps;">Power</span> switch.
+- Initiate the survey by pressing the <span style="font-variant:small-caps;">Record</span> button
+- Speak a clear [voice note](#voice-notes). Include your name, location (spatial coordinates or identifier) and the date.
 - Move 5-20 meters away from the recorder to reduce observer noise.
-- Say <span style="font-variant:small-caps;">Start</span> to indicate the end of the speech-to-text recording and move away from the recorder
+- Say <span style="font-variant:small-caps; color:#003e3f">Start</span> and begin the count
+- Extend the survey as needed
+- At the end of the count, say <span style="font-variant:small-caps; color:#003e3f">Stop</span>.
+- Turn off the recorder and move to the next location. Repeat steps as necessary to conduct more surveys along a route.
+
+![](assets/tutorial)
 
 #### SM4 segmented survey deployment
 
-<span style="color:grey;font-style:italic">Coming soon!</span>
+- Arrive at a survey location and follow safety instructions outlined by the designated point count protocol.
+- Set up the recorder at a fixed location
+- Turn on the device with the <span style="font-variant:small-caps;">Power</span> switch and check the unit is activated.
+- Initiate the survey by pressing the <span style="font-variant:small-caps;">Schedule Start</span> button
+- Once the <span style="font-variant:small-caps; color:green">Green Light</span> is flashing, speak a clear [voice note](#voice-notes). Include your name, location (spatial coordinates or identifier) and the date.
+- Move 5-20 meters away from the recorder to reduce observer noise.
+- Say <span style="font-variant:small-caps; color:#003e3f">Start</span> and begin the count
+- Extend the survey as needed
+- At the end of the count, speak <span style="font-variant:small-caps; color:#003e3f">Stop</span>.
+- Turn off the recorder by pressing the <span style="font-variant:small-caps;">Schedule Stop</span> button and move to the next location. Repeat steps as necessary to conduct more surveys along a route.
+- At the end of a survey route, turn off the recorder with the <span style="font-variant:small-caps;">Power</span> switch
 
 #### SM Mini segmented survey deployment
 
