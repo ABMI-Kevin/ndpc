@@ -99,7 +99,7 @@
 <p><br></p>
 <div class="inline-table"><table class="table table-striped" style="width: auto !important; margin-left: auto; margin-right: auto;">
 <caption>
-<span id="tab:unnamed-chunk-86">Table 2.1: </span>Equipment comparison
+<span id="tab:unnamed-chunk-3">Table 2.1: </span>Equipment comparison
 </caption>
 <thead><tr>
 <th style="text-align:left;">
@@ -619,15 +619,18 @@ Mountain Standard Daylight Savings Time)</li>
 <p>Voice notes serve as an effective tool for capturing spatial and temporal information for each recording. At the beginning of any digital point count, the observer speaks a designated set of information in order for programs to standardize the recording to include a spatial and temporal component.</p>
 <p>It is not essential to follow a specific speaking order, but a voice note must include at a mininum:</p>
 <ul>
-<li>Observer’s name</li>
 <li>
 <a href="methods.html#locations">Location</a> name</li>
 <li>Date and time</li>
+<li>Observer’s name</li>
 </ul>
 <p>Here is an example of a voice note for a named location:</p>
 <audio controls=""><source src="./assets/named_location.wav" type="audio/wav"></source></audio><p><br></p>
 <p>If the location is new, it is also necessary to provide latitude and longitude coordinates. Here is an example of an off-road or new location voice note:</p>
 <audio controls=""><source src="./assets/new_location.wav" type="audio/wav"></source></audio><p><br></p>
+<div class="rmdwarning">
+<p>If you’re in the field, and the location doesn’t have a name, don’t panic! As long as the latitude and longitude are given, a name will be provided.</p>
+</div>
 <p>Creating a standard file name format after processing the voice note is done through speech-to-text recognition. For example, the format for <a href="methods.html#h2n-equipment-setup">Zoom</a> recordings should be in <code>YYMMDD</code> (year, month, day), and the time should be in <code>HHMMSS</code> (hour, minute, second) format. The resulting file name format after the processing will be in the following format: <code>LOCATION_YYYYMMDD_HHMMSS.wav</code>.</p>
 <div id="speech-to-text" class="section level4">
 <h4>
@@ -642,7 +645,7 @@ Mountain Standard Daylight Savings Time)</li>
 <h3>
 <span class="header-section-number">2.4.3</span> Data accumulation<a class="anchor" aria-label="anchor" href="#data-accumulation"><i class="fas fa-link"></i></a>
 </h3>
-<p>This app should help to determine how much data you should collect approximately for a season.</p>
+<p>This app should help to determine how much data you will collect depending on sample size and survey duration.</p>
 <iframe src="https://agmacpha.shinyapps.io/volume_calc/?showcase=0" width="672" height="400px" data-external="1">
 </iframe>
 <hr>

@@ -425,9 +425,9 @@ Voice notes serve as an effective tool for capturing spatial and temporal inform
 
 It is not essential to follow a specific speaking order, but a voice note must include at a mininum:
 
-- Observer's name
 - [Location](#locations) name
 - Date and time
+- Observer's name
 
 Here is an example of a voice note for a named location:
 
@@ -458,6 +458,10 @@ html_tag_audio("./assets/new_location.wav", type = "wav")
 
 <br>
 
+:::{.rmdwarning}
+If you're in the field, and the location doesn't have a name, don't panic! As long as the latitude and longitude are given, a name will be provided.
+:::
+
 Creating a standard file name format after processing the voice note is done through speech-to-text recognition. For example, the format for [Zoom](#h2n-equipment-setup) recordings should be in `YYMMDD` (year, month, day), and the time should be in `HHMMSS` (hour, minute, second) format. The resulting file name format after the processing will be in the following format: `LOCATION_YYYYMMDD_HHMMSS.wav`.
 
 #### Speech-to-text
@@ -470,7 +474,7 @@ For example, time stamps derived from the observer speech-to-text array as well 
 
 ### Data accumulation
 
-This app should help to determine how much data you should collect approximately for a season.
+This app should help to determine how much data you will collect depending on sample size and survey duration.
 
 ```{r, echo=F}
 knitr::include_app("https://agmacpha.shinyapps.io/volume_calc/",

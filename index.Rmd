@@ -147,7 +147,7 @@ The use of autonomous recording units (**ARUs**) and hand-held recording devices
 
 Download a digital point count cheat sheet:
 
-**3rd Onatario Breeding Bird Atlas**
+**3rd Ontario Breeding Bird Atlas**
 
 - [Ontario Breeding Bird Atlas 5-minute Roadside Survey]()
 - [Ontario Breeding Bird Atlas 5-minute Off-Road Survey]()
