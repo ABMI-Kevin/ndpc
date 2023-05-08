@@ -1,4 +1,4 @@
-tab:unnamed-chunk-1
+tab:unnamed-chunk-86
 introduction
 overview-and-scope
 single-visits-versus-multi-day-deployments
@@ -10,16 +10,15 @@ equipment-and-settings-preparation
 h2n-equipment-setup
 h2n-settings
 sm4-equipment-setup
-required-equipment
 sm4-settings
 sm-mini-equipment-setup
-required-equipment-1
+required-equipment
 settings
 sm-micro-equipment-setup
-required-equipment-2
+required-equipment-1
 settings-1
 bar-lt-equipment-setup
-required-equipment-3
+required-equipment-2
 settings-2
 conducting-the-survey
 segmented-recording

@@ -4,14 +4,14 @@ library(shiny)
 ui <- fluidPage(
   titlePanel("Data Volume Calculator"),
   sidebarLayout(
+    mainPanel(
+      verbatimTextOutput("output"),
     sidebarPanel(
       numericInput("sample_rate", "Sample Rate (Hz):", value = 44100),
       numericInput("recordings_per_day", "Number of Recordings Per Day:", value = 10),
       numericInput("recording_duration", "Recording Duration (minutes):", value = 5),
       numericInput("days", "Number of survey days:", value = 1)
-    ),
-    mainPanel(
-      verbatimTextOutput("output")
+    )
     )
   )
 )

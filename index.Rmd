@@ -118,7 +118,7 @@ The use of autonomous recording units (**ARUs**) and hand-held recording devices
 
 - [Select a point count protocol](#download-cheatsheets)
 - [Select a recorder model](#selecting-a-recorder) and prepare equipment
-- [Select a recording method](#conducting-a-survey), either **continuous** or **segmented**
+- [Select a recording method](#conducting-a-survey), either **segmented** or **continuous**
 
 <br>
 
@@ -145,24 +145,25 @@ The use of autonomous recording units (**ARUs**) and hand-held recording devices
 
 ## Download cheat sheets {.unnumbered}
 
-Download the digital point count cheat sheet 
-**Breeding Bird Atlas**
+Download a digital point count cheat sheet:
 
-- [Breeding Bird Atlas 5-minute Survey: Roadside]()
-- [Breeding Bird Atlas 5-minute Survey: Off-road]()
+**3rd Onatario Breeding Bird Atlas**
+
+- [Ontario Breeding Bird Atlas 5-minute Roadside Survey]()
+- [Ontario Breeding Bird Atlas 5-minute Off-Road Survey]()
 
 <br>
 
 **Bioacoustic Unit Linear Feature Surveys**
 
-- [Bioacoustic Unit 3-minute Survey]()
+- [Bioacoustic Unit 3-minute Linear Feature Survey]()
 
 <br>
 
 **Breeding Bird Survey**
 
-- [Segmented recording method]()
-- [Continuous recording method]()
+- [Breeding Bird Survey 3-minute Segmented Recording Method]()
+- [Breeding Bird Survey Continuous Recording Method]()
 
 <br>
   

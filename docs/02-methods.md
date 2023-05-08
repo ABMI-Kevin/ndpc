@@ -417,7 +417,9 @@ In the context of this protocol, a **location** is a single physical, geographic
 
 ### Voice notes
 
-Voice notes serve as an effective tool for capturing spatial and temporal information on each recording. It is not essential that users follow a specific speaking order, but a voice note must include at a mininum:
+Voice notes serve as an effective tool for capturing spatial and temporal information for each recording. At the beginning of any digital point count, the observer speaks a designated set of information in order for programs to standardize the recording to include a spatial and temporal component. 
+
+It is not essential to follow a specific speaking order, but a voice note must include at a mininum:
 
 - Observer's name
 - [Location](#locations) name
@@ -524,7 +526,7 @@ You can technically upload all recordings directly to a project on WildTrax prov
 Once the recordings are trimmed to the correct length of time, ABMI staff will upload them to appropriate projects in WildTrax. Go to My Data -> My Projects and search for the appropriate project for your data.
 
 <img align="right" src="images/project.png" style="float:right" width="100%">
-<br>
+<hr style="height:2px; visibility:hidden;" />
 
 ---
 
