@@ -45,12 +45,7 @@
 </form>
 
       <nav aria-label="Table of contents"><h2>Table of contents</h2>
-        <ul class="book-toc list-unstyled">
-<li><a class="" href="index.html">Home</a></li>
-<li><a class="" href="introduction.html"><span class="header-section-number">1</span> Introduction</a></li>
-<li><a class="active" href="methods.html"><span class="header-section-number">2</span> Methods</a></li>
-<li><a class="" href="discussion.html"><span class="header-section-number">3</span> Discussion</a></li>
-</ul>
+        <ul class="book-toc list-unstyled"><li><a class="" href="index.html"><span class="header-section-number"> 2</span> Methods</a></li></ul>
 
         <div class="book-extra">
           <p><a id="book-repo" href="https://github.com/ABbiodiversity/ndpc">View book source <i class="fab fa-github"></i></a></p>
@@ -99,7 +94,7 @@
 <p><br></p>
 <div class="inline-table"><table class="table table-striped" style="width: auto !important; margin-left: auto; margin-right: auto;">
 <caption>
-<span id="tab:unnamed-chunk-3">Table 2.1: </span>Equipment comparison
+<span id="tab:unnamed-chunk-1">Table 2.1: </span>Equipment comparison
 </caption>
 <thead><tr>
 <th style="text-align:left;">
@@ -475,7 +470,7 @@ Mountain Standard Daylight Savings Time)</li>
 <h3>
 <span class="header-section-number">2.3.1</span> Segmented recording<a class="anchor" aria-label="anchor" href="#segmented-recording"><i class="fas fa-link"></i></a>
 </h3>
-<p>The <strong>segmented</strong> recording method means you will be turning the recorder on and off at each location along a survey route. Segmented recording is the most popular method for on and off-road deployments. The advantage is that you will only <a href="methods.html#data-accumulation">accumulate data</a> and recordings for the intended period matching the point count. The disadvantage is that you need to be mindful and carefully follow the steps in order to collect this data properly - manipulating the recorder again and again, can introduce error.</p>
+<p>The <strong>segmented</strong> recording method means you will be turning the recorder on and off at each location along a survey route. Segmented recording is the most popular method for on and off-road deployments. The advantage is that you will only <a href="methods.html#data-accumulation">accumulate data</a> and recordings for the intended period matching the point count. The disadvantage is that you need to be mindful and carefully follow the steps in order to collect this data properly - manipulating the recorder again and again can introduce error.</p>
 <p><br><img align="right" src="images/segmented.gif" style="float:right; padding:2px" width="40%"></p>
 <p>In general, a segmented recording method will involve the following steps, but refer to each subsection specific to a recorder make and model.</p>
 <ul>
@@ -580,7 +575,7 @@ Mountain Standard Daylight Savings Time)</li>
 <h3>
 <span class="header-section-number">2.3.3</span> Survey length adjustment<a class="anchor" aria-label="anchor" href="#survey-length-adjustment"><i class="fas fa-link"></i></a>
 </h3>
-<p>Surveys are supposed to be a certain length. Surveys may occur along roadsides, near areas of loud anthropogenic noise, or interrupted by intermittent or inclement weather. In order to optimize species detections in the detection radius of the ARU, survey time can be extended by 1 minute per event up to maximum survey length time of 10 minutes (or in the case of Marshbird Monitoring Protocol, 15-minutes).</p>
+<p>Surveys are supposed to be a certain length. Surveys may occur along roadsides, near areas of loud anthropogenic noise, or interrupted by intermittent or inclement weather. In order to optimize species detections, survey time can be extended by 1 minute per event up to maximum survey length time of 10 minutes (or in the case of Marshbird Monitoring Protocol, 15-minutes).</p>
 <p>It’s recommended to keep a stopwatch or phone timer set to the length of the survey interval, and the maximum survey interval so you don’t have to keep track of the events specifically but rather the time you can survey for.</p>
 <img align="right" src="images/vehicle.png" style="float:right;" width="40%"><hr style="height:2px; visibility:hidden;">
 <p>For example, if a vehicle is passing, extend the survey for up to one minute.</p>
@@ -595,7 +590,7 @@ Mountain Standard Daylight Savings Time)</li>
 </h3>
 <p>Extra care is required to handle ARUs in wet weather. When units such as Song Meters are closed, they are water tight and can withstand most weather conditions in the field. However, do not get water inside on the electronic components or into the external microphone sockets. Water will short out the electrical circuits and may cause permanent damage to the units.</p>
 <p>Take extra care on activation and deactivation on rainy days. Having wet hands, gloves and clothing will make it difficult to keep the inside of the equipment dry. Try to minimize the amount of time an ARU is exposed should you encounter inclement weather.</p>
-<div class="rmdimportant">
+<div class="rmdwarning">
 <p>Do not record any point when the wind is greater than Beaufort 3</p>
 </div>
 <hr>
@@ -609,34 +604,43 @@ Mountain Standard Daylight Savings Time)</li>
 <h3>
 <span class="header-section-number">2.4.1</span> Locations<a class="anchor" aria-label="anchor" href="#locations"><i class="fas fa-link"></i></a>
 </h3>
-<p><img align="right" src="images/locations.png" style="float:right;" width="100%"><br></p>
+<p><img src="images/locations.png" width="100%"><br></p>
 <p>In the context of this protocol, a <strong>location</strong> is a single physical, geographic place at which a digital point count is collected and/or biological data was collected on the landscape. They are one of the most important components as media and metadata are linked by the location.</p>
 </div>
 <div id="voice-notes" class="section level3">
 <h3>
 <span class="header-section-number">2.4.2</span> Voice notes<a class="anchor" aria-label="anchor" href="#voice-notes"><i class="fas fa-link"></i></a>
 </h3>
-<p>Voice notes serve as an effective tool for capturing spatial and temporal information for each recording. At the beginning of any digital point count, the observer speaks a designated set of information in order for programs to standardize the recording to include a spatial and temporal component.</p>
-<p>It is not essential to follow a specific speaking order, but a voice note must include at a mininum:</p>
+<p>Voice notes serve as an effective tool for capturing spatial and temporal information in each recording. The purpose is to verbally state a predetermined set of metadata at the beginning of a digital point count, allowing programs to standardize the recording by incorporating both spatial and temporal components. This eliminates the need to manually modify the file prefix or reprogram the unit during the survey. A <a href="methods.html#speech-to-text">speech-to-text</a> recognizer converts the spoken words into usable text, which can then be utilized to assign a standardized name to the recording file.</p>
+<p>While there is no specific speaking order required, a voice note must include the following minimum information:</p>
 <ul>
 <li>
 <a href="methods.html#locations">Location</a> name</li>
 <li>Date and time</li>
 <li>Observer’s name</li>
 </ul>
+<p><br></p>
 <p>Here is an example of a voice note for a named location:</p>
 <audio controls=""><source src="./assets/named_location.wav" type="audio/wav"></source></audio><p><br></p>
 <p>If the location is new, it is also necessary to provide latitude and longitude coordinates. Here is an example of an off-road or new location voice note:</p>
 <audio controls=""><source src="./assets/new_location.wav" type="audio/wav"></source></audio><p><br></p>
 <div class="rmdwarning">
-<p>If you’re in the field, and the location doesn’t have a name, don’t panic! As long as the latitude and longitude are given, a name will be provided.</p>
+<p>If you’re in the field, and the location doesn’t have a name, don’t panic! As long as the latitude and longitude are provided, a name can be given to the location afterwards.</p>
 </div>
-<p>Creating a standard file name format after processing the voice note is done through speech-to-text recognition. For example, the format for <a href="methods.html#h2n-equipment-setup">Zoom</a> recordings should be in <code>YYMMDD</code> (year, month, day), and the time should be in <code>HHMMSS</code> (hour, minute, second) format. The resulting file name format after the processing will be in the following format: <code>LOCATION_YYYYMMDD_HHMMSS.wav</code>.</p>
+<p>Creating a standard file name format after processing the voice note is then completed. For example, the format for <a href="methods.html#h2n-equipment-setup">Zoom</a> recordings should be in <code>YYMMDD</code> (year, month, day), and the time should be in <code>HHMMSS</code> (hour, minute, second) format. The resulting file name format after the processing will be in the following format: <code>LOCATION_YYYYMMDD_HHMMSS.wav</code>.</p>
 <div id="speech-to-text" class="section level4">
 <h4>
 <span class="header-section-number">2.4.2.1</span> Speech-to-text<a class="anchor" aria-label="anchor" href="#speech-to-text"><i class="fas fa-link"></i></a>
 </h4>
+<div class="rmdnote">
 <p><em>This is A B M I dash Five Six Five dash S W. The date is February 23rd 2022 and the time is 11:06 AM Mountain standard time. Observers are John Doe and Jane Doe</em></p>
+<div class="line-block">
+<strong>File name</strong>: ABMI-565-SW_20220223_110600<br><strong>Observers</strong>: John Doe, Jane Doe</div>
+<p><br></p>
+<p><em>Pat Patterson May 30 2022 17 tm n-65 station for 47.4 4736 to -81.4 to 3727 start time 10:05</em></p>
+<div class="line-block">
+<strong>File name</strong>: 17TMN65-4_20220530_100500<br><strong>Spatial coordinates</strong>: 47.447362, -81.423727<br><strong>Observer</strong>: Pat Patterson</div>
+</div>
 <p>A speech-to-text recognizer is used to transcribe the voice note into text information in order to extract the location name, spatial coordinates or confirm the temporal stamp of the ARU, all for quality control purposes. The <a href="https://cloud.google.com/speech-to-text">Google Cloud Speech-to-Text</a> recognizer is an advanced deep learning neural network using algorithms for automatic speech recognition. The recognizer can also use one of several machine learning models to transcribe the audio files, support for French and other language variants, and alternatives based on likelihood values. Google has trained these speech recognition models for specific audio types and sources.</p>
 <p>For example, time stamps derived from the observer speech-to-text array as well as the recording time stamp from the audio would be joined into to create a unique location and recording date with the file prefix from the ARU.</p>
 </div>
@@ -687,6 +691,8 @@ Mountain Standard Daylight Savings Time)</li>
                     <span class="co"># BUM-401 &lt;- The location</span>
                     <span class="co"># Below this level will be all the files for that location</span></code></pre></div>
 <p>Where <em>group</em> is a set of locations on the landscape. For example a <a href="">Breeding Bird Survey route</a>, e.g. <code>BBS-4239</code> would be a group and <code>BBS-4239-1</code> would be a location.</p>
+<p>Once your files are organized, drag and drop them into the folder on the FTP. A queue in the bottom will let you know if files transferred successfully.</p>
+<div class="inline-figure"><img src="images/ftp.png"></div>
 <div id="metadata-confirmation" class="section level3">
 <h3>
 <span class="header-section-number">2.5.1</span> Metadata confirmation<a class="anchor" aria-label="anchor" href="#metadata-confirmation"><i class="fas fa-link"></i></a>
@@ -701,6 +707,7 @@ Mountain Standard Daylight Savings Time)</li>
 </ul>
 <div class="rmdwarning">
 <p>You can technically upload all recordings directly to a project on WildTrax provided you are given the correct privileges. If the FTP is not functioning, this is an alternative option.</p>
+<p>Contact <strong><a href="mailto:support@wildtrax.ca" class="email">support@wildtrax.ca</a></strong> for more information.</p>
 </div>
 </div>
 </div>
@@ -709,7 +716,7 @@ Mountain Standard Daylight Savings Time)</li>
 <span class="header-section-number">2.6</span> Data processing in WildTrax<a class="anchor" aria-label="anchor" href="#data-processing-in-wildtrax"><i class="fas fa-link"></i></a>
 </h2>
 <p>Once the recordings are trimmed to the correct length of time, ABMI staff will upload them to appropriate projects in WildTrax. Go to My Data -&gt; My Projects and search for the appropriate project for your data.</p>
-<img align="right" src="images/project.png" style="float:right" width="100%"><hr style="height:2px; visibility:hidden;">
+<p><img src="images/project.png" width="100%"><br></p>
 <hr>
 </div>
 <div id="data-publication" class="section level2">
@@ -721,50 +728,15 @@ Mountain Standard Daylight Savings Time)</li>
 </div>
 </div>
   <div class="chapter-nav">
-<div class="prev"><a href="introduction.html"><span class="header-section-number">1</span> Introduction</a></div>
-<div class="next"><a href="discussion.html"><span class="header-section-number">3</span> Discussion</a></div>
+<div class="empty"></div>
+<div class="empty"></div>
 </div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
     <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
-      <ul class="nav navbar-nav">
-<li><a class="nav-link" href="#methods"><span class="header-section-number">2</span> Methods</a></li>
-<li>
-<a class="nav-link" href="#selecting-a-recorder"><span class="header-section-number">2.1</span> Selecting a recorder</a><ul class="nav navbar-nav"><li><a class="nav-link" href="#general-equipment-care"><span class="header-section-number">2.1.1</span> General equipment care</a></li></ul>
-</li>
-<li>
-<a class="nav-link" href="#equipment-and-settings-preparation"><span class="header-section-number">2.2</span> Equipment and settings preparation</a><ul class="nav navbar-nav">
-<li><a class="nav-link" href="#h2n-equipment-setup"><span class="header-section-number">2.2.1</span> H2N equipment setup</a></li>
-<li><a class="nav-link" href="#sm4-equipment-setup"><span class="header-section-number">2.2.2</span> SM4 equipment setup</a></li>
-<li><a class="nav-link" href="#sm-mini-equipment-setup"><span class="header-section-number">2.2.3</span> SM Mini equipment setup</a></li>
-<li><a class="nav-link" href="#sm-micro-equipment-setup"><span class="header-section-number">2.2.4</span> SM Micro equipment setup</a></li>
-<li><a class="nav-link" href="#bar-lt-equipment-setup"><span class="header-section-number">2.2.5</span> BAR-LT equipment setup</a></li>
-</ul>
-</li>
-<li>
-<a class="nav-link" href="#conducting-the-survey"><span class="header-section-number">2.3</span> Conducting the survey</a><ul class="nav navbar-nav">
-<li><a class="nav-link" href="#segmented-recording"><span class="header-section-number">2.3.1</span> Segmented recording</a></li>
-<li><a class="nav-link" href="#continuous-recording"><span class="header-section-number">2.3.2</span> Continuous recording</a></li>
-<li><a class="nav-link" href="#survey-length-adjustment"><span class="header-section-number">2.3.3</span> Survey length adjustment</a></li>
-<li><a class="nav-link" href="#wet-weather"><span class="header-section-number">2.3.4</span> Wet weather</a></li>
-</ul>
-</li>
-<li>
-<a class="nav-link" href="#metadata"><span class="header-section-number">2.4</span> Metadata</a><ul class="nav navbar-nav">
-<li><a class="nav-link" href="#locations"><span class="header-section-number">2.4.1</span> Locations</a></li>
-<li><a class="nav-link" href="#voice-notes"><span class="header-section-number">2.4.2</span> Voice notes</a></li>
-<li><a class="nav-link" href="#data-accumulation"><span class="header-section-number">2.4.3</span> Data accumulation</a></li>
-</ul>
-</li>
-<li>
-<a class="nav-link" href="#data-submission"><span class="header-section-number">2.5</span> Data submission</a><ul class="nav navbar-nav"><li><a class="nav-link" href="#metadata-confirmation"><span class="header-section-number">2.5.1</span> Metadata confirmation</a></li></ul>
-</li>
-<li><a class="nav-link" href="#data-processing-in-wildtrax"><span class="header-section-number">2.6</span> Data processing in WildTrax</a></li>
-<li><a class="nav-link" href="#data-publication"><span class="header-section-number">2.7</span> Data publication</a></li>
-</ul>
+      <div id="book-on-this-page"></div>
 
       <div class="book-extra">
         <ul class="list-unstyled">
-<li><a id="book-source" href="https://github.com/ABbiodiversity/ndpc/blob/main/02-methods.Rmd">View source <i class="fab fa-github"></i></a></li>
-          <li><a id="book-edit" href="https://github.com/ABbiodiversity/ndpc/edit/main/02-methods.Rmd">Edit this page <i class="fab fa-github"></i></a></li>
+          
         </ul>
 </div>
     </nav>
@@ -776,7 +748,7 @@ Mountain Standard Daylight Savings Time)</li>
 <footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
 
   <div class="col-12 col-md-6 mt-3">
-    <p>"<strong>Operationalizing a national protocol for digital point counts</strong>" was written by Alexander G. MacPhail. It was last built on 08 May, 2023.</p>
+    <p>"<strong>Operationalizing a national protocol for digital point counts</strong>" was written by Alexander G. MacPhail. It was last built on 09 May, 2023.</p>
   </div>
 
   <div class="col-12 col-md-6 mt-3">

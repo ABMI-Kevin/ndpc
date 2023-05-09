@@ -239,7 +239,7 @@ There are two different types of recording methods that can be used throughout a
 
 ### Segmented recording
 
-The **segmented** recording method means you will be turning the recorder on and off at each location along a survey route. Segmented recording is the most popular method for on and off-road deployments. The advantage is that you will only [accumulate data](#data-accumulation) and recordings for the intended period matching the point count. The disadvantage is that you need to be mindful and carefully follow the steps in order to collect this data properly - manipulating the recorder again and again, can introduce error. 
+The **segmented** recording method means you will be turning the recorder on and off at each location along a survey route. Segmented recording is the most popular method for on and off-road deployments. The advantage is that you will only [accumulate data](#data-accumulation) and recordings for the intended period matching the point count. The disadvantage is that you need to be mindful and carefully follow the steps in order to collect this data properly - manipulating the recorder again and again can introduce error. 
 
 <br>
 <img align="right" src="images/segmented.gif" style="float:right; padding:2px" width="40%"/>
@@ -383,7 +383,7 @@ Only SM4 and BAR-LT are currently supported for the continuous recording method.
 
 ### Survey length adjustment
 
-Surveys are supposed to be a certain length. Surveys may occur along roadsides, near areas of loud anthropogenic noise, or interrupted by intermittent or inclement weather. In order to optimize species detections in the detection radius of the ARU, survey time can be extended by 1 minute per event up to maximum survey length time of 10 minutes (or in the case of Marshbird Monitoring Protocol, 15-minutes). 
+Surveys are supposed to be a certain length. Surveys may occur along roadsides, near areas of loud anthropogenic noise, or interrupted by intermittent or inclement weather. In order to optimize species detections, survey time can be extended by 1 minute per event up to maximum survey length time of 10 minutes (or in the case of Marshbird Monitoring Protocol, 15-minutes). 
 
 It’s recommended to keep a stopwatch or phone timer set to the length of the survey interval, and the maximum survey interval so you don’t have to keep track of the events specifically but rather the time you can survey for. 
 
@@ -404,7 +404,7 @@ Extra care is required to handle ARUs in wet weather. When units such as Song Me
 
 Take extra care on activation and deactivation on rainy days. Having wet hands, gloves and clothing will make it difficult to keep the inside of the equipment dry. Try to minimize the amount of time an ARU is exposed should you encounter inclement weather.
 
-:::{.rmdimportant}
+:::{.rmdwarning}
 Do not record any point when the wind is greater than Beaufort 3
 :::
 
@@ -414,20 +414,22 @@ Do not record any point when the wind is greater than Beaufort 3
 
 ### Locations
 
-<img align="right" src="images/locations.png" style="float:right;" width="100%"/>
+<img src="images/locations.png" width="100%"/>
 <br>
 
 In the context of this protocol, a **location** is a single physical, geographic place at which a digital point count is collected and/or biological data was collected on the landscape. They are one of the most important components as media and metadata are linked by the location.
 
 ### Voice notes
 
-Voice notes serve as an effective tool for capturing spatial and temporal information for each recording. At the beginning of any digital point count, the observer speaks a designated set of information in order for programs to standardize the recording to include a spatial and temporal component. 
+Voice notes serve as an effective tool for capturing spatial and temporal information in each recording. The purpose is to verbally state a predetermined set of metadata at the beginning of a digital point count, allowing programs to standardize the recording by incorporating both spatial and temporal components. This eliminates the need to manually modify the file prefix or reprogram the unit during the survey. A [speech-to-text](#speech-to-text) recognizer converts the spoken words into usable text, which can then be utilized to assign a standardized name to the recording file.
 
-It is not essential to follow a specific speaking order, but a voice note must include at a mininum:
+While there is no specific speaking order required, a voice note must include the following minimum information:
 
 - [Location](#locations) name
 - Date and time
 - Observer's name
+
+<br>
 
 Here is an example of a voice note for a named location:
 
@@ -459,14 +461,27 @@ html_tag_audio("./assets/new_location.wav", type = "wav")
 <br>
 
 :::{.rmdwarning}
-If you're in the field, and the location doesn't have a name, don't panic! As long as the latitude and longitude are given, a name will be provided.
+If you're in the field, and the location doesn't have a name, don't panic! As long as the latitude and longitude are provided, a name can be given to the location afterwards.
 :::
 
-Creating a standard file name format after processing the voice note is done through speech-to-text recognition. For example, the format for [Zoom](#h2n-equipment-setup) recordings should be in `YYMMDD` (year, month, day), and the time should be in `HHMMSS` (hour, minute, second) format. The resulting file name format after the processing will be in the following format: `LOCATION_YYYYMMDD_HHMMSS.wav`.
+Creating a standard file name format after processing the voice note is then completed. For example, the format for [Zoom](#h2n-equipment-setup) recordings should be in `YYMMDD` (year, month, day), and the time should be in `HHMMSS` (hour, minute, second) format. The resulting file name format after the processing will be in the following format: `LOCATION_YYYYMMDD_HHMMSS.wav`.
 
 #### Speech-to-text
 
+:::{.rmdnote}
 *This is A B M I dash Five Six Five dash S W. The date is February 23rd 2022 and the time is 11:06 AM Mountain standard time. Observers are John Doe and Jane Doe*
+
+| **File name**: ABMI-565-SW_20220223_110600
+| **Observers**: John Doe, Jane Doe
+
+<br>
+
+*Pat Patterson May 30 2022 17 tm n-65 station for 47.4 4736 to -81.4 to 3727 start time 10:05*
+
+| **File name**: 17TMN65-4_20220530_100500
+| **Spatial coordinates**: 47.447362, -81.423727
+| **Observer**: Pat Patterson
+:::
 
 A speech-to-text recognizer is used to transcribe the voice note into text information in order to extract the location name, spatial coordinates or confirm the temporal stamp of the ARU, all for quality control purposes. The [Google Cloud Speech-to-Text](https://cloud.google.com/speech-to-text) recognizer is an advanced deep learning neural network using algorithms for automatic speech recognition. The recognizer can also use one of several machine learning models to transcribe the audio files, support for French and other language variants, and alternatives based on likelihood values. Google has trained these speech recognition models for specific audio types and sources. 
 
@@ -525,6 +540,10 @@ Organization > Sensor > Project > Year > Visit > *Group* > Location
 
 Where *group* is a set of locations on the landscape. For example a [Breeding Bird Survey route](), e.g. `BBS-4239` would be a group and `BBS-4239-1` would be a location.
 
+Once your files are organized, drag and drop them into the folder on the FTP. A queue in the bottom will let you know if files transferred successfully. 
+
+![](images/ftp.png)
+
 ### Metadata confirmation
 
 <img align="right" src="images/string.png" style="float:right" width="60%">
@@ -536,14 +555,16 @@ Where *group* is a set of locations on the landscape. For example a [Breeding Bi
 
 :::{.rmdwarning}
 You can technically upload all recordings directly to a project on WildTrax provided you are given the correct privileges. If the FTP is not functioning, this is an alternative option.
+
+Contact **support@wildtrax.ca** for more information.
 :::
 
 ## Data processing in WildTrax
 
 Once the recordings are trimmed to the correct length of time, ABMI staff will upload them to appropriate projects in WildTrax. Go to My Data -> My Projects and search for the appropriate project for your data.
 
-<img align="right" src="images/project.png" style="float:right" width="100%">
-<hr style="height:2px; visibility:hidden;" />
+<img src="images/project.png" width="100%">
+<br>
 
 ---
 
