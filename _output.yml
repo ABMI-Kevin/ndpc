@@ -9,6 +9,19 @@ bookdown::bs4_book:
   repo:
     base: https://github.com/ABbiodiversity/ndpc
     branch: main
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><a href="./">Operationalizing a national protocol for digital point counts</a></li>
+    view: https://github.com/ABbiodiversity/ndpc/blob/main/%s
+    edit: https://github.com/ABbiodiversity/ndpc/edit/main/%s
+    download: ["pdf", "epub"]
+    sharing:
+      facebook: yes
+      twitter: yes
+      github: yes
+      all: []
 bookdown::gitbook:
   includes:
     before_body: assets/hero-image.html
@@ -26,6 +39,7 @@ bookdown::gitbook:
       twitter: yes
       github: yes
       all: []
+  bibliography: [packages.bib, book.bib]
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex

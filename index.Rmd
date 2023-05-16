@@ -25,7 +25,10 @@ library(bslib)
 #library(lubridate)
 #library(fs)
 #library(sf)
-#library(gganimate)
+library(gganimate)
+library(ggforce)
+library(cowplot)
+library(magick)
 
 ```
 

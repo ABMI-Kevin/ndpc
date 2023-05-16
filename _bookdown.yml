@@ -4,7 +4,6 @@ language:
     chapter_name: " "
 output_dir: "docs"
 delete_merged_file: true
-
 rmd_files:
   [
     "index.Rmd",
@@ -13,5 +12,7 @@ rmd_files:
 
     "02-methods.Rmd",
 
-    "03-discussion.Rmd"
-]
+    "03-discussion.Rmd",
+
+    "04-references.Rmd"
+  ]

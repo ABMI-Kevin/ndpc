@@ -1,4 +1,4 @@
-tab:unnamed-chunk-3
+tab:unnamed-chunk-4
 introduction
 overview-and-scope
 single-visits-versus-multi-day-deployments
@@ -43,4 +43,3 @@ data-processing-in-wildtrax
 data-publication
 discussion
 conclusion
-tab:unnamed-chunk-1
