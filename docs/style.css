@@ -1,0 +1,36 @@
+.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: pre-wrap;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+.cover {
+ float: right;
+ padding: 0 20px 20px 0;
+}
+.inline-figure {
+  border: 0;
+}
+.book .book-body .page-wrapper .page-inner section.normal div.sidebar > :first-child {
+  margin-top: 0;
+}
+.book .book-body .page-wrapper .page-inner section.normal div.sidebar > :last-child {
+  margin-bottom: 0;
+}
+/* HERO IMAGE */
+.hero-image-container {
+  position: absolute;
+  top: 0;
+  left: 5;
+  right: 0;
+  height: 100px;
+  background-color: #FFFFFF;
+}

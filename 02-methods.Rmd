@@ -115,7 +115,7 @@ By calibrating and testing equipment before conducting an acoustic survey, resea
 
 ### H2N equipment setup
 
-The following equipment is required in order to conduct the survey protocol using an H2N
+The following equipment is required in order to conduct the survey protocol using an H2N.
 
 - 1 SD card; a 32 GB card will allow you to collect ~1,000 3-minute audio recordings. See [Data accumulation](#data-accumulation).
 - 2x AA batteries (pack at least 2 spare AA batteries; re-chargeable batteries are recommended
@@ -130,9 +130,14 @@ library(downloadthis)
 download_file(path = "./data/H2n_v3.00E.zip", button_label = "Download Zoom H2N Firmware", has_icon=T, icon = "fa fa-save", self_contained=F)
 ```
 
+:::{.rmdnote}
+Download the firmware above and follow the tutorial [here](https://www.youtube.com/watch?v=AbiYutsMAXc&ab_channel=ZoomSoundLab) for updating the firmware
+:::
+
+
 #### H2N Settings
 
-The following settings will allow you to easily record and integrate data with other Zoom recordings:
+The following H2N settings will allow you to easily record and allow for the easiest integration with recordings from other makes and models.
 
 ##### Setting the date and time {.unnumbered}
 
@@ -386,7 +391,7 @@ Do not to speak during the point count survey itself to limit erroneous speech e
 
 ### Continuous recording
 
-In the **continuous** recording method, you will be turning the recorder on at the beginning of a survey route, and turning it off at the end of a survey route. A survey route can include many [locations](#locations). For example, a Breeding Bird Survey route may be conducting using a continuous recording method, allowing you to focus time on conducting point counts.
+In the **continuous** recording method, you will be turning the recorder on at the beginning of a survey route, and turning it off at the end of a survey route. A survey route can include many [locations](#locations). For example, a [Breeding Bird Survey route](https://www.pwrc.usgs.gov/bbs/) may be conducted using a continuous recording method, allowing you to focus time on conducting point counts.
 
 <br>
 <img align="right" src="images/continuous.gif" style="float:right; padding:2px" width="40%"/>
@@ -563,9 +568,9 @@ knitr::include_app("https://agmacpha.shinyapps.io/volume_calc/",
 
 ## Data submission
 
-After recordings are collected, they can be uploaded to a centralized server in Edmonton, Alberta called **Cirrus**. Cirrus is administered by the [University of Alberta SRIT](https://spaces.facsci.ualberta.ca/cirrus/about-us/). The Bioacoustic Unit and its collaborators use Cirrus to house and standardize acoustic data for redundancy and permanent storage on a cost-recovery basis. Cirrus contains a variety of different types of data but a large majority of the volume is currently being occupied with environmental sensor data i.e. acoustic recordings and remote camera images.
+After recordings are collected, they can be uploaded to a centralized server in Edmonton, Alberta called **Cirrus**. Cirrus is administered by the [University of Alberta SRIT](https://spaces.facsci.ualberta.ca/cirrus/about-us/). The Bioacoustic Unit, ABMI, and its collaborators, use Cirrus to house and standardize acoustic data for redundancy and permanent storage on a cost-recovery basis. Cirrus contains a variety of different types of data but a large majority of the volume is currently being occupied with environmental sensor data, such as acoustic recordings and remote camera images.
 
-Raw recordings are uploaded to Cirrus via an FTP or *file transfer protocol* in order to standardize them before they are processed in WildTrax. You can download an FTP client like [Filezilla](https://filezilla-project.org/). Once you have installed the FTP client, enter the following credentials:
+Raw recordings are uploaded to Cirrus via an FTP or **file transfer protocol** in order to standardize them before they are processed in WildTrax. You can download an FTP client like [Filezilla](https://filezilla-project.org/) or [Cyberduck](https://cyberduck.io/) in order to connect. Once you have installed the FTP client, enter the following credentials:
 
 :::{.rmdnote}
 - **Host**: upload.wildtrax.ca or sftp://upload.wildtrax.ca
@@ -574,12 +579,15 @@ Raw recordings are uploaded to Cirrus via an FTP or *file transfer protocol* in 
 - **Port**: 22
 :::
 
-Once you've logged in, create or go to the [organization](https://www.wildtrax.ca/home/resources/guide/organizations/organization-management.html) that corresponds with your data. If you're unsure which organization you belong to, contact **support@wildtrax.ca**. Organization your recordings with the following folder structure:
+Once you've logged in, create or go to the [organization](https://www.wildtrax.ca/home/resources/guide/organizations/organization-management.html) that corresponds with your data. If you're unsure which organization you belong to, contact **support@wildtrax.ca**. Organize your recordings with the following folder structure:
 
 ```{r}
 # OBBA <- The organization
     # OBBA_2023 <- The project
         # Jane_Doe <- The observer
+             # Recording 1
+             # Recording 2
+             # ...
 
 ```
 
@@ -596,7 +604,7 @@ Organization > Sensor > Project > Year > Visit > *Group* > Location
             # 2022 <- The year of the study
                 # V1 <- The visit
                     # BUM-401 <- The location
-                    # Below this level will be all the files for that location
+                          # BUM-401_20230525_065400.wav
 
 ```
 

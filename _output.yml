@@ -9,6 +9,8 @@ bookdown::bs4_book:
   repo:
     base: https://github.com/ABbiodiversity/ndpc
     branch: main
+  includes:
+    before_body: assets/hero-image.html
   config:
     toc:
       collapse: section
@@ -22,6 +24,7 @@ bookdown::bs4_book:
       twitter: yes
       github: yes
       all: []
+    toc_float: true
 bookdown::gitbook:
   includes:
     before_body: assets/hero-image.html
