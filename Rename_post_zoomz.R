@@ -2,48 +2,52 @@
 library(stringr)
 library(tidyverse)
 
+#Set Observer/processing variable
+obs_date_var <- "Jesus-20231215"
+
+############################################
+#Below this shouldn't require any changes
+############################################
+
 #Set working directory
-setwd("C:/Users/Kevin Kelly/Desktop/Thompson-20231207")
+wd <- str_c("C:/Users/Kevin Kelly/Desktop/", obs_date_var, "/Uploaded")
+setwd(wd)
+
+#Create csv code
+csv_read_name <- str_c(obs_date_var, ".csv", sep = "")
+csv_dropped_name <- str_c(obs_date_var, "_dropped", ".csv", sep = "")
+
+
+zoomz_csv <- read.csv(csv_read_name)
+view(zoomz_csv)
 
 #############
 #Remove unnecessary lines from csv
 #############
-#Create csv code
-csv_name <- "Thompson_20231207"
-csv_read_name <- paste(csv_name, ".csv", sep = "")
-csv_write_name <- paste(csv_name, "_dropped", ".csv", sep = "")
-
-test_csv <- read.csv(csv_read_name)
-view(test_csv)
 
 #Drop files too short
-test_csv_drop1 <- test_csv[test_csv$new_path != "File too short for task length",]
-view(test_csv_drop)
+zoomz_csv_drop1 <- zoomz_csv[zoomz_csv$new_path != "File too short for task length",]
 
-#Drop nonsense files
-test_csv_drop2 <- test_csv_drop1[test_csv_drop1$Location != "Nonsense",]
-view(test_csv_drop2)
+#Check that number of lines matches number of files in folder#
+view(zoomz_csv_drop1)
 
-write.csv(test_csv_drop2,file=csv_write_name)
-
-
+write.csv(zoomz_csv_drop1, file=csv_dropped_name)
 
 #Get current file names - ensure only 1 copy of each exists
 current_file_names <- list.files(pattern = ".wav")
 current_file_names
 view(current_file_names)
 
-#Remove nonsense location string
+#Remove Matchedbyuser location string
 current_file_minus <- str_replace(current_file_names, "Matchedbyuser_", "_")
 current_file_minus
 
 #Read in csv with metadata Location information - ensure lines with no subsequent file are removed
-csv <- read.csv("Thompson_20231207_dropped.csv")
-View(csv)
-str(csv)
+csv_dropped <- read.csv(csv_dropped_name)
+View(csv_dropped)
 
 #Identify location string
-location <- csv$Location
+location <- csv_dropped$location
 location
 
 
@@ -53,6 +57,3 @@ new_file_names
 
 #Rename files with location string and date+time
 file.rename(current_file_names, new_file_names)
-
-
-
